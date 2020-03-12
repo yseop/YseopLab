@@ -1,0 +1,26 @@
+Task 1 Baseline
+---------------
+
+For task 1, we provide a baseline model based on BERT.
+
+Usage
+~~~~~
+
+* Run _bertIn_ pre-processing script which generates *train*, *dev* and *test* files in BERT format
+* Copy the *train.tsv*, *dev.tsv* and *test.tsv* files into the `*model/data*` directory
+* Download and extract https://github.com/google-research/bert[BERT vocabulary^] and place it in the `*model*` directory
+* Run BERT classification: *_python run_classifier.py --task_name=cola --do_train=true --do_eval=true --do_predict=true --data_dir=./data/ --vocab_file=./uncased_L-12_H-768_A-12/vocab.txt --bert_config_file=./uncased_L-12_H-768_A-12/bert_config.json --init_checkpoint=./uncased_L-12_H-768_A-12/bert_model.ckpt --max_seq_length=128 --train_batch_size=8 --learning_rate=2e-5 --num_train_epochs=3.0 --output_dir=./output/ --do_lower_case=True_*
+* Run _bertPrepOutput_ post-processing script which generates *result* file containing BERT predictions
+* Run _score_ script for to evaluate performance metrics
+
+Results
+~~~~~~~
+
+Results are based on evaluation on the Trial data.
+
+.Task 1 Baseline Results
+[options="header"]
+|===============================================
+|Precision   |Recall      |F1
+|0.9848      |0.9885      |0.9866
+|===============================================

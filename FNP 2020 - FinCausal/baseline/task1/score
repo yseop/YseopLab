@@ -1,0 +1,62 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+####################################################
+
+## scoring script that compares true labels
+## to BERT-generated predictions using the metrics:
+## precision, recall, f1
+## and stores scores in file
+
+####################################################
+
+import numpy as np
+import pandas as pd
+from sklearn.preprocessing import LabelEncoder
+from sklearn.model_selection import train_test_split
+from pandas import DataFrame
+from sklearn.metrics import precision_score, recall_score, f1_score
+import csv
+
+def score(): 
+	
+	#read source data from csv file
+	df_true = pd.read_csv('./data/original.csv', sep = '; ', engine='python')
+	df_pred = pd.read_csv('./data/result.csv')
+
+	#get y_true and y_pred values
+	y_true = df_true['Gold']
+	y_pred = df_pred['label']
+
+	#compute precision
+	precision = precision_score(y_true, y_pred, average=None)
+	print("Precision score: ", precision)
+	
+	#compute recall
+	recall = recall_score(y_true, y_pred, average=None)
+	print("Recall score: ", recall)
+	
+	#compute F1
+	f1 = f1_score(y_true, y_pred, average=None)
+	print("F1 score: ", f1)
+	
+	score_dict = {"Precision": precision, "Recall": recall, "F1": f1}
+	
+	download_dir = "./data/scores.csv"
+	
+	csv = open(download_dir, "w")
+	
+	columnTitleRow = "Metric, Score[0, 1]\n"
+	
+	csv.write(columnTitleRow)
+	
+	for key in score_dict.keys():
+		metric = key
+		value = str(score_dict[key])
+		row = metric + "," + value + "\n"
+		csv.write(row)
+		
+	print("Scores loaded into file")	
+
+if __name__ == "__main__":
+	score()
