@@ -1,0 +1,27 @@
+Task 1 Baseline
+---------------
+
+For task 1, we provide a baseline model based on BERT.
+
+Usage
+~~~~~
+
+* Run *`run_model.py`*
+
+Results
+~~~~~~~
+
+Results are based on evaluation on the Trial data.
+
+.Task 1 Baseline Results
+[options="header"]
+|===============================================
+|Precision   |Recall      |F1
+|0.9528      |0.9362      |0.9425
+|===============================================
+
+
+References
+~~~~~~~~~~
+
+* The model was inspired by https://github.com/huggingface/transformers/[huggingface/transformers^]
