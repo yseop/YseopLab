@@ -6,7 +6,7 @@ For task 1, we provide a baseline model based on BERT.
 Usage
 ~~~~~
 
-* Run *`run_model.py`*
+* Run *`task1_baseline.py`*
 
 Results
 ~~~~~~~
@@ -17,7 +17,7 @@ Results are based on evaluation on the Trial data.
 [options="header"]
 |===============================================
 |Precision   |Recall      |F1
-|0.9528      |0.9362      |0.9425
+|0.9548      |0.9532      |0.9539
 |===============================================
 
 .Task 1 GPU Baseline Results
