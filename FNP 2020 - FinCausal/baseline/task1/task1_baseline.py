@@ -1,23 +1,25 @@
-###################################
+###############################################################
 
 # baseline code for task 1
 # using BERT-based classification
+# With the exception of the evaluation part 
+# (which reflects the tasks evaluation code), 
+# this code is taken from
+# https://mccormickml.com/2019/07/22/BERT-fine-tuning/
 
-###################################
+###############################################################
 
 
 import pandas as pd
-from transformers import BertTokenizer
 from keras.preprocessing.sequence import pad_sequences
 from torch.utils.data import TensorDataset, DataLoader, RandomSampler, SequentialSampler
-from transformers import BertForSequenceClassification, AdamW, BertConfig
-from transformers import get_linear_schedule_with_warmup
+from transformers import BertTokenizer, BertForSequenceClassification, AdamW, BertConfig, get_linear_schedule_with_warmup
 import numpy as np
 import torch
 import time
 import datetime
 import random
-from sklearn.metrics import matthews_corrcoef
+from sklearn import metrics
 
 # Load the dataset into a pandas dataframe.
 df = pd.read_csv("./data/train.tsv", delimiter='\t', header=None, names=['id', 'label', 'alpha', 'sentence'])
@@ -183,8 +185,7 @@ print('\n==== Output Layer ====\n')
 for p in params[-4:]:
     print("{:<55} {:>12}".format(p[0], str(tuple(p[1].size()))))
     
-# Note: AdamW is a class from the huggingface library (as opposed to pytorch) 
-# I believe the 'W' stands for 'Weight Decay fix"
+
 optimizer = AdamW(model.parameters(),
                   lr = 2e-5, # args.learning_rate - default is 5e-5, our notebook had 2e-5
                   eps = 1e-8 # args.adam_epsilon  - default is 1e-8.
@@ -484,23 +485,6 @@ for batch in prediction_dataloader:
 print('    DONE.')
 
 print('Positive samples: %d of %d (%.2f%%)' % (test_df.label.sum(), len(test_df.label), (test_df.label.sum() / len(test_df.label) * 100.0)))
-
-matthews_set = []
-
-# Evaluate each test batch using Matthew's correlation coefficient
-print('Calculating Matthews Corr. Coef. for each batch...')
-
-# For each input batch...
-for i in range(len(true_labels)):
-  
-  # The predictions for this batch are a 2-column ndarray (one column for "0" 
-  # and one column for "1"). Pick the label with the highest value and turn this
-  # in to a list of 0s and 1s.
-  pred_labels_i = np.argmax(predictions[i], axis=1).flatten()
-  
-  # Calculate and store the coef for this batch.  
-  matthews = matthews_corrcoef(true_labels[i], pred_labels_i)                
-  matthews_set.append(matthews)
   
 # Combine the predictions for each batch into a single list of 0s and 1s.
 flat_predictions = [item for sublist in predictions for item in sublist]
@@ -509,14 +493,32 @@ flat_predictions = np.argmax(flat_predictions, axis=1).flatten()
 # Combine the correct labels for each batch into a single list.
 flat_true_labels = [item for sublist in true_labels for item in sublist]
 
-# Calculate the MCC
-mcc = matthews_corrcoef(flat_true_labels, flat_predictions)
+def evaluate(y_true, y_pred):
+    """
+    Evaluate Precision, Recall, F1 scores between y_true and y_pred
+    If output_file is provided, scores are saved in this file otherwise printed to std output.
+    :param y_true: true labels
+    :param y_pred: predicted labels
+    :return: list of scores (F1, Recall, Precision, ExactMatch)
+    """
+    
+    assert len(y_true) == len(y_pred)
+    precision, recall, f1, _ = metrics.precision_recall_fscore_support(y_true, y_pred, labels=[0, 1], average='weighted')
+    scores = [
+        "F1: %f\n" % f1,
+        "Recall: %f\n" % recall,
+        "Precision: %f\n" % precision,
+        "ExactMatch: %f\n" % -1.0
+    ]
+    for s in scores:
+        print(s, end='')
 
-print('MCC: %.3f' % mcc)
+# Evaluate predictions    
+evaluate(flat_true_labels, flat_predictions)
 
 print('Writing predictions to file...')
 
-# save predictions in file
+# Save predictions to file
 with open('predictions.txt', "w") as writer:
     for line in flat_predictions:
         writer.write(str(line) + "\n")
