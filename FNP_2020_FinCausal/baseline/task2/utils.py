@@ -104,26 +104,17 @@ def make_causal_input(lod, map_, silent=True):
 def nltkPOS(loft):
 
     su_pos = []
-    exceptions = []
+    rx = re.compile(r"(\b[-']\b)|[\W_]")
+    rxlist = [r'("\\)', r'(\\")']
+    rx = re.compile('|'.join(rxlist))
+
     for i, j in enumerate(loft):
+        text = re.sub(rx, '', j)
+        tokens = word_tokenize(text)
+        pos_ = list(nltk.pos_tag(tokens))
+        su_pos.append(pos_)
 
-        try:
-            text = str(j)
-            pos_ = list(nltk.pos_tag(text.split()))
-            su_pos.append(pos_)
-        except:
-            exceptions.append(i)
-
-    tokenized_text = [word_tokenize(str(k)) for k in loft]
-    overlist = [tokenized_text[l] for l in set(exceptions)]
-    new_tok = [e for e in tokenized_text if e not in overlist]
-
-    if not len(su_pos) == len(new_tok):
-        print('concurrent size warning, will not be able to concat dictionaries')
-    else:
-        print('sizing is ok')
-
-    return su_pos, exceptions
+    return su_pos
 
 
 
@@ -175,11 +166,19 @@ def word2features(sent, i):
 
 # A function for extracting features in documents
 def extract_features(doc):
+    """
+    :param doc:
+    :return:
+    """
     return [word2features(doc, i) for i in range(len(doc))]
 
 
 # A function fo generating the list of labels for each document: TOKEN, POS, LABEL
 def get_multi_labels(doc):
+    """
+    :param doc:
+    :return:
+    """
     return [label for (token, postag, label) in doc]
 
 
@@ -190,8 +189,6 @@ if __name__ == '__main__':
 
     import pandas as pd
 
-
-    #df = pd.read_csv("FNP_2020_FinCausal/baseline/task2/data/fnp2020-fincausal2-task2.csv", delimiter=';', header=0)
     df = pd.read_csv("./data/fnp2020-fincausal2-task2.csv", delimiter=';', header=0)
 
     print(df.head())
@@ -208,7 +205,13 @@ if __name__ == '__main__':
 
     map_ = [('cause', 'C'), ('effect', 'E')]
     hometags = make_causal_input(lodict_, map_)
-    postags, _ = nltkPOS([i['sentence'] for i in lodict_])
+    postags = nltkPOS([i['sentence'] for i in lodict_])
+
+    for i, (j, k) in enumerate(zip(hometags, postags)):
+        if len(j) != len(k):
+            print('POS alignement warning, ', i)
+        else:
+            print('Sizing OK')
 
 
 
