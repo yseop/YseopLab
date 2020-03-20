@@ -1,0 +1,31 @@
+Task 2 Baseline
+---------------
+
+For task 2, we provide a CRF baseline model.
+
+Usage
+~~~~~
+
+* Run *`task2_baseline.py`* with or without argparse argument.
+
+-   without argparse argument: will create a None repository with baseline data and results
+-   with arguments: the proposed argument allow a different tuning of the model. Arguments are the following
+
+-- --inrepo
+-- --outrepo
+-- --idx
+
+
+
+
+
+Results
+~~~~~~~
+
+
+.Task 2 CRF Baseline Results
+[options="header"]
+|===============================================
+|Precision   |Recall      |F1
+|0.      |0.     |0.
+|===============================================

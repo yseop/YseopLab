@@ -1,0 +1,8 @@
+Baselines
+--------
+
+Baseline models for tasks 1 and 2.
+
+Both baselines are evaluated on trial data and run on python 3.6. We advise to install a virtual environment before running the project.
+
+To install the project dependencies, run `pip install -r requirements.txt`

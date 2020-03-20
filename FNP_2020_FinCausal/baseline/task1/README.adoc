@@ -1,0 +1,33 @@
+Task 1 Baseline
+---------------
+
+For task 1, we provide a baseline model based on BERT.
+
+Usage
+~~~~~
+
+* Run *`task1_baseline.py`*
+
+Results
+~~~~~~~
+
+Results are based on evaluation on the Trial data.
+
+.Task 1 CPU Baseline Results
+[options="header"]
+|===============================================
+|Precision   |Recall      |F1
+|0.9548      |0.9532      |0.9539
+|===============================================
+
+.Task 1 GPU Baseline Results
+[options="header"]
+|===============================================
+|Precision   |Recall      |F1
+|0.9848      |0.9885      |0.9866
+|===============================================
+
+References
+~~~~~~~~~~
+
+* The model was inspired by https://github.com/huggingface/transformers/[huggingface/transformers^]
