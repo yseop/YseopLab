@@ -1,4 +1,0 @@
-Baseline
---------
-
-Baseline models for tasks 1 and 2
