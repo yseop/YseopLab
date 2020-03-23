@@ -8,12 +8,27 @@ Usage
 
 * Run *`task2_baseline.py`* with or without argparse argument.
 
--   without argparse argument: will create a None repository with baseline data and results
--   with arguments: the proposed argument allow a different tuning of the model. Arguments are the following
+-   without argparse argument: will create a *./models/None* repository with baseline data and results
+-   with arguments: the proposed argument allow different tunings of the model parameters. Arguments are the following:
 
--- --inrepo
--- --outrepo
--- --idx
+    ** --inrepo : path of the input data repository
+
+    ** --idx : index of the experiment. If this argument is provided, the following arguments are expected:
+
+    *** --c1 : coefficient for L1 penalty.
+
+    *** --minfreq : cut-off threshold for occurrence frequency of a feature.
+
+    *** --featstate : whether to generates state features that do not occur in the training data.
+
+    *** --c2 : coefficient for L2 penalty.
+
+    *** --maxiter : maximum number of iterations for optimisation.
+
+    *** --trans : whether to include transitions that are possible.
+
+-   e.g.: `python task2_baseline.py --idx 0 --c1 0.5 --minfreq 0.4 --featstate 0 --maxiter 3000 --trans 0`
+
 
 
 
@@ -26,6 +41,6 @@ Results
 .Task 2 CRF Baseline Results
 [options="header"]
 |===============================================
-|Precision   |Recall      |F1
-|0.      |0.     |0.
+|Precision   |Recall      |F1       |Exact Match
+|0.60      |0.60     |0.60      |0
 |===============================================
