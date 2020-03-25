@@ -17,7 +17,7 @@ def bertIn():
 	#read source data from csv file
 	df_data = pd.read_csv('./data/fnp2020-fincausal-task1.csv', sep = '; ', engine='python')
 	#split into train, test
-	df_train, df_test = train_test_split(df_data, test_size=0.3)
+	df_train, df_test = train_test_split(df_data, test_size=0.3, random_state=0, stratify=df_data.Gold.values)
     
 	#create a new dataframe for train, dev data
 	df_bert = pd.DataFrame({'id': np.arange(len(df_train)),
@@ -26,11 +26,12 @@ def bertIn():
 	'text': df_train['Text']})
 
 	#split into train, dev
-	df_bert_train, df_bert_dev = train_test_split(df_bert, test_size=0.3)
+	df_bert_train, df_bert_dev = train_test_split(df_bert, test_size=0.3, random_state=0)
 
 	#create new dataframe for test data
 	df_bert_test = pd.DataFrame({'id': np.arange(len(df_test)),
-	'text': df_test['Text']})
+	'text': df_test['Text'],
+    'label': df_test['Gold']})
 
 	#output tsv file, no header for train and dev
 	df_bert_train.to_csv('./data/train.tsv', sep='\t', index=False, header=False)
