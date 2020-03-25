@@ -29,7 +29,7 @@ Results are based on evaluation on the Trial data. Note that results may vary de
 [options="header"]
 |===============================================
 |GPU |RAM |CUDA|Precision |Recall |F1
-|GeForce GTX 1070 | 8 GB | 10.2 |0.9848      |0.9885      |0.9866
+|GeForce GTX 1070 | 8 GB | 10.2 |0.9499      |0.9524      |0.9510
 |GeForce RTX 2060 |6 GB | 10.1 |0.9518 |0.9490 |0.9503
 |===============================================
 
