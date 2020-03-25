@@ -1,3 +1,5 @@
-= YSEOP LAB
+= PUBLIC PROJECTS
 
-Yseop Lab public projects
+
+
+image::icons/home.png[Yseop Lab]
