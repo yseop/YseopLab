@@ -6,12 +6,13 @@ For task 1, we provide a baseline model based on BERT.
 Usage
 ~~~~~
 
+* Run *`task1_preprocess.py`*
 * Run *`task1_baseline.py`*
 
 Results
 ~~~~~~~
 
-Results are based on evaluation on the Trial data.
+Results are based on evaluation on the Trial data. Note that results may vary depending on the hardware used.
 
 .Task 1 CPU Baseline Results
 [options="header"]
@@ -31,3 +32,4 @@ References
 ~~~~~~~~~~
 
 * The model was inspired by https://github.com/huggingface/transformers/[huggingface/transformers^]
+* The data preparation was inspired by https://appliedmachinelearning.blog/2019/03/04/state-of-the-art-text-classification-using-bert-model-predict-the-happiness-hackerearth-challenge/[State-of-the-Art Text Classification using BERT model^]
