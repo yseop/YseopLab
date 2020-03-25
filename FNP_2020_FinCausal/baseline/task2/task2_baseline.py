@@ -34,7 +34,7 @@ if __name__ == '__main__':
 
     parser = argparse.ArgumentParser()
 
-    parser.add_argument('--inrepo', type = str, default="./data/fnp2020-fincausal2-task2.csv", help = 'input repo')
+    parser.add_argument('--inrepo', type = str, default="./fnp2020-fincausal-task2.csv", help = 'input repo')
 
     parser.add_argument('--idx', type = str, help = 'experience index')
     # ------------------------------------------------------------------------------------ #
@@ -127,20 +127,26 @@ if __name__ == '__main__':
     # The model will be saved to ./models when training is finished, with crf_args.idx.model name
     if not os.path.exists('models'):
         os.makedirs("models")
-    writepath_ = os.path.join("models", str(args.idx))
-    if not os.path.exists(writepath_):
-        os.makedirs(writepath_)
-    trainer.train(os.path.join(writepath_, ("crf_" + str(args.idx)) + ".model"))
+    modelpath_ = os.path.join("models", str(args.idx))
+    if not os.path.exists(modelpath_):
+        os.makedirs(modelpath_)
+    trainer.train(os.path.join(modelpath_, ("crf_" + str(args.idx)) + ".model"))
 
     # The data will be dumped to ./models when training is finished, with data_args.idx.dat name
     data_list = [X_train, X_test, y_train, y_test]
-    pickle.dump(data_list, open(os.path.join(writepath_, ("data_" + str(args.idx)) + ".dat"), "wb"))
+
+    if not os.path.exists('data'):
+        os.makedirs("data")
+    datapath_ = os.path.join("data", str(args.idx))
+    if not os.path.exists(datapath_):
+        os.makedirs(datapath_)
+    pickle.dump(data_list, open(os.path.join(datapath_, ("data_" + str(args.idx)) + ".dat"), "wb"))
 
     # Declare a tagger to predict tags in new text entries
     tagger = pycrfsuite.Tagger()
 
     # Load model in tagger
-    tagger.open(os.path.join(writepath_, ("crf_" + str(args.idx)) + ".model"))
+    tagger.open(os.path.join(modelpath_, ("crf_" + str(args.idx)) + ".model"))
 
 
     # ------------------------------------------------------------------------------------ #
