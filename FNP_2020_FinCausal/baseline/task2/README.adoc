@@ -8,8 +8,13 @@ Usage
 
 * Run *`task2_baseline.py`* with or without argparse argument.
 
--   without argparse argument: will create a *./models/None* repository with baseline data and results
--   with arguments: the proposed argument allow different tunings of the model parameters. Arguments are the following:
+-   without argparse argument: will create a *./models/baseline* repository with baseline crf model and a *./data/baseline* with data partition
+
+The model available in the *./models/baseline* repository is the model used to label the predictions
+
+The data available in the *./data/baseline* repository is the partition of the data we used to get the below results
+
+-   with arguments: the proposed arguments allow different tunings of the model parameters. Arguments are the following:
 
     ** --inrepo : path of the input data repository
 
@@ -42,5 +47,5 @@ Results
 [options="header"]
 |===============================================
 |Precision   |Recall      |F1       |Exact Match
-|0.5529      | 0.54525     |0.5479      |0
+|0.5242      | 0.5213    |0.52154      |0
 |===============================================
