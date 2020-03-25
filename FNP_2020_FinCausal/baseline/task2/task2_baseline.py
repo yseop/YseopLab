@@ -34,9 +34,9 @@ if __name__ == '__main__':
 
     parser = argparse.ArgumentParser()
 
-    parser.add_argument('--inrepo', type = str, default="./fnp2020-fincausal-task2.csv", help = 'input repo')
+    parser.add_argument('--inrepo', type = str, default="./fnp2020-fincausal-task2.csv", help= 'input repo')
 
-    parser.add_argument('--idx', type = str, help = 'experience index')
+    parser.add_argument('--idx', type = str, default="baseline", help= 'experience index')
     # ------------------------------------------------------------------------------------ #
     #               if the arguments idx is used, assumes all following arguments          #
     # -------------------------------------------------------------------------------------#
@@ -198,7 +198,7 @@ if __name__ == '__main__':
         nl.append(d_)
 
     print('F1score:', F1metrics[2])
-    print('Accuracy: ', F1metrics[1])
+    print('Precision: ', F1metrics[1])
     print('Recall: ', F1metrics[0])
     print('exact match: ', sum([i["diverge"] for i in nl if i["diverge"] == 0]), 'over', len(nl), ' total sentences)')
 
@@ -213,10 +213,10 @@ if __name__ == '__main__':
             print("%-6s -> %-7s %0.6f" % (label_from, label_to, weight))
 
     print("Top likely transitions:")
-    print_transitions(Counter(info.transitions).most_common(4))
+    print_transitions(Counter(info.transitions).most_common(3))
 
     print("\nTop unlikely transitions:")
-    print_transitions(Counter(info.transitions).most_common()[-5:])
+    print_transitions(Counter(info.transitions).most_common()[-3:])
 
     print("all transitions:")
     print_transitions(Counter(info.transitions).most_common())
