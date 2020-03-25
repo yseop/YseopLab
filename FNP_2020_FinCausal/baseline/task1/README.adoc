@@ -24,9 +24,12 @@ Results are based on evaluation on the Trial data. Note that results may vary de
 .Task 1 GPU Baseline Results
 [options="header"]
 |===============================================
-|Precision   |Recall      |F1
-|0.9848      |0.9885      |0.9866
+|GPU |RAM |CUDA|Precision |Recall |F1
+|GeForce GTX 1070 | 8 GB | 10.2 |0.9848      |0.9885      |0.9866
+|GeForce RTX 2060 |6 GB | 10.1 |0.9518 |0.9490 |0.9503
 |===============================================
+
+
 
 References
 ~~~~~~~~~~
