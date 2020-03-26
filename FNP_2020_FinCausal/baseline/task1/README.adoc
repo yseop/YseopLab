@@ -4,13 +4,13 @@ Task 1 Baseline
 For task 1, we provide a baseline model based on BERT.
 
 The data available in the *task1/data* repository is the exact partition of the `fnp2020-fincausal-task1.csv` file we used to train and evaluate the baseline.
-The preprocessing and splitting process can be reproduced running the *`task1_baseline.py`* script.
+The preprocessing and splitting process can be reproduced running the *`task1_preprocess.py`* script.
 
 
 Usage
 ~~~~~
 
-* Run *`task1_preprocess.py`*
+* Run *`task1_baseline.py`*
 
 
 Results
