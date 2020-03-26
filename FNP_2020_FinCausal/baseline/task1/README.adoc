@@ -18,12 +18,6 @@ Results
 
 Results are based on evaluation on the Trial data. Note that results may vary depending on the hardware used.
 
-.Task 1 CPU Baseline Results
-[options="header"]
-|===============================================
-|Precision   |Recall      |F1
-|0.9548      |0.9532      |0.9539
-|===============================================
 
 .Task 1 GPU Baseline Results
 [options="header"]
