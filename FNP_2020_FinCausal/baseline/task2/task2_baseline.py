@@ -10,6 +10,7 @@ import pycrfsuite
 import os
 import pickle
 import nltk
+import csv
 
 # ------------------------------------------------------------------------------------ #
 #               This baseline uses nltk tokenizer and POS tagger                       #
@@ -54,7 +55,6 @@ if __name__ == '__main__':
     # -------------------------------------------------------------------------------------#
 
     df = pd.read_csv(args.inrepo, delimiter=';', header=0)
-
     lodict_ = []
     for rows in df.itertuples():
         list_ = [rows[2], rows[3], rows[4]]
@@ -177,6 +177,8 @@ if __name__ == '__main__':
 
     F1metrics = precision_recall_fscore_support(truths, predictions, average='weighted')
     # print results and make tagged sentences
+    # Please note that simple rebuilding of the sentences from tags will create non meaningfull sentences most of the time,
+    # because of the model chosen (tokenizer)
     ll = []
     for i in range(len(X_test) - 1):
         l = defaultdict(list)
@@ -200,7 +202,16 @@ if __name__ == '__main__':
     print('F1score:', F1metrics[2])
     print('Precision: ', F1metrics[1])
     print('Recall: ', F1metrics[0])
-    print('exact match: ', sum([i["diverge"] for i in nl if i["diverge"] == 0]), 'over', len(nl), ' total sentences)')
+
+    print('exact match: ', len(nl) - sum([i["diverge"] for i in nl if i['diverge']==1]), 'over', len(nl), ' total sentences)')
+
+    fieldn = sorted(list(set(k for d in nl for k in d)))
+    with open(os.path.join(modelpath_, ("results_" + str(args.idx)) + ".csv"), "w+") as f:
+        writer = csv.DictWriter(f, fieldnames=fieldn, delimiter="~")
+        writer.writeheader()
+        for line in nl:
+            writer.writerow(line)
+
 
     # # Print out other metrics
     print('************************ crf metrics ***************************', '\t')
