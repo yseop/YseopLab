@@ -32,12 +32,12 @@ Usage 1: Folder mode
 
 Usage 2: File mode
 
-    usage: task2_evaluate.py from-file [-h] ref_file pred_file [score_file]
+    usage: task2_evaluate.py from-file [-h] [--ref_file REF_FILE] pred_file [score_file]
 
     Basic mode with path to input and output files
 
     positional arguments:
-      ref_file    reference file
+      ref_file    reference file (default: ../../data/fnp2020-fincausal-task2.csv)
       pred_file   prediction file to evaluate
       score_file  path to output score file (or stdout if not provided)
 
@@ -358,7 +358,7 @@ def main():
 
     command2_parser = subparsers.add_parser('from-file', description='Basic mode with path to input and output files')
     command2_parser.set_defaults(func=from_file)
-    command2_parser.add_argument('ref_file', help='reference file')
+    command2_parser.add_argument('--ref_file', default='../../data/fnp2020-fincausal-task2.csv', help='reference file')
     command2_parser.add_argument('pred_file', help='prediction file to evaluate')
     command2_parser.add_argument('score_file', nargs='?', default=None,
                                  help='path to output score file (or stdout if not provided)')

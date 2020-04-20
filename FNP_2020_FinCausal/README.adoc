@@ -1,0 +1,11 @@
+FNP 2020  
+--------
+
+Source code for *FinCausal 2020* tasks
+
+_Causality Identification in Financial documents_
+
+* link:AnnotationScheme.pdf[Data Processing and Annotation Schemes]
+* link:baseline/README.adoc[Baseline]
+* link:scoring/README.adoc[Scoring]
+* link:data/README.adoc[Trial dataset]

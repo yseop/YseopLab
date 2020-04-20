@@ -15,7 +15,7 @@ from pandas import DataFrame
 def bertIn(): 
 	le = LabelEncoder()
 	#read source data from csv file
-	df_data = pd.read_csv('./data/fnp2020-fincausal-task1.csv', sep = '; ', engine='python')
+	df_data = pd.read_csv('../../data/fnp2020-fincausal-task1.csv', sep = '; ', engine='python')
 	#split into train, test
 	df_train, df_test = train_test_split(df_data, test_size=0.3, random_state=0, stratify=df_data.Gold.values)
     

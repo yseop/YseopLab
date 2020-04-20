@@ -1,0 +1,7 @@
+Trial Dataset
+-------------
+
+Last update: April, 17th
+
+* fnp2020-fincausal-task1.csv
+* fnp2020-fincausal-task2.csv
