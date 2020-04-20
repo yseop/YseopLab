@@ -6,6 +6,9 @@ Source code for *FinCausal 2020* tasks
 _Causality Identification in Financial documents_
 
 * link:AnnotationScheme.pdf[Data Processing and Annotation Schemes]
-* link:baseline/README.adoc[Baseline]
-* link:scoring/README.adoc[Scoring]
-* link:data/README.adoc[Trial dataset]
+* link:baseline[Baseline]
+* link:scoring[Scoring]
+* link:data[Trial dataset]
+
+
+All script have default paths runnable from root folder FNP_2020_FinCausal
