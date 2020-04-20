@@ -206,7 +206,7 @@ if __name__ == '__main__':
     print('exact match: ', len(nl) - sum([i["diverge"] for i in nl if i['diverge']==1]), 'over', len(nl), ' total sentences)')
 
     fieldn = sorted(list(set(k for d in nl for k in d)))
-    with open(os.path.join(modelpath_, ("results_" + str(args.idx)) + ".csv"), "w+") as f:
+    with open(os.path.join(modelpath_, ("results_" + str(args.idx)) + ".csv"), "w+", encoding='utf-8') as f:
         writer = csv.DictWriter(f, fieldnames=fieldn, delimiter="~")
         writer.writeheader()
         for line in nl:
