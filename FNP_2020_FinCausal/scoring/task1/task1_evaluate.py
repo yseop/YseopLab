@@ -151,9 +151,6 @@ def main():
     command2_parser.add_argument('score_file', nargs='?', default=None,
                                  help='path to output score file (or stdout if not provided)')
 
-    # logging.basicConfig(level=getattr(logging, known_args[0].log.upper(), None),
-    #                     filename=known_args[0].log_file,
-    #                     format='%(levelname)-7s| %(message)s')
     logging.basicConfig(level=logging.INFO,
                         filename=None,
                         format='%(levelname)-7s| %(message)s')
@@ -168,20 +165,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-
-# Tests, which can be executed with `python -m unittest task1_evaluate`.
-class Test(unittest.TestCase):
-
-    def _process_test_ok(self, t_text, p_text, f1, precision, recall, exact_match):
-        def approx2(f):
-            f_int = int(f*100)
-            return float(f_int) / float(100)
-        y_true = get_data(t_text)
-        y_pred = get_data(p_text)
-        f, p, r, e = process_data(y_true, y_pred, ['-', 'C', 'E'])
-        f = approx2(f)
-        p = approx2(p)
-        r = approx2(r)
-        e = approx2(e)
-        self.assertEqual((f, p, r, e), (f1, precision, recall, exact_match))
