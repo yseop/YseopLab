@@ -1,0 +1,21 @@
+Scoring programs
+----------------
+
+Scoring programs for tasks 1 and 2.
+
+Both programs run on python 3.6+. We advise to create a virtual environment before running the project.
+
+Install the project dependencies, running `pip install -r requirements.txt`
+
+
+----
+    usage: task?_evaluate.py from-file [-h] ref_file pred_file [score_file]
+
+    positional arguments:
+      ref_file    reference file
+      pred_file   prediction file to evaluate
+      score_file  path to output score file (or stdout if not provided)
+
+    optional arguments:
+      -h, --help  show this help message and exit
+----
