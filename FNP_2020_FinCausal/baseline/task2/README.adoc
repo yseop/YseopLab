@@ -6,7 +6,7 @@ For task 2, we provide a CRF baseline model.
 Usage
 ~~~~~
 
-* Run *`task2_baseline.py`* with or without argparse argument.
+* Run *` baseline/task2/task2_baseline.py`* from root with or without argparse argument.
 
 -   without argparse argument: will create a *./models/baseline* repository with baseline crf model and a *./data/baseline* with data partition
 
@@ -32,7 +32,7 @@ The data available in the *./data/baseline* repository is the partition of the d
 
     *** --trans : whether to include transitions that are possible.
 
--   e.g.: `python task2_baseline.py --idx 0 --c1 0.5 --minfreq 0.4 --featstate 0 --maxiter 3000 --trans 0`
+-   e.g.: `python baseline/task2/task2_baseline.py --idx 0 --c1 0.5 --minfreq 0.4 --featstate 0 --maxiter 3000 --trans 0`
 
 
 

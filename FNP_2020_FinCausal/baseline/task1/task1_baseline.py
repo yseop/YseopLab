@@ -20,10 +20,12 @@ import time
 import datetime
 import random
 from sklearn import metrics
+import argparse
+
 
 # Load the dataset into a pandas dataframe.
-df = pd.read_csv("./data/train.tsv", delimiter='\t', header=None, names=['id', 'label', 'alpha', 'sentence'])
-dev_df = pd.read_csv("./data/dev.tsv", delimiter='\t', header=None, names=['id', 'label', 'alpha', 'sentence'])
+df = pd.read_csv("baseline/task1/data/train.tsv", delimiter='\t', header=None, names=['id', 'label', 'alpha', 'sentence'])
+dev_df = pd.read_csv("baseline/task1/data/dev.tsv", delimiter='\t', header=None, names=['id', 'label', 'alpha', 'sentence'])
 
 # Report the number of sentences.
 print('Number of training sentences: {:,}\n'.format(df.shape[0]))
@@ -329,7 +331,7 @@ for epoch_i in range(0, epochs):
 
     print("")
     print("  Average training loss: {0:.2f}".format(avg_train_loss))
-    print("  Training epcoh took: {:}".format(format_time(time.time() - t0)))
+    print("  Training epoch took: {:}".format(format_time(time.time() - t0)))
         
     # ========================================
     #               Validation
@@ -399,7 +401,7 @@ print("")
 print("Training complete!")
 
 # Load the dataset into a pandas dataframe.
-test_df = pd.read_csv("./data/test.tsv", delimiter='\t', header=None, names=['id', 'sentence', 'label'])
+test_df = pd.read_csv("baseline/task1/data/test.tsv", delimiter='\t', header=None, names=['id', 'sentence', 'label'])
 
 # Report the number of sentences.
 print('Number of test sentences: {:,}\n'.format(test_df.shape[0]))
@@ -519,7 +521,7 @@ evaluate(flat_true_labels, flat_predictions)
 print('Writing predictions to file...')
 
 # Save predictions to file
-with open('predictions.txt', "w") as writer:
+with open('baseline/task1/models/predictions.txt', "w") as writer:
     for line in flat_predictions:
         writer.write(str(line) + "\n")
         
