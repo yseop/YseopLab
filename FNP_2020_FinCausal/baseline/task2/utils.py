@@ -29,7 +29,6 @@ def make_causal_input(lod, map_, silent=True):
     :param map_: mapping of tags and values of interest, i.e. [('cause', 'C'), ('effect', 'E')]. The silent tags are by default taggerd as '_'
     :return: dict of list of tuples for each sentence
     """
-
     dd = defaultdict(list)
     dd_ = []
     rx = re.compile(r"(\b[-']\b)|[\W_]")
@@ -38,13 +37,11 @@ def make_causal_input(lod, map_, silent=True):
     for i in range(len(lod)):
         line_ = lod[i]['sentence']
         line = re.sub(rx, '', line_)
-        #print(line)
-        ante = lod[i]['cause']
-        ante = re.sub(rx, '', ante)
-        cons = lod[i]['effect']
-        cons = re.sub(rx, '', cons)
+        caus = lod[i]['cause']
+        caus = re.sub(rx, '', caus)
+        effe = lod[i]['effect']
+        effe = re.sub(rx, '', effe)
 
-        silent or print(line)
         d = defaultdict(list)
         index = 0
         for idx, w in enumerate(word_tokenize(line)):
@@ -52,52 +49,54 @@ def make_causal_input(lod, map_, silent=True):
 
             if not index == -1:
                 d[idx].append([w, index])
-                silent or print(w, index)
-
+                #print(w, index)
                 index += len(w)
 
-        d_= defaultdict(list)
+        d_ = defaultdict(list)
         for idx in d:
-
             d_[idx].append([tuple([d[idx][0][0], '_']), d[idx][0][1]])
 
-            init_a = line.find(ante)
-            init_c = line.find(cons)
+        init_e = line.find(effe)
+        init_c = line.find(caus)
 
-            for el in word_tokenize(ante):
-                start = line.find(el, init_a)
-                # print('start A')
-                # print(start)
-                # print(int(d_[idx][0][1]))
-                stop = line.find(el, init_a) + len(el)
-                word = line[start:stop]
-                #print(word)
-                if int(start) == int(d_[idx][0][1]):
+        for c, cl in enumerate(word_tokenize(caus)):
+            print('init_c', init_c)
+            init_c = line.find(cl, init_c)
+            print('start Cause', init_c)
+            stop = line.find(cl, init_c) + len(cl)
+            word = line[init_c:stop]
+            print('word', word.upper(), 'el', cl.upper())
+
+            for idx in d_:
+                if int(init_c) == int(d_[idx][0][1]):
                     und_ = defaultdict(list)
-                    und_[idx].append([tuple([word, 'C']), line.find(word, init_a)])
+                    und_[idx].append([tuple([cl, 'C']), line.find(cl, init_c)])
                     d_[idx] = und_[idx]
-                init_a += len(word)
 
+            init_c += len(cl)
+            print('increment_c', init_c)
 
-            for el in word_tokenize(cons):
+        for e, el in enumerate(word_tokenize(effe)):
+            print('init_e', init_e)
+            init_e = line.find(el, init_e)
+            print('start Effect', init_e)
+            stop = line.find(el, init_e) + len(el)
+            word = line[init_e:stop]
+            print('word', word.upper(), 'el', el.upper())
 
-                start = line.find(el, init_c)
-                # print('start C')
-                # print(start)
-                # print(int(d_[idx][0][1]))
-                stop = line.find(el, init_c) + len(el)
-                word = line[start:stop]
-                #print(word)
-                if int(start) == int(d_[idx][0][1]):
+            for idx in d_:
+                if int(init_e) == int(d_[idx][0][1]):
                     und_ = defaultdict(list)
-                    und_[idx].append([tuple([word, 'E']), line.find(word, init_c)])
+                    und_[idx].append([tuple([word, 'E']), line.find(word, init_e)])
                     d_[idx] = und_[idx]
-                init_c += len(word)
+
+            init_e += len(word)
+            print('init_e', init_e)
 
         dd[i].append(d_)
 
-    for dict_ in dd:
-        dd_.append([item[0][0] for sub in [[j for j in i.values()] for i in lflatten(dd[dict_])] for item in sub])
+        for dict_ in dd:
+            dd_.append([item[0][0] for sub in [[j for j in i.values()] for i in lflatten(dd[dict_])] for item in sub])
 
     return dd_
 
