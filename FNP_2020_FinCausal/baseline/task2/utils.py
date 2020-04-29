@@ -95,8 +95,11 @@ def make_causal_input(lod, map_, silent=True):
 
         dd[i].append(d_)
 
-        for dict_ in dd:
-            dd_.append([item[0][0] for sub in [[j for j in i.values()] for i in lflatten(dd[dict_])] for item in sub])
+    for dict_ in dd:
+        dd_.append([item[0][0] for sub in [[j for j in i.values()] for i in lflatten(dd[dict_])] for item in sub])
+    #for i in dd:
+    #     for dict_ in dd[i]:
+    #         dd_.append([elem[0] for sub in dict_.values() for elem in sub])
 
     return dd_
 
