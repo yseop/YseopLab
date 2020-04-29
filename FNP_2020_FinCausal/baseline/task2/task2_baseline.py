@@ -31,6 +31,31 @@ print(tag)
 
 
 
+def make_data(df):
+    lodict_ = []
+    for rows in df.itertuples():
+        list_ = [rows[2], rows[3], rows[4]]
+        map1 = ['sentence', 'cause', 'effect']
+        dict_ = s2dict(list_, map1)
+        lodict_.append(dict_)
+
+    map_ = [('cause', 'C'), ('effect', 'E')]
+    hometags = make_causal_input(lodict_, map_)
+    postags = nltkPOS([i['sentence'] for i in lodict_])
+
+    data = []
+    for i, (j, k) in enumerate(zip(hometags, postags)):
+        data.append([(w, pos, label) for (w, label), (word, pos) in zip(j, k)])
+
+    X = [extract_features(doc) for doc in data]
+    y = [get_multi_labels(doc) for doc in data]
+
+    return X, y
+
+
+
+
+
 if __name__ == '__main__':
 
     parser = argparse.ArgumentParser()
@@ -54,37 +79,19 @@ if __name__ == '__main__':
     #                                       Make data                                      #
     # -------------------------------------------------------------------------------------#
 
-    df = pd.read_csv(args.inrepo, delimiter=';', header=0)
-    lodict_ = []
-    for rows in df.itertuples():
-        list_ = [rows[2], rows[3], rows[4]]
-        map1 = ['sentence', 'cause', 'effect']
-        dict_ = s2dict(list_, map1)
-        lodict_.append(dict_)
+    df = pd.read_csv(args.inrepo, delimiter='; ', engine='python', header=0)
 
-    print('transformation example: ', lodict_[1])
-
-    map_ = [('cause', 'C'), ('effect', 'E')]
-    hometags = make_causal_input(lodict_, map_)
-    postags = nltkPOS([i['sentence'] for i in lodict_])
-    sent = [i['sentence'] for i in lodict_]
-
-    data = []
-    for i, (j, k) in enumerate(zip(hometags, postags)):
-        data.append([(w, pos, label) for (w, label), (word, pos) in zip(j, k)])
-
-    X = [extract_features(doc) for doc in data]
-    y = [get_multi_labels(doc) for doc in data]
+    # Make train and test sets keeping multiple cause / effects blocks together.
+    df['IdxSplit'] = df.Index.apply(lambda x: ''.join(x.split(".")[0:2]))
+    df.set_index('IdxSplit', inplace=True)
+    np.random.seed(0)
+    testrows = np.random.choice(df.index.values, int(len(df) / 3))
+    test = df.loc[testrows].drop_duplicates(subset='Index')
+    train = df.drop(test.index)
 
 
-    # ------------------------------------------------------------------------------------ #
-    #                                Make train and test sets                              #
-    # -------------------------------------------------------------------------------------#
-    size = 0.2
-    seed = 42
-    n = 100
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=size, random_state=seed)
-    X_train_sent, X_test_sent = train_test_split(sent, test_size=size, random_state=seed)
+    X_train, y_train = make_data(train)
+    X_test, y_test = make_data(test)
 
     # Declare trainer
     trainer = pycrfsuite.Trainer(verbose=True)
@@ -172,8 +179,8 @@ if __name__ == '__main__':
         truths, predictions,
         target_names=["_", "C", "E"]))
 
-    # # Print out task2 metrics
-    print('************************ tasks metrics ***************************', '\t')
+    # # Print out token metrics
+    print('************************ tokenized metrics ***************************', '\t')
 
     F1metrics = precision_recall_fscore_support(truths, predictions, average='weighted')
     # print results and make tagged sentences
@@ -187,16 +194,19 @@ if __name__ == '__main__':
         ll.append(l)
 
     nl = []
-    for line, yt, yp, s in zip(ll, y_test, y_pred, X_test_sent):
+    for line, yt, yp in zip(ll, y_test, y_pred):
         d_ = defaultdict(list)
-        d_["origin"] = s
+        d_["Text"] = ' '.join(line.keys())
         d_["truth"] = yt
         d_["pred"] = yp
         d_["diverge"] = 0
         for k, v in line.items():
-            d_[v].append(k)
+            d_[v].append(''.join(k))
         if d_["truth"] != d_["pred"]:
             d_["diverge"] = 1
+        d_['Cause'] = ' '.join(el for el in d_['C'])
+        d_['_'] = ' '.join(el for el in d_['_'])
+        d_['Effect'] = ' '.join(el for el in d_['E'])
         nl.append(d_)
 
     print('F1score:', F1metrics[2])
@@ -206,11 +216,22 @@ if __name__ == '__main__':
     print('exact match: ', len(nl) - sum([i["diverge"] for i in nl if i['diverge']==1]), 'over', len(nl), ' total sentences)')
 
     fieldn = sorted(list(set(k for d in nl for k in d)))
-    with open(os.path.join(modelpath_, ("predictions_" + str(args.idx)) + ".csv"), "w+", encoding='utf-8') as f:
+    with open(os.path.join(modelpath_, ("controls_" + str(args.idx)) + ".csv"), "w+", encoding='utf-8') as f:
         writer = csv.DictWriter(f, fieldnames=fieldn, delimiter="~")
         writer.writeheader()
         for line in nl:
             writer.writerow(line)
+
+    tmp = pd.DataFrame.from_records(nl)[['Cause', 'Effect']].reset_index()
+    idx = pd.DataFrame(test['Index']).reset_index()
+    text = pd.DataFrame(test['Text']).reset_index()
+    task2 = pd.concat([idx, text, tmp], axis=1)
+    task2 = task2.drop(['index', 'IdxSplit'], axis=1)
+    task2 = task2.sort_values('Index')
+    test = test.sort_values('Index')
+    task2.to_csv(os.path.join(modelpath_, ("task2_eval_" + str(args.idx)) + ".csv"), sep = ';', index=False)
+    test.to_csv(os.path.join(modelpath_, ("task2_ref_" + str(args.idx)) + ".csv"), sep = ';', index=False)
+
 
 
     # # Print out other metrics
@@ -243,3 +264,7 @@ if __name__ == '__main__':
     print("\nTop negative:")
     print_state_features(Counter(info.state_features).most_common()[-20:])
 
+    # # Print out task2 metrics
+    print('************************ task2 metrics ***************************', '\t')
+    print('**for task2 metrics, run  **')
+    print('python scoring/task2/task2_evaluate.py from-file --ref_file baseline/task2/models/baseline/task2_ref_baseline.csv baseline/task2/models/baseline/task2_eval_baseline.csv')

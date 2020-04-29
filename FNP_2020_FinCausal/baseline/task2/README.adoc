@@ -6,7 +6,7 @@ For task 2, we provide a CRF baseline model.
 Usage
 ~~~~~
 
-* Run *` baseline/task2/task2_baseline.py`* from root with or without argparse argument.
+* Run *`python baseline/task2/task2_baseline.py`* from root with or without argparse argument.
 
 -   without argparse argument: will create a *./models/baseline* repository with baseline crf model and a *./data/baseline* with data partition
 
@@ -47,5 +47,5 @@ Results
 [options="header"]
 |===============================================
 |Precision   |Recall      |F1       |Exact Match
-|0.81       |  0.80     | 0.80      |89/128
+|       |     |   |
 |===============================================
