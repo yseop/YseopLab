@@ -9,7 +9,7 @@
 
 ###############################################################
 
-
+import os
 import pandas as pd
 from keras.preprocessing.sequence import pad_sequences
 from torch.utils.data import TensorDataset, DataLoader, RandomSampler, SequentialSampler
@@ -73,8 +73,6 @@ for sent in dev_sentences:
 # We'll borrow the `pad_sequences` utility function to do this.
 
 # Set the maximum sequence length.
-# I've chosen 64 somewhat arbitrarily. It's slightly larger than the
-# maximum training sentence length of 47...
 MAX_LEN = 128
 
 print('\nPadding/truncating all sentences to %d values...' % MAX_LEN)
@@ -399,6 +397,21 @@ for epoch_i in range(0, epochs):
 
 print("")
 print("Training complete!")
+
+
+# Save the fine-tuned model, configuration and vocabulary
+path_ = 'baseline/task1/models'
+if not os.path.exists(path_):
+    os.makedirs(path_)
+output_model_file = os.path.join(path_, "my_own_model_file.bin")
+output_config_file = os.path.join(path_, "my_own_config_file.bin")
+output_vocab_file = os.path.join(path_, "my_own_vocab_file.bin")
+
+model_to_save = model.module if hasattr(model, 'module') else model
+torch.save(model_to_save.state_dict(), output_model_file)
+model_to_save.config.to_json_file(output_config_file)
+tokenizer.save_vocabulary(output_vocab_file)
+
 
 # Load the dataset into a pandas dataframe.
 test_df = pd.read_csv("baseline/task1/data/test.tsv", delimiter='\t', header=None, names=['id', 'sentence', 'label'])
