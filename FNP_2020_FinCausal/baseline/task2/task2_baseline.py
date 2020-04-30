@@ -187,7 +187,7 @@ if __name__ == '__main__':
     # Please note that simple rebuilding of the sentences from tags will create non meaningfull sentences most of the time,
     # because of the model chosen (tokenizer)
     ll = []
-    for i in range(len(X_test) - 1):
+    for i in range(len(X_test)):
         l = defaultdict(list)
         for j, (y, x) in enumerate(zip(y_pred[i], list(zip(*[[v for k, v in x.items()] for x in X_test[i]]))[1])):
             l.update({x: y})
