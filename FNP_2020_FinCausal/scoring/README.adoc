@@ -22,11 +22,9 @@ Install the project dependencies, running `pip install -r requirements.txt`
 
 === Examples
 
-    python scoring/task2/task2_evaluate.py from-file --ref_file data/fnp
-2020-fincausal-task2.csv data/task2_pred.csv
+    python scoring/task2/task2_evaluate.py from-file --ref_file data/fnp2020-fincausal-task2.csv data/task2_pred.csv
 
-    python scoring/task1/task1_evaluate.py from-file --ref_file data/fnp
-2020-fincausal-task1.csv data/task1_pred.csv
+    python scoring/task1/task1_evaluate.py from-file --ref_file data/fnp2020-fincausal-task1.csv data/task1_pred.csv
 
 
 
