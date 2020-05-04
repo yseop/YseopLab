@@ -173,47 +173,36 @@ if __name__ == '__main__':
     #                                    Print metrics                                     #
     # -------------------------------------------------------------------------------------#
 
-    # # Print out the classification report
-    print('************************ classification report ***************************', '\t')
-    print(classification_report(
-        truths, predictions,
-        target_names=["_", "C", "E"]))
 
-    # # Print out token metrics
-    print('************************ tokenized metrics ***************************', '\t')
-
-    F1metrics = precision_recall_fscore_support(truths, predictions, average='weighted')
     # print results and make tagged sentences
     # Please note that simple rebuilding of the sentences from tags will create non meaningfull sentences most of the time,
     # because of the model chosen (tokenizer)
     ll = []
     for i in range(len(X_test)):
         l = defaultdict(list)
-        for j, (y, x) in enumerate(zip(y_pred[i], list(zip(*[[v for k, v in x.items()] for x in X_test[i]]))[1])):
-            l.update({x: y})
+        for j, (y, z) in enumerate(zip(y_pred[i], list(zip(*[[v for k, v in x.items()] for x in X_test[i]]))[1])):
+            print(y, z)
+            l[j] = (z, y)
         ll.append(l)
 
     nl = []
     for line, yt, yp in zip(ll, y_test, y_pred):
         d_ = defaultdict(list)
-        d_["Text"] = ' '.join(line.keys())
         d_["truth"] = yt
         d_["pred"] = yp
         d_["diverge"] = 0
         for k, v in line.items():
-            d_[v].append(''.join(k))
+            d_[v[1]].append(''.join(v[0]))
         if d_["truth"] != d_["pred"]:
             d_["diverge"] = 1
         d_['Cause'] = ' '.join(el for el in d_['C'])
+        cause_extend = len(d_['Cause']) + 1  # add 1 extra space at start
+        d_[' Cause'] = d_['Cause'].rjust(cause_extend)
         d_['_'] = ' '.join(el for el in d_['_'])
         d_['Effect'] = ' '.join(el for el in d_['E'])
+        effect_extend = len(d_['Effect']) + 1
+        d_[' Effect'] = d_['Effect'].rjust(effect_extend)
         nl.append(d_)
-
-    print('F1score:', F1metrics[2])
-    print('Precision: ', F1metrics[1])
-    print('Recall: ', F1metrics[0])
-
-    print('exact match: ', len(nl) - sum([i["diverge"] for i in nl if i['diverge']==1]), 'over', len(nl), ' total sentences)')
 
     fieldn = sorted(list(set(k for d in nl for k in d)))
     with open(os.path.join(modelpath_, ("controls_" + str(args.idx)) + ".csv"), "w+", encoding='utf-8') as f:
@@ -264,7 +253,27 @@ if __name__ == '__main__':
     print("\nTop negative:")
     print_state_features(Counter(info.state_features).most_common()[-20:])
 
+
+    # # Print out the classification report
+    print('************************ classification report ***************************', '\t')
+    print(classification_report(
+        truths, predictions,
+        target_names=["_", "C", "E"]))
+
+    # # Print out token metrics
+    print('************************ tokenized metrics ***************************', '\t')
+
+    F1metrics = precision_recall_fscore_support(truths, predictions, average='weighted')
+
+    #precision, recall, f1
+    print('F1score:', F1metrics[2])
+    print('Precision: ', F1metrics[0])
+    print('Recall: ', F1metrics[1])
+
+    print('exact match: ', len(nl) - sum([i["diverge"] for i in nl if i['diverge']==1]), 'over', len(nl), ' total sentences)')
+
+
     # # Print out task2 metrics
     print('************************ task2 metrics ***************************', '\t')
     print('**for task2 metrics, run  **')
-    print('python scoring/task2/task2_evaluate.py from-file --ref_file baseline/task2/models/baseline/task2_ref_baseline.csv baseline/task2/models/baseline/task2_eval_baseline.csv')
+    print("python scoring/task2/task2_evaluate.py from-file --ref_file baseline/task2/models/**idx**/task2_ref_**idx**.csv baseline/task2/models/**idx**/task2_eval_**idx**.csv")

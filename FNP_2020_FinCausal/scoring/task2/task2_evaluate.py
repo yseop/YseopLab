@@ -242,6 +242,74 @@ def evaluate(truth, predict, classes):
                                                                        average='weighted',
                                                                        zero_division=0)
 
+    import numpy as np
+    """
+    Sklearn Multiclass confusion matrix is:
+    y_true = ["cat", "ant", "cat", "cat", "ant", "bird"]
+    y_pred = ["ant", "ant", "cat", "cat", "ant", "cat"]
+    cmc = multilabel_confusion_matrix(y_true, y_pred, labels=["ant", "bird", "cat"])
+    cmc
+    array([[[3, 1],
+            [0, 2]],
+
+           [[5, 0],
+            [1, 0]],
+
+           [[2, 1],
+            [1, 2]]])
+
+    cm_ant = cmc[0]
+    tp = cm_ant[1,1]	has been classified as ant and is ant
+    fp = cm_ant[0,1]	has been classified as ant and is sth else
+    fn = cm_ant[1,0]    has been classified as sth else than ant and is ant
+    tn = cm_ant[0,0]    has been classified as sth else than ant and is something else
+
+    """
+    print(' ')
+    print('raw metrics')
+    print("#-------------------------------------------------------------------------------------#")
+
+    MCM = metrics.multilabel_confusion_matrix(y_truth, y_predict, labels=classes)
+    tp_sum = MCM[:, 1, 1]
+    print('tp_sum ', tp_sum)
+    pred_sum = tp_sum + MCM[:, 0, 1]
+    print('predicted in the classes ', pred_sum)
+    true_sum = tp_sum + MCM[:, 1, 0]
+    print('actually in the classes (tp + fn: support) ', true_sum)
+
+    """beta : float, 1.0 by default
+    The strength of recall versus precision in the F-score."""
+
+    precision_ = tp_sum / pred_sum
+    recall_ = tp_sum / true_sum
+    beta = 1.0
+    beta2 = beta ** 2
+    denom = beta2 * precision_ + recall_
+    print('denom', denom)
+    denom[denom == 0.] = 1  # avoid division by 0
+    weights = true_sum
+    print("weights", weights)
+    print(' ')
+    print("#-------------------------------------------------------------------------------------#")
+    print('macro scores')
+    f_score_ = (1 + beta2) * precision_ * recall_ / denom
+    print('macro precision ', sum(precision_) / 3, 'macro recall', sum(recall_) / 3, 'macro f_score ',
+          sum(f_score_) / 3)
+
+    ## recompute for average from source
+
+    precision_ = np.average(precision_, weights=weights)
+    recall_ = np.average(recall_, weights=weights)
+    f_score_ = np.average(f_score_, weights=weights)
+    print(' ')
+    print("#-------------------------------------------------------------------------------------#")
+    print('recomputed weighted metrics ')
+    print('weighted precision', precision_, 'weighted recall', recall_, 'weighted_fscore', f_score_)
+    print(' ')
+    print("#-------------------------------------------------------------------------------------#")
+    print('classification report')
+    print(metrics.classification_report(y_truth, y_predict, target_names=classes))
+
     logging.debug(f'SKLEARN EVAL: {f1}, {precision}, {recall}')
 
     return precision, recall, f1, float(exact_match)/float(len(truth))
@@ -300,7 +368,7 @@ def evaluate_files(gold_file, submission_file, output_file=None):
         assert all([x.text == y.text for x, y in zip(y_true, y_pred)])
 
         # Process data using classes: -, C & E
-        f1, precision, recall, exact_match = evaluate(y_true, y_pred, ['-', 'C', 'E'])
+        precision, recall, f1, exact_match = evaluate(y_true, y_pred, ['-', 'C', 'E'])
 
         scores = [
             "F1: %f\n" % f1,
@@ -394,7 +462,7 @@ class Test(unittest.TestCase):
         # Round result to 2 decimals
         result = tuple(map(lambda x: round(x, 2), result))
         with self.subTest(value='evaluate'):
-            self.assertEqual(result, (f1, precision, recall, exact_match))
+            self.assertEqual(result, (precision, recall, f1, exact_match))
 
     def test_0(self):
         """ Identity """
