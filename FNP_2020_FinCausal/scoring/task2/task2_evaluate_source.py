@@ -275,37 +275,69 @@ def evaluate(truth, predict, classes):
 
 
     import numpy as np
+    """
+    Sklearn Multiclass confusion matrix is:
+    y_true = ["cat", "ant", "cat", "cat", "ant", "bird"]
+    y_pred = ["ant", "ant", "cat", "cat", "ant", "cat"]
+    cmc = multilabel_confusion_matrix(y_true, y_pred, labels=["ant", "bird", "cat"])
+    cmc
+    array([[[3, 1],
+            [0, 2]],
+            
+           [[5, 0],
+            [1, 0]],
+
+           [[2, 1],
+            [1, 2]]])
+            
+    cm_ant = cmc[0]
+    tp = cm_ant[1,1]	has been classified as ant and is ant
+    fp = cm_ant[0,1]	has been classified as ant and is sth else
+    fn = cm_ant[1,0]    has been classified as sth else than ant and is ant
+    tn = cm_ant[0,0]    has been classified as sth else than ant and is something else
+
+    """
+    print(' ')
+    print('raw metrics')
+    print("#-------------------------------------------------------------------------------------#")
 
     MCM = metrics.multilabel_confusion_matrix(y_truth, y_predict, labels=classes)
     tp_sum = MCM[:, 1, 1]
     print('tp_sum ', tp_sum)
     pred_sum = tp_sum + MCM[:, 0, 1]
-    print(pred_sum)
+    print('predicted in the classes ', pred_sum)
     true_sum = tp_sum + MCM[:, 1, 0]
-    print('tp + tn support ', true_sum)
-    beta = 1
-    beta2 = beta ** 2
-    denom = beta2 * precision + recall
-    print('denom', denom)
-    #denom[denom == 0.] = 1  # avoid division by 0
-    f_score_ = (1 + beta2) * precision * recall / denom
-    print('raw f_score ', f_score_)
+    print('actually in the classes (tp + fn: support) ', true_sum)
+
     """beta : float, 1.0 by default
     The strength of recall versus precision in the F-score."""
 
     precision_ = tp_sum / pred_sum
-    print('raw precision ', precision_)
     recall_ = tp_sum / true_sum
-    print('raw recall', recall_)
-    #recompute for average from source
+    beta = 1.0
+    beta2 = beta ** 2
+    denom = beta2 * precision_ + recall_
+    print('denom', denom)
+    denom[denom == 0.] = 1  # avoid division by 0
     weights = true_sum
     print("weights", weights)
+    print(' ')
+    print("#-------------------------------------------------------------------------------------#")
+    print('macro scores')
+    f_score_ = (1 + beta2) * precision_ * recall_ / denom
+    print('macro precision ', sum(precision_)/3, 'macro recall', sum(recall_)/3, 'macro f_score ', sum(f_score_)/3)
+
+    ## recompute for average from source
+
     precision_ = np.average(precision_, weights=weights)
     recall_ = np.average(recall_, weights=weights)
-    #f_score_ = np.average(f_score_, weights=weights)
-    print('recomputed metrics ')
-    print('weighted precision', precision_, 'weighted recall', recall_, 'micro_fscore', f_score_)
-
+    f_score_ = np.average(f_score_, weights=weights)
+    print(' ')
+    print("#-------------------------------------------------------------------------------------#")
+    print('recomputed weighted metrics ')
+    print('weighted precision', precision_, 'weighted recall', recall_, 'weighted_fscore', f_score_)
+    print(' ')
+    print("#-------------------------------------------------------------------------------------#")
     print('classification report')
     print(metrics.classification_report(y_truth, y_predict, target_names=classes))
 
@@ -365,9 +397,14 @@ def evaluate_files(gold_file, submission_file, output_file=None):
         logging.info(f'Load Data: check data set length = {len(y_true) == len(y_pred)}')
         logging.info(f'Load Data: check data set ref. text = {all([x.text == y.text for x, y in zip(y_true, y_pred)])}')
         assert len(y_true) == len(y_pred)
-        assert all([x.text == y.text for x, y in zip(y_true, y_pred)])
+        try:
+            assert all([x.text == y.text for x, y in zip(y_true, y_pred)])
+        except:
+            for x, y in zip(y_true, y_pred):
+                if not x.text == y.text:
+                    print(x.index, y.index)
 
-        # Process data using classes: -, C & E
+                # Process data using classes: -, C & E
         precision, recall, f1, exact_match = evaluate(y_true, y_pred, ['-', 'C', 'E'])
 
         scores = [
@@ -383,6 +420,26 @@ def evaluate_files(gold_file, submission_file, output_file=None):
             with open(output_file, 'w', encoding='utf-8') as fp:
                 for s in scores:
                     fp.write(s)
+
+        from csv import reader, writer
+        # import pandas as pd
+        # in_ = pd.read_csv('baseline/task2/models/0/controls_0.csv', sep='~', header=0)
+        # print(in_.columns)
+        # in_['predbuilt'] = [list(predicted[4]) for predicted in y_pred]
+        # # Open the input_file in read mode and output_file in write mode
+        # in_.to_csv('baseline/task2/models/0/controls_00.csv', sep = '~', index =0, header=0)
+        # with open('baseline/task2/models/0/controls_0.csv', 'r') as read_obj, \
+        #         open('baseline/task2/models/0/controls_00.csv', 'w', newline='') as write_obj:
+        #     # Create a csv.reader object from the input file object
+        #     csv_reader = reader(read_obj)
+        #     # Create a csv.writer object from the output file object
+        #     csv_writer = writer(write_obj)
+        #     # Read each row of the input csv file as list
+        #     for row, predicted in zip(csv_reader, y_pred):
+        #         # Append the default text in the row / list
+        #         row.append(', '.join([element for element in predicted[4]]))
+        #         # Add the updated row / list to the output file
+        #         csv_writer.writerow(row)
     else:
         # Submission file most likely being the wrong one - tell which one we are looking for
         logging.error(f'{os.path.basename(gold_file)} not found')
