@@ -42,6 +42,7 @@ def make_data(df):
     map_ = [('cause', 'C'), ('effect', 'E')]
     hometags = make_causal_input(lodict_, map_)
     postags = nltkPOS([i['sentence'] for i in lodict_])
+    tokens = ((token for token in word_tokenize(sent)) for sent in df.Text.tolist())
 
     data = []
     for i, (j, k) in enumerate(zip(hometags, postags)):
@@ -50,7 +51,7 @@ def make_data(df):
     X = [extract_features(doc) for doc in data]
     y = [get_multi_labels(doc) for doc in data]
 
-    return X, y
+    return X, y, tokens
 
 
 
@@ -90,8 +91,9 @@ if __name__ == '__main__':
     train = df.drop(test.index)
 
 
-    X_train, y_train = make_data(train)
-    X_test, y_test = make_data(test)
+    X_train, y_train, _ = make_data(train)
+    X_test, y_test, tokens_test = make_data(test)
+    print(tokens_test)
 
     # Declare trainer
     trainer = pycrfsuite.Trainer(verbose=True)
@@ -177,12 +179,20 @@ if __name__ == '__main__':
     # print results and make tagged sentences
     # Please note that simple rebuilding of the sentences from tags will create non meaningfull sentences most of the time,
     # because of the model chosen (tokenizer)
+    # ll = []
+    # for i in range(len(X_test)):
+    #     l = defaultdict(list)
+    #     for j, (y, z) in enumerate(zip(y_pred[i], list(zip(*[[v for k, v in x.items()] for x in X_test[i]]))[1])):
+    #         print(y, z)
+    #         l[j] = (z, y)
+    #     ll.append(l)
+
     ll = []
-    for i in range(len(X_test)):
+    for i, (pred, token) in enumerate(zip(y_pred, tokens_test)):
         l = defaultdict(list)
-        for j, (y, z) in enumerate(zip(y_pred[i], list(zip(*[[v for k, v in x.items()] for x in X_test[i]]))[1])):
-            print(y, z)
-            l[j] = (z, y)
+        for j, (y, word) in enumerate(zip(pred, token)):
+            print(y, word)
+            l[j] = (word, y)
         ll.append(l)
 
     nl = []
@@ -271,7 +281,6 @@ if __name__ == '__main__':
     print('Recall: ', F1metrics[1])
 
     print('exact match: ', len(nl) - sum([i["diverge"] for i in nl if i['diverge']==1]), 'over', len(nl), ' total sentences)')
-
 
     # # Print out task2 metrics
     print('************************ task2 metrics ***************************', '\t')

@@ -57,7 +57,9 @@ def make_causal_input(lod, map_, silent=True):
             d_[idx].append([tuple([d[idx][0][0], '_']), d[idx][0][1]])
 
         init_e = line.find(effe)
+        init_e = 0 if init_e == -1 else init_e
         init_c = line.find(caus)
+        init_c = 0 if init_c == -1 else init_c
 
         for c, cl in enumerate(word_tokenize(caus)):
             print('init_c', init_c)
