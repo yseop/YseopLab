@@ -387,6 +387,22 @@ def evaluate_files(gold_file, submission_file, output_file=None):
         # Submission file most likely being the wrong one - tell which one we are looking for
         logging.error(f'{os.path.basename(gold_file)} not found')
 
+    ## Save for control
+    import pandas as pd
+    df = pd.DataFrame.from_records(y_true)
+    df.columns = ['Index', 'Text', 'Cause', 'Effect', 'TRUTH']
+    dfpred = pd.DataFrame.from_records(y_pred)
+    dfpred.columns = ['Index', 'Text', 'Cause', 'Effect', 'PRED']
+    df['PRED'] = dfpred['PRED']
+    df['TRUTH'] = df['TRUTH'].apply(lambda x: ' '.join(x))
+    df['PRED'] = df['PRED'].apply(lambda x: ' '.join(x))
+
+
+    ctrlpath = submission_file.split('/')
+    ctrlpath.pop()
+    ctrlpath = '/'.join([path_ for path_ in ctrlpath])
+    df.to_csv(os.path.join(ctrlpath, 'origin_control.csv'), header=1, index=0)
+
 
 def from_folder(args):
     # Folder mode - Codalab usage
