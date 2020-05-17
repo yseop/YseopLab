@@ -52,7 +52,6 @@ def make_causal_input(lod, map_, silent=True):
 
             if not index == -1:
                 d[idx].append([w, index])
-                #print(w, index)
                 index += len(w)
 
         d_ = defaultdict(list)
@@ -65,38 +64,22 @@ def make_causal_input(lod, map_, silent=True):
         init_c = 0 if init_c == -1 else init_c
 
         for c, cl in enumerate(word_tokenize(caus)):
-            #print('init_c', init_c)
             init_c = line.find(cl, init_c)
-            #print('start Cause', init_c)
-            #stop = line.find(cl, init_c) + len(cl)
-            #word = line[init_c:stop]
-            #print('word', word.upper(), 'el', cl.upper())
-
             for idx in d_:
                 if int(init_c) == int(d_[idx][0][1]):
                     und_ = defaultdict(list)
                     und_[idx].append([tuple([cl, 'C']), line.find(cl, init_c)])
                     d_[idx] = und_[idx]
-
             init_c += len(cl)
-            #print('increment_c', init_c)
 
         for e, el in enumerate(word_tokenize(effe)):
-            #print('init_e', init_e)
             init_e = line.find(el, init_e)
-            #print('start Effect', init_e)
-            #stop = line.find(el, init_e) + len(el)
-            #word = line[init_e:stop]
-            #print('word', word.upper(), 'el', el.upper())
-
             for idx in d_:
                 if int(init_e) == int(d_[idx][0][1]):
                     und_ = defaultdict(list)
-                    und_[idx].append([tuple([word, 'E']), line.find(word, init_e)])
+                    und_[idx].append([tuple([el, 'E']), line.find(el, init_e)])
                     d_[idx] = und_[idx]
-
-            init_e += len(word)
-            #print('init_e', init_e)
+            init_e += len(el)
 
         dd[i].append(d_)
 
