@@ -41,6 +41,9 @@ def make_data(df):
 
     map_ = [('cause', 'C'), ('effect', 'E')]
     hometags = make_causal_input(lodict_, map_)
+
+    ds = [[(k, v) for k, v in x_] for x_ in hometags]
+    logging.debug(pformat(ds))
     postags = nltkPOS([i['sentence'] for i in lodict_])
     tokens = ((token for token in word_tokenize(sent)) for sent in df.Text.tolist())
 
@@ -81,7 +84,6 @@ if __name__ == '__main__':
     # -------------------------------------------------------------------------------------#
 
     df = pd.read_csv(args.inrepo, delimiter='; ', engine='python', header=0)
-
     # Make train and test sets keeping multiple cause / effects blocks together.
     df['IdxSplit'] = df.Index.apply(lambda x: ''.join(x.split(".")[0:2]))
     df.set_index('IdxSplit', inplace=True)
