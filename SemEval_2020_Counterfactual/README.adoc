@@ -1,0 +1,9 @@
+SemEval-2020
+------------
+
+Submission source code for SemEval-2020 Task 5:  Modeling Causal Reasoning inLanguage:  Detecting Counterfactuals.
+
+References
+~~~~~~~~~~
+
+https://competitions.codalab.org/competitions/21691[SemEval-2020 Task5: Modelling Causal Reasoning in Language: Detecting Counterfactuals^]

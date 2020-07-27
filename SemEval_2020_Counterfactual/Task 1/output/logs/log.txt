@@ -1,0 +1,1973 @@
+----- SPLIT  1  -----
+hook           4
+tinto          4
+crystal        4
+prudenti       4
+honour         4
+              ..
+ladybug        1
+'unwind        1
+zack           1
+schofield      1
+bare-market    1
+Length: 11516, dtype: int64
+instrument          4
+supervis            4
+anonym              4
+monopoli            4
+throat              4
+                   ..
+//bit.ly/1t9z8qd    1
+shove               1
+giordano            1
+jitteri             1
+orkambi             1
+Length: 7999, dtype: int64
+(8666, 3513)
+(8666, 20000)
+(8666, 20000)
+(8666, 100)
+(8666, 100)
+(8666, 1024)
+----------------------------------------- Training KNN classifier ........................................
+***** KNN BOW *****
+Accuracy: 82.65
+
+Confusion Matrix:
+ [[3516  351]
+ [ 401   66]]
+              precision    recall  f1-score   support
+
+           0       0.90      0.91      0.90      3867
+           1       0.16      0.14      0.15       467
+
+    accuracy                           0.83      4334
+   macro avg       0.53      0.53      0.53      4334
+weighted avg       0.82      0.83      0.82      4334
+
+Area under the ROC curve : 0.572162
+
+
+***** KNN TF-IDF STOPWORDS *****
+Accuracy: 89.06
+
+Confusion Matrix:
+ [[3704  163]
+ [ 311  156]]
+              precision    recall  f1-score   support
+
+           0       0.92      0.96      0.94      3867
+           1       0.49      0.33      0.40       467
+
+    accuracy                           0.89      4334
+   macro avg       0.71      0.65      0.67      4334
+weighted avg       0.88      0.89      0.88      4334
+
+Area under the ROC curve : 0.742928
+
+
+***** KNN TF-IDF NO STOPWORDS *****
+Accuracy: 89.34
+
+Confusion Matrix:
+ [[3866    1]
+ [ 461    6]]
+              precision    recall  f1-score   support
+
+           0       0.89      1.00      0.94      3867
+           1       0.86      0.01      0.03       467
+
+    accuracy                           0.89      4334
+   macro avg       0.88      0.51      0.48      4334
+weighted avg       0.89      0.89      0.84      4334
+
+Area under the ROC curve : 0.508011
+
+
+***** KNN W2VEC STOPWORDS *****
+Accuracy: 87.52
+
+Confusion Matrix:
+ [[3705  162]
+ [ 379   88]]
+              precision    recall  f1-score   support
+
+           0       0.91      0.96      0.93      3867
+           1       0.35      0.19      0.25       467
+
+    accuracy                           0.88      4334
+   macro avg       0.63      0.57      0.59      4334
+weighted avg       0.85      0.88      0.86      4334
+
+Area under the ROC curve : 0.644045
+
+
+***** KNN W2VEC NO STOPWORDS *****
+Accuracy: 87.82
+
+Confusion Matrix:
+ [[3787   80]
+ [ 448   19]]
+              precision    recall  f1-score   support
+
+           0       0.89      0.98      0.93      3867
+           1       0.19      0.04      0.07       467
+
+    accuracy                           0.88      4334
+   macro avg       0.54      0.51      0.50      4334
+weighted avg       0.82      0.88      0.84      4334
+
+Area under the ROC curve : 0.528055
+
+
+***** KNN BERT SENTENCES *****
+Accuracy: 89.64
+
+Confusion Matrix:
+ [[3795   72]
+ [ 377   90]]
+              precision    recall  f1-score   support
+
+           0       0.91      0.98      0.94      3867
+           1       0.56      0.19      0.29       467
+
+    accuracy                           0.90      4334
+   macro avg       0.73      0.59      0.62      4334
+weighted avg       0.87      0.90      0.87      4334
+
+Area under the ROC curve : 0.676479
+
+
+----------------------------------------- Training SVM classifier ........................................
+***** SVM BOW *****
+Accuracy: 86.25
+
+Confusion Matrix:
+ [[3635  232]
+ [ 364  103]]
+              precision    recall  f1-score   support
+
+           0       0.91      0.94      0.92      3867
+           1       0.31      0.22      0.26       467
+
+    accuracy                           0.86      4334
+   macro avg       0.61      0.58      0.59      4334
+weighted avg       0.84      0.86      0.85      4334
+
+Area under the ROC curve : 0.708709
+
+
+***** SVM TF-IDF STOPWORDS *****
+Accuracy: 92.18
+
+Confusion Matrix:
+ [[3823   44]
+ [ 295  172]]
+              precision    recall  f1-score   support
+
+           0       0.93      0.99      0.96      3867
+           1       0.80      0.37      0.50       467
+
+    accuracy                           0.92      4334
+   macro avg       0.86      0.68      0.73      4334
+weighted avg       0.91      0.92      0.91      4334
+
+Area under the ROC curve : 0.921394
+
+
+***** SVM TF-IDF NO STOPWORDS *****
+Accuracy: 89.43
+
+Confusion Matrix:
+ [[3855   12]
+ [ 446   21]]
+              precision    recall  f1-score   support
+
+           0       0.90      1.00      0.94      3867
+           1       0.64      0.04      0.08       467
+
+    accuracy                           0.89      4334
+   macro avg       0.77      0.52      0.51      4334
+weighted avg       0.87      0.89      0.85      4334
+
+Area under the ROC curve : 0.709938
+
+
+***** SVM W2VEC STOPWORDS *****
+Accuracy: 89.22
+
+Confusion Matrix:
+ [[3867    0]
+ [ 467    0]]
+              precision    recall  f1-score   support
+
+           0       0.89      1.00      0.94      3867
+           1       0.00      0.00      0.00       467
+
+    accuracy                           0.89      4334
+   macro avg       0.45      0.50      0.47      4334
+weighted avg       0.80      0.89      0.84      4334
+
+Area under the ROC curve : 0.861110
+
+
+***** SVM W2VEC NO STOPWORDS *****
+Accuracy: 89.22
+
+Confusion Matrix:
+ [[3867    0]
+ [ 467    0]]
+              precision    recall  f1-score   support
+
+           0       0.89      1.00      0.94      3867
+           1       0.00      0.00      0.00       467
+
+    accuracy                           0.89      4334
+   macro avg       0.45      0.50      0.47      4334
+weighted avg       0.80      0.89      0.84      4334
+
+Area under the ROC curve : 0.625898
+
+
+***** SVM BERT SENTENCES *****
+Accuracy: 91.81
+
+Confusion Matrix:
+ [[3671  196]
+ [ 159  308]]
+              precision    recall  f1-score   support
+
+           0       0.96      0.95      0.95      3867
+           1       0.61      0.66      0.63       467
+
+    accuracy                           0.92      4334
+   macro avg       0.78      0.80      0.79      4334
+weighted avg       0.92      0.92      0.92      4334
+
+Area under the ROC curve : 0.907383
+
+
+***** NB BOW *****
+Accuracy: 87.96
+
+Confusion Matrix:
+ [[3761  106]
+ [ 416   51]]
+              precision    recall  f1-score   support
+
+           0       0.90      0.97      0.94      3867
+           1       0.32      0.11      0.16       467
+
+    accuracy                           0.88      4334
+   macro avg       0.61      0.54      0.55      4334
+weighted avg       0.84      0.88      0.85      4334
+
+Area under the ROC curve : 0.731250
+
+
+***** NB TF-IDF STOPWORDS *****
+Accuracy: 89.22
+
+Confusion Matrix:
+ [[3867    0]
+ [ 467    0]]
+              precision    recall  f1-score   support
+
+           0       0.89      1.00      0.94      3867
+           1       0.00      0.00      0.00       467
+
+    accuracy                           0.89      4334
+   macro avg       0.45      0.50      0.47      4334
+weighted avg       0.80      0.89      0.84      4334
+
+Area under the ROC curve : 0.818526
+
+
+***** NB TF-IDF NO STOPWORDS *****
+Accuracy: 89.22
+
+Confusion Matrix:
+ [[3867    0]
+ [ 467    0]]
+              precision    recall  f1-score   support
+
+           0       0.89      1.00      0.94      3867
+           1       0.00      0.00      0.00       467
+
+    accuracy                           0.89      4334
+   macro avg       0.45      0.50      0.47      4334
+weighted avg       0.80      0.89      0.84      4334
+
+Area under the ROC curve : 0.714218
+
+
+***** NB W2VEC STOPWORDS *****
+Accuracy: 75.31
+
+Confusion Matrix:
+ [[3013  854]
+ [ 216  251]]
+              precision    recall  f1-score   support
+
+           0       0.93      0.78      0.85      3867
+           1       0.23      0.54      0.32       467
+
+    accuracy                           0.75      4334
+   macro avg       0.58      0.66      0.58      4334
+weighted avg       0.86      0.75      0.79      4334
+
+Area under the ROC curve : 0.740670
+
+
+***** NB W2VEC NO STOPWORDS *****
+Accuracy: 68.53
+
+Confusion Matrix:
+ [[2827 1040]
+ [ 324  143]]
+              precision    recall  f1-score   support
+
+           0       0.90      0.73      0.81      3867
+           1       0.12      0.31      0.17       467
+
+    accuracy                           0.69      4334
+   macro avg       0.51      0.52      0.49      4334
+weighted avg       0.81      0.69      0.74      4334
+
+Area under the ROC curve : 0.532887
+
+
+***** NB BERT SENTENCES *****
+Accuracy: 79.53
+
+Confusion Matrix:
+ [[3139  728]
+ [ 159  308]]
+              precision    recall  f1-score   support
+
+           0       0.95      0.81      0.88      3867
+           1       0.30      0.66      0.41       467
+
+    accuracy                           0.80      4334
+   macro avg       0.62      0.74      0.64      4334
+weighted avg       0.88      0.80      0.83      4334
+
+Area under the ROC curve : 0.811179
+
+
+***** DT BOW *****
+Accuracy: 84.26
+
+Confusion Matrix:
+ [[3583  284]
+ [ 398   69]]
+              precision    recall  f1-score   support
+
+           0       0.90      0.93      0.91      3867
+           1       0.20      0.15      0.17       467
+
+    accuracy                           0.84      4334
+   macro avg       0.55      0.54      0.54      4334
+weighted avg       0.82      0.84      0.83      4334
+
+Area under the ROC curve : 0.547409
+
+
+***** DT TF-IDF STOPWORDS *****
+Accuracy: 87.01
+
+Confusion Matrix:
+ [[3561  306]
+ [ 257  210]]
+              precision    recall  f1-score   support
+
+           0       0.93      0.92      0.93      3867
+           1       0.41      0.45      0.43       467
+
+    accuracy                           0.87      4334
+   macro avg       0.67      0.69      0.68      4334
+weighted avg       0.88      0.87      0.87      4334
+
+Area under the ROC curve : 0.685274
+
+
+***** DT TF-IDF NO STOPWORDS *****
+Accuracy: 81.93
+
+Confusion Matrix:
+ [[3446  421]
+ [ 362  105]]
+              precision    recall  f1-score   support
+
+           0       0.90      0.89      0.90      3867
+           1       0.20      0.22      0.21       467
+
+    accuracy                           0.82      4334
+   macro avg       0.55      0.56      0.55      4334
+weighted avg       0.83      0.82      0.82      4334
+
+Area under the ROC curve : 0.566539
+
+
+***** DT W2VEC STOPWORDS *****
+Accuracy: 81.50
+
+Confusion Matrix:
+ [[3398  469]
+ [ 333  134]]
+              precision    recall  f1-score   support
+
+           0       0.91      0.88      0.89      3867
+           1       0.22      0.29      0.25       467
+
+    accuracy                           0.81      4334
+   macro avg       0.57      0.58      0.57      4334
+weighted avg       0.84      0.81      0.83      4334
+
+Area under the ROC curve : 0.582828
+
+
+***** DT W2VEC NO STOPWORDS *****
+Accuracy: 79.12
+
+Confusion Matrix:
+ [[3362  505]
+ [ 400   67]]
+              precision    recall  f1-score   support
+
+           0       0.89      0.87      0.88      3867
+           1       0.12      0.14      0.13       467
+
+    accuracy                           0.79      4334
+   macro avg       0.51      0.51      0.51      4334
+weighted avg       0.81      0.79      0.80      4334
+
+Area under the ROC curve : 0.506438
+
+
+***** DT BERT SENTENCES *****
+Accuracy: 82.83
+
+Confusion Matrix:
+ [[3461  406]
+ [ 338  129]]
+              precision    recall  f1-score   support
+
+           0       0.91      0.90      0.90      3867
+           1       0.24      0.28      0.26       467
+
+    accuracy                           0.83      4334
+   macro avg       0.58      0.59      0.58      4334
+weighted avg       0.84      0.83      0.83      4334
+
+Area under the ROC curve : 0.585620
+
+
+***** RF BOW *****
+Accuracy: 88.79
+
+Confusion Matrix:
+ [[3810   57]
+ [ 429   38]]
+              precision    recall  f1-score   support
+
+           0       0.90      0.99      0.94      3867
+           1       0.40      0.08      0.14       467
+
+    accuracy                           0.89      4334
+   macro avg       0.65      0.53      0.54      4334
+weighted avg       0.85      0.89      0.85      4334
+
+Area under the ROC curve : 0.620700
+
+
+***** RF TF-IDF STOPWORDS *****
+Accuracy: 91.21
+
+Confusion Matrix:
+ [[3854   13]
+ [ 368   99]]
+              precision    recall  f1-score   support
+
+           0       0.91      1.00      0.95      3867
+           1       0.88      0.21      0.34       467
+
+    accuracy                           0.91      4334
+   macro avg       0.90      0.60      0.65      4334
+weighted avg       0.91      0.91      0.89      4334
+
+Area under the ROC curve : 0.888903
+
+
+***** RF TF-IDF NO STOPWORDS *****
+Accuracy: 88.86
+
+Confusion Matrix:
+ [[3821   46]
+ [ 437   30]]
+              precision    recall  f1-score   support
+
+           0       0.90      0.99      0.94      3867
+           1       0.39      0.06      0.11       467
+
+    accuracy                           0.89      4334
+   macro avg       0.65      0.53      0.53      4334
+weighted avg       0.84      0.89      0.85      4334
+
+Area under the ROC curve : 0.692354
+
+
+***** RF W2VEC STOPWORDS *****
+Accuracy: 89.48
+
+Confusion Matrix:
+ [[3811   56]
+ [ 400   67]]
+              precision    recall  f1-score   support
+
+           0       0.91      0.99      0.94      3867
+           1       0.54      0.14      0.23       467
+
+    accuracy                           0.89      4334
+   macro avg       0.72      0.56      0.59      4334
+weighted avg       0.87      0.89      0.87      4334
+
+Area under the ROC curve : 0.794070
+
+
+***** RF W2VEC NO STOPWORDS *****
+Accuracy: 89.18
+
+Confusion Matrix:
+ [[3856   11]
+ [ 458    9]]
+              precision    recall  f1-score   support
+
+           0       0.89      1.00      0.94      3867
+           1       0.45      0.02      0.04       467
+
+    accuracy                           0.89      4334
+   macro avg       0.67      0.51      0.49      4334
+weighted avg       0.85      0.89      0.85      4334
+
+Area under the ROC curve : 0.601992
+
+
+***** RF BERT SENTENCES *****
+Accuracy: 89.89
+
+Confusion Matrix:
+ [[3867    0]
+ [ 438   29]]
+              precision    recall  f1-score   support
+
+           0       0.90      1.00      0.95      3867
+           1       1.00      0.06      0.12       467
+
+    accuracy                           0.90      4334
+   macro avg       0.95      0.53      0.53      4334
+weighted avg       0.91      0.90      0.86      4334
+
+Area under the ROC curve : 0.783636
+
+
+***** MLP BERT SENTENCES *****
+Accuracy: 91.72
+
+Confusion Matrix:
+ [[3697  170]
+ [ 189  278]]
+              precision    recall  f1-score   support
+
+           0       0.95      0.96      0.95      3867
+           1       0.62      0.60      0.61       467
+
+    accuracy                           0.92      4334
+   macro avg       0.79      0.78      0.78      4334
+weighted avg       0.92      0.92      0.92      4334
+
+Area under the ROC curve : 0.906350
+
+
+----- SPLIT  2  -----
+premier       4
+badli         4
+charlott      4
+pack          4
+dead          4
+             ..
+sling         1
+coloni        1
+siren         1
+heidelberg    1
+1996          1
+Length: 11448, dtype: int64
+fraudul     4
+thoma       4
+advisor     4
+prohibit    4
+toy         4
+           ..
+demot       1
+catz        1
+variat      1
+rafael      1
+chunk       1
+Length: 8127, dtype: int64
+(8667, 3551)
+(8667, 20000)
+(8667, 20000)
+(8667, 100)
+(8667, 100)
+(8667, 1024)
+----------------------------------------- Training KNN classifier ........................................
+***** KNN BOW *****
+Accuracy: 83.01
+
+Confusion Matrix:
+ [[3519  334]
+ [ 402   78]]
+              precision    recall  f1-score   support
+
+           0       0.90      0.91      0.91      3853
+           1       0.19      0.16      0.17       480
+
+    accuracy                           0.83      4333
+   macro avg       0.54      0.54      0.54      4333
+weighted avg       0.82      0.83      0.82      4333
+
+Area under the ROC curve : 0.552981
+
+
+***** KNN TF-IDF STOPWORDS *****
+Accuracy: 88.92
+
+Confusion Matrix:
+ [[3698  155]
+ [ 325  155]]
+              precision    recall  f1-score   support
+
+           0       0.92      0.96      0.94      3853
+           1       0.50      0.32      0.39       480
+
+    accuracy                           0.89      4333
+   macro avg       0.71      0.64      0.67      4333
+weighted avg       0.87      0.89      0.88      4333
+
+Area under the ROC curve : 0.710619
+
+
+***** KNN TF-IDF NO STOPWORDS *****
+Accuracy: 89.11
+
+Confusion Matrix:
+ [[3851    2]
+ [ 470   10]]
+              precision    recall  f1-score   support
+
+           0       0.89      1.00      0.94      3853
+           1       0.83      0.02      0.04       480
+
+    accuracy                           0.89      4333
+   macro avg       0.86      0.51      0.49      4333
+weighted avg       0.88      0.89      0.84      4333
+
+Area under the ROC curve : 0.522979
+
+
+***** KNN W2VEC STOPWORDS *****
+Accuracy: 87.77
+
+Confusion Matrix:
+ [[3698  155]
+ [ 375  105]]
+              precision    recall  f1-score   support
+
+           0       0.91      0.96      0.93      3853
+           1       0.40      0.22      0.28       480
+
+    accuracy                           0.88      4333
+   macro avg       0.66      0.59      0.61      4333
+weighted avg       0.85      0.88      0.86      4333
+
+Area under the ROC curve : 0.657932
+
+
+***** KNN W2VEC NO STOPWORDS *****
+Accuracy: 87.28
+
+Confusion Matrix:
+ [[3758   95]
+ [ 456   24]]
+              precision    recall  f1-score   support
+
+           0       0.89      0.98      0.93      3853
+           1       0.20      0.05      0.08       480
+
+    accuracy                           0.87      4333
+   macro avg       0.55      0.51      0.51      4333
+weighted avg       0.82      0.87      0.84      4333
+
+Area under the ROC curve : 0.530288
+
+
+***** KNN BERT SENTENCES *****
+Accuracy: 88.92
+
+Confusion Matrix:
+ [[3756   97]
+ [ 383   97]]
+              precision    recall  f1-score   support
+
+           0       0.91      0.97      0.94      3853
+           1       0.50      0.20      0.29       480
+
+    accuracy                           0.89      4333
+   macro avg       0.70      0.59      0.61      4333
+weighted avg       0.86      0.89      0.87      4333
+
+Area under the ROC curve : 0.679319
+
+
+----------------------------------------- Training SVM classifier ........................................
+***** SVM BOW *****
+Accuracy: 85.55
+
+Confusion Matrix:
+ [[3596  257]
+ [ 369  111]]
+              precision    recall  f1-score   support
+
+           0       0.91      0.93      0.92      3853
+           1       0.30      0.23      0.26       480
+
+    accuracy                           0.86      4333
+   macro avg       0.60      0.58      0.59      4333
+weighted avg       0.84      0.86      0.85      4333
+
+Area under the ROC curve : 0.708948
+
+
+***** SVM TF-IDF STOPWORDS *****
+Accuracy: 92.27
+
+Confusion Matrix:
+ [[3805   48]
+ [ 287  193]]
+              precision    recall  f1-score   support
+
+           0       0.93      0.99      0.96      3853
+           1       0.80      0.40      0.54       480
+
+    accuracy                           0.92      4333
+   macro avg       0.87      0.69      0.75      4333
+weighted avg       0.92      0.92      0.91      4333
+
+Area under the ROC curve : 0.917713
+
+
+***** SVM TF-IDF NO STOPWORDS *****
+Accuracy: 89.34
+
+Confusion Matrix:
+ [[3842   11]
+ [ 451   29]]
+              precision    recall  f1-score   support
+
+           0       0.89      1.00      0.94      3853
+           1       0.72      0.06      0.11       480
+
+    accuracy                           0.89      4333
+   macro avg       0.81      0.53      0.53      4333
+weighted avg       0.88      0.89      0.85      4333
+
+Area under the ROC curve : 0.706014
+
+
+***** SVM W2VEC STOPWORDS *****
+Accuracy: 88.92
+
+Confusion Matrix:
+ [[3853    0]
+ [ 480    0]]
+              precision    recall  f1-score   support
+
+           0       0.89      1.00      0.94      3853
+           1       0.00      0.00      0.00       480
+
+    accuracy                           0.89      4333
+   macro avg       0.44      0.50      0.47      4333
+weighted avg       0.79      0.89      0.84      4333
+
+Area under the ROC curve : 0.871738
+
+
+***** SVM W2VEC NO STOPWORDS *****
+Accuracy: 88.92
+
+Confusion Matrix:
+ [[3853    0]
+ [ 480    0]]
+              precision    recall  f1-score   support
+
+           0       0.89      1.00      0.94      3853
+           1       0.00      0.00      0.00       480
+
+    accuracy                           0.89      4333
+   macro avg       0.44      0.50      0.47      4333
+weighted avg       0.79      0.89      0.84      4333
+
+Area under the ROC curve : 0.615023
+
+
+***** SVM BERT SENTENCES *****
+Accuracy: 91.92
+
+Confusion Matrix:
+ [[3670  183]
+ [ 167  313]]
+              precision    recall  f1-score   support
+
+           0       0.96      0.95      0.95      3853
+           1       0.63      0.65      0.64       480
+
+    accuracy                           0.92      4333
+   macro avg       0.79      0.80      0.80      4333
+weighted avg       0.92      0.92      0.92      4333
+
+Area under the ROC curve : 0.905414
+
+
+***** NB BOW *****
+Accuracy: 88.41
+
+Confusion Matrix:
+ [[3785   68]
+ [ 434   46]]
+              precision    recall  f1-score   support
+
+           0       0.90      0.98      0.94      3853
+           1       0.40      0.10      0.15       480
+
+    accuracy                           0.88      4333
+   macro avg       0.65      0.54      0.55      4333
+weighted avg       0.84      0.88      0.85      4333
+
+Area under the ROC curve : 0.730700
+
+
+***** NB TF-IDF STOPWORDS *****
+Accuracy: 88.92
+
+Confusion Matrix:
+ [[3853    0]
+ [ 480    0]]
+              precision    recall  f1-score   support
+
+           0       0.89      1.00      0.94      3853
+           1       0.00      0.00      0.00       480
+
+    accuracy                           0.89      4333
+   macro avg       0.44      0.50      0.47      4333
+weighted avg       0.79      0.89      0.84      4333
+
+Area under the ROC curve : 0.823469
+
+
+***** NB TF-IDF NO STOPWORDS *****
+Accuracy: 88.92
+
+Confusion Matrix:
+ [[3853    0]
+ [ 480    0]]
+              precision    recall  f1-score   support
+
+           0       0.89      1.00      0.94      3853
+           1       0.00      0.00      0.00       480
+
+    accuracy                           0.89      4333
+   macro avg       0.44      0.50      0.47      4333
+weighted avg       0.79      0.89      0.84      4333
+
+Area under the ROC curve : 0.715533
+
+
+***** NB W2VEC STOPWORDS *****
+Accuracy: 76.90
+
+Confusion Matrix:
+ [[3066  787]
+ [ 214  266]]
+              precision    recall  f1-score   support
+
+           0       0.93      0.80      0.86      3853
+           1       0.25      0.55      0.35       480
+
+    accuracy                           0.77      4333
+   macro avg       0.59      0.67      0.60      4333
+weighted avg       0.86      0.77      0.80      4333
+
+Area under the ROC curve : 0.770904
+
+
+***** NB W2VEC NO STOPWORDS *****
+Accuracy: 70.64
+
+Confusion Matrix:
+ [[2898  955]
+ [ 317  163]]
+              precision    recall  f1-score   support
+
+           0       0.90      0.75      0.82      3853
+           1       0.15      0.34      0.20       480
+
+    accuracy                           0.71      4333
+   macro avg       0.52      0.55      0.51      4333
+weighted avg       0.82      0.71      0.75      4333
+
+Area under the ROC curve : 0.564058
+
+
+***** NB BERT SENTENCES *****
+Accuracy: 81.12
+
+Confusion Matrix:
+ [[3171  682]
+ [ 136  344]]
+              precision    recall  f1-score   support
+
+           0       0.96      0.82      0.89      3853
+           1       0.34      0.72      0.46       480
+
+    accuracy                           0.81      4333
+   macro avg       0.65      0.77      0.67      4333
+weighted avg       0.89      0.81      0.84      4333
+
+Area under the ROC curve : 0.848751
+
+
+***** DT BOW *****
+Accuracy: 84.56
+
+Confusion Matrix:
+ [[3583  270]
+ [ 399   81]]
+              precision    recall  f1-score   support
+
+           0       0.90      0.93      0.91      3853
+           1       0.23      0.17      0.19       480
+
+    accuracy                           0.85      4333
+   macro avg       0.57      0.55      0.55      4333
+weighted avg       0.83      0.85      0.83      4333
+
+Area under the ROC curve : 0.555775
+
+
+***** DT TF-IDF STOPWORDS *****
+Accuracy: 88.35
+
+Confusion Matrix:
+ [[3598  255]
+ [ 250  230]]
+              precision    recall  f1-score   support
+
+           0       0.94      0.93      0.93      3853
+           1       0.47      0.48      0.48       480
+
+    accuracy                           0.88      4333
+   macro avg       0.70      0.71      0.71      4333
+weighted avg       0.88      0.88      0.88      4333
+
+Area under the ROC curve : 0.706492
+
+
+***** DT TF-IDF NO STOPWORDS *****
+Accuracy: 81.68
+
+Confusion Matrix:
+ [[3413  440]
+ [ 354  126]]
+              precision    recall  f1-score   support
+
+           0       0.91      0.89      0.90      3853
+           1       0.22      0.26      0.24       480
+
+    accuracy                           0.82      4333
+   macro avg       0.56      0.57      0.57      4333
+weighted avg       0.83      0.82      0.82      4333
+
+Area under the ROC curve : 0.581990
+
+
+***** DT W2VEC STOPWORDS *****
+Accuracy: 82.46
+
+Confusion Matrix:
+ [[3413  440]
+ [ 320  160]]
+              precision    recall  f1-score   support
+
+           0       0.91      0.89      0.90      3853
+           1       0.27      0.33      0.30       480
+
+    accuracy                           0.82      4333
+   macro avg       0.59      0.61      0.60      4333
+weighted avg       0.84      0.82      0.83      4333
+
+Area under the ROC curve : 0.609568
+
+
+***** DT W2VEC NO STOPWORDS *****
+Accuracy: 79.62
+
+Confusion Matrix:
+ [[3363  490]
+ [ 393   87]]
+              precision    recall  f1-score   support
+
+           0       0.90      0.87      0.88      3853
+           1       0.15      0.18      0.16       480
+
+    accuracy                           0.80      4333
+   macro avg       0.52      0.53      0.52      4333
+weighted avg       0.81      0.80      0.80      4333
+
+Area under the ROC curve : 0.527038
+
+
+***** DT BERT SENTENCES *****
+Accuracy: 83.36
+
+Confusion Matrix:
+ [[3470  383]
+ [ 338  142]]
+              precision    recall  f1-score   support
+
+           0       0.91      0.90      0.91      3853
+           1       0.27      0.30      0.28       480
+
+    accuracy                           0.83      4333
+   macro avg       0.59      0.60      0.59      4333
+weighted avg       0.84      0.83      0.84      4333
+
+Area under the ROC curve : 0.598215
+
+
+***** RF BOW *****
+Accuracy: 88.51
+
+Confusion Matrix:
+ [[3807   46]
+ [ 452   28]]
+              precision    recall  f1-score   support
+
+           0       0.89      0.99      0.94      3853
+           1       0.38      0.06      0.10       480
+
+    accuracy                           0.89      4333
+   macro avg       0.64      0.52      0.52      4333
+weighted avg       0.84      0.89      0.85      4333
+
+Area under the ROC curve : 0.647107
+
+
+***** RF TF-IDF STOPWORDS *****
+Accuracy: 91.02
+
+Confusion Matrix:
+ [[3841   12]
+ [ 377  103]]
+              precision    recall  f1-score   support
+
+           0       0.91      1.00      0.95      3853
+           1       0.90      0.21      0.35       480
+
+    accuracy                           0.91      4333
+   macro avg       0.90      0.61      0.65      4333
+weighted avg       0.91      0.91      0.88      4333
+
+Area under the ROC curve : 0.903808
+
+
+***** RF TF-IDF NO STOPWORDS *****
+Accuracy: 88.83
+
+Confusion Matrix:
+ [[3802   51]
+ [ 433   47]]
+              precision    recall  f1-score   support
+
+           0       0.90      0.99      0.94      3853
+           1       0.48      0.10      0.16       480
+
+    accuracy                           0.89      4333
+   macro avg       0.69      0.54      0.55      4333
+weighted avg       0.85      0.89      0.85      4333
+
+Area under the ROC curve : 0.703818
+
+
+***** RF W2VEC STOPWORDS *****
+Accuracy: 89.50
+
+Confusion Matrix:
+ [[3797   56]
+ [ 399   81]]
+              precision    recall  f1-score   support
+
+           0       0.90      0.99      0.94      3853
+           1       0.59      0.17      0.26       480
+
+    accuracy                           0.89      4333
+   macro avg       0.75      0.58      0.60      4333
+weighted avg       0.87      0.89      0.87      4333
+
+Area under the ROC curve : 0.803569
+
+
+***** RF W2VEC NO STOPWORDS *****
+Accuracy: 89.08
+
+Confusion Matrix:
+ [[3847    6]
+ [ 467   13]]
+              precision    recall  f1-score   support
+
+           0       0.89      1.00      0.94      3853
+           1       0.68      0.03      0.05       480
+
+    accuracy                           0.89      4333
+   macro avg       0.79      0.51      0.50      4333
+weighted avg       0.87      0.89      0.84      4333
+
+Area under the ROC curve : 0.605985
+
+
+***** RF BERT SENTENCES *****
+Accuracy: 89.50
+
+Confusion Matrix:
+ [[3850    3]
+ [ 452   28]]
+              precision    recall  f1-score   support
+
+           0       0.89      1.00      0.94      3853
+           1       0.90      0.06      0.11       480
+
+    accuracy                           0.89      4333
+   macro avg       0.90      0.53      0.53      4333
+weighted avg       0.90      0.89      0.85      4333
+
+Area under the ROC curve : 0.819196
+
+
+***** MLP BERT SENTENCES *****
+Accuracy: 91.99
+
+Confusion Matrix:
+ [[3669  184]
+ [ 163  317]]
+              precision    recall  f1-score   support
+
+           0       0.96      0.95      0.95      3853
+           1       0.63      0.66      0.65       480
+
+    accuracy                           0.92      4333
+   macro avg       0.80      0.81      0.80      4333
+weighted avg       0.92      0.92      0.92      4333
+
+Area under the ROC curve : 0.908989
+
+
+----- SPLIT  3  -----
+G7                4
+oath              4
+sincer            4
+olympu            4
+bold              4
+                 ..
+manli             1
+anatom            1
+well-control      1
+government-own    1
+solac             1
+Length: 11430, dtype: int64
+bowel             4
+herbalif          4
+endless           4
+prosper           4
+lone              4
+                 ..
+third-trimest     1
+ohlin             1
+loot              1
+discriminatori    1
+yeatman           1
+Length: 7987, dtype: int64
+(8667, 3547)
+(8667, 20000)
+(8667, 20000)
+(8667, 100)
+(8667, 100)
+(8667, 1024)
+----------------------------------------- Training KNN classifier ........................................
+***** KNN BOW *****
+Accuracy: 83.61
+
+Confusion Matrix:
+ [[3546  280]
+ [ 430   77]]
+              precision    recall  f1-score   support
+
+           0       0.89      0.93      0.91      3826
+           1       0.22      0.15      0.18       507
+
+    accuracy                           0.84      4333
+   macro avg       0.55      0.54      0.54      4333
+weighted avg       0.81      0.84      0.82      4333
+
+Area under the ROC curve : 0.569799
+
+
+***** KNN TF-IDF STOPWORDS *****
+Accuracy: 88.81
+
+Confusion Matrix:
+ [[3693  133]
+ [ 352  155]]
+              precision    recall  f1-score   support
+
+           0       0.91      0.97      0.94      3826
+           1       0.54      0.31      0.39       507
+
+    accuracy                           0.89      4333
+   macro avg       0.73      0.64      0.66      4333
+weighted avg       0.87      0.89      0.87      4333
+
+Area under the ROC curve : 0.726587
+
+
+***** KNN TF-IDF NO STOPWORDS *****
+Accuracy: 88.39
+
+Confusion Matrix:
+ [[3824    2]
+ [ 501    6]]
+              precision    recall  f1-score   support
+
+           0       0.88      1.00      0.94      3826
+           1       0.75      0.01      0.02       507
+
+    accuracy                           0.88      4333
+   macro avg       0.82      0.51      0.48      4333
+weighted avg       0.87      0.88      0.83      4333
+
+Area under the ROC curve : 0.518844
+
+
+***** KNN W2VEC STOPWORDS *****
+Accuracy: 86.87
+
+Confusion Matrix:
+ [[3675  151]
+ [ 418   89]]
+              precision    recall  f1-score   support
+
+           0       0.90      0.96      0.93      3826
+           1       0.37      0.18      0.24       507
+
+    accuracy                           0.87      4333
+   macro avg       0.63      0.57      0.58      4333
+weighted avg       0.84      0.87      0.85      4333
+
+Area under the ROC curve : 0.661829
+
+
+***** KNN W2VEC NO STOPWORDS *****
+Accuracy: 86.96
+
+Confusion Matrix:
+ [[3750   76]
+ [ 489   18]]
+              precision    recall  f1-score   support
+
+           0       0.88      0.98      0.93      3826
+           1       0.19      0.04      0.06       507
+
+    accuracy                           0.87      4333
+   macro avg       0.54      0.51      0.49      4333
+weighted avg       0.80      0.87      0.83      4333
+
+Area under the ROC curve : 0.531035
+
+
+***** KNN BERT SENTENCES *****
+Accuracy: 89.18
+
+Confusion Matrix:
+ [[3781   45]
+ [ 424   83]]
+              precision    recall  f1-score   support
+
+           0       0.90      0.99      0.94      3826
+           1       0.65      0.16      0.26       507
+
+    accuracy                           0.89      4333
+   macro avg       0.77      0.58      0.60      4333
+weighted avg       0.87      0.89      0.86      4333
+
+Area under the ROC curve : 0.675814
+
+
+----------------------------------------- Training SVM classifier ........................................
+***** SVM BOW *****
+Accuracy: 85.09
+
+Confusion Matrix:
+ [[3566  260]
+ [ 386  121]]
+              precision    recall  f1-score   support
+
+           0       0.90      0.93      0.92      3826
+           1       0.32      0.24      0.27       507
+
+    accuracy                           0.85      4333
+   macro avg       0.61      0.59      0.59      4333
+weighted avg       0.83      0.85      0.84      4333
+
+Area under the ROC curve : 0.695102
+
+
+***** SVM TF-IDF STOPWORDS *****
+Accuracy: 91.83
+
+Confusion Matrix:
+ [[3775   51]
+ [ 303  204]]
+              precision    recall  f1-score   support
+
+           0       0.93      0.99      0.96      3826
+           1       0.80      0.40      0.54       507
+
+    accuracy                           0.92      4333
+   macro avg       0.86      0.69      0.75      4333
+weighted avg       0.91      0.92      0.91      4333
+
+Area under the ROC curve : 0.915677
+
+
+***** SVM TF-IDF NO STOPWORDS *****
+Accuracy: 88.83
+
+Confusion Matrix:
+ [[3817    9]
+ [ 475   32]]
+              precision    recall  f1-score   support
+
+           0       0.89      1.00      0.94      3826
+           1       0.78      0.06      0.12       507
+
+    accuracy                           0.89      4333
+   macro avg       0.83      0.53      0.53      4333
+weighted avg       0.88      0.89      0.84      4333
+
+Area under the ROC curve : 0.703152
+
+
+***** SVM W2VEC STOPWORDS *****
+Accuracy: 88.30
+
+Confusion Matrix:
+ [[3826    0]
+ [ 507    0]]
+              precision    recall  f1-score   support
+
+           0       0.88      1.00      0.94      3826
+           1       0.00      0.00      0.00       507
+
+    accuracy                           0.88      4333
+   macro avg       0.44      0.50      0.47      4333
+weighted avg       0.78      0.88      0.83      4333
+
+Area under the ROC curve : 0.861680
+
+
+***** SVM W2VEC NO STOPWORDS *****
+Accuracy: 88.30
+
+Confusion Matrix:
+ [[3826    0]
+ [ 507    0]]
+              precision    recall  f1-score   support
+
+           0       0.88      1.00      0.94      3826
+           1       0.00      0.00      0.00       507
+
+    accuracy                           0.88      4333
+   macro avg       0.44      0.50      0.47      4333
+weighted avg       0.78      0.88      0.83      4333
+
+Area under the ROC curve : 0.607368
+
+
+***** SVM BERT SENTENCES *****
+Accuracy: 91.65
+
+Confusion Matrix:
+ [[3630  196]
+ [ 166  341]]
+              precision    recall  f1-score   support
+
+           0       0.96      0.95      0.95      3826
+           1       0.64      0.67      0.65       507
+
+    accuracy                           0.92      4333
+   macro avg       0.80      0.81      0.80      4333
+weighted avg       0.92      0.92      0.92      4333
+
+Area under the ROC curve : 0.908643
+
+
+***** NB BOW *****
+Accuracy: 87.21
+
+Confusion Matrix:
+ [[3731   95]
+ [ 459   48]]
+              precision    recall  f1-score   support
+
+           0       0.89      0.98      0.93      3826
+           1       0.34      0.09      0.15       507
+
+    accuracy                           0.87      4333
+   macro avg       0.61      0.53      0.54      4333
+weighted avg       0.83      0.87      0.84      4333
+
+Area under the ROC curve : 0.721873
+
+
+***** NB TF-IDF STOPWORDS *****
+Accuracy: 88.30
+
+Confusion Matrix:
+ [[3826    0]
+ [ 507    0]]
+              precision    recall  f1-score   support
+
+           0       0.88      1.00      0.94      3826
+           1       0.00      0.00      0.00       507
+
+    accuracy                           0.88      4333
+   macro avg       0.44      0.50      0.47      4333
+weighted avg       0.78      0.88      0.83      4333
+
+Area under the ROC curve : 0.828697
+
+
+***** NB TF-IDF NO STOPWORDS *****
+Accuracy: 88.30
+
+Confusion Matrix:
+ [[3826    0]
+ [ 507    0]]
+              precision    recall  f1-score   support
+
+           0       0.88      1.00      0.94      3826
+           1       0.00      0.00      0.00       507
+
+    accuracy                           0.88      4333
+   macro avg       0.44      0.50      0.47      4333
+weighted avg       0.78      0.88      0.83      4333
+
+Area under the ROC curve : 0.714907
+
+
+***** NB W2VEC STOPWORDS *****
+Accuracy: 75.44
+
+Confusion Matrix:
+ [[3002  824]
+ [ 240  267]]
+              precision    recall  f1-score   support
+
+           0       0.93      0.78      0.85      3826
+           1       0.24      0.53      0.33       507
+
+    accuracy                           0.75      4333
+   macro avg       0.59      0.66      0.59      4333
+weighted avg       0.85      0.75      0.79      4333
+
+Area under the ROC curve : 0.743684
+
+
+***** NB W2VEC NO STOPWORDS *****
+Accuracy: 68.98
+
+Confusion Matrix:
+ [[2819 1007]
+ [ 337  170]]
+              precision    recall  f1-score   support
+
+           0       0.89      0.74      0.81      3826
+           1       0.14      0.34      0.20       507
+
+    accuracy                           0.69      4333
+   macro avg       0.52      0.54      0.50      4333
+weighted avg       0.81      0.69      0.74      4333
+
+Area under the ROC curve : 0.550955
+
+
+***** NB BERT SENTENCES *****
+Accuracy: 78.56
+
+Confusion Matrix:
+ [[3058  768]
+ [ 161  346]]
+              precision    recall  f1-score   support
+
+           0       0.95      0.80      0.87      3826
+           1       0.31      0.68      0.43       507
+
+    accuracy                           0.79      4333
+   macro avg       0.63      0.74      0.65      4333
+weighted avg       0.88      0.79      0.82      4333
+
+Area under the ROC curve : 0.812726
+
+
+***** DT BOW *****
+Accuracy: 84.31
+
+Confusion Matrix:
+ [[3583  243]
+ [ 437   70]]
+              precision    recall  f1-score   support
+
+           0       0.89      0.94      0.91      3826
+           1       0.22      0.14      0.17       507
+
+    accuracy                           0.84      4333
+   macro avg       0.56      0.54      0.54      4333
+weighted avg       0.81      0.84      0.83      4333
+
+Area under the ROC curve : 0.547367
+
+
+***** DT TF-IDF STOPWORDS *****
+Accuracy: 86.89
+
+Confusion Matrix:
+ [[3550  276]
+ [ 292  215]]
+              precision    recall  f1-score   support
+
+           0       0.92      0.93      0.93      3826
+           1       0.44      0.42      0.43       507
+
+    accuracy                           0.87      4333
+   macro avg       0.68      0.68      0.68      4333
+weighted avg       0.87      0.87      0.87      4333
+
+Area under the ROC curve : 0.675963
+
+
+***** DT TF-IDF NO STOPWORDS *****
+Accuracy: 82.85
+
+Confusion Matrix:
+ [[3468  358]
+ [ 385  122]]
+              precision    recall  f1-score   support
+
+           0       0.90      0.91      0.90      3826
+           1       0.25      0.24      0.25       507
+
+    accuracy                           0.83      4333
+   macro avg       0.58      0.57      0.58      4333
+weighted avg       0.82      0.83      0.83      4333
+
+Area under the ROC curve : 0.585060
+
+
+***** DT W2VEC STOPWORDS *****
+Accuracy: 82.58
+
+Confusion Matrix:
+ [[3409  417]
+ [ 338  169]]
+              precision    recall  f1-score   support
+
+           0       0.91      0.89      0.90      3826
+           1       0.29      0.33      0.31       507
+
+    accuracy                           0.83      4333
+   macro avg       0.60      0.61      0.60      4333
+weighted avg       0.84      0.83      0.83      4333
+
+Area under the ROC curve : 0.612171
+
+
+***** DT W2VEC NO STOPWORDS *****
+Accuracy: 78.47
+
+Confusion Matrix:
+ [[3319  507]
+ [ 426   81]]
+              precision    recall  f1-score   support
+
+           0       0.89      0.87      0.88      3826
+           1       0.14      0.16      0.15       507
+
+    accuracy                           0.78      4333
+   macro avg       0.51      0.51      0.51      4333
+weighted avg       0.80      0.78      0.79      4333
+
+Area under the ROC curve : 0.514370
+
+
+***** DT BERT SENTENCES *****
+Accuracy: 82.67
+
+Confusion Matrix:
+ [[3438  388]
+ [ 363  144]]
+              precision    recall  f1-score   support
+
+           0       0.90      0.90      0.90      3826
+           1       0.27      0.28      0.28       507
+
+    accuracy                           0.83      4333
+   macro avg       0.59      0.59      0.59      4333
+weighted avg       0.83      0.83      0.83      4333
+
+Area under the ROC curve : 0.591306
+
+
+***** RF BOW *****
+Accuracy: 88.02
+
+Confusion Matrix:
+ [[3771   55]
+ [ 464   43]]
+              precision    recall  f1-score   support
+
+           0       0.89      0.99      0.94      3826
+           1       0.44      0.08      0.14       507
+
+    accuracy                           0.88      4333
+   macro avg       0.66      0.54      0.54      4333
+weighted avg       0.84      0.88      0.84      4333
+
+Area under the ROC curve : 0.639503
+
+
+***** RF TF-IDF STOPWORDS *****
+Accuracy: 90.51
+
+Confusion Matrix:
+ [[3813   13]
+ [ 398  109]]
+              precision    recall  f1-score   support
+
+           0       0.91      1.00      0.95      3826
+           1       0.89      0.21      0.35       507
+
+    accuracy                           0.91      4333
+   macro avg       0.90      0.61      0.65      4333
+weighted avg       0.90      0.91      0.88      4333
+
+Area under the ROC curve : 0.899249
+
+
+***** RF TF-IDF NO STOPWORDS *****
+Accuracy: 88.07
+
+Confusion Matrix:
+ [[3773   53]
+ [ 464   43]]
+              precision    recall  f1-score   support
+
+           0       0.89      0.99      0.94      3826
+           1       0.45      0.08      0.14       507
+
+    accuracy                           0.88      4333
+   macro avg       0.67      0.54      0.54      4333
+weighted avg       0.84      0.88      0.84      4333
+
+Area under the ROC curve : 0.703324
+
+
+***** RF W2VEC STOPWORDS *****
+Accuracy: 88.35
+
+Confusion Matrix:
+ [[3764   62]
+ [ 443   64]]
+              precision    recall  f1-score   support
+
+           0       0.89      0.98      0.94      3826
+           1       0.51      0.13      0.20       507
+
+    accuracy                           0.88      4333
+   macro avg       0.70      0.56      0.57      4333
+weighted avg       0.85      0.88      0.85      4333
+
+Area under the ROC curve : 0.801537
+
+
+***** RF W2VEC NO STOPWORDS *****
+Accuracy: 88.41
+
+Confusion Matrix:
+ [[3821    5]
+ [ 497   10]]
+              precision    recall  f1-score   support
+
+           0       0.88      1.00      0.94      3826
+           1       0.67      0.02      0.04       507
+
+    accuracy                           0.88      4333
+   macro avg       0.78      0.51      0.49      4333
+weighted avg       0.86      0.88      0.83      4333
+
+Area under the ROC curve : 0.609145
+
+
+***** RF BERT SENTENCES *****
+Accuracy: 88.95
+
+Confusion Matrix:
+ [[3825    1]
+ [ 478   29]]
+              precision    recall  f1-score   support
+
+           0       0.89      1.00      0.94      3826
+           1       0.97      0.06      0.11       507
+
+    accuracy                           0.89      4333
+   macro avg       0.93      0.53      0.52      4333
+weighted avg       0.90      0.89      0.84      4333
+
+Area under the ROC curve : 0.775704
+
+
+***** MLP BERT SENTENCES *****
+Accuracy: 92.89
+
+Confusion Matrix:
+ [[3687  139]
+ [ 169  338]]
+              precision    recall  f1-score   support
+
+           0       0.96      0.96      0.96      3826
+           1       0.71      0.67      0.69       507
+
+    accuracy                           0.93      4333
+   macro avg       0.83      0.82      0.82      4333
+weighted avg       0.93      0.93      0.93      4333
+
+Area under the ROC curve : 0.853718
+
+
+***** SVM BOW cross validation f1 score *****
+0.59% (+/- 0.00%)
+***** SVM BOW cross validation precision score *****
+0.61% (+/- 0.00%)
+***** SVM BOW cross validation recall score *****
+0.58% (+/- 0.00%)
+
+
+***** SVM TF-IDF STOPWORDS cross validation f1 score *****
+0.74% (+/- 0.01%)
+***** SVM TF-IDF STOPWORDS cross validation precision score *****
+0.86% (+/- 0.00%)
+***** SVM TF-IDF STOPWORDS cross validation recall score *****
+0.69% (+/- 0.01%)
+
+
+***** SVM TF-IDF NO STOPWORDS cross validation f1 score *****
+0.52% (+/- 0.01%)
+***** SVM TF-IDF NO STOPWORDS cross validation precision score *****
+0.80% (+/- 0.03%)
+***** SVM TF-IDF NO STOPWORDS cross validation recall score *****
+0.53% (+/- 0.00%)
+
+
+***** SVM W2V STOPWORDS cross validation f1 score *****
+0.47% (+/- 0.00%)
+***** SVM W2V STOPWORDS cross validation precision score *****
+0.44% (+/- 0.00%)
+***** SVM W2V STOPWORDS cross validation recall score *****
+0.50% (+/- 0.00%)
+
+
+***** SVM W2V NO STOPWORDS cross validation f1 score *****
+0.47% (+/- 0.00%)
+***** SVM W2V NO STOPWORDS cross validation precision score *****
+0.44% (+/- 0.00%)
+***** SVM W2V NO STOPWORDS cross validation recall score *****
+0.50% (+/- 0.00%)
+
+
+***** SVM BERT cross validation f1 score *****
+0.80% (+/- 0.00%)
+***** SVM BERT cross validation precision score *****
+0.79% (+/- 0.00%)
+***** SVM BERT cross validation recall score *****
+0.81% (+/- 0.00%)
+
+
+***** NB BOW cross validation f1 score *****
+0.54% (+/- 0.00%)
+***** NB BOW cross validation precision score *****
+0.63% (+/- 0.02%)
+***** NB BOW cross validation recall score *****
+0.54% (+/- 0.00%)
+
+
+***** NB TF-IDF STOPWORDS cross validation f1 score *****
+0.47% (+/- 0.00%)
+***** NB TF-IDF STOPWORDS cross validation precision score *****
+0.44% (+/- 0.00%)
+***** NB TF-IDF STOPWORDS cross validation recall score *****
+0.50% (+/- 0.00%)
+
+
+***** NB TF-IDF NO STOPWORDS cross validation f1 score *****
+0.47% (+/- 0.00%)
+***** NB TF-IDF NO STOPWORDS cross validation precision score *****
+0.44% (+/- 0.00%)
+***** NB TF-IDF NO STOPWORDS cross validation recall score *****
+0.50% (+/- 0.00%)
+
+
+***** NB W2V STOPWORDS cross validation f1 score *****
+0.59% (+/- 0.01%)
+***** NB W2V STOPWORDS cross validation precision score *****
+0.59% (+/- 0.01%)
+***** NB W2V STOPWORDS cross validation recall score *****
+0.66% (+/- 0.01%)
+
+
+***** NB W2V NO STOPWORDS cross validation f1 score *****
+0.50% (+/- 0.01%)
+***** NB W2V NO STOPWORDS cross validation precision score *****
+0.52% (+/- 0.01%)
+***** NB W2V NO STOPWORDS cross validation recall score *****
+0.53% (+/- 0.01%)
+
+
+***** NB BERT cross validation f1 score *****
+0.65% (+/- 0.01%)
+***** NB BERT cross validation precision score *****
+0.63% (+/- 0.01%)
+***** NB BERT cross validation recall score *****
+0.75% (+/- 0.02%)
+
+
+***** DT BOW cross validation f1 score *****
+0.55% (+/- 0.01%)
+***** DT BOW cross validation precision score *****
+0.56% (+/- 0.01%)
+***** DT BOW cross validation recall score *****
+0.54% (+/- 0.01%)
+
+
+***** DT TF-IDF STOPWORDS cross validation f1 score *****
+0.69% (+/- 0.01%)
+***** DT TF-IDF STOPWORDS cross validation precision score *****
+0.69% (+/- 0.01%)
+***** DT TF-IDF STOPWORDS cross validation recall score *****
+0.69% (+/- 0.01%)
+
+
+***** DT TF-IDF NO STOPWORDS cross validation f1 score *****
+0.57% (+/- 0.01%)
+***** DT TF-IDF NO STOPWORDS cross validation precision score *****
+0.56% (+/- 0.01%)
+***** DT TF-IDF NO STOPWORDS cross validation recall score *****
+0.57% (+/- 0.01%)
+
+
+***** DT W2V STOPWORDS cross validation f1 score *****
+0.59% (+/- 0.01%)
+***** DT W2V STOPWORDS cross validation precision score *****
+0.59% (+/- 0.01%)
+***** DT W2V STOPWORDS cross validation recall score *****
+0.60% (+/- 0.01%)
+
+
+***** DT W2V NO STOPWORDS cross validation f1 score *****
+0.51% (+/- 0.01%)
+***** DT W2V NO STOPWORDS cross validation precision score *****
+0.51% (+/- 0.01%)
+***** DT W2V NO STOPWORDS cross validation recall score *****
+0.52% (+/- 0.01%)
+
+
+***** DT BERT cross validation f1 score *****
+0.59% (+/- 0.01%)
+***** DT BERT cross validation precision score *****
+0.58% (+/- 0.01%)
+***** DT BERT cross validation recall score *****
+0.59% (+/- 0.01%)
+
+
+***** RF BOW cross validation f1 score *****
+0.53% (+/- 0.01%)
+***** RF BOW cross validation precision score *****
+0.65% (+/- 0.01%)
+***** RF BOW cross validation recall score *****
+0.53% (+/- 0.01%)
+
+
+***** RF TF-IDF STOPWORDS cross validation f1 score *****
+0.65% (+/- 0.00%)
+***** RF TF-IDF STOPWORDS cross validation precision score *****
+0.90% (+/- 0.00%)
+***** RF TF-IDF STOPWORDS cross validation recall score *****
+0.61% (+/- 0.00%)
+
+
+***** RF TF-IDF NO STOPWORDS cross validation f1 score *****
+0.54% (+/- 0.01%)
+***** RF TF-IDF NO STOPWORDS cross validation precision score *****
+0.67% (+/- 0.02%)
+***** RF TF-IDF NO STOPWORDS cross validation recall score *****
+0.53% (+/- 0.01%)
+
+
+***** RF W2V STOPWORDS cross validation f1 score *****
+0.59% (+/- 0.01%)
+***** RF W2V STOPWORDS cross validation precision score *****
+0.72% (+/- 0.02%)
+***** RF W2V STOPWORDS cross validation recall score *****
+0.57% (+/- 0.01%)
+
+
+***** RF W2V NO STOPWORDS cross validation f1 score *****
+0.49% (+/- 0.00%)
+***** RF W2V NO STOPWORDS cross validation precision score *****
+0.75% (+/- 0.05%)
+***** RF W2V NO STOPWORDS cross validation recall score *****
+0.51% (+/- 0.00%)
+
+
+***** RF BERT cross validation f1 score *****
+0.52% (+/- 0.00%)
+***** RF BERT cross validation precision score *****
+0.93% (+/- 0.00%)
+***** RF BERT cross validation recall score *****
+0.53% (+/- 0.00%)
+
+
+***** MLP BERT cross validation f1 score *****
+0.80% (+/- 0.02%)
+***** MLP BERT cross validation precision score *****
+0.80% (+/- 0.02%)
+***** MLP BERT cross validation recall score *****
+0.80% (+/- 0.02%)
+
+
