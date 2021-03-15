@@ -8,7 +8,7 @@ _Causality Identification in Financial documents_
 * link:AnnotationScheme.pdf[Data Processing and Annotation Schemes]
 * link:baseline[Baseline]
 * link:scoring[Scoring]
-* link:data[Trial dataset]
+* link:data[Datasets]
 
 
 All script have default paths runnable from root folder FNP_2020_FinCausal

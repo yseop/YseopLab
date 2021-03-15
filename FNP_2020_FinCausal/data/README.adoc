@@ -1,7 +1,26 @@
-Trial Dataset
+= Datasets
+
+Last update: April, 17th, 2020
+
+==== Trial data
 -------------
 
-Last update: April, 17th
+* trial/fnp2020-fincausal-task1.csv
+* trail/fnp2020-fincausal-task2.csv
+-------------
 
-* fnp2020-fincausal-task1.csv
-* fnp2020-fincausal-task2.csv
+==== Practice data
+-------------
+
+* practice/fnp2020-fincausal2-task1.csv
+* practice/fnp2020-fincausal2-task2.csv
+-------------
+
+==== Blind test data
+-------------
+
+* evaluation/task1_blind.csv
+* evaluation/task2_blind.csv
+-------------
+
+
