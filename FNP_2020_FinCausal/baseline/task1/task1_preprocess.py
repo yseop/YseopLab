@@ -51,7 +51,7 @@ def bertIn(path_):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument('--infile', type=str, default='./data/fnp2020-fincausal-task1.csv',
+    parser.add_argument('--infile', type=str, default='./data/trial/fnp2020-fincausal-task1.csv',
                         help='task 1 data input repo')
 
     args = parser.parse_args()

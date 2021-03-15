@@ -64,7 +64,7 @@ if __name__ == '__main__':
 
     parser = argparse.ArgumentParser()
 
-    parser.add_argument('--inrepo', type = str, default="data/fnp2020-fincausal-task2.csv", help= 'input repo')
+    parser.add_argument('--inrepo', type = str, default="data/trial/fnp2020-fincausal-task2.csv", help= 'input repo')
 
     parser.add_argument('--idx', type = str, default="baseline", help= 'experience index')
     # ------------------------------------------------------------------------------------ #
