@@ -2,17 +2,18 @@
 
 sample repository
 ----
-data
-|__
-    annotation
-      |__brat_files (annotation sample)
+FNP_2022_FinCausal
+|__annotation
+      |__brat_files
+         |__cah
+         |__dal
       |__build_dataset_cli.py
 ----
 
 to get output from the sample repository, run
 [source,python]
 ---
-cd FNP_2022_FinCausal/data/annotation
+cd FNP_2022_FinCausal/annotation
 python build_dataset_cli.py
 ---
 

@@ -1,0 +1,15 @@
+== Get SEC MDAS
+
+sample repository
+----
+FNP_2022_FinCausal
+|__extraction
+    |__crawl.py
+----
+
+to get output from the sample repository, run
+[source,python]
+---
+cd FNP_2022_FinCausal/annotation
+python crawl.py
+---

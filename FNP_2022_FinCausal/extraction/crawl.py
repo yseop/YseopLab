@@ -2,12 +2,8 @@
 source: https://github.com/sec-edgar/sec-edgar
 
 """
-import os
-import pandas as pd
-from pathlib import Path
+
 from utils import *
-
-
 MODE = False
 
 
@@ -27,10 +23,11 @@ if __name__ == '__main__':
     references = ref.tick.tolist()
     MDAcount = 0
 
-    # for reference in references:
-    #     save_fillings(reference)
+    for reference in references:
+        save_fillings(reference)
 
     pathTree = root / "fillings"
+    print(pathTree)
     listFile = pathTree.glob("**/*.txt")
     MDAcount = 0
     XMLcount = 0
