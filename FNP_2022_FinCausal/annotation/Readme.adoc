@@ -1,0 +1,19 @@
+== Get annotations from Brat .ann files
+
+sample repository
+----
+data
+|__
+    annotation
+      |__brat_files (annotation sample)
+      |__build_dataset_cli.py
+----
+
+to get output from the sample repository, run
+[source,python]
+---
+cd FNP_2022_FinCausal/data/annotation
+python build_dataset_cli.py
+---
+
+this will output sample files in tmp directory. These files will be reviewed by multiple readers and updated according to rules defined in the Annotation Scheme
