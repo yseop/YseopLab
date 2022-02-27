@@ -1,0 +1,225 @@
+T1	Fact 252 353	ower passenger revenue and higher salaries and related costs offset the benefits of lower fuel prices
+T2	QFact 138 247	Our pre-tax income for 2016 was $6.6 billion, representing a $521 million decrease compared to the prior year
+R1	Cause Cause:T1 Effect:T2	
+T5	QFact 1095 1257	Total operating expense decreased $215 million and our consolidated operating cost per available seat mile ("CASM") decreased 2.6% to 12.98 cents compared to 2015
+T8	Fact 1465 1503	Salaries and related costs were higher
+T9	Fact 1519 1551	the pay rate increase for pilots
+T10	Fact 1567 1785	a new pilot contract ratified in the December 2016 quarter that was retroactive to January 1, 2016 and pay rate increases for eligible merit, ground and flight attendant employees effective in the December 2015 quarter
+R5	Cause Cause:T10 Effect:T9	
+R6	Cause Cause:T9 Effect:T8	
+T11	QFact 1786 1902	Non-fuel unit costs ("CASM-Ex, including profit sharing" a non-GAAP financial measure) increased 3.7% to 10.13 cents
+T12	Fact 1911 2097	he pay rate increases discussed above and other product and service investments, which were partially offset by productivity gains from our fleet, technology and supply chain initiatives
+T6	Fact 1277 1348	ower fuel prices, partially offset by higher salaries and related costs
+R3	Cause Cause:T6 Effect:T5	
+R4	Cause Cause:T12 Effect:T11	
+T7	Fact 3100 3303	because sharing the success that our employees help produce is core to Delta's culture and important to providing the best travel experience for our customers and producing solid results for shareholders
+T13	Fact 3021 3099	We expect to continue to pay our employees industry leading total compensation
+R7	Cause Cause:T7 Effect:T13	
+T14	Fact 3304 3348	Running a reliable, customer-focused airline
+T15	QFact 3362 3539	a solid return on invested capital ("ROIC", see calculation in "Supplemental Information" below) of 26.1% in 2016, despite the pressure from employee investments discussed above
+T16	Fact 3541 3567	This financial performance
+R8	Cause Cause:T14 Effect:T15	
+T17	Fact 3587 3862	mprove our balance sheet by reducing debt and capital lease obligations to $7.3 billion and adjusted net debt (a non-GAAP financial measure) to $6.1 billion, increase funding of our defined benefit pension plans and increase the amount of capital returned to our shareholders
+R9	Cause Cause:T16 Effect:T17	
+T18	Fact 3950 4019	evenue growth, cost productivity and prudent deployment of cash flows
+T19	Fact 3864 3940	We are focused on delivering additional value for shareholders in the future
+R10	Cause Cause:T18 Effect:T19	
+T20	Remove 4021 4085	27Table of ContentsDriving Revenue GrowthOperational Reliability
+T21	Fact 4167 4197	strong operational reliability
+T22	Fact 4085 4151	A key driver of our revenue growth is higher customer satisfaction
+R11	Cause Cause:T21 Effect:T22	
+T23	Fact 4630 4782	This operational excellence resulted in consistent increases in our domestic net promoter score, including our highest reported score of 44% in November
+T25	Fact 4934 5010	increase and diversify our network into high revenue and high growth markets
+T26	Fact 4798 4917	We continue to expand our global network by strengthening our presence in major and developing markets around the world
+R13	Cause Cause:T26 Effect:T25	
+T33	Fact 6806 6903	As a result of the tender offer, when combined with our current holdings and derivative positions
+T34	QFact 6905 6980	we would own up to 49% of the outstanding capital stock of Grupo Aeroméxico
+R17	Cause Cause:T33 Effect:T34	
+T41	Remove 8761 8811	8Table of ContentsPrudent Deployment of Cash Flows
+T47	Fact 10364 10548	Since beginning our balance sheet improvement strategy in 2009, we have reduced our adjusted net debt by nearly $11 billion, which has significantly reduced our annual interest expense
+T50	Fact 10550 10722	As a result of these efforts, we have received upgrades to our credit ratings by all three major ratings agencies, including investment grade ratings from Moody's and Fitch
+T51	Fact 10724 10800	In addition, because we have a significant net underfunded pension liability
+T52	Fact 10802 10877	we have been making pension contributions above the minimum amount required
+R26	Cause Cause:T51 Effect:T52	
+T53	Remove 11604 11779;11780 12543	29Table of ContentsResults of Operations - 2016 Compared to 2015 Operating Revenue Year Ended December 31,Increase(Decrease)% Increase(Decrease)(in millions)20162015Passenger: Mainline$28,105$28,898$(793)(2.7)%Regional carriers5,6725,884(212)(3.6)%Total passenger revenue33,77734,782(1,005)(2.9)%Cargo668813(145)(17.8)%Other5,1945,109851.7 %Total operating revenue$39,639$40,704$(1,065)(2.6)%Passenger Revenue Increase (Decrease)vs. Year Ended December 31, 2015(in millions)Year Ended December 31, 2016Passenger RevenueRPMs (Traffic)ASMs (Capacity)Passenger Mile YieldPRASMLoad FactorMainline$17,932— %4.3 %5.2 %(4.1)%(5.0)%(0.8)ptsRegional carriers5,672(3.6)%0.6 %1.0 %(4.2)%(4.6)%(0.3)ptsDomestic23,604(0.9)%3.6 %4.5 %(4.4)%(5.2)%(0.6)ptsAtlantic5,185(6.5)%(1.7)%0.3 %(4.9)%(6.8)%(1.7)ptsPacific2,616(12.8)%(4.6)%(6.6)%(8.6)%(6.7)%1.8ptsLatin America2,372(1.8)%3.5 %0.8 %(5.1)%(2.6)%2.3ptsTotal$33,777(2.9)%1.7 %2.1 %(4.5)%(4.9)%(0.3)pts
+T54	QFact 12754 12805	Unit revenues of the domestic region decreased 5.2%
+T55	Fact 12822 12910	weakness in the close-in yield environment during most of the year despite strong volume
+R27	Cause Cause:T55 Effect:T54	
+T56	QFact 12911 12986	Revenues related to our international regions decreased 7.2% year-over-year
+T57	Fact 13004 13259	yield declines resulting from imbalances between supply and demand, principally in the Atlantic region and China, the impact of foreign currency fluctuations, continued reductions in international fuel surcharges and economic challenges in certain regions
+R28	Cause Cause:T57 Effect:T56	
+T58	Fact 13260 13315	In the Atlantic, the unit revenue decline predominantly
+T59	Fact 13330 13439	lower yields driven by industry capacity growthoutpacing passenger demand and the strength of the U.S. dollar
+R29	Cause Cause:T59 Effect:T58	
+T60	Fact 13584 13634	However, Europe point-of sale demand has been soft
+T61	Fact 13647 13690	to the impact of weaker Euro exchange rates
+R30	Cause Cause:T61 Effect:T60	
+T62	Fact 13811 13864	Unit revenue declines in the Pacific compared to 2015
+T63	Fact 13889 14032	lower yen hedge gains, lower international fuel surcharges and yield declines resulting from industry capacity growth between the U.S. and Chin
+R31	Cause Cause:T63 Effect:T62	
+T66	Remove 14583 14602	30Table of Contents
+T68	Fact 14753 14875	We expect these positive trends to continue in 2017 as we continue to invest in higher performing Mexican business markets
+T71	QFact 15152 15212	Cargo Revenue Cargo revenue decreased $145 million, or 17.8%
+T72	Fact 15231 15285	weaker international demand compared to the prior year
+R34	Cause Cause:T72 Effect:T71	
+T73	Remove 15286 15631	Other Revenue Year Ended December 31,Increase(Decrease)% Increase(Decrease)(in millions)20162015Loyalty programs$1,782$1,584$19812.5 %Administrative fees, club and on-board sales1,2051,261(56)(4.4)%Ancillary businesses and refinery(1)1,1291,158(29)(2.5)%Baggage fees881885(4)(0.5)%Other197221(24)(10.9)%Total other revenue$5,194$5,109$851.7 %(1)
+T74	QFact 15881 15934	Other revenue increased $85 million, or 1.7%, in 2016
+T75	Fact 15952 16091	increased loyalty programs revenues from our co-brand credit card partnership with American Express resulting from new credit card accounts
+R35	Cause Cause:T75 Effect:T74	
+T76	Remove 16092 16810	Operating Expense Year Ended December 31,Increase(Decrease)% Increase(Decrease)(in millions)20162015Salaries and related costs$10,034$8,776$1,25814.3 %Aircraft fuel and related taxes5,1336,544(1,411)(21.6)%Regional carriers expense4,3114,241701.7 %Contracted services1,9911,8481437.7 %Depreciation and amortization1,9021,835673.7 %Aircraft maintenance materials and outside repairs1,8231,848(25)(1.4)%Passenger commissions and other selling expenses1,7101,672382.3 %Landing fees and other rents1,4901,493(3)(0.2)%Profit sharing1,1151,490(375)(25.2)%Passenger service907872354.0 %Aircraft rent2852503514.0 %Restructuring and other—35(35)NM(1)Other1,9861,998(12)(0.6)%Total operating expense$32,687$32,902$(215)(0.7)%(1)
+T79	Fact 4483 4629	n addition, our reported completion factor of 99.6% and on-time arrival rate of nearly 87% places us at the top of the major global U.S. carriers.
+R12	Cause Cause:T79 Effect:T23	
+T3	Fact 838 1074	The decrease in PRASM was largely driven by competitive pressure in the current low fuel price environment and the impact of U.S. dollar strength on tickets sold in international markets, which are predominantly priced in local currency
+T4	Fact 670 836	Our operating revenue decreased $1.1 billion, or 2.6%, and passenger revenue per available seat mile ("PRASM") decreased 4.9% on 2.1% higher capacity compared to 2015
+R2	Cause Cause:T4 Effect:T3	
+T24	Fact 14602 14751	Although Latin America unit revenues declined compared to 2015, unit revenues improved in the second half of 2016 compared to the second half of 2015
+R37	Cause Cause:T24 Effect:T68	
+T67	Fact 17087 17129	The increase in salaries and related costs
+T80	Fact 17153 17364	pay rate increases given to eligible employees which includes an 18% pay rate increase for pilots resulting from a new pilot contract ratified in the December 2016 quarter that was retroactive to January 1, 2016
+R38	Cause Cause:T80 Effect:T67	
+T81	Remove 17560 17579	31Table of Contents
+T82	Fact 17612 17707	Including our regional carriers, fuel expense decreased $1.6 billion compared to the prior year
+T83	Fact 17715 17945	an 18% decrease in the market price per gallon of fuel and lower fuel hedge losses, partially offset by a loss from our refinery segment in the current year compared to a profit in the prior year and a 0.7% increase in consumption
+R39	Cause Cause:T83 Effect:T82	
+T84	Remove 18019 19037	Year Ended December 31,(Decrease)% (Decrease)(in millions)20162015Aircraft fuel and related taxes(1)$5,133$6,544$(1,411) Aircraft fuel and related taxes included within regional carriers expense8521,035(183) Total fuel expense$5,985$7,579$(1,594)(21.0)%(1) Includes the impact of fuel hedging and refinery results described further in the table below.The table below shows the impact of hedging and the refinery on fuel expense and average price per gallon, adjusted (non-GAAP financial measures): Average Price Per Gallon Year Ended December 31,Increase(Decrease) Year Ended December 31,Increase (Decrease)(in millions, except per gallon data)20162015 20162015Fuel purchase cost(1)$5,579$6,934$(1,355) $1.39$1.74$(0.35)Airline segment fuel hedge losses(2)281935(654) 0.070.23(0.16)Refinery segment impact(2)125(290)415 0.03(0.07)0.10Total fuel expense$5,985$7,579$(1,594) $1.49$1.90$(0.41)MTM adjustments and settlements(3)4501,301(851) 0.110.33(0.22)Total fuel expense, adjusted$6,435$8,880$(2,445) $1.60$2.23$(0.63)
+T85	Fact 19674 19715	The increase in regional carriers expense
+T86	Fact 19737 19901	increases in aircraft maintenance and scheduled contract carrier rate escalations, partially offset by lower fuel cost from the decrease in the market price of fuel
+T87	Fact 19992 20077	costs associated with the 2.1% increase in capacity and additional temporary staffing
+T88	Fact 19923 19966	The increase in contracted services expense
+R40	Cause Cause:T87 Effect:T88	
+T89	Fact 20094 20124	The decrease in profit sharing
+T90	Fact 20146 20193	an adjustment to the profit sharing calculation
+T93	Fact 20559 20811	Beginning with 2016 (to be paid out in 2017), the profit sharing program for merit, ground and flight attendant employees was adjusted to pay 10% of annual pre-tax profit (as defined by the terms of the program) and, if we exceed our prior-year results
+T94	Fact 20813 20908	the program will pay 20% of the year-over-year increase in pre-tax profit to eligible employees
+R42	Cause Cause:T93 Effect:T94	
+T95	Remove 21205 21382;21383 22148	32Table of ContentsResults of Operations - 2015 Compared to 2014 Operating Revenue Year Ended December 31,Increase (Decrease)% Increase (Decrease)(in millions)20152014Passenger: Mainline$28,898$28,688$2100.7 %Regional carriers5,8846,266(382)(6.1)%Total passenger revenue34,78234,954(172)(0.5)%Cargo813934(121)(13.0)%Other5,1094,47463514.2 %Total operating revenue$40,704$40,362$3420.8 %Passenger Revenue Increase (Decrease)vs. Year Ended December 31, 2014(in millions)Year Ended December 31, 2015Passenger RevenueRPMs (Traffic)ASMs (Capacity)Passenger Mile YieldPRASMLoad FactorMainline$17,9335.4 %6.7 %6.1 %(1.2)%(0.6)%0.5ptsRegional carriers5,884(6.1)%(2.2)%(4.0)%(4.0)%(2.1)%1.5ptsDomestic23,8172.3 %5.1 %4.1 %(2.6)%(1.8)%0.8ptsAtlantic5,548(4.8)%0.6 %3.2 %(5.3)%(7.7)%(2.1)ptsPacific3,002(12.2)%(2.3)%(5.0)%(10.2)%(7.6)%2.3ptsLatin America2,415(0.4)%5.1 %5.7 %(5.3)%(5.8)%(0.5)ptsTotal consolidated$34,782(0.5)%3.3 %3.0 %(3.7)%(3.3)%0.2pts
+T96	Fact 22359 22419	Unit revenues of the mainline domestic region decreased 0.6%
+T97	Fact 22436 22566	weaker yields in certain markets, which were nearly offset by the strong performance in Atlanta, New York, Seattle and Los Angeles
+R43	Cause Cause:T97 Effect:T96	
+T98	Fact 22766 22943	Revenues related to our international regions decreased 6.0% year-over-year primarily due to the impact of the strong U.S. dollar and reductions in international fuel surcharges
+T100	Fact 22945 23045	These challenges were addressed through capacity reductions implemented in the December 2015 quarter
+R44	Cause Cause:T98 Effect:T100	
+T99	Fact 23190 23226	Unit revenue declines in the Pacific
+T101	Fact 23251 23322	the strength of the U.S. dollar and lower international fuel surcharges
+R45	Cause Cause:T101 Effect:T99	
+T106	Remove 24039 24392	33Table of ContentsOther Revenue Year Ended December 31,Increase(Decrease)% Increase(Decrease)(in millions)20152014Loyalty programs$1,584$1,309$27521.0 %Administrative fees, club and on-board sales1,2611,194675.6 %Ancillary businesses and refinery(1)1,15888027831.6 %Baggage fees885863222.5 %Other221228(7)(3.1)%Total other revenue$5,109$4,474$63514.2 %
+T107	Fact 24645 24691	Other revenue increased $635 million, or 14.2%
+T108	Fact 24710 24876	loyalty program revenues including our agreement with American Express, third-party refinery sales and maintenance sales to third parties by our MRO services business
+R48	Cause Cause:T108 Effect:T107	
+T109	Remove 24877 25592	Operating Expense Year Ended December 31,Increase(Decrease)% Increase(Decrease)(in millions)20152014Salaries and related costs$8,776$8,120$6568.1 %Aircraft fuel and related taxes6,54411,668(5,124)(43.9)%Regional carriers expense4,2415,237(996)(19.0)%Aircraft maintenance materials and outside repairs1,8481,828201.1 %Contracted services1,8481,749995.7 %Depreciation and amortization1,8351,771643.6 %Passenger commissions and other selling expenses1,6721,700(28)(1.6)%Landing fees and other rents1,4931,442513.5 %Profit sharing1,4901,08540537.3 %Passenger service872810627.7 %Aircraft rent250233177.3 %Restructuring and other35716(681)NM(1)Other1,9981,79720111.2 %Total operating expense$32,902$38,156$(5,254)(13.8)%
+T112	Fact 25872 25914	The increase in salaries and related costs
+T113	Fact 25936 26065	higher pilot and flight attendant block hours and pay rate increases implemented in both the first half of 2015 and December 2015
+R49	Cause Cause:T113 Effect:T112	
+T114	Fact 26216 26311	Including our regional carriers, fuel expense decreased $5.9 billion compared to the prior year
+T115	Fact 26319 26490	a 43.5% decrease in the market price per gallon of fuel, an increase in Monroe's profitability and reduced hedge losses, partially offset by a 2.4% increase in consumption
+T116	Remove 26564 26920;26921 27594	Year Ended December 31,(Decrease)% (Decrease)(in millions)20152014Aircraft fuel and related taxes(1)$6,544$11,668$(5,124) Aircraft fuel and related taxes included within regional carriers expense1,0351,844(809) Total fuel expense$7,579$13,512$(5,933)(43.9)% (1) Includes the impact of fuel hedging and refinery results described further in the table below. 34Table of ContentsThe table below shows the impact of hedging and the refinery on fuel expense and average price per gallon, adjusted: Average Price Per Gallon Year Ended December 31,Increase(Decrease) Year Ended December 31,Increase(Decrease)(in millions, except per gallon data)20152014 20152014Fuel purchase cost(1)$6,934$11,350$(4,416) $1.74$2.91$(1.17)Airline segment fuel hedge losses(2)9352,258(1,323) 0.230.58(0.35)Refinery segment impact(2)(290)(96)(194) (0.07)(0.02)(0.05)Total fuel expense$7,579$13,512$(5,933) $1.90$3.47$(1.57)MTM adjustments and settlements(3)1,301(2,346)3,647 0.33(0.60)0.93Total fuel expense, adjusted$8,880$11,166$(2,286) $2.23$2.87$(0.64)
+T117	Fact 28232 28274	The reduction in regional carriers expense
+T118	Fact 28297 28408	ower fuel cost from a decrease in the price per gallon of fuel, lower capacity and reduced maintenance expenses
+R50	Cause Cause:T118 Effect:T117	
+T121	Fact 28545 28588	The increase in contracted services expense
+T122	Fact 28614 28699	costs associated with the 3.0% increase in capacity and additional temporary staffing
+R52	Cause Cause:T122 Effect:T121	
+T123	Fact 28731 28793	Depreciation and amortization expense increased year-over-year
+T124	Fact 28811 28966	investments in new A330-300, B-737-900ER and CRJ-900 aircraft and aircraft modifications that upgraded aircraft interiors and enhanced our product offering
+T125	Fact 28997 29035	Landing fees and other rents increased
+T126	Fact 29055 29112	an increased number of departures and higher rental rates
+T127	Fact 29129 29159	The increase in profit sharing
+T128	Fact 29174 29240	an increase in full year pre-tax income compared to the prior year
+R53	Cause Cause:T128 Effect:T127	
+R54	Cause Cause:T126 Effect:T125	
+R55	Cause Cause:T124 Effect:T123	
+T131	Fact 30046 30141	the program will pay 20% of the year-over-year increase in pre-tax profit to eligible employees
+T132	Fact 29772 30044	Beginning with 2016 pre-tax profit (to be paid out in 2017), the profit sharing program for merit, ground and flight attendant employees has been adjusted to pay 10% of annual pre-tax profit (as defined by the terms of the program) and, if we exceed our prior-year results
+R57	Cause Cause:T132 Effect:T131	
+T133	Fact 30360 30397	This expense increased year-over-year
+T134	Fact 30415 30514	costs associated with enhancements to our onboard product offering and the 3.3% increase in traffic
+R58	Cause Cause:T134 Effect:T133	
+T135	Fact 30522 30555	Other operating expense increased
+T136	Fact 30573 30662	costs associated with sales of non-jet fuel products to third parties by our oil refinery
+T137	Remove 30664 30936	35Table of ContentsNon-Operating Results Year Ended December 31, Favorable(in millions)201620152014 2016 vs. 2015 2015 vs. 2014Interest expense, net$(388)$(481)$(650) $93$169Miscellaneous, net72(164)(484) 236320Total non-operating expense, net$(316)$(645)$(1,134) $329$489
+T138	Fact 30936 31000	The decline in interest expense, net in both comparative periods
+T139	Fact 31015 31106	reduced levels of debt and from the refinancing of debt obligations at lower interest rates
+R59	Cause Cause:T139 Effect:T138	
+T140	Fact 31349 31467	Also contributing to the increase is our proportionate share of earnings from our equity investment in Virgin Atlantic
+T141	Fact 31302 31347	ower foreign exchange losses compared to 2015
+T142	Fact 31251 31283	Miscellaneous, net was favorable
+R60	Cause Cause:T141 Effect:T142	
+R61	Cause Cause:T140 Effect:T142	
+T143	Fact 31469 31502	The increase from Virgin Atlantic
+T144	Fact 31527 31599	year-over-year profit and improvements in MTM adjustments on fuel hedges
+R62	Cause Cause:T144 Effect:T143	
+T145	Fact 31601 31642	In 2015, miscellaneous, net was favorable
+T146	Fact 31660 31827	a reduction in debt extinguishment losses together with year-over-year profits and improvements in MTM adjustments on fuel hedges from Virgin Atlantic compared to 2014
+R63	Cause Cause:T146 Effect:T145	
+T147	Fact 31959 32001	The reduction in our rate from prior years
+T148	Fact 32027 32062	differences in our global tax rates
+R64	Cause Cause:T148 Effect:T147	
+T149	Fact 32219 32300	Accordingly, we believe we will not pay any cash federal income taxes before 2019
+T150	Fact 32064 32217	At December 31, 2016, we had approximately $5.9 billion of U.S. federal pre-tax net operating loss carryforwards, which do not begin to expire until 2027
+R65	Cause Cause:T150 Effect:T149	
+T151	Fact 32800 33025	We believe that the jet fuel supply resulting from the refinery's operation has contributed to the reduction in the market price of jet fuel, and thus lowered our cost of jet fuel compared to what it otherwise would have been
+T152	Fact 32602 32798	The jet fuel produced and procured through exchanging gasoline and diesel fuel produced by the refinery provided approximately 175,000 barrels per day for use in our airline operations during 2016
+R66	Cause Cause:T152 Effect:T151	
+T153	Fact 33650 33800	The refinery's loss in 2016, compared to profits in the preceding two years, was primarily due to higher RINs costs and lower distillate crack spreads
+T154	Fact 33503 33648	The refinery recorded a loss of $125 million in 2016, compared to profits of $290 million and $96 million recorded in 2015 and 2014, respectively
+R67	Cause Cause:T153 Effect:T154	
+T155	Fact 33329 33383	Refinery revenues decreased compared to the prior year
+T156	Fact 33391 33502	an oversupply of crude in the market, which drove lower pricing of refined products throughout the oil industry
+R68	Cause Cause:T156 Effect:T155	
+T159	Fact 34394 34521	a significant increase in the unit cost of RINs from approximately 58 cents per RIN during 2015 to 84 cents per RIN during 2016
+T160	Fact 34334 34368	RINs expense increased during 2016
+R70	Cause Cause:T159 Effect:T160	
+T161	Remove 34645 34664	36Table of Contents
+T162	Fact 34697 34752	We expect to meet our cash needs for the next 12 months
+T163	Fact 34758 34862	cash flows from operations, cash and cash equivalents, short-term investments and financing arrangements
+R71	Cause Cause:T163 Effect:T162	
+T170	Fact 36810 36887	Our hedge contracts were in a net loss position at December 31, 2016 and 2015
+T171	Fact 36902 36982	$38 million and $119 million, respectively, of margin postings to counterparties
+R75	Cause Cause:T170 Effect:T171	
+T173	Fact 38047 38256	As a result of these contributions, we satisfied, on an accelerated basis, our 2016 required contributions for our defined benefit plans, including more than $750 million above the minimum funding requirements
+T174	Fact 37826 38045	n 2016, we contributed $1.3 billion, including $950 million in cash and shares of our common stock from treasury with a value of $350 million, to our qualified defined benefit pension plans during the first half of 2016
+R76	Cause Cause:T174 Effect:T173	
+R14	Cause Cause:T47 Effect:T50	
+T27	Remove 38861 38880	37Table of Contents
+T28	Fact 42281 42356	we would own up to 49% of the outstanding capital stock of Grupo Aeroméxico
+T29	Fact 42182 42279	As a result of the tender offer, when combined with our current holdings and derivative positions
+R15	Cause Cause:T29 Effect:T28	
+T30	Remove 43686 43705	38Table of Contents
+T31	Fact 44116 44265	As a result, we received upgrades to our credit ratings by all three major rating agencies, including investment grade ratings from Moody's and Fitch
+T32	Fact 44000 44114	We have focused on reducing our total debt in recent years as part of our strategy to strengthen our balance sheet
+R16	Cause Cause:T32 Effect:T31	
+T35	Fact 44327 44373	lower costs of borrowing, among other benefits
+T36	Fact 44267 44310	Continued improvement in our credit ratings
+R18	Cause Cause:T36 Effect:T35	
+T37	Remove 44415 44509	Rating AgencyCurrent RatingOutlookMoody'sBaa3StableFitchBBB-StableStandard & Poor'sBB+Positive
+T38	Remove 45662 45974	(in millions, except repurchase price)Share Repurchase AuthorizationAverage Repurchase PricePlanned Completion DateAuthorization RemainingMay 2013 Program$500$28.43June 30, 2016Completed June 2014May 2014 Program$2,000$42.86December 31, 2016Completed June 2015May 2015 Program$5,000$44.03December 31, 2017 $1,350
+T39	Fact 46566 46705	As a result, we reported $429 million in cash receipts and $71 million in cash payments associated with these deferral transactions in 2015
+T40	Fact 46498 46564	We early terminated certain of these deferral transactions in 2015
+R19	Cause Cause:T40 Effect:T39	
+T42	Fact 47075 47242	During the June 2016 quarter, we early terminated certain of our outstanding deferral transactions and made cash payments of $170 million, including normal settlements
+T43	Fact 47244 47408	As a result, during the year ended December 31, 2016, we reported $291 million in cash receipts and $451 million in cash payments associated with these transactions
+R20	Cause Cause:T42 Effect:T43	
+T44	Remove 47542 47561	39Table of Contents
+T45	Remove 48096 48115	40Table of Contents
+T46	Remove 85913 85932	51Table of Contents
+T70	Remove 51575 51594	41Table of Contents
+T77	Remove 56404 56423	42Table of Contents
+T78	Remove 62129 62148	43Table of Contents
+T91	Remove 67294 67313	44Table of Contents
+T92	Remove 67391 67805	Change in Assumption Effect on 2017Pension ExpenseEffect on AccruedPension Liability atDecember 31, 20160.50% decrease in weighted average discount rate$(5) million$1.3 billion0.50% increase in weighted average discount rate$2 million$(1.2) billion0.50% decrease in expected long-term rate of return on assets$55 million$—0.50% increase in expected long-term rate of return on assets$(55) million$—Life Expectancy.
+T102	Fact 72608 72753	As of December 31, 2016, a net unrealized loss of $38 million related to these investments was recorded in AOCI on our Consolidated Balance Sheet
+T103	Fact 72258 72437	Our investments in the parent companies of Aeroméxico and GOL are currently accounted for as available-for-sale with changes in fair value recognized in other comprehensive income
+R21	Cause Cause:T103 Effect:T102	
+T104	Remove 74199 74218	46Table of Contents
+T105	Remove 76087 76490	Year Ended December 31,(in millions)20162015Pre-tax income$6,636$7,157Adjusted for: MTM adjustments and settlements(450)(1,301)Restructuring and other—35Virgin Atlantic MTM adjustments(115)(26)Pre-tax income, adjusted for special items$6,071$5,865 47Table of ContentsThe following table shows a reconciliation of CASM (a GAAP measure) to CASM-Ex, including profit sharing (a non-GAAP financial measure).
+T110	Remove 77777 77796	48Table of Contents
+T111	Remove 77562 77775	Year Ended December 31, 20162015CASM (cents)12.98¢13.33¢Adjusted for: Aircraft fuel and related taxes(2.38)(3.07)Restructuring and other—(0.01)Other expenses(0.47)(0.48)CASM-Ex, including profit sharing10.13¢9.77¢
+T119	Remove 78396 78814	Year Ended(in millions, except % of return) December 31, 2016Operating income $6,952Adjusted for: MTM adjustments and settlements (450)Restructuring and other —7x annual interest expense included in aircraft rent 188Amortization of retirement actuarial loss 231Operating income, adjusted $6,921 Adjusted book value of equity $19,954Average adjusted net debt 6,601Adjusted average invested capital(1) $26,555 ROIC 26.1%
+T120	Remove 79968 80494	(in millions) December 31, 2016 December 31, 2009Debt and capital lease obligations $7,332 $17,198Plus: unamortized discount, net and debt issuance costs 104 1,123Adjusted debt and capital lease obligations 7,436 18,321Plus: 7x last twelve months' aircraft rent 1,995 3,360Adjusted total debt 9,431 21,681Less: cash, cash equivalents and short-term investments (3,249) (4,678)Less: hedge margin (receivable) payable (38) 10Adjusted net debt $6,144 $17,013 49Table of ContentsGlossary of Defined TermsASM - Available Seat Mile.
+T129	Remove 81868 81887	50Table of Contents
+T130	Fact 83143 83349	During the March 2016 quarter, to better participate in the low fuel price environment, we entered into derivatives designed to offset and effectively neutralize our existing airline segment hedge positions
+T157	Fact 83351 83447	As a result, we locked in the amount of net hedge settlements for the remainder of 2016 and 2017
+R22	Cause Cause:T130 Effect:T157	
+T64	Verified 0 7	ITEM 7.
+T48	Remove 49113 49243	rincipal amount$1,038$2,160$1,289$527$345$1,753$7,112Interest payments311259172114912141,161Capital lease obligations (see Note 7)
+T49	Remove 49245 49685	Principal amount1227051392220324Interest payments2315942154Operating lease payments (see Note 7)1,5721,4431,3041,1338626,78113,095Aircraft purchase commitments (see Note 9)2,5802,9803,3801,7301,13066012,460Contract carrier obligations (see Note 9)2,0391,8271,5621,2207371,1968,581Employee benefit obligations (see Note 8)6575355525985619,95012,853Other obligations1,2904102602002001,3303,690Total$9,632$9,699$8,579$5,565$3,950$21,905$59,330

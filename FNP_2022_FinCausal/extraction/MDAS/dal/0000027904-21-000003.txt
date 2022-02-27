@@ -1,0 +1,702 @@
+ITEM 7.
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONSThis section of Form 10-K does not address certain items regarding the year ended December 31, 2018.
+Discussion and analysis of 2018 and year-to-year comparisons between 2019 and 2018 not included in this Form 10-K can be found in "Item 7.
+Management's Discussion and Analysis" of our Annual Report on Form 10-K for the year ended December 31, 2019.
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our audited Consolidated Financial Statements and the related notes and other financial information included elsewhere in this Annual Report on Form 10-K.Impact of the COVID-19 PandemicThe unprecedented, widespread and persistent impact of COVID-19 and the related travel restrictions and social distancing measures implemented throughout the world have significantly reduced demand for air travel.
+After initially impacting our service to China beginning in January 2020, the spread of the virus and the resulting global pandemic have significantly affected our entire network.
+Beginning in March 2020, large public events were cancelled, governmental authorities began imposing restrictions on non-essential activities, businesses suspended travel and popular leisure destinations temporarily closed to visitors.
+Certain countries that are key markets for our business have imposed bans on international travelers for specified periods or indefinitely.As a result, demand for travel declined at a rapid pace in the March 2020 quarter and has remained depressed, which has had an unprecedented and materially adverse impact on our results of operations and financial position.
+Although demand has improved at a slow pace since that time, it remains significantly below pre-pandemic levels.
+The exact timing and pace of the recovery remain uncertain as certain markets have reopened, some of which have since experienced a resurgence of COVID-19 cases, while others, particularly international markets, remain closed or are enforcing extended quarantines for most U.S. residents.
+The U.S. and numerous other countries are now also requiring airline passengers to provide negative COVID-19 test results prior to travel into their countries.
+Additionally, some states have instituted travel restrictions, advisories or quarantines for travelers from other states within the U.S. We expect the demand environment to remain depressed until effective vaccines become broadly available, vaccination becomes widespread globally and travel restrictions and advisories begin to ease.
+Our forecasted expense and liquidity management initiatives may be modified as the demand environment evolves.In response to these developments, we have implemented enhanced measures focusing on the safety of our customers and employees, while at the same time seeking to mitigate the impact on our financial position and operations and to position our business for recovery.Taking Care of our Customers and Employees.
+The safety of our customers and employees is our primary focus.
+As the COVID-19 pandemic has progressed, we have taken numerous steps to help promote the safety of our customers and employees on the ground and in the air in keeping with current health-expert recommendations, including:•Adopting new cleaning procedures on all flights, including regular disinfectant electrostatic spraying on aircraft and sanitizing high-touch areas like tray tables, entertainment screens, armrests and seat-back pockets.•Taking steps to help employees and customers practice social distancing and promote safety, including:◦Creating a Global Cleanliness Division to ensure a consistently safe and sanitized experience across our facilities and aircraft.◦Beginning in May 2020, requiring all customers and customer-facing employees to wear masks.◦Capping load factors throughout our aircraft and blocking middle seats through at least April 30, 2021.◦Modifying our boarding and deplaning processes, while providing limited food and beverage service that is designed to reduce physical touch points.
+◦Encouraging social distancing throughout all aspects of our operation.◦Implementing significant workforce social distancing and protection measures, including reconfiguring call center spaces to promote social distancing, increasing cleaning and disinfecting of our facilities and encouraging employees to work remotely when possible.•Giving customers flexibility to plan and re-book travel, including extending expiration on certain tickets and travel credits through December 2022, eliminating change fees for domestic tickets and international tickets originating from North America, with the exception of Basic Economy tickets, and waiving change fees for all tickets purchased before March 30, 2021.
+Additionally, we are extending 2020 Medallion Status an additional year, rolling Medallion Qualification Miles into 2021 and extending Delta SkyMiles American Express Card benefits and Delta Sky Club memberships.Delta Air Lines, Inc. 2020 Form 10-K 
+
+
+
+
+
+ 30Item 7.
+MD&A - Financial Highlights•Offering pay protection to employees who have tested positive for COVID-19, who must quarantine due to exposure to COVID-19, who are considered being at high-risk for illness from COVID-19 according to the Centers for Disease Control and Prevention ("CDC") guidelines and do not have the ability to work remotely.•Offering on-site rapid COVID-19 testing in most locations and making at-home testing available for all U.S.-based employees.
+We have also added rapid testing in most U.S. hubs for active flight crews.Capacity Reductions.
+Beginning in the second half of March 2020, we experienced a precipitous decrease in demand as COVID-19 spread throughout the world.
+While we have increased capacity compared to the lowest levels in April 2020, system capacity remains significantly lower than prior to the COVID-19 pandemic.
+During 2020, system capacity was reduced approximately 50% compared to 2019, with international capacity reduced by approximately 65% and domestic capacity reduced by approximately 45%.
+System capacity for the March 2020 through December 2020 period, excluding the pre-pandemic months of January and February, was reduced by approximately 60%, with international capacity reduced by approximately 75% and domestic capacity reduced by approximately 50%.
+For the March 2021 quarter, system capacity is expected to be down approximately 30%-40% compared to the March 2019 quarter.
+As a result of reduced demand and lower capacity, we retired 227 aircraft in 2020 and have temporarily parked approximately 125 aircraft as of December 31, 2020.Expense Management.
+In response to the reduction in revenue, we have implemented, and will continue to implement, cost saving initiatives, including the following in 2020:•Reducing capacity as described above to align with expected demand, which has resulted in removing from active service approximately 350 aircraft as of December 31, 2020, including certain fleets or aircraft that we have decided to early retire as described below.
+•Consolidating our footprint at our airport facilities, including temporarily closing some Delta Sky Clubs.•Avoiding furloughs for our U.S. employees and reducing employee-related costs, through the following: ◦Voluntary unpaid leaves of 30 days to 12 months offered to most employees.
+Approximately 50,000 of our employees have taken or have elected to take voluntary leaves at various times during 2020 and, for those taking leaves up to 12 months, continuing through 2021.◦Offering employees early retirement and voluntary separation programs, with approximately 18,000 employees electing to participate.
+See Note 11 of the Notes to the Consolidated Financial Statements for additional information.◦Reaching an agreement with ALPA that protects our pilots from furlough through April 2022.◦From April 1 through December 31, 2020, salary reductions of 100% for our CEO, 50% for our officers and a 25% reduction in work hours for all other management and most front-line employee work groups.•Delaying or eliminating nearly all other discretionary spending.Balance Sheet, Cash Flow and Liquidity.
+Our cash, cash equivalents, short-term investments and aggregate principal amount committed and available to be drawn under our revolving credit facilities ("liquidity") as of December 31, 2020 was $16.7 billion as a result of the following actions to increase liquidity and strengthen our financial position during the year ended December 31, 2020:•Completing financing transactions for an aggregate principal amount of approximately $25.9 billion.
+•Receiving $5.6 billion as part of the CARES Act payroll support program as described in "Government Support Programs" below.
+•Reducing planned capital expenditures by approximately $2.8 billion for the year to $1.9 billion, including restructuring our aircraft order books for future aircraft deliveries, delaying aircraft modifications and postponing certain information technology initiatives and ground equipment replacement.
+See Note 12 of the Notes to the Consolidated Financial Statements for additional information about our aircraft purchase commitments.•Amending our credit facilities to replace fixed charge coverage ratio covenants with liquidity-based covenants.•Suspending share repurchases and dividends indefinitely and postponing voluntary pension funding.In addition, in January 2021 we received $1.4 billion with respect to the payroll support program extension described below, with the remaining $1.5 billion expected in the March 2021 quarter.
+In response to the impact that the demand environment has had on our financial condition, our credit rating was downgraded by Standard & Poor's to BB in March 2020 and by Fitch to BB+ in April 2020.
+Our credit rating from Moody's remains Baa3.
+See "Financial Condition and Liquidity - Sources and Uses of Liquidity" for additional information.Our debt agreements contain various affirmative, negative and financial covenants.
+See Note 8 of the Notes to the Consolidated Financial Statements for additional information on these covenants.Delta Air Lines, Inc. 2020 Form 10-K 
+
+
+
+
+
+ 31Item 7.
+MD&A - Financial HighlightsGovernment Support ProgramsOn March 27, 2020, the Coronavirus Aid, Relief, and Economic Security Act ("CARES Act") was enacted into law.
+The CARES Act is a support package intended to assist many aspects of the American economy, including providing the airline industry with up to $25 billion in grants and loans to be used for employee wages, salaries and benefits.
+In April 2020, we entered into an agreement with the U.S. Department of the Treasury to receive emergency support through the CARES Act payroll support program, which totaled $5.6 billion.
+The support payments were conditioned on our agreement to comply with a variety of conditions, including to refrain from conducting involuntary employee layoffs or furloughs through September 30, 2020.
+The support payments consisted of $4.0 billion in a grant and $1.6 billion in an unsecured 10-year low interest loan.
+The loan bears interest at an annual rate of 1.00% for the first five years (through April 2025) and the Secured Overnight Financing Rate ("SOFR") plus 2.00% in the final five years.
+In return, we issued to the U.S. Department of the Treasury warrants to acquire more than 6.7 million shares of Delta common stock, which represented approximately 1% of our outstanding shares.
+These warrants have an initial exercise price of $24.39 per share, subject to adjustment in certain cases, and a five-year term.The relative fair value of the warrants issued in 2020 is recorded within stockholder's equity and as a discount reducing the carrying value of the loan which is being amortized as interest expense in our Consolidated Statements of Operations ("income statement") over the term of the loan.
+The proceeds of the 2020 CARES Act grant were recorded in cash and cash equivalents when received and were recognized as contra-expense in government grant recognition in our income statement over the periods that the funds were intended to compensate.
+See Note 8 of the Notes to the Consolidated Financial Statements for further discussion of the unsecured loan and warrants to acquire Delta shares issued under the CARES Act payroll support program.Finally, the CARES Act also provides for deferred payment of the employer portion of social security taxes through the end of 2020, with 50% of the deferred amount due December 31, 2021 and the remaining 50% due December 31, 2022.
+This provided us with approximately $200 million of additional liquidity during 2020.On December 27, 2020, an additional COVID-19 support bill was enacted into law, which extends the payroll support program of the CARES Act and provides an additional $15 billion in grants and loans to be used for airline employee wages, salaries and benefits.
+In January 2021, we entered into a payroll support program extension agreement with the U.S. Department of the Treasury.
+We expect to receive $2.9 billion in payroll support payments, which must be used exclusively for the payment of employee wages, salaries and benefits and are conditioned on our agreement to refrain from conducting involuntary employee layoffs or furloughs from the date of the extension agreement through March 2021.
+Other conditions include prohibitions on share repurchases and dividends through March 2022 and certain limitations on executive compensation until October 2022.
+The Department of Transportation also has the authority until March 1, 2022 to require airlines that received payroll support program funds to maintain scheduled air service deemed necessary to any point served by the airline before March 1, 2020.The expected support payments consist of approximately $2.0 billion in grants and $830 million in an unsecured 10-year low interest loan.
+We received the first installment of $1.4 billion under the agreement on January 15, 2021 and expect to receive the balance in the March 2021 quarter.
+The loan bears interest at an annual rate of 1.00% for the first five years (through January 15, 2026) and the applicable SOFR plus 2.00% in the final five years.
+Approximately 70% of the payment received on January 15, 2021 was in the form of a grant, and approximately 30% was in the form of an unsecured loan.
+We issued a promissory note for approximately $400 million with respect to the term loan, which will increase to its full principal amount as the balance of payroll support payments is received.
+In connection with receipt of these payments, we also expect to issue to the U.S. Department of the Treasury warrants to acquire shares of Delta common stock, which we expect to be approximately 2.1 million shares representing less than 0.5% of our outstanding shares.
+Approximately one-half of the expected warrants were issued on January 15, 2021 and the remaining warrants will be issued as the balance of payroll support payments is received.
+These warrants have an initial exercise price of $39.73 per share, subject to adjustment in certain cases, and a five-year term.Delta Air Lines, Inc. 2020 Form 10-K 
+
+
+
+
+
+ 32Item 7.
+MD&A - Financial HighlightsFinancial Highlights - 2020 Compared to 2019Our pre-tax loss for 2020 was $15.6 billion, representing a $21.8 billion decrease compared to the prior year primarily due to the impact of the COVID-19 pandemic on our business which resulted in a 64% decrease in revenue and $8.2 billion of restructuring charges and $2.4 billion in investment impairments and equity method losses.
+Pre-tax loss, adjusted (a non-GAAP financial measure) was $9.0 billion, a decrease of $15.2 billion compared to the prior year.
+Adjustments for 2020 were primarily related to restructuring charges from fleet retirement decisions, voluntary early retirement and separation programs charges and investment impairments and equity method losses, which were partially offset by recognition of the CARES Act grant.Revenue.
+Compared to 2020, our operating revenue decreased $29.9 billion, or 64% due to reduced demand resulting from the COVID-19 pandemic.
+Operating Expense.
+Total operating expense decreased $10.8 billion, or 27%, compared to the prior year, primarily resulting from lower volume and selling-related expenses including fuel, lower profit sharing, recognition of the CARES Act payroll support program grant and significant cost reduction measures taken across all aspects of our operation in response to the COVID-19 pandemic, partially offset by restructuring charges.
+Total operating expense, adjusted (a non-GAAP financial measure) decreased $16.0 billion, or 40% compared to the prior year.
+Our total operating cost per available seat mile ("CASM") increased 50% to 22.01 cents compared to the prior year, primarily due to the 51% decrease in capacity, which was partially offset by the significant cost reduction measures discussed above.
+Non-fuel unit costs ("CASM-Ex", a non-GAAP financial measure) increased 43% to 15.61 cents and consolidated CASM, adjusted (a non-GAAP financial measure, which includes aircraft fuel costs) increased 23% to 17.96 cents.Non-Operating Results.
+Total non-operating expense was $3.1 billion in 2020, $2.7 billion higher than the prior year primarily resulting from impairments and our proportionate share of equity method losses related to our investments in LATAM, Grupo Aeroméxico and Virgin Atlantic, and higher interest expense as a result of our increased debt balances due to the financing arrangements entered into during 2020.Cash Flow.
+Our liquidity at December 31, 2020 was $16.7 billion, a $10.8 billion increase compared to December 31, 2019 as a result of proceeds from loans and debt issuances (including our SkyMiles financing arrangements and aircraft financings), support payments under the CARES Act payroll support program and other liquidity initiatives.
+Losses during 2020 resulted in operating activities using $3.8 billion.
+During 2020 we incurred $9.2 billion of investing cash outflows, primarily related to the purchase of short-term investments and our tender offer to acquire shares of LATAM in January 2020.
+These results generated $4.3 billion of negative free cash flow (a non-GAAP financial measure) in 2020 compared to $4.2 billion of free cash flow in 2019.The non-GAAP financial measures pre-tax loss, adjusted, operating expense, adjusted, CASM-Ex, consolidated CASM, adjusted, and free cash flow used above are defined and reconciled in "Supplemental Information" below.
+Delta Air Lines, Inc. 2020 Form 10-K 
+
+
+
+
+
+ 33 Item 7.
+MD&A - Results of OperationsResults of OperationsOperating RevenueYear Ended December 31,Increase(Decrease)% Increase(Decrease)(in millions) (1)20202019Ticket - Main cabin$6,676 $21,919 $(15,243)(70)%Ticket - Business cabin and premium products4,294 14,989 (10,695)(71)%Loyalty travel awards935 2,900 (1,965)(68)%Travel-related services978 2,469 (1,491)(60)%Total passenger revenue$12,883 $42,277 $(29,394)(70)%Cargo608 753 (145)(19)%Other3,604 3,977 (373)(9)%Total operating revenue$17,095 $47,007 $(29,912)(64)%TRASM (cents)12.73 ¢17.07 ¢(4.34)¢(25)%Third-party refinery sales (2)(0.86)(0.04)(0.82)NMDelta Private Jets adjustment (2)— (0.07)0.07 (100)%TRASM, adjusted (cents)11.87 ¢16.97 ¢(5.10)¢(30)%(1)This reconciliation may not recalculate due to rounding.
+(2)For additional information on adjustments to TRASM, see "Supplemental Information" below.Operating RevenueCompared to the year ended December 31, 2019, our operating revenue decreased $29.9 billion, or 64%, due to reduced demand resulting from the COVID-19 pandemic.
+The decrease in operating revenue, on a 51% decrease in capacity, generated a 25% decrease in total revenue per available seat mile ("TRASM") and a 30% decrease in TRASM, adjusted compared to 2019.
+The increase in third-party refinery sales resulted from the refinery's shift to producing more non-jet fuel products due to the decline in demand for jet fuel.
+See "Refinery Segment" below for additional details on the refinery's operations during 2020.We have historically generated cargo revenues in domestic and international markets through the use of cargo space on regularly scheduled passenger aircraft.
+In 2020, following the onset of the COVID-19 pandemic, reduced industry capacity drove a significant increase in our cargo yield, and we also generated cargo revenue through the operation of cargo-only charter flights (i.e., using aircraft in our fleet not then being utilized for passenger travel).
+These two factors contributed to the smaller percentage decline in cargo revenue, than in passenger revenue, compared to the prior year.The length and severity of the reduction in travel demand due to the COVID-19 pandemic are uncertain, as described in Item 1A.
+Risk Factors, but we currently expect three phases in 2021.
+We anticipate that the early part of the year will be characterized by fluctuating demand.
+With continued distribution of effective vaccines and easing of travel advisories and restrictions, we believe customer confidence will grow, leading to increased demand in the spring and summer of 2021.
+We expect vaccination to become widespread during the second half of 2021, resulting in sustained demand improvement.Delta Air Lines, Inc. 2020 Form 10-K 
+
+
+
+
+
+ 34 Item 7.
+MD&A - Results of OperationsPassenger Revenue by Geographic RegionIncrease (Decrease) vs. Year Ended December 31, 2019(in millions)Year Ended December 31, 2020Passenger RevenueRPMs (Traffic)ASMs (Capacity)Passenger Mile YieldPRASMLoad FactorDomestic$10,041 (67)%(65)%(43)%(7)%(42)%(33)ptsAtlantic1,171 (81)%(82)%(71)%2 %(37)%(32)ptsLatin America1,113 (63)%(62)%(49)%(1)%(27)%(23)ptsPacific558 (78)%(81)%(68)%15 %(31)%(34)ptsTotal passenger revenue$12,883 (70)%(69)%(51)%(1)%(38)%(32)ptsPassenger revenue decreased $29.4 billion, or 70%, compared to the prior year.
+PRASM decreased 38% and passenger mile yield decreased 1% on 51% lower capacity.
+Load factor decreased 32 pts from the prior year to 55%.We began waiving changes fees on most tickets during 2020 and subsequently changed our policy with respect to change fees, as described above in "Taking Care of our Customers and Employees."
+We do not expect these policy changes to materially affect our revenue in future periods.
+DomesticPrior to the initial effects of the COVID-19 pandemic in March 2020, domestic results were strong with revenue nearly 10% higher than the prior year period.
+However, due to the decrease in customer demand beginning in March, passenger unit revenue related to our domestic region decreased 42% with capacity down 43% compared to the prior year.
+We are planning for improvement to the demand environment, primarily from leisure customers, to continue in 2021, though still significantly lower than the comparable period in 2019.
+We remain optimistic about the ultimate recovery of business travel, but are unable to predict the timing or extent of that recovery.
+InternationalPassenger revenue related to our international regions decreased 76% compared to the prior year.
+The reductions in revenue and capacity presented in the table above were a result of reduced demand and government travel directives and quarantines limiting or suspending air travel due to the global spread of COVID-19.
+Additionally, many countries have implemented international testing requirements, which has slowed demand in the short-term but is expected to enhance the long-term recovery of international air travel.
+We expect this significantly lower demand environment to continue into 2021, with improvement expected after the recovery in domestic travel.
+As an initial step to this recovery, in December 2020 we became the first U.S. airline to offer flights between the U.S. and Europe that allow customers to avoid quarantine upon arrival after testing negative for the virus prior to travel and upon arrival in Amsterdam and Rome.
+During 2020 we transferred our U.S.-Tokyo services from Narita to Haneda airport, Tokyo's preferred airport for corporate customers, and continued to develop our network connectivity with our joint venture partner Korean Air at Seoul-Incheon airport.
+In each of the international regions we continue to monitor government travel directives and customer demand and will adjust flight schedules accordingly.
+Prior to the COVID-19 pandemic, we completed two transactions to further strengthen our international partnerships.
+In the Atlantic region, effective January 2020, we combined our separate transatlantic joint venture agreements with Air France-KLM and Virgin Atlantic into a single three-party transatlantic joint venture.
+This enhanced joint venture is designed to strengthen collaboration between the three airlines and is expected to provide customers with increased access to destinations across North America, the U.K. and Europe.
+In the Latin America region, in January 2020, we completed the tender offer to acquire 20% of the shares of LATAM as part of our plan to create a strategic alliance.
+Additionally, in the March 2020 quarter, we started codesharing for certain flights operated by LATAM.
+In May 2020, we signed a trans-American joint venture agreement with LATAM that, subject to regulatory approvals, will combine our highly complementary route networks between North and South America, with the goal of providing customers with a seamless travel experience and industry-leading connectivity.
+We believe this alliance will generate growth opportunities, building upon Delta's and LATAM's global footprint and joint ventures.
+See Note 5 of the Notes to the Consolidated Financial Statements for additional information on our strategic alliance with LATAM and the impact of its bankruptcy filing.Delta Air Lines, Inc. 2020 Form 10-K 
+
+
+
+
+
+ 35 Item 7.
+MD&A - Results of OperationsOther RevenueYear Ended December 31,Increase(Decrease)% Increase(Decrease)(in millions)20202019Ancillary businesses and refinery$1,798 $1,297 $501 39 %Loyalty program1,458 1,962 (504)(26)%Miscellaneous348 718 (370)(52)%Total other revenue$3,604 $3,977 $(373)(9)%Ancillary Businesses and Refinery.
+Ancillary businesses and refinery includes refinery sales to third parties, aircraft maintenance provided to third parties and our vacation wholesale operations.
+Refinery sales to third parties, which are at or near cost, increased $1.1 billion compared to 2019.
+The increase in third-party refinery sales resulted from the refinery's shift to producing more non-jet fuel products due to the decline in demand for jet fuel.
+The increase in refinery sales was partially offset by an approximately $270 million, or approximately 30%, decline in revenue from aircraft maintenance services we provide to third parties, which decreased due to the reduction in flights operated worldwide.
+In addition, results for 2019 also included approximately $200 million of revenue from Delta Private Jets, which was combined with Wheels Up in January 2020 and is no longer reflected in ancillary businesses and refinery.
+Loyalty Program.
+Loyalty program revenues relate primarily to brand usage by third parties and other performance obligations embedded in miles sold, including redemption of miles for non-travel awards.
+These revenues are mainly driven by customer spend on American Express cards, which declined at a lower rate than air travel, during the year.Miscellaneous.
+Miscellaneous revenue is primarily composed of lounge access and codeshare revenues.
+The volume of these transactions has fallen compared to 2019, due to the impact of, and our response to, the COVID-19 pandemic.Delta Air Lines, Inc. 2020 Form 10-K 
+
+
+
+
+
+ 36 Item 7.
+MD&A - Results of OperationsOperating ExpenseYear Ended December 31,Increase(Decrease)% Increase(Decrease)(in millions)20202019Salaries and related costs$8,754 $11,225 $(2,471)(22)%Aircraft fuel and related taxes3,176 8,519 (5,343)(63)%Regional carriers expense, excluding fuel2,479 3,584 (1,105)(31)%Depreciation and amortization2,312 2,581 (269)(10)%Ancillary businesses and refinery1,785 1,245 540 43 %Contracted services1,778 2,641 (863)(33)%Landing fees and other rents1,518 1,762 (244)(14)%Aircraft maintenance materials and outside repairs822 1,751 (929)(53)%Passenger commissions and other selling expenses582 1,993 (1,411)(71)%Passenger service523 1,251 (728)(58)%Aircraft rent399 423 (24)(6)%Restructuring charges8,219 — 8,219 NMGovernment grant recognition(3,946)— (3,946)NMProfit sharing— 1,643 (1,643)(100)%Other1,163 1,771 (608)(34)%Total operating expense$29,564 $40,389 $(10,825)(27)%As discussed above under "Expense Management," in response to the reduced demand and related reduction in revenue following the onset of the COVID-19 pandemic in early 2020, we quickly reduced capacity to more closely align with demand and implemented cost saving initiatives related to our fleet and operations and delayed or eliminated nearly all discretionary spending.
+As a result, most operating expense line items decreased significantly in 2020 compared to 2019.
+Operating expenses decreased primarily due to the voluntary separation programs and work hour reductions described below, the many cost reduction measures and programs implemented in response to the COVID-19 pandemic and the reduction in volume and selling-related costs.
+During 2021, as effective vaccines become broadly available, vaccination becomes widespread globally, travel restrictions and advisories begin to ease and customer confidence begins to grow, we expect operating expense to increase as capacity and revenue return.
+However, we believe that many of the cost savings achieved during 2020 were structural in nature, which we expect to lead to lower non-fuel unit cost in the future.The discussion below is focused largely on the year-over-year changes in certain operating expense line items that were not primarily driven by the reduction in capacity or revenue.
+These include many of the cost reduction measures and programs we implemented in response to the COVID-19 pandemic.Salaries and Related Costs.
+The decrease in salaries and related costs is primarily due to actions taken in response to the decreased demand for air travel due to the COVID-19 pandemic.
+Beginning in March 2020 and continuing through December 2020, we reduced salaries by 100% for our CEO and 50% for our officers.
+In addition, we reduced work hours by 25% for all other management and most front-line employee work groups.
+We offered voluntary unpaid leaves of absence for periods ranging from 30 days up to 12 months and approximately 50,000 of our employees elected a leave at various times throughout 2020.
+Also, during the September 2020 quarter, approximately 18,000 employees elected to participate in voluntary separation programs, reducing our workforce by approximately 20%.
+We expect the lower headcount following these voluntary separation programs to mitigate the impact on salaries and related costs from the restoration of salaries and work hours in 2021, enabling us to maintain lower costs compared to 2019.Delta Air Lines, Inc. 2020 Form 10-K 
+
+
+
+
+
+ 37 Item 7.
+MD&A - Results of OperationsAircraft Fuel and Related Taxes.
+Fuel expense decreased $5.3 billion compared to the prior year due to a 51% decrease in capacity and an approximately 25% decrease in the market price per gallon of jet fuel.The table below shows the impact of hedging and the refinery on fuel expense and average price per gallon, adjusted (non-GAAP financial measures):Fuel expense and average price per gallonAverage Price Per GallonYear Ended December 31,Increase(Decrease)Year Ended December 31,Increase (Decrease)(in millions, except per gallon data) (1)2020201920202019Fuel purchase cost (2)$2,938 $8,581 $(5,643)$1.52 $2.04 $(0.52)Fuel hedge impact22 14 8 0.01 — 0.01 Refinery segment impact (3)216 (76)292 0.11 (0.02)0.13 Total fuel expense$3,176 $8,519 $(5,343)$1.64 $2.02 $(0.38)MTM adjustments and settlements on hedges (4)(10)(14)4 (0.01)— (0.01)Delta Private Jets adjustment (5)— (28)28 — (0.01)0.01 Total fuel expense, adjusted$3,166 $8,477 $(5,311)$1.64 $2.01 $(0.37)(1)This reconciliation may not calculate exactly due to rounding.
+(2)Market price for jet fuel at airport locations, including related taxes and transportation costs.
+(3)Refer to "Refinery Segment" below for additional information about our refinery's operations.
+(4)MTM adjustments and settlements on hedges include the effects of the derivative transactions disclosed in Note 6 of the Notes to the Consolidated Financial Statements.
+For additional information and the reason for adjusting fuel expense, see "Supplemental Information" below.
+(5)Because we combined Delta Private Jets with Wheels Up in January 2020, we have excluded the impact of Delta Private Jets from 2019 results for comparability.Depreciation and Amortization.
+The decrease in depreciation and amortization is primarily due to aircraft that have been retired or impaired during 2020, including the MD-88, MD-90, 717, 737-700, 767-300ER and 777 fleet types, as well as certain A320 aircraft.
+Impairments and other charges related to the retirement of these fleets are reflected in restructuring charges.
+See Note 2 of the Notes to the Consolidated Financial Statements for additional information about these fleet retirements.Ancillary Businesses and Refinery.
+Ancillary businesses and refinery includes expenses associated with refinery sales to third parties, aircraft maintenance services we provide to third parties and our vacation wholesale operations.
+Increased expenses were primarily related to refinery sales to third parties, which are at or near cost.
+These refinery cost of sales increased $1.1 billion compared to 2019.
+Due to the decrease in demand for jet fuel following the onset of the COVID-19 pandemic, the refinery shifted production to more non-jet fuel products, which increased the sales to third parties during 2020 compared to the prior year period.
+The increase in refinery costs was partially offset by a decrease of approximately $260 million in the cost of aircraft maintenance services we provide to third parties compared to 2019 due to the reduction in flights operated worldwide.
+In addition, approximately $180 million of costs related to services performed by Delta Private Jets in 2019 were recorded in ancillary businesses and refinery prior to the combination of that business with Wheels Up in January 2020.Aircraft Rent.
+Most aircraft operating lease expenses are recorded in aircraft rent and are contractually fixed.
+Therefore, aircraft rent did not decline to the same extent as our other operating expense line items compared to 2019.Restructuring Charges.
+Restructuring charges are composed of various expenses that resulted from our response to the unprecedented impact on our business from the COVID-19 pandemic primarily due to fleet impairment and related charges and voluntary separation program charges.
+See Note 2 of the Notes to the Consolidated Financial Statements for additional information about these restructuring charges.
+Government Grant Recognition.
+In April 2020, we entered into an agreement with the U.S. Department of the Treasury to receive emergency support through the CARES Act payroll support program, which totaled $5.6 billion.
+The support payments included a grant of $4.0 billion that was fully recognized as a contra-expense in 2020 over the period that the funds were intended to benefit.
+We expect to receive approximately $2.9 billion in the March 2021 quarter as part of the payroll support program extension, of which approximately $2.0 billion is expected to be in the form of grants that we plan to recognize as contra-expense during the first half of 2021.
+See Note 2 of the Notes to the Consolidated Financial Statements for additional information about government support programs, including the CARES Act.
+Delta Air Lines, Inc. 2020 Form 10-K 
+
+
+
+
+
+ 38Item 7.
+MD&A - Non-Operating ResultsNon-Operating ResultsYear Ended December 31,Favorable (Unfavorable)(in millions)20202019 2020 vs. 2019Interest expense, net$(929)$(301)$(628)Impairments and equity method losses(2,432)(62)(2,370)Gain/(loss) on investments, net(105)119 (224)Miscellaneous, net348 (176)524 Total non-operating expense, net$(3,118)$(420)$(2,698)Interest expense, net.
+Interest expense increased compared to 2019 as a result of the financing arrangements entered into during 2020.
+See Note 2 and Note 8 of the Notes to the Consolidated Financial Statements for additional information on recent financings.
+As a result of the increase in our outstanding debt since the onset of the pandemic, we expect to incur approximately $350 million in quarterly interest expense at the beginning of 2021.
+However, we expect to reduce those expenses during 2021 by paying down our debt in addition to scheduled maturities.Impairments and equity method losses.
+Impairments and equity method losses reflects our share of LATAM and Grupo Aeroméxico's equity method results prior to their respective bankruptcy filings, our share of Virgin Atlantic's equity method results and the impairments reducing the carrying value of these investments to zero during the June 2020 quarter.
+See Note 5 of the Notes to the Consolidated Financial Statements for additional information on our equity investments.Gain/(loss) on investments, net.
+Gain/(loss) on investments, net reflects the gains and losses on our equity investments measured at fair value on a recurring basis.
+See Note 5 of the Notes to the Consolidated Financial Statements for additional information on our equity investments.Miscellaneous, net.
+Miscellaneous, net includes pension and related expense, foreign exchange gains/losses, charitable contributions and gains and losses resulting from other transactions.
+Foreign exchange gains/losses vary and impact the comparability of miscellaneous, net from period to period.
+The increase in 2020 compared to the prior year is primarily due to the $240 million gain recognized as a result of the combination of Delta Private Jets with Wheels Up in January 2020 and favorable movement in pension and related expense in 2020 compared to 2019.Income TaxesOur effective tax rate for 2020 was 21%.
+As of December 31, 2020, we had approximately $5.7 billion of U.S. federal pre-tax net operating loss carryforwards, of which $2.0 billion was generated prior to 2018 and will not begin to expire until 2027, and under current tax law, the remaining amount has no expiration.For more information about our income taxes, see Note 13 of the Notes to the Consolidated Financial Statements.
+Delta Air Lines, Inc. 2020 Form 10-K 
+
+
+
+
+
+ 39Item 7.
+MD&A - Refinery SegmentRefinery SegmentThe refinery operated by our subsidiary Monroe Energy, LLC and MIPC, LLC (collectively, "Monroe") primarily produces gasoline, diesel and jet fuel.
+Monroe has agreements in place to exchange the non-jet fuel products the refinery produces with third parties for jet fuel consumed in our airline operations.
+Historically, the jet fuel produced and procured through exchanging gasoline and diesel fuel produced by the refinery provided approximately 200,000 barrels per day, or approximately 75% of our pre-COVID-19 pandemic consumption, for use in our airline operations.
+We believe that the jet fuel supply resulting from the refinery's operation generally contributes to reducing the market price of jet fuel and lowers our cost of jet fuel compared to what it otherwise would be.The refinery’s production has also been altered by the dramatic change in economic conditions caused by the COVID-19 pandemic.
+During 2020, the refinery operated at 60% – 90% of normal production levels, largely due to the significant decrease in the demand for jet fuel.
+Additionally, due to the decrease in demand for jet fuel, the refinery has shifted production to produce more non-jet fuel products.
+Those non-jet fuel products will continue to be exchanged for jet fuel to the extent that the refinery can balance refinery sales with jet fuel demand.The refinery recorded operating revenues of $3.1 billion in 2020, compared to $5.6 billion in 2019.
+As a result of the refinery's shift to producing more non-jet fuel products, operating revenues in 2020 were composed of $1.5 billion of non-jet fuel products exchanged with third parties to procure jet fuel, $1.1 billion of refinery sales to third parties, $307 million of non-jet fuel product sales and $214 million of sales of jet fuel to the airline segment.
+Refinery revenues decreased compared to the prior year periods due to lower refinery run rates during the year, as well as lower pricing for refined products.The refinery recorded an operating loss of $216 million in 2020, compared to operating income of $76 million in 2019.
+The operating loss in 2020 compared to income in 2019 was mainly driven by an increase in RINs compliance costs discussed below and the reduction in revenue, which was partially offset by cost savings resulting from decreased production levels.A refinery is subject to annual EPA requirements to blend renewable fuels into the gasoline and on-road diesel fuel it produces.
+Alternatively, a refinery may purchase renewable energy credits, called RINs, from third parties in the secondary market.
+The refinery operated by Monroe purchases the majority of its RINs requirement in the secondary market.
+Observable RINs prices increased throughout 2020, with Monroe incurring $172 million in RINs compliance costs during 2020 as compared to $58 million in 2019.For more information regarding the refinery's results, see Note 16 of the Notes to the Consolidated Financial Statements.Operating StatisticsYear Ended December 31,Consolidated (1)202020192018Revenue passenger miles (in millions)73,412 237,680 225,243 Available seat miles (in millions)134,339 275,379 263,365 Passenger mile yield17.55 ¢17.79 ¢17.65 ¢Passenger revenue per available seat mile9.59 ¢15.35 ¢15.09 ¢Total revenue per available seat mile12.73 ¢17.07 ¢16.87 ¢Total operating cost per available seat mile ("CASM")22.01 ¢14.67 ¢14.87 ¢Load factor55 %86 %86 %Fuel gallons consumed (in millions)1,935 4,214 4,113 Average price per fuel gallon (2)$1.64 $2.02 $2.20 Approximate full-time equivalent employees, end of period74,000 91,000 89,000 (1)Includes the operations of our regional carriers under capacity purchase agreements.
+Full-time equivalent employees exclude employees of regional carriers that we do not own.
+(2)Includes the impact of fuel hedge activity and refinery segment results.Delta Air Lines, Inc. 2020 Form 10-K 
+
+
+
+
+
+ 40Item 7.
+MD&A - Financial Condition and LiquidityFinancial Condition and LiquidityAs a result of the COVID-19 pandemic, we took actions to increase liquidity and strengthen our financial position, which included the following during 2020.
+We are continuing to monitor and carefully manage our liquidity.
+•Completing financing transactions for an aggregate principal amount of approximately $25.9 billion, which are discussed in "Financing Activities" below.•Receiving $5.6 billion as part of the CARES Act payroll support program as described in "Government Support Programs" above.
+•Reducing planned capital expenditures by approximately $2.8 billion for the year to $1.9 billion, including restructuring our aircraft order books for future aircraft deliveries, delaying aircraft modifications and postponing certain information technology initiatives and ground equipment replacement.
+See Note 12 of the Notes to the Consolidated Financial Statements for additional information about our aircraft purchase commitments.•Amending our credit facilities to replace fixed charge coverage ratio covenants with liquidity-based covenants.•Suspending share repurchases and dividends indefinitely and postponing voluntary pension funding.As of December 31, 2020, we had $16.7 billion in cash, cash equivalents, short-term investments and aggregate principal amount committed and available to be drawn under our revolving credit facilities.
+In addition, in January 2021 we received $1.4 billion with respect to the payroll support program extension described below, with the remaining $1.5 billion expected in the March 2021 quarter.
+We expect to meet our liquidity needs for the next twelve months with cash and cash equivalents, short-term investments, financing arrangements, government assistance under the payroll support program, restricted cash equivalents and cash flows from operations.
+We expect to meet our long-term liquidity needs with cash flows from operations and financing arrangements.We have unencumbered assets available for potential financing arrangements, if needed.
+During 2020, we used existing cash and cash received from financings to fund capital expenditures of $1.9 billion, of which the largest portion was incurred before the onset of the COVID-19 pandemic, and to return $604 million to shareholders also before the onset of the global pandemic.
+Capital expenditures in 2020 following the onset of the COVID-19 pandemic were limited to only those critical to our operation.The following discussion of liquidity evaluates various material cash requirements from known contractual and other obligations, but does not include amounts that are contingent on events or other factors that are uncertain or unknown at this time, including legal contingencies, uncertain tax positions and amounts payable under collective bargaining arrangements, among others.
+The amounts presented are based on various estimates, including estimates regarding the timing of payments, prevailing interest rates, volumes purchased, the occurrence of certain events and other factors.
+Accordingly, the actual results may vary materially from the amounts discussed herein.Sources and Uses of LiquidityOperating ActivitiesOperating activities in 2020 used $3.8 billion compared to providing $8.4 billion in 2019.
+Including the $2.9 billion in payroll support payments we expect to receive during the March 2021 quarter, if the demand environment evolves as described above we expect to generate positive cash flows from operations during 2021.
+As described above, we are planning for demand recovery throughout much of 2021, with sustained demand improvement expected during the second half of 2021.Delta Air Lines, Inc. 2020 Form 10-K 
+
+
+
+
+
+ 41Item 7.
+MD&A - Financial Condition and LiquidityOur operating cash flows are impacted by the following factors:Seasonality of Advance Ticket Sales.
+We sell tickets for air travel in advance of the customer's travel date.
+When we receive a cash payment at the time of sale, we record the cash received on advance sales as deferred revenue in air traffic liability.
+The air traffic liability has historically increased during the winter and spring as advanced ticket sales grow prior to the summer peak travel season and decreased during the summer and fall months.
+However, the ongoing reduction in demand for air travel due to the COVID-19 pandemic has resulted in an unprecedented low level of advance bookings and the associated cash received, as well as significant ticket cancellations which led to issuance of cash refunds or travel credits to customers.
+The total value of cash refunds, excluding taxes and related fees, issued to customers during 2020 was approximately $3.1 billion.
+Travel credits represented approximately 65% of the air traffic liability as of December 31, 2020.
+The length and severity of the reduction in travel demand due to the COVID-19 pandemic are uncertain, as described in Item 1A.
+Risk Factors, but we currently expect three phases in 2021.
+We anticipate that the early part of the year will be characterized by fluctuating demand.
+With continued distribution of effective vaccines and easing of travel advisories and restrictions, we believe customer confidence will grow, leading to increased demand in the spring and summer of 2021.
+We expect vaccination to become widespread during the second half of 2021, resulting in sustained demand improvement.Fuel.
+Fuel expense represented approximately 11% of our total operating expense for 2020.
+The market price for jet fuel is volatile, which can impact the comparability of our periodic cash flows from operations.
+We expect fuel consumption to be lower through the March 2021 quarter than the comparable quarter in 2020, as only the final weeks of the March 2020 quarter were significantly impacted by the COVID-19 pandemic.
+Through the remainder of 2021, as effective vaccines become broadly available, vaccination becomes widespread globally, travel restrictions and advisories begin to ease and customer confidence begins to grow, we expect capacity to return and fuel consumption to increase compared to the comparable period of 2020, though we still expect it to be lower than the comparable period in 2019.Employee Benefit Obligations.
+We sponsor defined benefit pension plans for eligible employees and retirees.
+These plans are closed to new entrants and are frozen for future benefit accruals.
+Our funding obligations for these plans are governed by the Employee Retirement Income Security Act, as modified by the Pension Protection Act of 2006.
+We had no minimum funding requirements in 2019 or 2020, we have no such requirements in 2021, and based on our current projections, we do not expect any minimum required contributions until 2025.
+However, during 2019, we voluntarily contributed $1 billion to these plans.
+As a part of our liquidity initiatives we suspended voluntary pension funding that we were previously planning in 2020.
+We plan to contribute at least $500 million to these plans in 2021.
+In addition, we have employee benefit obligations relating primarily to projected future benefit payments from our unfunded postretirement and postemployment plans.
+See Note 11 of the Notes to the Consolidated Financial Statements for more information on our employee benefit obligations.Voluntary Separation Programs.
+In 2020, we recorded a $3.4 billion charge associated with voluntary early retirement and separation programs and other employee benefit charges.
+Approximately $720 million of this charge was disbursed in cash payments to participants during 2020.
+An additional approximately $250 million of cash payments were disbursed in 2020 related to unused vacation and other benefits, which were accrued prior to the voluntary programs charge.
+We anticipate that approximately $600 million in cash payments will be made to participants in the voluntary separation programs in 2021 and the remaining payments in 2022 and beyond.Profit Sharing.
+Our broad-based employee profit sharing program provides that, for each year in which we have an annual pre-tax profit, as defined by the terms of the program, we will pay a specified portion of that profit to employees.
+We paid $1.6 billion in profit sharing in February 2020 related to our 2019 pre-tax profit in recognition of our employees' contributions toward meeting our financial goals.
+We will not have a profit sharing payment in 2021 based on the pre-tax loss in 2020.Government Support Programs.
+See "Financing Activities" below for discussion of the impact to our liquidity from the government support programs in 2020 and 2021.Contract Carrier Obligations.
+We have certain estimated minimum fixed obligations under capacity purchase agreements with third-party regional carriers.
+These minimum amounts are based on the required minimum levels of flying by the regional carriers under the respective agreements and assumptions regarding the costs associated with such minimum levels of flying.
+As of December 31, 2020 the total of these minimum amounts was $7.7 billion, which range from approximately $800 million to $1.4 billion on an annual basis over the next five years.
+See Note 12 of the Notes to the Consolidated Financial Statements for more information on our contract carrier obligations.Delta Air Lines, Inc. 2020 Form 10-K 
+
+
+
+
+
+ 42Item 7.
+MD&A - Financial Condition and LiquidityOperating Lease Obligations.
+As described further in Note 9 of the Notes to the Consolidated Financial Statements, as of December 31, 2020 we had a total of $8.6 billion of minimum operating lease obligations.
+These minimum lease payments range from approximately $700 million to $900 million on an annual basis over the next five years.Other Obligations.
+We have certain purchase obligations under which we are required to make minimum payments for goods and services, including, but not limited to, aviation-related, maintenance, professional security, insurance, marketing, technology, sponsorships and other third-party services and products.
+As of December 31, 2020, we had approximately $8.0 billion of such obligations, which range from approximately $400 million to $900 million on an annual basis over the next five years.Investing Activities Short-Term Investments.
+Using a portion of the proceeds we obtained through our financing transactions discussed below, in 2020 we acquired a net of $5.8 billion in short-term investments.
+See Note 4 of the Notes to the Consolidated Financial Statements for further information on these investments.
+Capital Expenditures.
+Our capital expenditures are primarily related to the purchase of aircraft, fleet modifications and technology enhancements.
+Our capital expenditures were $1.9 billion in 2020, of which the largest portion was incurred before the onset of the COVID-19 pandemic, and $4.9 billion in 2019.
+In 2020, we restructured our aircraft order books with Airbus and MHI RJ Aviation Group (manufacturer of CRJ aircraft) in an effort to better match the timing of aircraft deliveries with our network and financial needs over the next several years.
+The restructuring reduced our aircraft purchase commitments by more than $2 billion in 2020 and by more than $5 billion through 2022.
+The shift in delivery timing is intended to allow us to continue simplifying and modernizing our fleet while maintaining our Airbus order book.We expect that we will have capital expenditures of approximately $2.5 billion in 2021 primarily for aircraft, including deliveries and advance deposit payments, as well as aircraft modifications, the majority of which relate to cabin improvements and technology enhancements.
+We expect that the capital expenditures in 2021 will be funded through either cash flows from operations or financing arrangements.
+We have committed to future aircraft purchases and have obtained, but are under no obligation to use, long-term financing commitments for a substantial portion of the purchase price of the aircraft.
+See Note 12 of the Notes to the Consolidated Financial Statements for more information on our aircraft purchase commitments.In connection with a dispute brought at the World Trade Organization against the EU and certain member states to address state subsidies in the large civil aircraft sector, the U.S. Trade Representative has imposed tariffs on certain products imported from the EU, including 15% tariffs on certain new aircraft and certain airplane parts originating in France and Germany.
+We are pursuing strategies to minimize the impact, if any, of these tariffs on our business.Equity Investments.
+In January 2020, we acquired 20% of the shares of LATAM for $1.9 billion, or $16 per share, through a tender offer.
+In addition, to support the establishment of our strategic alliance, we agreed to make transition payments to LATAM totaling $350 million, of which $75 million remains to be paid by the end of 2021.As part of our planned strategic alliance with LATAM, we have also assumed 10 of LATAM's A350 purchase commitments with Airbus for deliveries through 2025.
+We believe this alliance will generate growth opportunities, building upon Delta's and LATAM's global footprint and joint ventures.During 2020, we acquired through open market transactions, additional outstanding shares of Hanjin-KAL, the largest shareholder of Korean Air, for $158 million.
+As of December 31, 2020 our equity ownership interest in Hanjin-KAL was approximately 13%.
+See Note 5 of the Notes to the Consolidated Financial Statements for more information on our equity investments.Los Angeles International Airport ("LAX") Construction.
+We executed a modified lease agreement during 2016 with the City of Los Angeles (the "City"), which owns and operates LAX, and announced plans to modernize, upgrade and provide post-security connection to Terminals 2 and 3.
+Construction is underway, which includes a new centralized ticketing and arrival hall, a new security checkpoint, core infrastructure to support the City's planned airport people mover, ramp improvements and a post-security connector to the north side of the Tom Bradley International Terminal.Delta Air Lines, Inc. 2020 Form 10-K 
+
+
+
+
+
+ 43Item 7.
+MD&A - Financial Condition and LiquidityGiven reduced passenger volumes resulting from the COVID-19 pandemic, we have accelerated the construction schedule for this project.
+Additionally, in 2020, we enhanced the project’s scope to include a more customer-friendly design of Terminal 3, a Delta One lounge and expanded Delta Sky Club, and baggage system upgrades designed to increase the terminals’ operational efficiency going forward.
+Construction is expected to be completed by 2023.
+The project is expected to cost approximately $2.3 billion.
+A substantial majority of the project costs are being funded through the Regional Airports Improvement Corporation ("RAIC"), a California public benefit corporation, using an $800 million revolving credit facility provided by a group of lenders.
+The credit facility was executed during 2017 and amended in 2020, and we have guaranteed the obligations of the RAIC under the credit facility.
+Loans made under the credit facility are being repaid with the proceeds from the City’s purchase of completed project assets.
+Under the lease agreement and subsequent project component approvals by the City's Board of Airport Commissioners, the City has appropriated to date approximately $1.8 billion to purchase completed project assets, representing the maximum allowable reimbursement by the City.
+Costs incurred in excess of the $1.8 billion maximum will not be reimbursed by the City.
+We currently expect our net project costs to be approximately $500 million, of which approximately $200 million has been reflected as investing activities in our cash flows statement since the project started in 2017.
+In 2020, $315 million was spent on this project, with $293 million paid by the credit facility and $22 million paid directly by Delta.
+Approximately $550 million is expected to be spent on the project during 2021, with $445 million to be paid by the credit facility and $105 million to be paid directly by Delta.
+New York-LaGuardia Redevelopment.
+As part of the terminal redevelopment project at LaGuardia Airport, we are partnering with the Port Authority of New York and New Jersey ("Port Authority") to replace Terminals C and D with a new state-of-the-art terminal facility consisting of 37 gates across 4 concourses connected to a central headhouse.
+The terminal will feature a new, larger Delta Sky Club, wider concourses, more gate seating and 75% more concessions space than the existing terminals.
+The facility will also offer direct access between the parking garage and terminal and improved roadways and drop-off/pick-up areas.
+The design of the new terminal will integrate sustainable technologies and improvements in energy efficiency.
+Construction will be phased to limit passenger inconvenience and is expected to be completed by 2026.
+In connection with the redevelopment, during 2017, we entered into an amended and restated terminal lease with the Port Authority with a term through 2050.
+Pursuant to the lease agreement, as amended to date, we will (1) fund (through debt issuance and existing cash) and undertake the design, management and construction of the terminal and certain off-premises supporting facilities, (2) receive a Port Authority contribution of $481 million to facilitate construction of the terminal and other supporting infrastructure, (3) be responsible for all operations and maintenance during the term of the lease and (4) have preferential rights to all gates in the terminal subject to Port Authority requirements with respect to accommodation of designated carriers.
+We currently expect our net project cost to be approximately $3.5 billion and we bear the risks of project construction, including any potential cost over-runs.
+Using funding primarily provided by existing financing arrangements, we spent approximately $600 million during 2020, bringing the total amount spent on the project to date to approximately $1.5 billion.
+We expect to spend approximately $900 million during 2021, of which a substantial majority will be paid using cash restricted for airport construction.
+See Note 8 of the Notes to the Consolidated Financial Statements for additional information on the debt related to this redevelopment project, the New York Transportation Development Corporation ("NYTDC") Special Facilities Revenue Bonds, Series 2018 and NYTDC Special Facilities Revenue Bonds, Series 2020.In 2019, we opened Concourse G, the first of the four new concourses housing seven of the 37 new gates.
+Not only did it deliver the first direct impact to the Delta passenger experience, it also represented the first major phasing milestone.
+The next major milestone will be the opening of the headhouse and Concourse E, which is scheduled for 2022.Delta Air Lines, Inc. 2020 Form 10-K 
+
+
+
+
+
+ 44Item 7.
+MD&A - Financial Condition and LiquidityFinancing ActivitiesDebt and Finance Leases.
+During 2020, we took quick and decisive action to mitigate liquidity risk following the onset of the global pandemic by obtaining approximately $25.9 billion from financing transactions.
+A summary of these transactions is listed below.
+As our liquidity position began to stabilize during 2020, we repaid approximately $5.6 billion of future debt maturities, including $2.6 billion under our revolving credit facilities which had been drawn down in March 2020.
+See Note 2, Note 8 and Note 9 of the Notes to the Consolidated Financial Statements for additional information.•Raising $9.0 billion through the issuance of notes and entry into a term loan facility, each secured by certain assets related to our SkyMiles program.•Issuing $3.5 billion of senior secured notes and entering into a $1.5 billion term loan, both of which are secured by certain slots, gates and routes.•Entering into a $3.0 billion 364-day secured term loan facility with an original maturity in March 2021, which was repaid early and terminated in October 2020.•Entering into $2.8 billion of sale-leaseback transactions.
+Approximately $2.3 billion of these transactions were treated as financing activities with the remainder treated as investing activities.
+See Note 9 of the Notes to the Consolidated Financial Statements for additional information.•Entering into a promissory note for the $1.6 billion CARES Act payroll support program loan.•Entering into loan agreements to borrow $1.5 billion from the NYTDC in connection with NYTDC's issuance of Special Facilities Revenue Bonds, Series 2020, to finance, among other things, a portion of the construction costs for the new terminal facilities at LaGuardia Airport.•Completing $1.7 billion in transactions secured by aircraft, including EETC issuances and aircraft loans.•Issuing $1.3 billion of unsecured notes.In addition, in January 2021 we received $1.4 billion with respect to the payroll support program extension described below, with the remaining $1.5 billion expected in the March 2021 quarter.
+The principal amount of our debt and finance leases was $29.4 billion at December 31, 2020.
+Future Debt Obligations.
+As described further in Note 8 of the Notes to the Consolidated Financial Statements, as of December 31, 2020, scheduled maturities of our debt in 2021 and 2022 were $1.5 billion and $1.9 billion, respectively, with maturities from 2023 through 2025 ranging between $3 billion and $5 billion annually.
+As of December 31, 2020, scheduled maturities after 2025 aggregate to $12.5 billion.
+In addition, we are obligated to make periodic interest payments at fixed and variable rates, depending on the terms of the applicable debt agreements.
+Based on applicable interest rates and scheduled debt maturities as of December 31, 2020, these interest obligations total approximately $7.2 billion and range from approximately $700 million to $1.4 billion on an annual basis over the next five years.
+In addition to payment of scheduled debt maturities, we expect to pay down our debt in 2021, and therefore reduce our future interest obligations.Our current ratings from the three major credit rating agencies are summarized in the table below:Credit agency ratings informationRating AgencyCurrent RatingOutlookFitchBB+NegativeMoody'sBaa3NegativeStandard & Poor'sBBNegativeFinance Lease Obligations.
+As described further in Note 9 of the Notes to the Consolidated Financial Statements as of December 31, 2020 we had a total of $1.3 billion of minimum finance lease obligations.
+These minimum lease payments range from approximately $100 million to $300 million on an annual basis over the next five years.Capital Returns to Shareholders.
+In early March 2020, we suspended both our share repurchase program and future dividends due to the impact of the pandemic.
+Prior to suspending these activities, in the March 2020 quarter, we repurchased and retired 6 million shares of our common stock at a cost of $344 million and paid a quarterly dividend of $260 million.
+The CARES Act payroll support program initially restricted share repurchases and the payment of dividends through September 2021, which have been continued to March 2022 under the terms of the payroll support extension.Delta Air Lines, Inc. 2020 Form 10-K 
+
+
+
+
+
+ 45Item 7.
+MD&A - Financial Condition and LiquidityUndrawn Lines of Credit.
+As of December 31, 2020 we had approximately $2.6 billion undrawn and available under our revolving credit facilities.
+In addition, we had outstanding letters of credit as of December 31, 2020, including approximately $300 million that reduced the availability under our revolvers and approximately $300 million that did not affect the availability under our revolvers.
+Covenants.
+We were in compliance with the covenants in our debt agreements at December 31, 2020.
+See Note 8 of the Notes to the Consolidated Financial Statements for more information on the covenants in our debt agreements.Critical Accounting EstimatesOur critical accounting estimates are those estimates made in accordance with GAAP that involve a significant level of estimation uncertainty and have had or are reasonably likely to have a material impact on our consolidated results of operations or financial condition.
+Accordingly, the actual results may differ materially from these estimates.
+For a discussion of our significant accounting policies, see Note 1 of the Notes to the Consolidated Financial Statements, unless otherwise noted below.Loyalty ProgramOur SkyMiles loyalty program generates customer loyalty by rewarding customers with incentives to travel on Delta.
+This program allows customers to earn mileage credits ("miles") by flying on Delta, Delta Connection and other airlines that participate in the loyalty program.
+When traveling, customers earn miles based on the passenger's loyalty program status and ticket price.
+Customers can also earn miles through participating companies such as credit card companies, hotels, car rental agencies and ridesharing companies.
+Miles are redeemable by customers in future periods for air travel on Delta and other participating airlines, membership in our Sky Club and other program awards.
+To facilitate transactions with participating companies, we sell miles to non-airline businesses, customers and other airlines.
+The loyalty program includes two types of transactions that are considered revenue arrangements with multiple performance obligations (1) passenger ticket sales earning miles and (2) sale of miles to participating companies.
+Passenger Ticket Sales Earning Miles.
+Passenger ticket sales earning miles provide customers with (1) miles earned and (2) air transportation, which are each considered performance obligations.
+We value each performance obligation on a standalone basis.
+To value the miles earned, we consider the quantitative value a passenger receives by redeeming miles for a ticket rather than paying cash, which is referred to as equivalent ticket value ("ETV").
+Our estimate of ETV is adjusted for miles that are not likely to be redeemed ("breakage").
+We use statistical models to estimate breakage based on historical redemption patterns.
+A change in assumptions to the redemption activity for miles or the estimated fair value of miles expected to be redeemed could have a material impact on our revenue in the year in which the change occurs and in future years.
+We recognize breakage proportionally during the period in which the remaining miles are actually redeemed.
+At December 31, 2020, the aggregate deferred revenue balance associated with the SkyMiles program was $7.2 billion.
+A hypothetical 10% change in the number of outstanding miles estimated to be redeemed would result in an impact of approximately $60 million on annual revenue recognized.We defer revenue for the miles when earned and recognize loyalty travel awards in passenger revenue as the miles are redeemed and transportation is provided.
+We record the air transportation portion of the passenger ticket sales in air traffic liability and recognize passenger revenue when we provide transportation or if the ticket goes unused.
+A hypothetical 10% increase in our estimate of the ETV of a mile would decrease annual passenger revenue by approximately $40 million, as a result of an increase in the amount of revenue deferred from the mileage component of passenger ticket sales.Sale of Miles to Participating Companies.
+Customers earn miles based on their spending with participating companies such as credit card companies, hotels, car rental agencies and ridesharing companies with which we have marketing agreements to sell miles.
+Our contracts to sell miles under these marketing agreements have multiple performance obligations.
+Payments are typically due to us monthly based on the volume of miles sold during the period, and the initial terms of our marketing contracts are from three to eleven years.
+During the years ended December 31, 2020 and 2019, total cash sales from marketing agreements were $2.8 billion and $4.2 billion, respectively, which are allocated to travel and other performance obligations, as discussed below.
+Delta Air Lines, Inc. 2020 Form 10-K 
+
+
+
+
+
+ 46Item 7.
+MD&A - Critical Accounting EstimatesOur most significant contract to sell miles relates to our co-brand credit card relationship with American Express.
+Our agreements with American Express provide for joint marketing, grant certain benefits to Delta-American Express co-branded credit card holders ("cardholders") and American Express Membership Rewards program participants, and allow American Express to market its services or products using our customer database.
+Cardholders earn miles for making purchases using co-branded cards, and certain cardholders may also check their first bag for free, are granted discounted access to Delta Sky Club lounges and receive priority boarding and other benefits while traveling on Delta.
+Additionally, participants in the American Express Membership Rewards program may exchange their points for miles under the loyalty program.
+We sell miles at agreed-upon rates to American Express which are then provided to their customers under the co-brand credit card program and the Membership Rewards program.
+Effective January 1, 2019, we amended our co-brand and other agreements with American Express which increased the value we receive and extended the terms to 2029.
+The products and services delivered are consistent with previous agreements.
+We account for marketing agreements, including those with American Express, by allocating the consideration received to the individual products and services delivered.
+We allocate the value based on the relative selling prices of those products and services, which generally consist of award travel, priority boarding, baggage fee waivers, lounge access and the use of our brand.
+We determine our best estimate of the selling prices by using a discounted cash flow analysis using multiple inputs and assumptions, including (1) the expected number of miles awarded and number of miles redeemed, (2) ETV for the award travel obligation adjusted for breakage, (3) published rates on our website for baggage fees, discounted access to Delta Sky Club lounges and other benefits while traveling on Delta, (4) brand value (using estimated royalties generated from the use of our brand) and (5) volume discounts provided to certain partners.We defer the amount allocated to award travel as part of loyalty program deferred revenue and recognize loyalty travel awards in passenger revenue as the miles are redeemed and transportation is provided.
+Revenue allocated to services performed in conjunction with a passenger’s flight, such as baggage fee waivers, is recognized as travel-related services in passenger revenue when the related service is performed.
+Revenue allocated to access Delta Sky Club lounges is recognized as miscellaneous in other revenue as access is provided.
+Revenue allocated to the remaining performance obligations, primarily brand value, is recorded as loyalty program in other revenue as miles are delivered.
+For additional information on our significant accounting policies related to the loyalty program, see Note 3 of the Notes to the Consolidated Financial Statements.Goodwill and Indefinite-Lived Intangible Assets We apply a fair value-based impairment test to the carrying value of goodwill and indefinite-lived intangible assets on an annual basis (as of October 1) and, if certain events or circumstances indicate that an impairment loss may have been incurred, on an interim basis.
+We assess the value of our goodwill and indefinite-lived assets under either a qualitative or quantitative approach.
+Under a qualitative approach, we consider various market factors, including certain of the key assumptions listed below.
+We analyze these factors to determine if events and circumstances have affected the fair value of goodwill and indefinite-lived intangible assets.
+If we determine that it is more likely than not that the asset may be impaired, we use the quantitative approach to assess the asset's fair value and the amount of the impairment.
+Under a quantitative approach, we calculate the fair value of the asset incorporating the key assumptions listed below into our calculation.When we evaluate goodwill for impairment using a quantitative approach, we estimate the fair value of the reporting unit by considering both comparable public company multiples (a market approach) and projected discounted future cash flows (an income approach).
+When we perform a quantitative impairment assessment of our indefinite-lived intangible assets, fair value is estimated based on (1) recent market transactions, where available, (2) the royalty method for the Delta tradename (which assumes hypothetical royalties generated from using our tradename) or (3) projected discounted future cash flows (an income approach).
+Key Assumptions.
+The key assumptions in our impairment tests include (1) forecasted revenues, expenses and cash flows, including the duration and extent of impact to our business and our alliance partners from the COVID-19 pandemic, (2) current discount rates, (3) observable market transactions and (4) anticipated changes to the regulatory environment (e.g., diminished slot access, additional Open Skies agreements or changes to antitrust approvals).
+These assumptions are consistent with those that hypothetical market participants would use.
+Because we are required to make estimates and assumptions when evaluating goodwill and indefinite-lived intangible assets for impairment, actual transaction amounts may differ materially from these estimates.
+In addition, when performing a qualitative valuation, we consider the amount by which the intangible assets' fair values exceeded their respective carrying values in the most recent fair value measurements calculated using a quantitative approach.Delta Air Lines, Inc. 2020 Form 10-K 
+
+
+
+
+
+ 47Item 7.
+MD&A - Critical Accounting EstimatesChanges in certain events and circumstances could result in impairment or a change from indefinite-lived to definite-lived.
+Factors which could cause impairment include, but are not limited to (1) negative trends in our market capitalization, (2) reduced profitability resulting from lower passenger mile yields or higher input costs (primarily related to fuel and employees), (3) lower passenger demand as a result of weakened U.S. and global economies, global pandemics or other factors, (4) interruption to our operations due to a prolonged employee strike, terrorist attack or other reasons, (5) changes to the regulatory environment (e.g., diminished slot access, additional Open Skies agreements or changes to antitrust approvals), (6) competitive changes by other airlines and (7) strategic changes to our operations leading to diminished utilization of the intangible assets.
+Goodwill.
+Our goodwill balance, which is related to the airline segment, was $9.8 billion at December 31, 2020.
+Based upon our quantitative assessment of all relevant factors, including applicable factors noted in "Key Assumptions" above in addition to the change in our market capitalization during the current year, we determined that the fair value of goodwill significantly exceeded the carrying value and, therefore, there was no indication that goodwill was impaired.Identifiable Intangible Assets.
+Our identifiable intangible assets, which are related to the airline segment, had a net carrying amount of $6.0 billion at December 31, 2020, of which $5.9 billion related to indefinite-lived intangible assets.
+Indefinite-lived assets are not amortized and consist of routes, slots, the Delta tradename and assets related to alliances and collaborative arrangements.
+Definite-lived assets consist primarily of marketing and maintenance service agreements.
+In 2020, we performed quantitative assessments of our goodwill and indefinite-lived intangible assets, including applicable factors noted in "Key Assumptions" above, and determined that there was no indication that the assets were impaired as the fair value of each asset exceeded its carrying value by at least 10%.
+Assumptions are sensitive to uncertainty about future events, the macroeconomic environment and other market-based risk factors.
+A change in key assumptions such as the discount rate or projected future revenues, expenses and cash flows could materially affect the determination of fair values.
+However, we believe the impact of the pandemic is temporary in nature and does not materially impact the long-range forecasts for our goodwill or indefinite-lived intangibles.
+Management evaluated estimates and assumptions used in the valuations, considering market and industry-specific conditions.For additional information on our goodwill and indefinite-lived intangible assets' significant accounting policies and the related fair values and book values, see Note 7 of the Notes to the Consolidated Financial Statements.Property and Equipment, netOur flight equipment, which consists of aircraft and associated engines and parts, and other long-lived assets have a recorded value of $26.5 billion at December 31, 2020.
+This value is based on various factors, including the assets' estimated useful lives and salvage values.
+We review flight equipment and other long-lived assets used in operations for impairment losses when events and circumstances indicate the assets may be impaired.
+Factors which could be indicators of impairment include, but are not limited to (1) a decision to permanently remove flight equipment or other long-lived assets from operations, (2) significant changes in the estimated useful life, (3) significant changes in projected cash flows, (4) permanent and significant declines in fleet fair values and (5) changes to the regulatory environment.
+For long-lived assets held for sale, we discontinue depreciation and record impairment losses when the carrying amount of these assets is greater than the fair value less the cost to sell.
+To determine whether impairments exist for active and temporarily parked aircraft, we group assets at the fleet type level or at the contract level for aircraft operated by third-party regional carriers (i.e., the lowest level for which there are identifiable cash flows) and then estimate future cash flows based on projections of capacity, passenger mile yield, fuel and labor costs and other relevant factors.
+Given the substantial reduction in our active aircraft and diminished projections of future cash flows in the near term as a result of the COVID-19 pandemic, we evaluated our fleet during 2020 and determined that only the fleet types discussed in Note 2 of the Notes to the Consolidated Financial Statements were impaired, as the future cash flows from the operation of all other fleet types through the respective retirement dates exceeded the carrying value.
+As we obtain greater clarity about the duration and extent of reduced demand and potentially execute further capacity adjustments, we will continue to evaluate our fleet compared to network requirements and may decide to retire additional aircraft.
+Future decisions regarding the temporarily parked aircraft and the timing of any return to service will be dependent on the evolution of the demand environment.
+Delta Air Lines, Inc. 2020 Form 10-K 
+
+
+
+
+
+ 48Item 7.
+MD&A - Critical Accounting EstimatesAs a result of the COVID-19 pandemic and our response, we have removed certain aircraft from active service as of December 31, 2020, which includes owned and leased aircraft that are being retired early.
+This resulted in impairment and other related charges of $4.4 billion, recorded in restructuring charges in our income statement.
+These charges were calculated using Level 3 fair value inputs based primarily upon recent market transactions and third-party bids, which were corroborated with published pricing guides and our assessment of existing market conditions based on industry knowledge.
+The effects of the COVID-19 pandemic in 2020 created additional estimation uncertainty as there is currently a limited market for aircraft and limited data on how the COVID-19 pandemic has affected the fair value of aircraft.
+Following the impairment charges, the remaining aggregate net book value of these aircraft as of December 31, 2020 is approximately $500 million.
+See Note 2 of the Notes to the Consolidated Financial Statements for additional details regarding these impairments and related charges.Income Tax Valuation AllowanceWe periodically assess whether it is more likely than not that we will generate sufficient taxable income to realize our deferred income tax assets.
+We establish valuation allowances if it is not likely we will realize our deferred income tax assets.
+In making this determination, we consider available positive and negative evidence and make certain assumptions.
+We consider, among other things, projected future taxable income, scheduled reversals of deferred tax liabilities, the overall business environment, our historical financial results and tax planning strategies.
+In evaluating the likelihood of utilizing our net deferred income tax assets, the significant factors that we consider include (1) our recent history of profitability, (2) growth in the U.S. and global economies, (3) forecast of airline revenue trends, (4) estimate of future fuel prices and (5) future impact of taxable temporary differences.At December 31, 2020 our net deferred tax asset balance was $2.0 billion, including a $460 million valuation allowance primarily related to capital loss carryforwards and state net operating losses.
+Although we are in a three year cumulative loss position as of December 31, 2020, we have a recent history of significant earnings prior to the onset of the COVID-19 pandemic.
+We expect to return to profitability as the effects of the pandemic subside and to generate sufficient taxable income to utilize our federal net operating loss carryforwards before any expire.
+Our federal net operating loss carryforwards generated before 2018 do not begin to expire until 2027.
+Under current tax law, federal net operating losses generated in 2020 do not expire.
+Therefore, we have not recorded a valuation allowance on our deferred tax assets other than the capital loss carryforwards and state net operating losses that have short expiration periods.Defined Benefit Pension PlansWe sponsor defined benefit pension plans for eligible employees and retirees.
+These plans are closed to new entrants and frozen for future benefit accruals.
+As of December 31, 2020, the unfunded benefit obligation for these plans recorded on our balance sheet was $6.1 billion.
+We had no minimum funding requirements in 2019 or 2020, we have no such requirements in 2021, and based on our current projections, we do not expect any minimum required contributions until 2025.
+However, during 2019, we voluntarily contributed $1 billion to these plans.
+As a part of our liquidity initiatives we suspended voluntary pension funding that we were previously planning in 2020.
+We plan to contribute at least $500 million to these plans in 2021.
+The most critical assumptions impacting our defined benefit pension plan obligations and net periodic benefit cost are the discount rate, the expected long-term rate of return on plan assets and life expectancy.Weighted Average Discount Rate.
+We determine our weighted average discount rate on our measurement date primarily by reference to annualized rates earned on high-quality fixed income investments and yield-to-maturity analysis specific to our estimated future benefit payments.
+We used a weighted average discount rate to value the obligations of 2.62% and 3.40% at December 31, 2020 and 2019, respectively.
+Our weighted average discount rate for net periodic benefit cost in each of the past three years has varied from the rate selected on our measurement date, ranging from 3.40% to 4.33%.Expected Long-Term Rate of Return.
+Our expected long-term rate of return on plan assets is based primarily on plan-specific investment studies using historical market return and volatility data.
+Modest excess return expectations versus some public market indices are incorporated into the return projections based on the actively managed structure of the investment programs and their records of achieving such returns historically.
+We also expect to receive a premium for investing in less liquid private markets.
+We review our rate of return on plan assets assumptions annually.
+Our annual investment performance for one particular year does not, by itself, significantly influence our evaluation.
+The investment strategy for our defined benefit pension plan assets is to earn a long-term return that meets or exceeds our annualized return target while taking an acceptable level of risk and maintaining sufficient liquidity to pay current benefits and other cash obligations of the plan.
+This is achieved by investing in a globally diversified mix of public and private equity, fixed income, real assets, hedge funds and other assets and instruments.
+Our weighted average expected long-term rate of return on assets for net periodic benefit cost for the year ended December 31, 2020 was 8.97%.Delta Air Lines, Inc. 2020 Form 10-K 
+
+
+
+
+
+ 49Item 7.
+MD&A - Critical Accounting EstimatesThe impact of a 0.50% change in these assumptions is shown in the table below:Benefit plan effects of change in assumptions usedChange in Assumption Effect on 2021Pension Benefit CostEffect on AccruedPension Liability atDecember 31, 20200.50% decrease in weighted average discount rate$(19) million$1.4 billion0.50% increase in weighted average discount rate$15 million$(1.3) billion0.50% decrease in expected long-term rate of return on assets$79 million$— 0.50% increase in expected long-term rate of return on assets$(79) million$— Life Expectancy.
+Changes in life expectancy may significantly impact our benefit obligations and future net periodic benefit cost.
+We use the Society of Actuaries ("SOA") published mortality data and other publicly available information to develop our best estimate of life expectancy.
+The SOA publishes updated mortality tables for U.S. plans and updated improvement scales.
+Each year we consider updates by the SOA in setting our mortality assumptions for purposes of measuring pension and other postretirement and postemployment benefit obligations.Funding.
+Our funding obligations for qualified defined benefit plans are governed by the Employee Retirement Income Security Act.
+The Pension Protection Act of 2006 allows commercial airlines to elect alternative funding rules ("Alternative Funding Rules") for defined benefit plans that are frozen.
+We elected the Alternative Funding Rules under which the unfunded liability for a frozen defined benefit plan may be amortized over a fixed 17-year period and is calculated using an 8.85% discount rate until the 17-year period expires for all frozen defined benefit plans by the end of 2024.While the Pension Protection Act makes our funding obligations for these plans more predictable, factors outside our control continue to have an impact on the funding requirements.
+Estimates of future funding requirements are based on various assumptions and can vary materially from actual funding requirements.
+Assumptions include, among other things, the actual and projected market performance of assets, statutory requirements and demographic data for participants.
+Investments Valued at Net Asset Value ("NAV") Per Share.
+On an annual basis we assess the potential for adjustments to the fair value of all investments.
+These investments valued using NAV as a practical expedient are typically valued on a monthly or quarterly basis by third-party administrators, valuation agents or fund managers with an annual audit performed by an independent third party, but certain of these investments have a lag in the availability of data.
+This primarily applies to private equity, private equity-related strategies and real assets.
+We solicit valuation updates from the investment fund managers and use their information and corroborating data from public markets to determine any needed fair value adjustments.
+For additional information on our significant accounting policies related to defined benefit pension plans, see Note 11 of the Notes to the Consolidated Financial Statements.Recent Accounting Standards Credit Losses.
+In 2016, the Financial Accounting Standards Board ("FASB") issued Accounting Standards Update ("ASU") No.
+2016-13, "Financial Instruments-Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments."
+Under this ASU, an entity is required to utilize an "expected credit loss model" on certain financial instruments, including trade and financing receivables.
+This model requires consideration of a broader range of reasonable and supportable information and requires an entity to estimate expected credit losses over the lifetime of the asset.
+We adopted this standard effective January 1, 2020 and due to the COVID-19 pandemic, we recorded reserves on certain receivables, which are discussed further in Note 5 of the Notes to the Consolidated Financial Statements.
+Income Taxes.
+In 2019, the FASB issued ASU No.
+2019-12, "Income Taxes (Topic 740): Simplifying the Accounting for Income Taxes."
+This standard simplifies the accounting and disclosure requirements for income taxes by clarifying existing guidance to improve consistency in application of ASC 740.
+This standard also removed the requirement to calculate income tax expense for the stand-alone financial statements of wholly owned subsidiaries.
+We adopted the new standard effective January 1, 2020 with no impact on our Consolidated Financial Statements.
+Delta Air Lines, Inc. 2020 Form 10-K 
+
+
+
+
+
+ 50Item 7.
+MD&A - Supplemental InformationSupplemental InformationWe sometimes use information ("non-GAAP financial measures") that is derived from the Consolidated Financial Statements, but that is not presented in accordance with GAAP.
+Under the U.S. Securities and Exchange Commission rules, non-GAAP financial measures may be considered in addition to results prepared in accordance with GAAP, but should not be considered a substitute for or superior to GAAP results.
+Reconciliations below may not calculate exactly due to rounding.Pre-Tax (Loss)/Income, adjustedThe following table shows a reconciliation of pre-tax (loss)/income (a GAAP measure) to pre-tax (loss)/income, adjusted (a non-GAAP financial measure).
+In 2020, pre-tax (loss)/income, adjusted excludes the following items directly related to the impact of COVID-19 and our response for comparability with the prior period: •Restructuring charges.
+We recognized restructuring charges following strategic business decisions in response to the COVID-19 pandemic.
+These charges primarily include impairments and related charges from retirement decisions related to approximately 400 aircraft and the voluntary early retirement and separation programs.•Government grant recognition.
+We recognized the full grant proceeds from the CARES Act payroll support program as a contra-expense in 2020.
+We recognized the grant proceeds based on the periods that the funds were intended to benefit.•Impairments and equity method losses.
+During 2020, we recognized charges and the related income tax impacts from write-downs of our investments in LATAM and Grupo Aeroméxico following their financial losses and separate Chapter 11 bankruptcy filings, and the write-down of our investment in Virgin Atlantic based on our share of its losses.•Pension settlement charges.
+These charges were recognized in connection with the voluntary programs.We also regularly adjust pre-tax (loss)/income for the following items to determine pre-tax (loss)/income, adjusted for the reasons described below: •MTM adjustments and settlements on hedges.
+Mark-to-market ("MTM") adjustments are defined as fair value changes recorded in periods other than the settlement period.
+Such fair value changes are not necessarily indicative of the actual settlement value of the underlying hedge in the contract settlement period.
+Settlements represent cash received or paid on hedge contracts settled during the applicable period.
+•Equity investment MTM adjustments.
+We previously recorded our proportionate share of losses from our equity investments in Virgin Atlantic, Grupo Aeroméxico and LATAM in non-operating expense.
+(As a result of Grupo Aeroméxico's and LATAM’s bankruptcy filings, we no longer have significant influence with Grupo Aeroméxico or LATAM and discontinued accounting for these investments under the equity method in the June 2020 quarter.)
+We adjust for our equity method investees' hedge portfolio MTM adjustments to allow investors to understand and analyze our core operational performance in the periods shown.
+•MTM adjustments on investments.
+Unrealized gains/losses result from our equity investments that are accounted for at fair value in non-operating expense.
+The gains/losses are driven by changes in stock prices, foreign currency fluctuations and other valuation techniques for investments in companies without publicly-traded shares.
+Adjusting for these gains/losses allows investors to better understand and analyze our core operational performance in the periods shown.
+•Delta Private Jets adjustment.
+Because we combined Delta Private Jets with Wheels Up in January 2020, we have excluded the impact of Delta Private Jets from 2019 results for comparability.Delta Air Lines, Inc. 2020 Form 10-K 
+
+
+
+
+
+ 51Item 7.
+MD&A - Supplemental InformationPre-tax (loss)/income, adjusted reconciliationYear Ended December 31,(in millions)20202019Pre-tax (loss)/income$(15,587)$6,198 Less: Restructuring charges8,219 — Less: Government grant recognition(3,946)— Less: Impairments and equity method losses2,172 — Less: Pension settlement charges36 — Adjusted for:MTM adjustments and settlements on hedges10 14 Equity investment MTM adjustments(19)(14)MTM adjustments on investments119 13 Delta Private Jets adjustment— 3 Pre-tax (loss)/income, adjusted$(8,996)$6,214 Operating Expense, adjustedThe following table shows a reconciliation of operating expense (a GAAP measure) to operating expense, adjusted (a non-GAAP financial measure).
+In 2020, operating expense, adjusted excludes the following items directly related to the impact of COVID-19 and our response: restructuring charges and government grant recognition, as discussed above under the heading pre-tax (loss)/income, adjusted.
+We also adjust operating expense for the following items for the reasons described below.
+We adjust for MTM adjustments and settlements on hedges and Delta Private Jets adjustment for the same reasons described above under the heading pre-tax (loss)/income, adjusted.
+•Third-party refinery sales.
+We adjust operating expense for refinery sales to third parties to determine operating expense, adjusted because these revenues, and related expenses, are not related to our airline segment.
+Operating expense, adjusted therefore provides a more meaningful comparison of operating expenses from our airline operations to the rest of the airline industry.Operating expense, adjusted reconciliationYear Ended December 31,(in millions)20202019Operating expense$29,564 $40,389 Less: Restructuring charges(8,219)— Less: Government grant recognition3,946 — Adjusted for:MTM adjustments and settlements on hedges(10)(14)Third-party refinery sales(1,150)(97)Delta Private Jets adjustment— (196)Operating expense, adjusted$24,130 $40,082 Delta Air Lines, Inc. 2020 Form 10-K 
+
+
+
+
+
+ 52Item 7.
+MD&A - Supplemental InformationFree Cash FlowWe present free cash flow because management believes this metric is helpful to investors to evaluate the company's ability to generate cash that is available for use for debt service or general corporate initiatives.
+Adjustments include:•Net purchases of short-term investments.
+Net purchases of short-term investments represent the net purchase and sale activity of investments and marketable securities in the period, including gains and losses.
+We adjust for this activity to provide investors a better understanding of the company's free cash flow generated by our operations.•Strategic investments and related.
+Cash flows related to our investment in and related transactions with other airlines are included in our GAAP investing activities.
+We adjust for this activity because it provides a more meaningful comparison to our airline industry peers.•Net cash flows related to certain airport construction projects and other.
+Cash flows related to certain airport construction projects are included in our GAAP operating activities and capital expenditures.
+We have adjusted for these items, which were primarily funded by cash restricted for airport construction, to provide investors a better understanding of the company's free cash flow and capital expenditures that are core to our operational performance in the periods shown.Free cash flow reconciliationYear Ended December 31,(in millions)20202019Net cash (used in)/provided by operating activities$(3,793)$8,425 Net cash used in investing activities(9,238)(4,563)Adjustments:
+ Net purchases/(redemptions) of short-term investments5,792 (206)
+ Strategic investments and related2,192 170
+Net cash flows related to certain airport construction projects and other721 338 Free cash flow$(4,327)$4,164 TRASM, adjustedThe following table shows a reconciliation of TRASM (a GAAP measure) to TRASM, adjusted (a non-GAAP financialmeasure).
+We adjust TRASM for refinery sales to third parties for the same reason described above under the heading operating expense, adjusted.
+We adjust for Delta Private Jets for the same reason described above under the heading pre-tax (loss)/income, adjusted.TRASM, adjusted reconciliationYear Ended December 31,20202019TRASM (cents)12.73 ¢17.07 ¢Adjusted for:Third-party refinery sales(0.86)(0.04)Delta Private Jets adjustment— (0.07)TRASM, adjusted11.87 ¢16.97 ¢Delta Air Lines, Inc. 2020 Form 10-K 
+
+
+
+
+
+ 53Item 7.
+MD&A - Supplemental InformationCASM-ExThe following table shows a reconciliation of CASM (a GAAP measure) to CASM-Ex (a non-GAAP financial measure).
+In 2020, CASM-Ex excludes the following items directly related to the impact of COVID-19 and our response: restructuring charges and government grant recognition, as discussed above under the heading pre-tax (loss)/income, adjusted.
+We also adjust CASM for the following items to determine CASM-Ex for the reasons described below.
+We adjust for refinery sales to third parties for the same reason described above under the heading operating expense, adjusted.
+We adjust for Delta Private Jets for the same reason described above under the heading pre-tax (loss)/income, adjusted.•Aircraft fuel and related taxes.
+The volatility in fuel prices impacts the comparability of year-over-year financial performance.
+The adjustment for aircraft fuel and related taxes allows investors to better understand and analyze our non-fuel costs and year-over-year financial performance.•Profit sharing.
+We adjust for profit sharing because this adjustment allows investors to better understand and analyze our recurring cost performance and provides a more meaningful comparison of our core operating costs to the airline industry.CASM-Ex reconciliationYear Ended December 31,20202019CASM (cents)22.01 ¢14.67 ¢Less: Restructuring charges(6.12)— Less: Government grant recognition2.94 — Adjusted for:Aircraft fuel and related taxes(2.36)(3.10)Third-party refinery sales(0.86)(0.04)Profit sharing— (0.60)Delta Private Jets adjustment— (0.06)CASM-Ex15.61 ¢10.88 ¢Consolidated CASM, adjustedThe following table shows a reconciliation of CASM (a GAAP measure) to consolidated CASM, adjusted (a non-GAAP financial measure).
+In 2020, consolidated CASM, adjusted excludes the following items directly related to the impact of COVID-19 and our response: restructuring charges and government grant recognition, as discussed above under the heading pre-tax (loss)/income, adjusted.
+We also adjust CASM for MTM adjustments and settlements on hedges and for Delta Private Jets for the same reason described above under the heading pre-tax (loss)/income, adjusted.
+We adjust for refinery sales to third parties for the same reason described above under the heading operating expense, adjusted.
+Consolidated CASM, adjusted reconciliationYear Ended December 31,20202019CASM (cents)22.01 ¢14.67 ¢Less: Restructuring charges(6.12)— Less: Government grant recognition2.94 — Adjusted for:MTM adjustments and settlements on hedges(0.01)(0.01)Third-party refinery sales(0.86)(0.04)Delta Private Jets adjustment— (0.07)Consolidated CASM, adjusted17.96 ¢14.56 ¢Delta Air Lines, Inc. 2020 Form 10-K 
+
+
+
+
+
+ 54Item 7.
+MD&A - Glossary of Defined TermsGlossary of Defined TermsASM - Available Seat Mile.
+A measure of capacity.
+ASMs equal the total number of seats available for transporting passengers during a reporting period multiplied by the total number of miles flown during that period.CASM - (Total Operating) Cost per Available Seat Mile.
+The amount of operating cost incurred per ASM during a reporting period.
+CASM is also referred to as "unit cost.
+"CASM-Ex - The amount of operating cost incurred per ASM during a reporting period, adjusted for restructuring charges, government grant recognition, aircraft fuel and related taxes, third-party refinery sales, profit sharing expenses and Delta Private Jets.Consolidated CASM, adjusted - The amount of operating cost incurred per ASM during a reporting period, adjusted for restructuring charges, government grant recognition, MTM adjustments and settlements on hedges, third-party refinery sales and Delta Private Jets.Free Cash Flow - Represents the cash available for use for debt service or general corporate initiatives.
+Load Factor - A measure of utilized available seating capacity calculated by dividing RPMs by ASMs for a reporting period.Passenger Mile Yield or Yield - The amount of passenger revenue earned per RPM during a reporting period.PRASM - Passenger Revenue per ASM.
+The amount of passenger revenue earned per ASM during a reporting period.
+PRASM is also referred to as "unit revenue.
+"RPM - Revenue Passenger Mile.
+One revenue-paying passenger transported one mile.
+RPMs equal the number of revenue passengers during a reporting period multiplied by the number of miles flown by those passengers during that period.
+RPMs are also referred to as "traffic.
+"TRASM - Total Revenue per ASM.
+The amount of total revenue earned per ASM during a reporting period.
+TRASM, adjusted - The amount of total revenue earned per ASM during a reporting period, adjusted for third-party refinery sales and Delta Private Jets.Delta Air Lines, Inc. 2020 Form 10-K 
+
+
+
+
+
+ 55Item 7A.
+Market RiskITEM 7A.
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISKWe have market risk exposure related to fuel prices, interest rates and foreign currency exchange rates.
+Market risk is the potential negative impact of adverse changes in these prices or rates on our Consolidated Financial Statements.
+In an effort to manage our exposure to these risks, we may enter into derivative contracts and may adjust our derivative portfolio as market conditions change.
+See Note 6 of the Notes to the Consolidated Financial Statements for further information on our derivative contracts.
+We expect adjustments to the fair value of financial instruments to result in ongoing volatility in earnings and stockholders' equity.The following sensitivity analyses do not consider the effects of a change in demand for air travel, the economy as a whole or actions we may take to seek to mitigate our exposure to a particular risk.
+For these and other reasons, the actual results of changes in these prices or rates may differ materially from the following hypothetical results.Fuel Price RiskChanges in fuel prices materially impact our results of operations.
+A one cent increase in the cost of jet fuel would result in approximately $40 million of additional annual fuel expense based on annual pre-COVID-19 pandemic consumption of approximately four billion gallons of jet fuel.
+As a result of the reduced capacity from the COVID-19 pandemic, our jet fuel consumption during 2020 of 1.9 billion gallons was significantly less than our historical and expected future consumption.
+Our derivative contracts to hedge the financial risk from changing fuel prices are primarily related to Monroe’s inventory.
+Interest Rate RiskOur exposure to market risk from adverse changes in interest rates is primarily associated with our debt obligations.
+Market risk associated with our fixed and variable rate debt relates to the potential reduction in fair value and negative impact to future earnings, respectively, from an increase in interest rates.
+At December 31, 2020, we had $22.3 billion of fixed-rate debt and $5.9 billion of variable-rate debt.
+The rates used in our variable-rate debt are based on LIBOR, or another index rate, which in certain cases is subject to a floor.
+An increase of 100 basis points in average annual interest rates would have decreased the estimated fair value of our fixed-rate debt by $1.2 billion at December 31, 2020 and would have increased the annual interest expense on our variable-rate debt and variable-rate leases by $29 million.
+The U.K. Financial Conduct Authority announced in 2017 that it intends to no longer compel banks to submit rates for the calculation of the London interbank offered rate ("LIBOR") after 2021.
+In December 2020, the administrator of LIBOR proposed to cease publication of certain LIBOR settings after December 2021 and to cease publication of the remainder of the LIBOR settings after June 2023.
+To mitigate the possible impact of this change, various regulators have proposed alternative reference rates.
+The effect of any discontinuation or replacement of LIBOR cannot be predicted at this time, but we believe our risk would be limited to variable-rate debt and variable-rate finance leases which utilize rates for which the settings are to be discontinued after June 2023 because we have an immaterial amount of contracts that utilize the settings to be discontinued immediately after December 2021.
+At December 31, 2020 we had approximately $3.8 billion of variable-rate debt and variable-rate finance leases maturing after June 2023, all of which include provisions to update the applicable reference rate, and we do not expect this rate to be materially different from LIBOR.Foreign Currency Exchange RiskWe are subject to foreign currency exchange rate risk because we have revenue, expense and equity investments denominated in foreign currencies.
+To manage exchange rate risk, we execute both our international revenue and expense transactions in the same foreign currency to the extent practicable.
+From time to time, we may also enter into foreign currency option and forward contracts.
+At December 31, 2020, we had a U.S. dollar-South Korean won cross currency swap contract totaling a $13 million liability position.
+We estimate that a 10% depreciation or appreciation in the price of the South Korean won in relation to the U.S. dollar would have changed the projected cash settlement value of our open hedge contract by $17 million for the year ending December 31, 2020.Delta Air Lines, Inc. 2020 Form 10-K 
+
+
+
+
+
+ 56Financial Statements

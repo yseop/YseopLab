@@ -1,0 +1,10 @@
+= Updates regarding FinCausal 2022
+
+FinCausal 2022 is an expression of FinCausal Task 2
+
+Additional data are provided, extracted from SEC 2021 MDAS
+
+SEC MDAS Extraction scripts are provided in the extraction directory
+
+Dataset sample builds from Brat annotation server are provided in the annotation directory
+
