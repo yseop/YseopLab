@@ -1,4 +1,4 @@
-""" FNP2020 build-dataset command implementation
+""" fnp2022 build-dataset command implementation
 <REFACTORING IN-PROGRESS>
 ## BRAT configuration detailed below:
 **annotation.conf**
@@ -316,12 +316,12 @@ def main(host, root, collection, doclist_file, output_dir):
         OUTPUTDIR = os.path.join(OUTPUTDIR, SNAPSHOT)
     os.makedirs(OUTPUTDIR, exist_ok=True)
 
-    fnp_task1_output_pre = os.path.join(OUTPUTDIR, f'fnp2020-{COLLECTION}-task1-pre.csv')
-    fnp_task1_output = os.path.join(OUTPUTDIR, f'fnp2020-{COLLECTION}-task1.csv')
+    fnp_task1_output_pre = os.path.join(OUTPUTDIR, f'fnp2022-{COLLECTION}-task1-pre.csv')
+    fnp_task1_output = os.path.join(OUTPUTDIR, f'fnp2022-{COLLECTION}-task1.csv')
     fnp_task1_output_length = 0
     fnp_task1_output_distrib = [0, 0]
-    fnp_task2_output_pre = os.path.join(OUTPUTDIR, f'fnp2020-{COLLECTION}-task2-pre.csv')
-    fnp_task2_output = os.path.join(OUTPUTDIR, f'fnp2020-{COLLECTION}-task2.csv')
+    fnp_task2_output_pre = os.path.join(OUTPUTDIR, f'fnp2022-{COLLECTION}-task2-pre.csv')
+    fnp_task2_output = os.path.join(OUTPUTDIR, f'fnp2022-{COLLECTION}-task2.csv')
     fnp_task2_output_length = 0
 
     # TODO get rel path from drive
@@ -337,7 +337,7 @@ def main(host, root, collection, doclist_file, output_dir):
         return rel_path
 
     # Create reporting file
-    xlsx_file = XLSXAnnotationDetails(os.path.join(OUTPUTDIR, 'fnp2020-annotation-details.xlsx'))
+    xlsx_file = XLSXAnnotationDetails(os.path.join(OUTPUTDIR, 'fnp2022-annotation-details.xlsx'))
 
     # Pre-Processing - get statistics on annotated documents
 
@@ -373,17 +373,20 @@ def main(host, root, collection, doclist_file, output_dir):
         xlsx_file.add_annotation_data(url, doc, lines, ann_file)
 
     total = sum(causal_lengths)
-    causal_weights = [value / total for value in causal_lengths]
-    # get rid of the last value (= 4 sentences)...
-    causal_weights = causal_weights[:-1]
-    # ...and ensure total distribution is 1.0
-    causal_weights[-1] = 1.0 - sum(causal_weights[:-1])
-    # Legitimate block lengths
-    block_lengths = list(range(1, len(causal_weights) + 1))  # = [1, 2, 3] !
-    # Target weights for non causal blocks
-    target_weights = [v for v in causal_weights]
-    # Initialize distribution of non causal block line length
-    non_causal_lengths = [0 for _ in range(len(block_lengths))]
+    try:
+        causal_weights = [value / total for value in causal_lengths]
+        # get rid of the last value (= 4 sentences)...
+        causal_weights = causal_weights[:-1]
+        # ...and ensure total distribution is 1.0
+        causal_weights[-1] = 1.0 - sum(causal_weights[:-1])
+        # Legitimate block lengths
+        block_lengths = list(range(1, len(causal_weights) + 1))  # = [1, 2, 3] !
+        # Target weights for non causal blocks
+        target_weights = [v for v in causal_weights]
+        # Initialize distribution of non causal block line length
+        non_causal_lengths = [0 for _ in range(len(block_lengths))]
+    except Exception as E:
+        print(E)
 
     class LineData:
         """ Store data for a line of text including list of causal relationships
@@ -446,6 +449,7 @@ def main(host, root, collection, doclist_file, output_dir):
     """
 
     def task2_align_fact(text, left, right, relations):
+
         """
         Implement fact alignment logic
         :param text:
@@ -456,59 +460,62 @@ def main(host, root, collection, doclist_file, output_dir):
         TODO: refactor workflow to do text cleaning at the very last step (and remove from this function)
         TODO: fact alignment should be symetric - refactor code to align on sentence on the left as implemented on the right
         """
-        left_text = text.split(left)[0]
-        right_text = text.split(right)[-1]
-        # ** Left align **
-        # Ensure left part is not noise
-        noise_pattern = ['(Reuters) -', 'MONTREAL', 'Analyst Ratings  This', '- - Sell Ratings',
-                         'Analyst Recommendations  This ', '- - Net Margins']
-        if not any([x in left_text for x in noise_pattern]):
-            # Ensure there is no other fact on the left
+        try:
+            left_text = text.split(left)[0]
+            right_text = text.split(right)[-1]
+            # ** Left align **
+            # Ensure left part is not noise
+            noise_pattern = ['(Reuters) -', 'MONTREAL', 'Analyst Ratings  This', '- - Sell Ratings',
+                             'Analyst Recommendations  This ', '- - Net Margins']
+            if not any([x in left_text for x in noise_pattern]):
+                # Ensure there is no other fact on the left
+                # when multiple causal relation are in the same text section
+                extend_left = True
+                if len(relations) > 1:
+                    ref_index = text.index(left)
+                    for r in relations:
+                        clean_rel_text = clean_text(r.from_instance.text)
+                        if left != clean_rel_text:
+                            rel_index = text.find(clean_rel_text)
+                            if (rel_index >= 0) and (rel_index < ref_index):
+                                extend_left = False
+                        clean_rel_text = clean_text(r.to_instance.text)
+                        if left != clean_rel_text:
+                            rel_index = text.find(clean_rel_text)
+                            if (rel_index >= 0) and (rel_index < ref_index):
+                                extend_left = False
+                if extend_left:
+                    left = left_text + left
+
+            # **Right align**
+            # Ensure there is no other fact on the right
             # when multiple causal relation are in the same text section
-            extend_left = True
+            extend_right = True
             if len(relations) > 1:
-                ref_index = text.index(left)
+                ref_index = text.index(right)
                 for r in relations:
                     clean_rel_text = clean_text(r.from_instance.text)
-                    if left != clean_rel_text:
+                    if right != clean_rel_text:
                         rel_index = text.find(clean_rel_text)
-                        if (rel_index >= 0) and (rel_index < ref_index):
-                            extend_left = False
+                        if (rel_index >= 0) and (rel_index > ref_index):
+                            extend_right = False
                     clean_rel_text = clean_text(r.to_instance.text)
                     if left != clean_rel_text:
                         rel_index = text.find(clean_rel_text)
-                        if (rel_index >= 0) and (rel_index < ref_index):
-                            extend_left = False
-            if extend_left:
-                left = left_text + left
+                        if (rel_index >= 0) and (rel_index > ref_index):
+                            extend_right = False
+            if extend_right:
+                # If right fact is not a sentence, and there is still some text on the right
+                if right[-1] != '.' and len(right_text) > 0:
+                    # Look for the next sentence separator: '.' not followed by a digit (avoid 3.5%.)
+                    # next_sentence = right_text.find('.')
+                    next_sentence = re.search(r'\.(?!\d)', right_text)
+                    if next_sentence is not None:
+                        right += right_text[:next_sentence.span()[1]]
 
-        # **Right align**
-        # Ensure there is no other fact on the right
-        # when multiple causal relation are in the same text section
-        extend_right = True
-        if len(relations) > 1:
-            ref_index = text.index(right)
-            for r in relations:
-                clean_rel_text = clean_text(r.from_instance.text)
-                if right != clean_rel_text:
-                    rel_index = text.find(clean_rel_text)
-                    if (rel_index >= 0) and (rel_index > ref_index):
-                        extend_right = False
-                clean_rel_text = clean_text(r.to_instance.text)
-                if left != clean_rel_text:
-                    rel_index = text.find(clean_rel_text)
-                    if (rel_index >= 0) and (rel_index > ref_index):
-                        extend_right = False
-        if extend_right:
-            # If right fact is not a sentence, and there is still some text on the right
-            if right[-1] != '.' and len(right_text) > 0:
-                # Look for the next sentence separator: '.' not followed by a digit (avoid 3.5%.)
-                # next_sentence = right_text.find('.')
-                next_sentence = re.search(r'\.(?!\d)', right_text)
-                if next_sentence is not None:
-                    right += right_text[:next_sentence.span()[1]]
-
-        return left, right
+            return left, right
+        except:
+            pass
 
     def task2_print(index, task2_result_data, task_text, relations):
         """
@@ -562,27 +569,31 @@ def main(host, root, collection, doclist_file, output_dir):
         fa_left = out_text[max(c_end, e_end):].strip()
         if len(fa_left) > 0 or len(fa_right) > 0:
             if c_start < e_start:
-                # Extend cause to left, effect to right
-                out_cause, out_effect = task2_align_fact(out_text, out_cause, out_effect, relations)
+                try:
+                    # Extend cause to left, effect to right
+                    out_cause, out_effect = task2_align_fact(out_text, out_cause, out_effect, relations)
+                except:
+                    pass
             else:
                 # Extend effect to left, cause to right
                 out_effect, out_cause = task2_align_fact(out_text, out_effect, out_cause, relations)
 
-            c_start = out_text.find(out_cause)
-            e_start = out_text.find(out_effect)
-            c_end = c_start + len(out_cause)
-            e_end = e_start + len(out_effect)
+            if out_cause and out_effect:
+                c_start = out_text.find(out_cause)
+                e_start = out_text.find(out_effect)
+                c_end = c_start + len(out_cause)
+                e_end = e_start + len(out_effect)
 
-            new_fa_right = out_text[0:min(c_start, e_start)].strip()
-            new_fa_left = out_text[max(c_end, e_end):].strip()
+                new_fa_right = out_text[0:min(c_start, e_start)].strip()
+                new_fa_left = out_text[max(c_end, e_end):].strip()
 
-            out_sentence2 = out_text.replace(out_cause, f'<e1>{out_cause}</e1>')
-            out_sentence2 = out_sentence2.replace(out_effect, f'<e2>{out_effect}</e2>')
+                out_sentence2 = out_text.replace(out_cause, f'<e1>{out_cause}</e1>')
+                out_sentence2 = out_sentence2.replace(out_effect, f'<e2>{out_effect}</e2>')
 
-            xlsx_file.add_fact_alignment(t2_url, index, out_text, out_sentence,
-                                         fa_right, fa_left,
-                                         out_sentence2,
-                                         new_fa_right, new_fa_left)
+                xlsx_file.add_fact_alignment(t2_url, index, out_text, out_sentence,
+                                             fa_right, fa_left,
+                                             out_sentence2,
+                                             new_fa_right, new_fa_left)
 
         offset_sentence2 = sentence_offsets[0] if len(sentence_offsets) > 0 else ''
         offset_sentence3 = sentence_offsets[1] if len(sentence_offsets) > 1 else ''
@@ -800,27 +811,31 @@ def main(host, root, collection, doclist_file, output_dir):
         field_separator_normalize(fnp_task2_output_pre, fnp_task2_output, progress_bar)
 
     # print(causal_weights)
-    print('Causal block length distribution')
-    print(target_weights)
-    total = sum(non_causal_lengths)
-    print('Non Causal block length distribution')
-    print([v / total for v in non_causal_lengths])
+    try:
+        print('Causal block length distribution')
+        print(target_weights)
+        total = sum(non_causal_lengths)
+        print('Non Causal block length distribution')
+        print([v / total for v in non_causal_lengths])
 
-    print(f'Task 1: {fnp_task1_output_length}')
-    print(f'Task 2: {fnp_task2_output_length}')
+        print(f'Task 1: {fnp_task1_output_length}')
+        print(f'Task 2: {fnp_task2_output_length}')
 
-    xlsx_file.info_print("Processing details")
-    xlsx_file.info_print('Causal block length distribution')
-    xlsx_file.info_print(target_weights)
-    xlsx_file.info_print('Non Causal block length distribution')
-    xlsx_file.info_print([v / total for v in non_causal_lengths])
-    xlsx_file.info_print(['Annotated Files', len(ann_files)])
-    xlsx_file.info_print(['Task 1', fnp_task1_output_length,
-                          fnp_task1_output_distrib[0] / fnp_task1_output_length,
-                          fnp_task1_output_distrib[1] / fnp_task1_output_length])
-    xlsx_file.info_print(['Task 2', fnp_task2_output_length])
+        xlsx_file.info_print("Processing details")
+        xlsx_file.info_print('Causal block length distribution')
+        xlsx_file.info_print(target_weights)
+        xlsx_file.info_print('Non Causal block length distribution')
+        xlsx_file.info_print([v / total for v in non_causal_lengths])
+        xlsx_file.info_print(['Annotated Files', len(ann_files)])
+        xlsx_file.info_print(['Task 1', fnp_task1_output_length,
+                              fnp_task1_output_distrib[0] / fnp_task1_output_length,
+                              fnp_task1_output_distrib[1] / fnp_task1_output_length])
+        xlsx_file.info_print(['Task 2', fnp_task2_output_length])
 
-    xlsx_file.close()
+        xlsx_file.close()
+
+    except Exception as E:
+        print(E)
 
 
 if __name__ == '__main__':
