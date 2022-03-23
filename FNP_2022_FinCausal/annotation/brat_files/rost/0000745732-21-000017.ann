@@ -1,0 +1,105 @@
+T1	Fact 4756 4841	During the third quarter, sales improved substantially compared to the second quarter
+T2	Fact 4843 5054	This was driven by several factors, including an improvement in our merchandise assortments, a 25later back-to-school season, stronger performance in our larger markets, and our return to more normal store hours
+R1	Cause Cause:T2 Effect:T1	
+T3	Fact 5056 5100	Our fourth quarter sales remained suppressed
+T4	Fact 5108 5267	the negative impact from the upsurge in the virus that resulted in reduced customer traffic and more stringent occupancy and store operating hours restrictions
+R2	Cause Cause:T4 Effect:T3	
+T5	Fact 6839 7064	In the third quarter of fiscal 2020, we refinanced $775 million in aggregate principal amount of higher interest senior notes with the issuance of $1.0 billion in aggregate principal amount of lower interest rate senior notes
+T6	Fact 7066 7269	This action resulted in a refinancing charge of approximately $240 million in the third quarter, but will significantly reduce our annual interest expense and total cash outlays over the life of the debt
+R3	Cause Cause:T5 Effect:T6	
+T7	Remove 9998 10413	202020192018SalesSales (millions)$12,532 $16,039 $14,984 Sales (decline) growth(21.9)%7.0%6.0%Comparable store sales growth n/a13%24%2Costs and expenses (as a percent of sales)Cost of goods sold78.5%71.9%71.6%Selling, general and administrative20.0%14.7%14.8%Interest expense (income), net0.7%(0.1)%(0.1)%Earnings before taxes (as a percent of sales)0.8%13.5%13.7%Net earnings (as a percent of sales)0.7%10.4%10.6%1
+T8	Remove 11402 11636	Store Count202020192018Beginning of the period1,805 1,717 1,622 Opened in the period66 198 99 Closed in the period(12)(10)2(4)End of the period1,859 1,805 1,717 Selling square footage at the end of the period (000)38,800 37,900 36,300
+T9	Fact 11805 11887	Sales for fiscal 2020 decreased $3.5 billion, or 21.9%, compared to the prior year
+T10	Fact 11889 12167	This was primarily due to the negative impact from store closures during the March 2020 to June 2020 period, the negative impact on customer demand from the COVID-19 pandemic, mandated occupancy restrictions, and reduced store operating hours during the remainder of fiscal 2020
+R4	Cause Cause:T10 Effect:T9	
+T11	Fact 12285 12366	Sales for fiscal 2019 increased $1.1 billion, or 7.0%, compared to the prior year
+T12	Fact 12374 12468	the opening of 88 net new stores during 2019 and a 3% increase in sales from comparable stores
+R5	Cause Cause:T12 Effect:T11	
+T13	Remove 12531 12740	:2020120192018Home Accents and Bed and Bath28 %25 %26 %Ladies23 %26 %26 %Men’s14 %14 %14 %Accessories, Lingerie, Fine Jewelry, and Fragrances14 %13 %13 %Shoes12 %13 %13 %Children’s9 %9 %8 %Total100 %100 %100 %
+T14	Fact 13758 13841	Cost of goods sold in fiscal 2020 decreased $1.7 billion compared to the prior year
+T15	Fact 13856 14255	the lower sales from the temporary closure of all store locations (starting on March 20, 2020 through a portion of the second quarter of fiscal 2020), and ensuing negative impact on customer demand from the COVID-19 pandemic after our store reopenings, as well as lower costs from the temporary furlough of most hourly associates in our distribution centers and some associates in our buying offices
+R6	Cause Cause:T15 Effect:T14	
+T16	Fact 14827 14912	Cost of goods sold in fiscal 2019 increased $809.9 million compared to the prior year
+T17	Fact 14928 15047	increased sales from the opening of 88 net new stores during the year and a 3% increase in sales from comparable stores
+R7	Cause Cause:T17 Effect:T16	
+T18	Fact 15478 15600	For fiscal 2020, selling, general and administrative expenses (“SG&A”) increased $146.6 million compared to the prior year
+T19	Fact 15619 16313	approximately $240 million in long-term debt refinancing costs, COVID-related expenses (including for supplies, cleaning, and payroll related to additional safety protocols), and payments to associates while our stores were closed (net of employee retention credits under the Coronavirus Aid, Relief, and Economic Security Act (the “CARES Act”)), partially offset by payroll-related cost reduction measures in response to the COVID-19 pandemic (including the temporary furlough of most hourly associates in our stores during closure periods, and some associates in our corporate offices), reductions in non-business critical operating expenses, and lower store operating expenses on lower sales
+R8	Cause Cause:T19 Effect:T18	
+T20	Fact 16439 16512	For fiscal 2019, SG&A increased $140.2 million compared to the prior year
+T21	Fact 16528 16619	increased store operating costs reflecting the opening of 88 net new stores during the year
+R9	Cause Cause:T21 Effect:T20	
+T22	Fact 16621 16736	SG&A as a percentage of sales for fiscal 2019 decreased by approximately 10 basis points compared to the prior year
+T23	Fact 16754 16778	leverage on higher sales
+R10	Cause Cause:T23 Effect:T22	
+T24	Fact 16813 16894	In fiscal 2020, net interest expense increased by $101.5 million compared to 2019
+T25	Fact 16912 17416	higher interest expense on long-term debt due to the issuance of Senior Notes in April 2020 and October 2020 (net of repurchase of Senior Notes), lower interest income due to lower interest rates, and higher interest expense on short-term debt due to the draw down on our $800 million revolving credit facility in March 2020 (which was subsequently repaid in October 2020), partially offset by higher capitalized interest primarily related to the construction of our Brookshire, Texas distribution center
+R11	Cause Cause:T25 Effect:T24	
+T26	Fact 17418 17495	In fiscal 2019, net interest income improved by $7.9 million compared to 2018
+T27	Fact 17513 17751	lower interest expense on long-term debt due to the repayment of the Series A 6.38% unsecured Senior Notes in December 2018 and higher capitalized interest primarily related to the construction of our Brookshire, Texas distribution center
+R12	Cause Cause:T27 Effect:T26	
+T28	Remove 17852 18164	($000)202020192018Interest expense on long-term debt$88,544 $13,139 $17,900 Interest expense on short-term debt7,863 — — Other interest expense3,908 968 1,004 Capitalized interest(12,251)(4,367)(2,497)Interest income(4,651)(27,846)(26,569)Interest expense (income), net$83,413 $(18,106)$(10,162)Taxes on earnings
+T29	Fact 18684 18762	In fiscal 2019, we resolved uncertain tax positions with a state tax authority
+T30	Fact 18764 18877	As a result, we recognized a tax benefit of approximately $10.0 million in the Consolidated Statement of Earnings
+R13	Cause Cause:T29 Effect:T30	
+T31	Fact 18880 18987	n fiscal 2018, we resolved uncertain tax positions related to fiscal 2015 with the Internal Revenue Service
+T32	Fact 18989 19102	As a result, we recognized a tax benefit of approximately $26.0 million in the Consolidated Statement of Earnings
+R14	Cause Cause:T31 Effect:T32	
+T33	Fact 19688 19772	Net earnings as a percentage of sales for fiscal 2020 were lower than in fiscal 2019
+T34	Fact 19791 19867	higher cost of goods sold, higher SG&A expenses, and higher interest expense
+R15	Cause Cause:T34 Effect:T33	
+T35	Fact 19869 19957	Net earnings as a percentage of sales for fiscal 2019 were lower compared to fiscal 2018
+T36	Fact 19976 20069	higher cost of goods sold, partially offset by lower SG&A expenses and higher interest income
+R16	Cause Cause:T36 Effect:T35	
+T37	Fact 20180 20721	The lower diluted earnings per share in fiscal 2020 was primarily attributable to lower sales due to the closing of all our store locations starting on March 20, 2020 through a portion the second quarter of fiscal 2020 and the negative impact on customer demand from the COVID-19 pandemic, higher markdowns to clear aged and seasonal inventory, long-term debt refinancing costs, payments to associates while our stores were closed (net of employee retention credits under the CARES Act), and higher expenditures for COVID-19 related measures
+T38	Fact 20090 20178	Diluted earnings per share in fiscal 2020 was $0.24, compared to $4.60 in the prior year
+R17	Cause Cause:T37 Effect:T38	
+T39	Fact 20723 20833	Diluted earnings per share in fiscal 2019 was $4.60, which included a per share benefit of approximately $0.02
+T40	Fact 20855 21037	the favorable resolution of a tax matter, compared to $4.26 in the prior year, which included a per share benefit of approximately $0.07 from the favorable resolution of a tax matter
+R18	Cause Cause:T40 Effect:T39	
+T41	Fact 22376 22601	In the third quarter of fiscal 2020, we refinanced $775 million in aggregate principal amount of higher interest senior notes with the issuance of $1.0 billion in aggregate principal amount of lower interest rate senior notes
+T42	Fact 22603 22806	This action resulted in a refinancing charge of approximately $240 million in the third quarter, but will significantly reduce our annual interest expense and total cash outlays over the life of the debt
+R19	Cause Cause:T41 Effect:T42	
+T43	Fact 26239 26312	Net cash provided by operating activities was $2.2 billion in fiscal 2020
+T44	Fact 26314 26595	This was primarily driven by higher accounts payable due to extended payment terms, lower merchandise receipts as we closely managed inventory levels and used packaway inventory to replenish our stores, and net earnings excluding non-cash expenses for depreciation and amortization
+R20	Cause Cause:T44 Effect:T43	
+T45	Remove 25888 26218	30($ millions)202020192018Cash provided by operating activities$2,245.9 $2,171.5 $2,066.7 Cash used in investing activities(405.4)(555.0)(410.4)Cash provided by (used in) financing activities1,701.9 (1,683.2)(1,531.5)Net increase (decrease) in cash, cash equivalents, and restricted cash and cash equivalents$3,542.4 $(66.7)$124.8
+T46	Fact 26656 26855	lower sales from the temporary closing of all store locations starting on March 20, 2020 through a portion of the second quarter, and the negative impact on customer demand from the COVID-19 pandemic
+T47	Fact 26597 26648	This was partially offset by the lower net earnings
+R21	Cause Cause:T46 Effect:T47	
+T48	Fact 26857 26970	Net cash provided by operating activities was $2.2 billion and $2.1 billion in fiscal 2019 and 2018, respectively
+T49	Fact 27000 27097	net earnings excluding non-cash expenses for depreciation and amortization and for deferred taxes
+R22	Cause Cause:T49 Effect:T48	
+T50	Fact 27099 27189	The increase in cash flow from operating activities in fiscal 2020 compared to fiscal 2019
+T51	Fact 27214 27246	higher accounts payable leverage
+R23	Cause Cause:T51 Effect:T50	
+T52	Fact 27248 27338	The increase in cash flow from operating activities in fiscal 2019 compared to fiscal 2018
+T53	Fact 27363 27460	higher earnings and the timing of merchandise receipts and related payments versus the prior year
+R24	Cause Cause:T53 Effect:T52	
+T54	Fact 27652 27732	The increase in accounts payable leverage in fiscal 2020 compared to fiscal 2019
+T55	Fact 27757 27821	lower packaway and in-store inventory and extended payment terms
+R25	Cause Cause:T55 Effect:T54	
+T56	Fact 27823 27903	The increase in accounts payable leverage in fiscal 2019 compared to fiscal 2018
+T57	Fact 27928 28001	timing of merchandise receipts and related payments versus the prior year
+R26	Cause Cause:T57 Effect:T56	
+T58	Fact 29220 29309	The decrease in cash used for investing activities in fiscal 2020 compared to fiscal 2019
+T59	Fact 29328 29370	to a reduction in our capital expenditures
+R27	Cause Cause:T59 Effect:T58	
+T60	Fact 29372 29461	The increase in cash used for investing activities in fiscal 2019 compared to fiscal 2018
+T61	Fact 29480 29737	to an increase in our capital expenditures.The decrease in capital expenditures in fiscal 2020 compared to fiscal 2019 was primarily due to our actions to preserve our financial liquidity in response to the COVID-19 pandemic and related economic disruptions
+R28	Cause Cause:T61 Effect:T60	
+T62	Fact 29739 29814	The increase in capital expenditures in fiscal 2019 compared to fiscal 2018
+T63	Fact 29836 29992	investments in our distribution centers, and information technology infrastructure investments for our stores, buying, corporate offices, and transportation
+R29	Cause Cause:T63 Effect:T62	
+T64	Remove 30633 30869	($ millions)202020192018New stores$81.1 $137.4 $134.5 Existing stores54.8 125.3 130.5 Information systems, corporate, and other38.3 91.8 84.9 Distribution and transportation231.2 201.0 64.0 Total capital expenditures$405.4 $555.5 $413.9
+T65	Fact 31876 31970	The increase in cash provided by financing activities for fiscal 2020, compared to fiscal 2019
+T66	Fact 31994 32166	he completion of our public debt offerings, net of repurchase and refinancing costs, and the suspension of our share repurchases and dividends in the second quarter of 2020
+R30	Cause Cause:T66 Effect:T65	
+T67	Fact 33703 33812	In October 2020, we repaid in full the $800 million we borrowed under the unsecured revolving credit facility
+T68	Fact 33814 33988	As a result, we currently have no borrowings or standby letters of credit outstanding under this facility, and the $800 million credit facility remains in place and available
+R31	Cause Cause:T67 Effect:T68	
+T69	Remove 39434 39580	Less than1 year1 - 3years3 - 5yearsAfter 5yearsTotal¹($000)Recorded contractual obligations: Senior notes$65,000 $— $950,000 $1,524,991 $2,539,991
+T70	Remove 39581 39640	Operating leases628,613 1,220,165 813,939 611,178 3,273,895
+T71	Remove 39641 39808	New York buying office ground lease²5,883 13,898 14,178 940,438 974,397 Unrecorded contractual obligations: Real estate obligations36,420 32,937 35,388 113,992 188,737
+T72	Remove 39809 39875	Interest payment obligations84,369 160,631 136,094 299,041 680,135
+T73	Remove 39876 40016	Purchase obligations43,048,513 13,540 1,593 — 3,063,646 Total contractual obligations$3,838,798 $1,441,171 $1,951,192 $3,489,640 $10,720,801
+T74	Verified 0 6	ITEM 7

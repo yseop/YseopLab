@@ -1,0 +1,179 @@
+T1	Fact 6552 6600	As a result of reduced demand and lower capacity
+T2	Fact 6602 6712	we retired 227 aircraft in 2020 and have temporarily parked approximately 125 aircraft as of December 31, 2020
+R1	Cause Cause:T1 Effect:T2	
+T5	Fact 8248 8459	Our cash, cash equivalents, short-term investments and aggregate principal amount committed and available to be drawn under our revolving credit facilities ("liquidity") as of December 31, 2020 was $16.7 billion
+T6	Fact 8475 8597	the following actions to increase liquidity and strengthen our financial position during the year ended December 31, 2020:
+R3	Cause Cause:T6 Effect:T5	
+T7	Fact 9664 9752	In response to the impact that the demand environment has had on our financial condition
+T8	Fact 9754 9861	our credit rating was downgraded by Standard & Poor's to BB in March 2020 and by Fitch to BB+ in April 2020
+R4	Cause Cause:T7 Effect:T8	
+T9	Fact 12636 12720	This provided us with approximately $200 million of additional liquidity during 2020
+T10	Fact 12405 12635	Finally, the CARES Act also provides for deferred payment of the employer portion of social security taxes through the end of 2020, with 50% of the deferred amount due December 31, 2021 and the remaining 50% due December 31, 2022.
+R5	Cause Cause:T10 Effect:T9	
+T11	Fact 12721 12799	On December 27, 2020, an additional COVID-19 support bill was enacted into law
+T12	Fact 12801 12979	which extends the payroll support program of the CARES Act and provides an additional $15 billion in grants and loans to be used for airline employee wages, salaries and benefits
+R6	Cause Cause:T11 Effect:T12	
+T13	Fact 12982 13100	n January 2021, we entered into a payroll support program extension agreement with the U.S. Department of the Treasury
+T14	Fact 13102 13418	We expect to receive $2.9 billion in payroll support payments, which must be used exclusively for the payment of employee wages, salaries and benefits and are conditioned on our agreement to refrain from conducting involuntary employee layoffs or furloughs from the date of the extension agreement through March 2021
+R7	Cause Cause:T13 Effect:T14	
+T15	Fact 14626 14670	In connection with receipt of these payments
+T16	Fact 14672 14893	we also expect to issue to the U.S. Department of the Treasury warrants to acquire shares of Delta common stock, which we expect to be approximately 2.1 million shares representing less than 0.5% of our outstanding shares
+R8	Cause Cause:T15 Effect:T16	
+T17	Fact 15255 15435	MD&A - Financial HighlightsFinancial Highlights - 2020 Compared to 2019Our pre-tax loss for 2020 was $15.6 billion, representing a $21.8 billion decrease compared to the prior year
+T18	Fact 15453 15658	the impact of the COVID-19 pandemic on our business which resulted in a 64% decrease in revenue and $8.2 billion of restructuring charges and $2.4 billion in investment impairments and equity method losses
+T19	Fact 16077 16148	Compared to 2020, our operating revenue decreased $29.9 billion, or 64%
+T20	Fact 16156 16207	reduced demand resulting from the COVID-19 pandemic
+R9	Cause Cause:T18 Effect:T17	
+R10	Cause Cause:T20 Effect:T19	
+T21	Fact 16228 16311	Total operating expense decreased $10.8 billion, or 27%, compared to the prior year
+T22	Fact 16339 16638	ower volume and selling-related expenses including fuel, lower profit sharing, recognition of the CARES Act payroll support program grant and significant cost reduction measures taken across all aspects of our operation in response to the COVID-19 pandemic, partially offset by restructuring charges
+R11	Cause Cause:T22 Effect:T21	
+T23	Fact 16765 16878	Our total operating cost per available seat mile ("CASM") increased 50% to 22.01 cents compared to the prior year
+T24	Fact 16897 17012	the 51% decrease in capacity, which was partially offset by the significant cost reduction measures discussed above
+T25	Fact 17256 17349	Total non-operating expense was $3.1 billion in 2020, $2.7 billion higher than the prior year
+R12	Cause Cause:T24 Effect:T23	
+T26	Fact 17375 17643	impairments and our proportionate share of equity method losses related to our investments in LATAM, Grupo Aeroméxico and Virgin Atlantic, and higher interest expense as a result of our increased debt balances due to the financing arrangements entered into during 2020
+R13	Cause Cause:T26 Effect:T25	
+T27	Fact 17655 17763	Our liquidity at December 31, 2020 was $16.7 billion, a $10.8 billion increase compared to December 31, 2019
+T28	Fact 17779 17983	proceeds from loans and debt issuances (including our SkyMiles financing arrangements and aircraft financings), support payments under the CARES Act payroll support program and other liquidity initiatives
+R14	Cause Cause:T28 Effect:T27	
+T29	Fact 17985 18003	Losses during 2020
+T30	Fact 18016 18055	operating activities using $3.8 billion
+R15	Cause Cause:T29 Effect:T30	
+T31	Fact 18247 18400	These results generated $4.3 billion of negative free cash flow (a non-GAAP financial measure) in 2020 compared to $4.2 billion of free cash flow in 2019
+T32	Fact 18057 18245	During 2020 we incurred $9.2 billion of investing cash outflows, primarily related to the purchase of short-term investments and our tender offer to acquire shares of LATAM in January 2020
+R16	Cause Cause:T32 Effect:T31	
+T33	Remove 18673 19376	MD&A - Results of OperationsResults of OperationsOperating RevenueYear Ended December 31,Increase(Decrease)% Increase(Decrease)(in millions) (1)20202019Ticket - Main cabin$6,676 $21,919 $(15,243)(70)%Ticket - Business cabin and premium products4,294 14,989 (10,695)(71)%Loyalty travel awards935 2,900 (1,965)(68)%Travel-related services978 2,469 (1,491)(60)%Total passenger revenue$12,883 $42,277 $(29,394)(70)%Cargo608 753 (145)(19)%Other3,604 3,977 (373)(9)%Total operating revenue$17,095 $47,007 $(29,912)(64)%TRASM (cents)12.73 ¢17.07 ¢(4.34)¢(25)%Third-party refinery sales (2)(0.86)(0.04)(0.82)NMDelta Private Jets adjustment (2)— (0.07)0.07 (100)%TRASM, adjusted (cents)11.87 ¢16.97 ¢(5.10)¢(30)%
+T34	Fact 19545 19644	Compared to the year ended December 31, 2019, our operating revenue decreased $29.9 billion, or 64%
+T35	Fact 19653 19704	reduced demand resulting from the COVID-19 pandemic
+R17	Cause Cause:T35 Effect:T34	
+T36	Fact 19706 19770	The decrease in operating revenue, on a 51% decrease in capacity
+T37	Fact 19784 19902	25% decrease in total revenue per available seat mile ("TRASM") and a 30% decrease in TRASM, adjusted compared to 2019
+R18	Cause Cause:T36 Effect:T37	
+T38	Fact 19904 19946	The increase in third-party refinery sales
+T39	Fact 19965 20063	refinery's shift to producing more non-jet fuel products due to the decline in demand for jet fuel
+R19	Cause Cause:T39 Effect:T38	
+T40	Fact 20316 20614	In 2020, following the onset of the COVID-19 pandemic, reduced industry capacity drove a significant increase in our cargo yield, and we also generated cargo revenue through the operation of cargo-only charter flights (i.e., using aircraft in our fleet not then being utilized for passenger travel)
+T42	Fact 20616 20751	These two factors contributed to the smaller percentage decline in cargo revenue, than in passenger revenue, compared to the prior year
+R20	Cause Cause:T40 Effect:T42	
+T41	Remove 21406 21892	MD&A - Results of OperationsPassenger Revenue by Geographic RegionIncrease (Decrease) vs. Year Ended December 31, 2019(in millions)Year Ended December 31, 2020Passenger RevenueRPMs (Traffic)ASMs (Capacity)Passenger Mile YieldPRASMLoad FactorDomestic$10,041 (67)%(65)%(43)%(7)%(42)%(33)ptsAtlantic1,171 (81)%(82)%(71)%2 %(37)%(32)ptsLatin America1,113 (63)%(62)%(49)%(1)%(27)%(23)ptsPacific558 (78)%(81)%(68)%15 %(31)%(34)ptsTotal passenger revenue$12,883 (70)%(69)%(51)%(1)%(38)%(32)pts
+T43	Fact 22554 22620	However, due to the decrease in customer demand beginning in March
+T44	Fact 22623 22739	assenger unit revenue related to our domestic region decreased 42% with capacity down 43% compared to the prior year
+R21	Cause Cause:T43 Effect:T44	
+T46	Fact 23253 23387	reduced demand and government travel directives and quarantines limiting or suspending air travel due to the global spread of COVID-19
+T47	Fact 23168 23235	The reductions in revenue and capacity presented in the table above
+R22	Cause Cause:T46 Effect:T47	
+T45	Fact 23389 23469	Additionally, many countries have implemented international testing requirements
+T48	Fact 23471 23590	which has slowed demand in the short-term but is expected to enhance the long-term recovery of international air travel
+R23	Cause Cause:T45 Effect:T48	
+T49	Remove 25886 26210	MD&A - Results of OperationsOther RevenueYear Ended December 31,Increase(Decrease)% Increase(Decrease)(in millions)20202019Ancillary businesses and refinery$1,798 $1,297 $501 39 %Loyalty program1,458 1,962 (504)(26)%Miscellaneous348 718 (370)(52)%Total other revenue$3,604 $3,977 $(373)(9)%Ancillary Businesses and Refinery.
+T50	Fact 26373 26472	Refinery sales to third parties, which are at or near cost, increased $1.1 billion compared to 2019
+T51	Fact 26474 26633	The increase in third-party refinery sales resulted from the refinery's shift to producing more non-jet fuel products due to the decline in demand for jet fuel
+R24	Cause Cause:T51 Effect:T50	
+T52	Fact 26849 26892	the reduction in flights operated worldwide
+T53	Fact 26635 26841	The increase in refinery sales was partially offset by an approximately $270 million, or approximately 30%, decline in revenue from aircraft maintenance services we provide to third parties, which decreased
+R25	Cause Cause:T52 Effect:T53	
+T54	Fact 27560 27620	The volume of these transactions has fallen compared to 2019
+T55	Fact 27629 27686	the impact of, and our response to, the COVID-19 pandemic
+R26	Cause Cause:T55 Effect:T54	
+T57	Fact 28642 28814	As discussed above under "Expense Management," in response to the reduced demand and related reduction in revenue following the onset of the COVID-19 pandemic in early 2020
+T58	Fact 28816 29013	we quickly reduced capacity to more closely align with demand and implemented cost saving initiatives related to our fleet and operations and delayed or eliminated nearly all discretionary spending
+T59	Fact 29015 29110	As a result, most operating expense line items decreased significantly in 2020 compared to 2019
+R27	Cause Cause:T57 Effect:T58	
+R28	Cause Cause:T58 Effect:T59	
+T56	Remove 27742 28642	MD&A - Results of OperationsOperating ExpenseYear Ended December 31,Increase(Decrease)% Increase(Decrease)(in millions)20202019Salaries and related costs$8,754 $11,225 $(2,471)(22)%Aircraft fuel and related taxes3,176 8,519 (5,343)(63)%Regional carriers expense, excluding fuel2,479 3,584 (1,105)(31)%Depreciation and amortization2,312 2,581 (269)(10)%Ancillary businesses and refinery1,785 1,245 540 43 %Contracted services1,778 2,641 (863)(33)%Landing fees and other rents1,518 1,762 (244)(14)%Aircraft maintenance materials and outside repairs822 1,751 (929)(53)%Passenger commissions and other selling expenses582 1,993 (1,411)(71)%Passenger service523 1,251 (728)(58)%Aircraft rent399 423 (24)(6)%Restructuring charges8,219 — 8,219 NMGovernment grant recognition(3,946)— (3,946)NMProfit sharing— 1,643 (1,643)(100)%Other1,163 1,771 (608)(34)%Total operating expense$29,564 $40,389 $(10,825)(27)%
+T60	Fact 29112 29140	Operating expenses decreased
+T61	Fact 29158 29382	the voluntary separation programs and work hour reductions described below, the many cost reduction measures and programs implemented in response to the COVID-19 pandemic and the reduction in volume and selling-related costs
+R29	Cause Cause:T61 Effect:T60	
+T62	Fact 29993 30070	These include many of the cost reduction measures and programs we implemented
+T63	Fact 30087 30107	he COVID-19 pandemic
+R30	Cause Cause:T63 Effect:T62	
+T64	Fact 30136 30178	The decrease in salaries and related costs
+T65	Fact 30199 30292	actions taken in response to the decreased demand for air travel due to the COVID-19 pandemic
+R31	Cause Cause:T65 Effect:T64	
+T66	Fact 31247 31309	Fuel expense decreased $5.3 billion compared to the prior year
+T67	Fact 31317 31420	a 51% decrease in capacity and an approximately 25% decrease in the market price per gallon of jet fuel
+R32	Cause Cause:T67 Effect:T66	
+T68	Fact 31567 32179	Fuel expense and average price per gallonAverage Price Per GallonYear Ended December 31,Increase(Decrease)Year Ended December 31,Increase (Decrease)(in millions, except per gallon data) (1)2020201920202019Fuel purchase cost (2)$2,938 $8,581 $(5,643)$1.52 $2.04 $(0.52)Fuel hedge impact22 14 8 0.01 — 0.01 Refinery segment impact (3)216 (76)292 0.11 (0.02)0.13 Total fuel expense$3,176 $8,519 $(5,343)$1.64 $2.02 $(0.38)MTM adjustments and settlements on hedges (4)(10)(14)4 (0.01)— (0.01)Delta Private Jets adjustment (5)— (28)28 — (0.01)0.01 Total fuel expense, adjusted$3,166 $8,477 $(5,311)$1.64 $2.01 $(0.37)
+T69	Fact 32913 32958	The decrease in depreciation and amortization
+T70	Fact 32979 33141	aircraft that have been retired or impaired during 2020, including the MD-88, MD-90, 717, 737-700, 767-300ER and 777 fleet types, as well as certain A320 aircraft
+R33	Cause Cause:T70 Effect:T69	
+T71	Fact 33610 33628	Increased expenses
+T72	Fact 33655 33713	refinery sales to third parties, which are at or near cost
+R34	Cause Cause:T72 Effect:T71	
+T73	Fact 33785 33872	Due to the decrease in demand for jet fuel following the onset of the COVID-19 pandemic
+T74	Fact 33874 34025	the refinery shifted production to more non-jet fuel products, which increased the sales to third parties during 2020 compared to the prior year period
+R35	Cause Cause:T73 Effect:T74	
+T75	Fact 34027 34212	The increase in refinery costs was partially offset by a decrease of approximately $260 million in the cost of aircraft maintenance services we provide to third parties compared to 2019
+T76	Fact 34221 34263	he reduction in flights operated worldwide
+R36	Cause Cause:T76 Effect:T75	
+T77	Fact 34513 34609	Most aircraft operating lease expenses are recorded in aircraft rent and are contractually fixed
+T78	Fact 34611 34729	Therefore, aircraft rent did not decline to the same extent as our other operating expense line items compared to 2019
+R37	Cause Cause:T77 Effect:T78	
+T79	Fact 34753 34910	Restructuring charges are composed of various expenses that resulted from our response to the unprecedented impact on our business from the COVID-19 pandemic
+T80	Fact 34928 35005	fleet impairment and related charges and voluntary separation program charges
+R38	Cause Cause:T80 Effect:T79	
+T81	Remove 35999 36374	MD&A - Non-Operating ResultsNon-Operating ResultsYear Ended December 31,Favorable (Unfavorable)(in millions)20202019 2020 vs. 2019Interest expense, net$(929)$(301)$(628)Impairments and equity method losses(2,432)(62)(2,370)Gain/(loss) on investments, net(105)119 (224)Miscellaneous, net348 (176)524 Total non-operating expense, net$(3,118)$(420)$(2,698)Interest expense, net.
+T82	Fact 36375 36418	Interest expense increased compared to 2019
+T83	Fact 36434 36485	the financing arrangements entered into during 2020
+R39	Cause Cause:T83 Effect:T82	
+T84	Fact 37969 38016	The increase in 2020 compared to the prior year
+T85	Fact 38037 38232	the $240 million gain recognized as a result of the combination of Delta Private Jets with Wheels Up in January 2020 and favorable movement in pension and related expense in 2020 compared to 2019
+T3	Fact 6733 6772	In response to the reduction in revenue
+T4	Fact 6774 6884	we have implemented, and will continue to implement, cost saving initiatives, including the following in 2020:
+R2	Cause Cause:T3 Effect:T4	
+T86	Fact 39437 39545	reducing the market price of jet fuel and lowers our cost of jet fuel compared to what it otherwise would be
+T87	Fact 39336 39411	We believe that the jet fuel supply resulting from the refinery's operation
+R40	Cause Cause:T87 Effect:T86	
+T88	Fact 39818 39949	Additionally, due to the decrease in demand for jet fuel, the refinery has shifted production to produce more non-jet fuel products
+T89	Fact 39673 39748	During 2020, the refinery operated at 60% – 90% of normal production levels
+T90	Fact 39765 39816	the significant decrease in the demand for jet fuel
+R41	Cause Cause:T89 Effect:T90	
+R42	Cause Cause:T90 Effect:T88	
+T91	Fact 40279 40563	operating revenues in 2020 were composed of $1.5 billion of non-jet fuel products exchanged with third parties to procure jet fuel, $1.1 billion of refinery sales to third parties, $307 million of non-jet fuel product sales and $214 million of sales of jet fuel to the airline segment
+T92	Fact 40202 40277	As a result of the refinery's shift to producing more non-jet fuel products
+R43	Cause Cause:T92 Effect:T91	
+T93	Fact 40565 40722	Refinery revenues decreased compared to the prior year periods due to lower refinery run rates during the year, as well as lower pricing for refined products
+T94	Fact 40723 40839	The refinery recorded an operating loss of $216 million in 2020, compared to operating income of $76 million in 2019
+R44	Cause Cause:T93 Effect:T94	
+T95	Fact 40841 40894	The operating loss in 2020 compared to income in 2019
+T96	Fact 40916 41212	an increase in RINs compliance costs discussed below and the reduction in revenue, which was partially offset by cost savings resulting from decreased production levels.A refinery is subject to annual EPA requirements to blend renewable fuels into the gasoline and on-road diesel fuel it produces
+T97	Remove 41738 42345	Year Ended December 31,Consolidated (1)202020192018Revenue passenger miles (in millions)73,412 237,680 225,243 Available seat miles (in millions)134,339 275,379 263,365 Passenger mile yield17.55 ¢17.79 ¢17.65 ¢Passenger revenue per available seat mile9.59 ¢15.35 ¢15.09 ¢Total revenue per available seat mile12.73 ¢17.07 ¢16.87 ¢Total operating cost per available seat mile ("CASM")22.01 ¢14.67 ¢14.87 ¢Load factor55 %86 %86 %Fuel gallons consumed (in millions)1,935 4,214 4,113 Average price per fuel gallon (2)$1.64 $2.02 $2.20 Approximate full-time equivalent employees, end of period74,000 91,000 89,000
+T98	Fact 46749 46830	The air traffic liability has historically increased during the winter and spring
+T99	Fact 46834 46947	advanced ticket sales grow prior to the summer peak travel season and decreased during the summer and fall months
+R45	Cause Cause:T99 Effect:T98	
+T100	Fact 46949 47033	However, the ongoing reduction in demand for air travel due to the COVID-19 pandemic
+T101	Fact 47050 47243	an unprecedented low level of advance bookings and the associated cash received, as well as significant ticket cancellations which led to issuance of cash refunds or travel credits to customers
+R46	Cause Cause:T100 Effect:T101	
+T102	Fact 50861 50916	We paid $1.6 billion in profit sharing in February 2020
+T103	Fact 50928 51033	our 2019 pre-tax profit in recognition of our employees' contributions toward meeting our financial goals
+R47	Cause Cause:T103 Effect:T102	
+T104	Fact 62009 62173	we repaid approximately $5.6 billion of future debt maturities, including $2.6 billion under our revolving credit facilities which had been drawn down in March 2020
+T105	Fact 61954 62007	our liquidity position began to stabilize during 2020
+T106	Remove 64901 65056	Credit agency ratings informationRating AgencyCurrent RatingOutlookFitchBB+NegativeMoody'sBaa3NegativeStandard & Poor'sBBNegativeFinance Lease Obligations.
+T107	Fact 82323 82451	This resulted in impairment and other related charges of $4.4 billion, recorded in restructuring charges in our income statement
+T108	Fact 82119 82321	As a result of the COVID-19 pandemic and our response, we have removed certain aircraft from active service as of December 31, 2020, which includes owned and leased aircraft that are being retired early
+R48	Cause Cause:T108 Effect:T107	
+T109	Fact 84173 84291	At December 31, 2020 our net deferred tax asset balance was $2.0 billion, including a $460 million valuation allowance
+T110	Fact 84313 84370	capital loss carryforwards and state net operating losses
+R49	Cause Cause:T110 Effect:T109	
+T111	Remove 88150 88623	Benefit plan effects of change in assumptions usedChange in Assumption Effect on 2021Pension Benefit CostEffect on AccruedPension Liability atDecember 31, 20200.50% decrease in weighted average discount rate$(19) million$1.4 billion0.50% increase in weighted average discount rate$15 million$(1.3) billion0.50% decrease in expected long-term rate of return on assets$79 million$— 0.50% increase in expected long-term rate of return on assets$(79) million$— Life Expectancy.
+T112	Fact 95656 95679	Unrealized gains/losses
+T113	Fact 95692 95776	our equity investments that are accounted for at fair value in non-operating expense
+T114	Fact 95778 95794	The gains/losses
+T115	Fact 95809 95954	changes in stock prices, foreign currency fluctuations and other valuation techniques for investments in companies without publicly-traded shares
+T116	Fact 95210 95274	As a result of Grupo Aeroméxico's and LATAM’s bankruptcy filings
+T117	Fact 95276 95445	we no longer have significant influence with Grupo Aeroméxico or LATAM and discontinued accounting for these investments under the equity method in the June 2020 quarter
+R50	Cause Cause:T116 Effect:T117	
+R51	Cause Cause:T113 Effect:T112	
+R52	Cause Cause:T115 Effect:T114	
+T118	Remove 96368 96904	Pre-tax (loss)/income, adjusted reconciliationYear Ended December 31,(in millions)20202019Pre-tax (loss)/income$(15,587)$6,198 Less: Restructuring charges8,219 — Less: Government grant recognition(3,946)— Less: Impairments and equity method losses2,172 — Less: Pension settlement charges36 — Adjusted for:MTM adjustments and settlements on hedges10 14 Equity investment MTM adjustments(19)(14)MTM adjustments on investments119 13 Delta Private Jets adjustment— 3 Pre-tax (loss)/income, adjusted$(8,996)$6,214 Operating Expense, adjusted
+T119	Remove 97951 98362	Operating expense, adjusted reconciliationYear Ended December 31,(in millions)20202019Operating expense$29,564 $40,389 Less: Restructuring charges(8,219)— Less: Government grant recognition3,946 — Adjusted for:MTM adjustments and settlements on hedges(10)(14)Third-party refinery sales(1,150)(97)Delta Private Jets adjustment— (196)Operating expense, adjusted$24,130 $40,082 Delta Air Lines, Inc. 2020 Form 10-K
+T120	Remove 99792 99965	Year Ended December 31,(in millions)20202019Net cash (used in)/provided by operating activities$(3,793)$8,425 Net cash used in investing activities(9,238)(4,563)Adjustments:
+T121	Remove 99967 100031	Net purchases/(redemptions) of short-term investments5,792 (206)
+T122	Remove 100033 100075	Strategic investments and related2,192 170
+T123	Remove 100076 100201	Net cash flows related to certain airport construction projects and other721 338 Free cash flow$(4,327)$4,164 TRASM, adjusted
+T124	Remove 100604 100815	Year Ended December 31,20202019TRASM (cents)12.73 ¢17.07 ¢Adjusted for:Third-party refinery sales(0.86)(0.04)Delta Private Jets adjustment— (0.07)TRASM, adjusted11.87 ¢16.97 ¢Delta Air Lines, Inc. 2020 Form 10-K
+T125	Remove 102121 102454	ear Ended December 31,20202019CASM (cents)22.01 ¢14.67 ¢Less: Restructuring charges(6.12)— Less: Government grant recognition2.94 — Adjusted for:Aircraft fuel and related taxes(2.36)(3.10)Third-party refinery sales(0.86)(0.04)Profit sharing— (0.60)Delta Private Jets adjustment— (0.06)CASM-Ex15.61 ¢10.88 ¢Consolidated CASM, adjusted
+T126	Remove 103189 103540	Year Ended December 31,20202019CASM (cents)22.01 ¢14.67 ¢Less: Restructuring charges(6.12)— Less: Government grant recognition2.94 — Adjusted for:MTM adjustments and settlements on hedges(0.01)(0.01)Third-party refinery sales(0.86)(0.04)Delta Private Jets adjustment— (0.07)Consolidated CASM, adjusted17.96 ¢14.56 ¢Delta Air Lines, Inc. 2020 Form 10-K
+T127	Verified 0 6	ITEM 7

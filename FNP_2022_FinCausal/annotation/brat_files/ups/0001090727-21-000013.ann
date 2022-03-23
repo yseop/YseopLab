@@ -1,0 +1,240 @@
+T1	Remove 2385 3212	Year Ended December 31,Non-GAAP Adjustments20202019Operating Expenses:Transformation Strategy Costs$348 $255 Goodwill and Other Asset Impairment Charges686 — Legal Contingencies and Expenses— 97 Total Adjustments to Operating Expenses$1,034 $352 Other Income and (Expense):Defined Benefit Plans Mark-to-Market Charges$6,484 $2,387 Total Adjustments to Other Income and (Expense)$6,484 $2,387 Total Adjustments to Income Before Income Taxes$7,518 $2,739 Income Tax Benefit from Defined Benefit Plans Mark-to-Market Charges$(1,555)$(571)Income Tax Benefit from Transformation Strategy Costs(83)(59)Income Tax Benefit from Goodwill and Other Asset Impairment Charges(57)— Income Tax Benefit from Legal Contingencies and Expenses— (6)Total Adjustments to Income Tax Expense$(1,695)$(636)Total Adjustments to Net Income$5,823 $2,103
+T2	Remove 8159 8433	Year Ended December 31,Components of mark-to-market gain (loss) (in millions):20202019Discount rates$(6,540)$(5,670)Return on assets2,390 3,850 Demographic and other assumption changes(381)(24)Coordinating benefits attributable to the Central States Pension Fund(1,953)(543)
+T3	Fact 10179 10340	The weighted-average discount rate for our pension and postretirement medical plans decreased from 4.45% as of December 31, 2018 to 3.55% as of December 31, 2019
+T4	Fact 10359 10461	a decline in U.S. treasury yields and a decrease in credit spreads on AA-rated corporate bonds in 2019
+R1	Cause Cause:T4 Effect:T3	
+T5	Fact 10737 10830	In 2019, the actual rate of return on plan assets was higher than our expected rate of return
+T6	Fact 10849 10902	strong global equity and U.S. bond market performance
+R2	Cause Cause:T6 Effect:T5	
+T7	Fact 14206 14296	Volume increased across all products, with growth strongest in residential ground services
+T8	Fact 14298 14451	Volume growth was primarily driven by business-to-consumer e-commerce, which grew by approximately 33%, partly due to the impact of the COVID-19 pandemic
+R3	Cause Cause:T8 Effect:T7	
+T9	Remove 12848 14050	Year Ended December 31,Change 20202019$%Average Daily Package Volume (in thousands):Next Day Air1,987 1,889 5.2 %Deferred1,783 1,622 9.9 %Ground17,371 15,176 14.5 %Total Average Daily Package Volume21,141 18,687 13.1 %Average Revenue Per Piece:Next Day Air$16.82 $17.74 $(0.92)(5.2)%Deferred12.46 12.62 (0.16)(1.3)%Ground8.87 8.55 0.32 3.7 %Total Average Revenue Per Piece$9.92 $9.83 $0.09 0.9 %Operating Days in Period255 253 Revenue (in millions):Next Day Air$8,522 $8,479 $43 0.5 %Deferred5,665 5,180 485 9.4 %Ground39,312 32,834 6,478 19.7 %Total Revenue$53,499 $46,493 $7,006 15.1 %Operating Expenses (in millions):Operating Expenses$49,608 $42,329 $7,279 17.2 %Transformation Strategy Costs(237)(108)(129)119.4 %Legal Contingencies and Expenses— (97)97 N/MAdjusted Operating Expenses$49,371 $42,124 $7,247 17.2 %Operating Profit (in millions) and Operating Margin:Operating Profit$3,891 $4,164 $(273)(6.6)%Adjusted Operating Profit$4,128 $4,369 $(241)(5.5)%Operating Margin7.3 %9.0 %Adjusted Operating Margin7.7 %9.4 %RevenueThe change in total revenue was due to the following:Revenue Change Drivers:VolumeRates /Product MixFuelSurchargesTotal RevenueChange2020 vs. 201914.0 %1.8 %(0.7)%15.1 %28
+T10	Fact 14708 14805	Volume from SMBs grew 14.8% for the year, with growth accelerating in the second half of the year
+T11	Fact 14821 14900	our investments to improve both time-in-transit and our digital access platform
+R4	Cause Cause:T11 Effect:T10	
+T12	Fact 15463 15540	Average daily volume increased in both our Next Day Air and Deferred products
+T13	Fact 15552 15620	increased residential demand as a result of the growth in e-commerce
+R5	Cause Cause:T13 Effect:T12	
+T14	Fact 15210 15301	Business-to-business shipments decreased 10% for the year, primarily in our ground products
+T15	Fact 15306 15387	many businesses experienced disruption and periods of closure due to the pandemic
+R6	Cause Cause:T15 Effect:T14	
+T16	Fact 15833 15938	Residential Ground and SurePost average daily volumes increased by 35% and 39%, respectively for the year
+T17	Fact 15950 16011	changes in customer mix and the growth in e-commerce activity
+R7	Cause Cause:T17 Effect:T16	
+T18	Fact 16013 16060	Ground commercial average daily volume declined
+T19	Fact 16065 16154	many businesses temporarily closed or operated on a limited basis as a result of COVID-19
+R8	Cause Cause:T19 Effect:T18	
+T20	Fact 16198 16233	Overall revenue per piece increased
+T21	Fact 16242 16402	hanges in base rates, customer and product mix and residential surcharges that went into effect in October 2020, partially offset by declines in fuel surcharges
+R9	Cause Cause:T21 Effect:T20	
+T22	Fact 16542 16612	Revenue per piece for our Next Day Air and Deferred products decreased
+T23	Fact 16630 16739	shifts in customer and product mix, lower fuel surcharges and a decrease in average billable weight per piece
+R10	Cause Cause:T23 Effect:T22	
+T24	Fact 16741 16792	Revenue per piece for our Ground products increased
+T25	Fact 16810 16913	the shift in customer mix, with a significant increase in SMB volume, and higher residential surcharges
+R11	Cause Cause:T25 Effect:T24	
+T26	Remove 17468 17588	Year Ended December 31,% Point Change 202020192020 vs. 2019Next Day Air / Deferred3.9 %7.3 %(3.4)%Ground6.6 %7.2 %(0.6)%
+T27	Fact 17929 18005	Total domestic fuel surcharge revenue decreased by $344 million for the year
+T28	Fact 18021 18116	lower fuel surcharge indices, partially offset by increases in volume and shifts in product mix
+R12	Cause Cause:T28 Effect:T27	
+T29	Fact 18247 18439	Operating Expenses2020 compared to 2019 Operating expenses, and operating expenses excluding the impact of transformation strategy costs and legal contingencies and expenses, increased largely
+T30	Fact 18447 18497	higher pickup and delivery costs (up $4.2 billion)
+R13	Cause Cause:T30 Effect:T29	
+T31	Fact 18713 18744	The overall increase in expense
+T32	Fact 18759 19024	several factors:•Employee compensation and benefit costs increased $5.0 billion, largely resulting from:◦residential volume growth that negatively impacted our delivery density, driving an increase in package delivery stops per day and in average daily miles driven
+R14	Cause Cause:T32 Effect:T31	
+T33	Fact 19026 19345	This drove an increase in average daily union labor hours of 14.1%; ◦union pay rate increases; ◦growth in the overall size of the workforce; and ◦acceleration of certain previously-issued incentive compensation awards for certain non-executive employees that resulted in additional expense of approximately $104 million
+R15	Cause Cause:T32 Effect:T33	
+T34	Fact 19346 19395	We also incurred higher employee benefit expenses
+T35	Fact 19403 19685	additional headcount, contractual contribution rate increases to union multiemployer plans, and higher service costs for our company-sponsored pension and postretirement plans, primarily driven by lower discount rates used to measure the projected benefit obligations of these plans
+R16	Cause Cause:T35 Effect:T34	
+T36	Fact 19687 19739	Workers' compensation expense increased $114 million
+T37	Fact 19755 19821	additional hours, medical and wage inflation and claims experience
+R17	Cause Cause:T37 Effect:T36	
+T38	Fact 19823 19862	Higher third-party transportation costs
+T39	Fact 19878 20017	increased SurePost volume and utilization of outside carriers as part of our improvements to time-in-transit within our U.S. ground network
+R18	Cause Cause:T39 Effect:T38	
+T40	Fact 20019 20060	We incurred lower fuel costs for the year
+T41	Fact 20072 20231	lower prices for jet fuel, diesel and gasoline that were partially offset by increased usage as a result of volume growth and higher average daily miles driven
+R19	Cause Cause:T41 Effect:T40	
+T42	Fact 20232 20403	Total cost per piece, and adjusted cost per piece excluding the year over year impact of transformation strategy costs and legal contingencies and expenses, increased 2.8%
+T43	Fact 20419 20446	the factors described above
+R20	Cause Cause:T43 Effect:T42	
+T44	Fact 20496 20538	As a result of the factors described above
+T45	Fact 20540 20639	operating profit decreased $273 million, with operating margins decreasing 170 basis points to 7.3%
+R21	Cause Cause:T44 Effect:T45	
+T46	Remove 20987 22305	International Package Operations Year Ended December 31,Change 20202019$%Average Daily Package Volume (in thousands):Domestic1,863 1,721 8.3 %Export1,672 1,472 13.6 %Total Average Daily Package Volume3,535 3,193 10.7 %Average Revenue Per Piece:Domestic$6.65 $6.51 $0.14 2.2 %Export28.52 29.10 (0.58)(2.0)%Total Average Revenue Per Piece$16.99 $16.93 $0.06 0.4 %Operating Days in Period255 253 Revenue (in millions):Domestic$3,160 $2,836 $324 11.4 %Export12,159 10,837 1,322 12.2 %Cargo & Other626 547 79 14.4 %Total Revenue$15,945 $14,220 $1,725 12.1 %Operating Expenses (in millions):Operating Expenses$12,509 $11,563 $946 8.2 %Transformation Strategy Costs(96)(122)26 (21.3)%Adjusted Operating Expenses$12,413 $11,441 $972 8.5 %Operating Profit (in millions) and Operating Margin:Operating Profit$3,436 $2,657 $779 29.3 %Adjusted Operating Profit$3,532 $2,779 $753 27.1 %Operating Margin21.5 %18.7 %Adjusted Operating Margin22.2 %19.5 %Currency Translation Benefit / (Cost)—(in millions)*:Revenue$129 Operating Expenses(59)Operating Profit$70 *Net of currency hedging; amount represents the change compared to the prior year.RevenueThe change in total revenue was due to the following:Revenue Change Drivers:VolumeRates /Product MixFuelSurchargesCurrencyTotal RevenueChange2020 vs. 201911.6 %1.5 %(1.9)%0.9 %12.1 %31
+T47	Fact 22531 22568	Business-to-consumer volume increased
+T48	Fact 22572 22620	the COVID-19 pandemic drove growth in e-commerce
+R22	Cause Cause:T48 Effect:T47	
+T49	Fact 22799 22826	Average daily volume growth
+T50	Fact 22851 22946	strong demand from the retail and technology sectors due to the increase in e-commerce activity
+R23	Cause Cause:T50 Effect:T49	
+T51	Fact 23752 23800	Domestic volume increased in many of our markets
+T52	Fact 23812 23953	growth in Canada and several European countries that was primarily due to residential volume growth resulting from the increase in e-commerce
+R24	Cause Cause:T52 Effect:T51	
+T53	Fact 24113 24192	In response to market capacity constraints resulting from the COVID-19 pandemic
+T54	Fact 24194 24252	we implemented surcharges on certain lanes during the year
+R25	Cause Cause:T53 Effect:T54	
+T55	Fact 24407 24445	Total revenue per piece increased 0.4%
+T56	Fact 24461 24611	changes in customer and product mix, the impact of demand surcharges and currency movements, which were largely offset by a decline in fuel surcharges
+R26	Cause Cause:T56 Effect:T55	
+T57	Fact 24680 24721	Domestic revenue per piece increased 2.2%
+T58	Fact 24729 24865	changes in customer and product mix, demand surcharges and currency movements that were partially offset by a decline in fuel surcharges
+R27	Cause Cause:T58 Effect:T57	
+T59	Fact 24934 24973	Export revenue per piece decreased 2.0%
+T60	Fact 24991 25078	a decline in fuel surcharges that were partially offset by changes in demand surcharges
+R28	Cause Cause:T60 Effect:T59	
+T61	Fact 25893 25969	Total international fuel surcharge revenue decreased by $263 million in 2020
+T62	Fact 25985 26094	declines in fuel surcharge indices, partially offset by volume growth and changes in customer and product mix
+R29	Cause Cause:T62 Effect:T61	
+T63	Fact 26396 26444	Pickup and delivery costs increased $540 million
+T64	Fact 26452 26569	volume growth and an increase in residential deliveries that drove additional third-party pickup and delivery expense
+R30	Cause Cause:T64 Effect:T63	
+T65	Fact 27464 27516	The remaining increase in operating expenses in 2020
+T66	Fact 27528 27578	package sorting and other indirect operating costs
+T67	Fact 27628 27670	As a result of the factors described above
+T68	Fact 27672 27771	operating profit increased $779 million, with operating margin increasing 280 basis points to 21.5%
+R31	Cause Cause:T67 Effect:T68	
+T69	Remove 28116 29236	Year Ended December 31,Change 20202019$%Freight LTL Statistics:Revenue (in millions)$2,566 $2,679 $(113)(4.2)%Revenue Per Hundredweight$27.46 $26.54 $0.92 3.5 %Shipments (in thousands)8,847 9,281 (4.7)%Shipments Per Day (in thousands)34.8 36.7 (5.2)%Gross Weight Hauled (in millions of lbs)9,343 10,096 (7.5)%Weight Per Shipment (in lbs)1,056 1,088 (2.9)%Operating Days in Period254 253 Revenue (in millions):Forwarding$6,975 $5,867 $1,108 18.9 %Logistics4,073 3,435 638 18.6 %Freight3,149 3,265 (116)(3.6)%Other987 814 173 21.3 %Total Revenue$15,184 $13,381 $1,803 13.5 %Operating Expenses (in millions):Operating Expenses$14,827 $12,404 $2,423 19.5 %Transformation Strategy Costs(15)(25)10 (40.0)%Goodwill and Other Asset Impairment Charges(686)— (686)N/MAdjusted Operating Expenses$14,126 $12,379 $1,747 14.1 %Operating Profit (in millions) and Operating Margins:Operating Profit$357 $977 $(620)(63.5)%Adjusted Operating Profit$1,058 $1,002 $56 5.6 %Operating Margin2.4 %7.3 %Adjusted Operating Margin7.0 %7.5 %Currency Translation Benefit / (Cost)—(in millions)*:Revenue$(92)Operating Expenses90 Operating Profit$(2)
+T70	Remove 29294 29502	Year Ended December 31,Change 20202019$%Transformation Strategy Costs (in millions):Forwarding$8 $12 $(4)(33.3)%Logistics6 13 (7)(53.8)%Freight1 — 1 N/MTotal Transformation Strategy Costs$15 $25 $(10)(40.0)%I
+T71	Fact 31150 31192	Ocean freight forwarding revenue increased
+T72	Fact 31200 31256	Asia-export volume growth in the second half of the year
+R32	Cause Cause:T72 Effect:T71	
+T73	Fact 31479 31544	Within Logistics, revenue in our mail services business increased
+T74	Fact 31560 31641	e-commerce growth, which also led to a favorable shift in product characteristics
+R33	Cause Cause:T74 Effect:T73	
+T75	Fact 31950 31978	UPS Freight revenue declined
+T76	Fact 31986 32171	volume and tonnage declines in our LTL business driven by overall market conditions, as well as volume optimization initiatives that resulted in an increase in revenue per hundredweight
+R34	Cause Cause:T76 Effect:T75	
+T77	Fact 32289 32351	Revenue from the other businesses within the segment increased
+T78	Fact 32363 32465	growth within UPS Customer Solutions, as well as additional volume from service contracts with the U.S
+R35	Cause Cause:T78 Effect:T77	
+T79	Fact 32675 32727	Forwarding operating expenses increased $1.1 billion
+T80	Fact 32744 32885	higher market rates and additional charter flights out of Asia which increased purchased transportation expense for international air freight
+R36	Cause Cause:T80 Effect:T79	
+T81	Fact 32956 33017	In truckload brokerage, volume growth and higher market rates
+T82	Fact 33038 33086	the increase in purchased transportation expense
+R37	Cause Cause:T81 Effect:T82	
+T83	Fact 33088 33121	Other expenses decreased slightly
+T84	Fact 33137 33172	ongoing cost management initiatives
+R38	Cause Cause:T84 Effect:T83	
+T85	Fact 33173 33224	Logistics operating expenses increased $582 million
+T86	Fact 33236 33399	higher purchased transportation expense in mail services as a result of volume growth and carrier rate increases, as well as volume growth in the healthcare sector
+R39	Cause Cause:T86 Effect:T85	
+T87	Fact 33400 33453	UPS Freight operating expenses increased $607 million
+T88	Fact 33459 33633	primarily to an impairment charge of $686 million in respect of goodwill and assets held for sale as a result of entering into an agreement to divest our UPS Freight business
+R40	Cause Cause:T88 Effect:T87	
+T89	Fact 33757 33799	As a result of the factors described above
+T90	Fact 33801 33885	total operating profit for the Supply Chain & Freight segment decreased $620 million
+R41	Cause Cause:T89 Effect:T90	
+T91	Remove 34287 35283;35284 35816	Year Ended December 31,Change 20202019$%Operating Expenses (in millions):Compensation and benefits$44,529 $38,908 $5,621 14.4 %Transformation strategy costs(211)(166)(45)27.1 %Adjusted Compensation and benefits44,318 38,742 5,576 14.4 %Repairs and maintenance2,365 1,838 527 28.7 %Depreciation and amortization2,698 2,360 338 14.3 %Purchased transportation15,631 12,590 3,041 24.2 %Fuel2,582 3,289 (707)(21.5)%Other occupancy1,539 1,392 147 10.6 %Other expenses7,600 5,919 1,681 28.4 %Total Other expenses32,415 27,388 5,027 18.4 %Other Transformation strategy costs(137)(89)(48)53.9 %Legal contingencies and expenses— (97)97 (100.0)%Goodwill and other asset impairment charges(686)— (686)N/MAdjusted Total Other expenses$31,592 $27,202 $4,390 16.1 %Total Operating Expenses$76,944 $66,296 $10,648 16.1 %Adjusted Total Operating Expenses$75,910 $65,944 $9,966 15.1 %Currency Translation Benefit - (in millions)*$31 *Amount represents the change in currency translation compared to the prior year. Year Ended December 31,Change 20202019$%Adjustments to Operating Expenses (in millions):Transformation strategy costs:Compensation$34 $21 $13 61.9 %Benefits177 145 32 22.1 %Depreciation and amortization— 3 (3)(100.0)%Other occupancy8 8 — — %Other expenses129 78 51 65.4 %Total Transformation strategy costs$348 $255 $93 36.5 %Legal contingencies and expenses:Other expenses$— $97 $(97)(100.0)%Goodwill and other asset impairment charges:Other expenses$686 $— $686 N/MTotal Adjustments to Operating Expenses$1,034 $352 $682 193.8 %36
+T92	Fact 36148 36305	Total compensation costs, and total compensation costs excluding the year over year impact of transformation strategy costs, increased $3.1 billion or 13.3%,
+T93	Fact 36332 36336	U.S.
+R42	Cause Cause:T93 Effect:T92	
+T95	Fact 36337 36468	Domestic labor costs increased as a result of residential volume growth, driving a 21.5% increase in package delivery stops per day
+T94	Fact 36470 36555	This drove additional headcount and an increase in average daily union hours of 14.1%
+R43	Cause Cause:T95 Effect:T94	
+T96	Fact 36557 36589	Contractual union wage increases
+T97	Fact 36614 36659	increase in compensation for hourly employees
+R44	Cause Cause:T96 Effect:T97	
+T98	Fact 36662 36703	Management compensation expense increased
+T99	Fact 36711 36894	salary increases, higher incentive compensation, including the acceleration of certain previously-issued incentive compensation awards, and growth in the overall size of the workforce
+R45	Cause Cause:T99 Effect:T98	
+T100	Fact 36895 37022	Benefits costs, and benefits costs excluding the year over year impact of transformation strategy costs, increased $2.5 billion
+T101	Fact 37039 37298	Health and welfare costs increased $558 million, driven by increased contributions to multiemployer plans resulting from growth in the workforce and contractually-mandated contribution rate increases.•Pension and postretirement benefits increased $798 million
+R46	Cause Cause:T101 Effect:T100	
+T102	Fact 37300 37348	Higher service costs for company-sponsored plans
+T103	Fact 37364 37436	a reduction in discount rates and an increase in participating employees
+R47	Cause Cause:T103 Effect:T102	
+T104	Fact 37438 37484	Contributions to multiemployer plans increased
+T105	Fact 37500 37598	contractually-mandated contribution increases and an overall increase in the size of the workforce
+R48	Cause Cause:T105 Effect:T104	
+T106	Fact 37600 37682	Vacation, excused absence, payroll taxes and other expenses increased $587 million
+T107	Fact 37704 37768	salary increases and growth in the overall size of the workforce
+R49	Cause Cause:T107 Effect:T106	
+T108	Fact 37770 37822	Workers' compensation expense increased $517 million
+T109	Fact 37830 37926	an increase in total hours worked, wage and medical cost inflation and unfavorable claims trends
+R50	Cause Cause:T109 Effect:T108	
+T110	Fact 37972 38019	The increase in repairs and maintenance expense
+T111	Fact 38034 38267	additional aircraft engine maintenance cost, primarily due to the replacement of parts on our A300-600 fleet, as well as an increase in routine repairs to buildings and facilities and maintenance of our other transportation equipment
+R51	Cause Cause:T111 Effect:T110	
+T112	Fact 38319 38366	Depreciation and amortization expense increased
+T113	Fact 38382 38566	additional investments in facility automation and capacity expansion projects, increases in the size of our vehicle and aircraft fleets and investments in internally developed software
+R52	Cause Cause:T113 Effect:T112	
+T114	Fact 38613 38725	he increase in purchased transportation expense charged to us by third-party air, rail, ocean and truck carriers
+T115	Fact 38751 38755	U.S.
+T116	Fact 38756 38803	Domestic Package expense increased $1.2 billion
+T117	Fact 38811 39036	investments to improve time-in-transit in our U.S. ground network, an increase in SurePost volume that drove approximately $480 million of incremental third-party transportation expense and volume growth in our other products
+R53	Cause Cause:T117 Effect:T116	
+T118	Fact 39168 39223	Forwarding and Logistics expense increased $1.5 billion
+T119	Fact 39231 39396	increased market rates in our international air freight business, as well as volume growth and rate increases in our mail services and truckload brokerage businesses
+R54	Cause Cause:T119 Effect:T118	
+T120	Fact 39398 39484	The rate increases in our international air freight and truckload brokerage businesses
+T121	Fact 39510 39537	market capacity constraints
+R55	Cause Cause:T121 Effect:T120	
+T122	Fact 39539 39591	International Package expense increased $521 million
+T123	Fact 39609 39760	volume increases in Asia and Europe that drove higher third-party pickup and delivery cost, as well as additional charter flights originating from Asia
+R56	Cause Cause:T123 Effect:T122	
+T124	Fact 39786 39814	The decrease in fuel expense
+T125	Fact 39829 39875	lower prices for jet fuel, diesel and gasoline
+R57	Cause Cause:T125 Effect:T124	
+T126	Fact 39877 39936	These decreases were partially offset by higher consumption
+T127	Fact 39944 40096	increases in aircraft block hours and miles driven as a result of increased volume, as well as the impact of higher alternative fuel tax credits in 2019
+R58	Cause Cause:T127 Effect:T126	
+T128	Fact 40133 40270	The increase in other occupancy expense, and other occupancy expense excluding the year over year impact of transformation strategy costs
+T129	Fact 40286 40403	additional operating facilities coming into service, rent and property tax increases and ongoing facility maintenance
+R59	Cause Cause:T129 Effect:T128	
+T130	Fact 40439 40635	Other expenses, and other expenses excluding the year over year impact of transformation strategy costs, legal contingencies and expenses and goodwill and other asset impairment charges, increased
+T131	Fact 40652 40767	Other operational expenses, including vehicle and equipment rentals, increased $385 million driven by volume growth
+R60	Cause Cause:T131 Effect:T130	
+T132	Fact 40864 40904	Professional fees increased $139 million
+T133	Fact 40927 40985	information technology and other business support services
+R61	Cause Cause:T133 Effect:T132	
+T134	Fact 40987 41050	Self-insured automobile liability claims increased $125 million
+T135	Fact 41066 41111	higher average daily miles driven in our U.S.
+R62	Cause Cause:T135 Effect:T134	
+T136	Remove 41542 42111	Income and (Expense)The following table sets forth investment income (expense) and other and interest expense for the years ended December 31, 2020 and 2019 (in millions): Year Ended December 31,Change 20202019$%Investment Income (Expense) and Other$(5,139)$(1,493)$(3,646)N/MDefined Benefit Plans Mark-to-Market Charges6,484 2,387 4,097 171.6 %Adjusted Investment Income (Expense) and Other$1,345 $894 $451 50.4 %Interest Expense(701)(653)(48)7.4 %Total Other Income and (Expense)$(5,840)$(2,146)$(3,694)172.1 %Adjusted Other Income and (Expense)$644 $241 $403 167.2 %
+T137	Fact 42323 42448	Excluding the impact of these mark-to-market charges, adjusted investment and other income increased $451 million for the yea
+T138	Fact 42468 42644	an increase in other pension income, which includes expected investment returns on pension assets, net of interest cost on projected benefit obligations and prior service costs
+R63	Cause Cause:T138 Effect:T137	
+T139	Fact 42646 42687	Expected returns on plan assets increased
+T140	Fact 42703 42805	a higher asset base due to positive asset returns in 2019 and discretionary contributions made in 2020
+R64	Cause Cause:T140 Effect:T139	
+T141	Fact 42807 42838	Pension interest cost decreased
+T142	Fact 42846 43040	the impact of lower year end discount rates, partially offset by ongoing plan growth and an increase in the projected benefit obligation as a result of the 2019 year end measurement of our plans
+R65	Cause Cause:T142 Effect:T141	
+T143	Fact 43042 43069	Investment income decreased
+T144	Fact 43077 43226	lower yields on higher average invested asset balances and impairments of certain non-current investments, partially offset by foreign currency gains
+R66	Cause Cause:T144 Effect:T143	
+T145	Fact 43265 43291	Interest expense increased
+T146	Fact 43307 43488	higher average outstanding debt balances and lower capitalization of interest, partially offset by lower effective interest rates on floating rate debt and commercial paper balances
+R67	Cause Cause:T146 Effect:T145	
+T147	Remove 43801 44209	Change 20202019$%Income Tax Expense:$501 $1,212 $(711)(58.7)%Income Tax Impact of:Defined Benefit Plans Mark-to-Market Charges1,555 571 984 172.3 %Transformation Strategy Costs83 59 24 40.7 %Goodwill and Other Asset Impairment Charges57 — 57 N/MLegal Contingencies and Expenses— 6 (6)N/MAdjusted Income Tax Expense$2,196 $1,848 $348 18.8 %Effective Tax Rate27.2 %21.4 %Adjusted Effective Tax Rate23.5 %22.0 %
+T148	Fact 46170 46240	Net cash from operating activities increased $1.8 billion for the year
+T149	Fact 46267 46428	Total contributions to our company-sponsored pension and U.S. postretirement medical benefit plans were $3.1 billion during 2020 compared to $2.4 billion in 2019
+R68	Cause Cause:T149 Effect:T148	
+T150	Remove 45338 45760	20202019Net income$1,343 $4,440 Non-cash operating activities(a)11,181 6,405 Pension and postretirement benefit plan contributions (company-sponsored plans)(3,125)(2,362)Hedge margin receivables and payables(507)171 Income tax receivables and payables205 599 Changes in working capital and other non-current assets and liabilities1,383 (634)Other operating activities(21)20 Net cash from operating activities$10,459 $8,639
+T151	Fact 46587 46644	Our net hedge margin collateral decreased by $678 million
+T152	Fact 46652 46760	the change in net fair value of derivative contracts used in our currency and interest rate hedging programs
+R69	Cause Cause:T152 Effect:T151	
+T153	Fact 46984 47020	Favorable changes in working capital
+T154	Fact 47036 47274	the deferral of approximately $1.1 billion of employer payroll taxes under the Coronavirus Aid, Relief and Economic Security (CARES) Act that was signed into law on March 27, 2020, as well as changes in incentive compensation plan payouts
+R70	Cause Cause:T154 Effect:T153	
+T155	Fact 47276 47353	These benefits were partially offset by an increase in working capital demand
+T156	Fact 47369 47384	business growth
+R71	Cause Cause:T156 Effect:T155	
+T157	Remove 50434 51078	20202019Net cash used in investing activities$(5,283)$(6,061)Capital Expenditures:Buildings, facilities and plant equipment$(2,460)$(2,729)Aircraft and parts(1,145)(1,890)Vehicles(1,002)(987)Information technology(805)(774)Total Capital Expenditures(1):$(5,412)$(6,380)Capital Expenditures as a % of revenue6.4 %8.6 %Other Investing Activities:Proceeds from disposals of property, plant and equipment$40 $65 Net change in finance receivables$44 $13 Net (purchases), sales and maturities of marketable securities$106 $322 Cash paid for business acquisitions, net of cash and cash equivalents acquired$(20)$(6)Other investing activities$(41)$(75)
+T158	Fact 52156 52194	Capital spending on aircraft decreased
+T159	Fact 52202 52320	reductions in contract deposits on open aircraft orders and in final payments associated with the delivery of aircraft
+R72	Cause Cause:T159 Effect:T158	
+T160	Remove 53660 54359	20202019Net cash used in financing activities$(4,517)$(1,727)Share Repurchases:Cash expended for shares repurchased$(224)$(1,004)Number of shares repurchased(2.1)(9.1)Shares outstanding at period end865 857 Percent increase (decrease) in shares outstanding0.9 %(0.1)%Dividends:Dividends declared per share$4.04 $3.84 Cash expended for dividend payments$(3,374)$(3,194)Borrowings:Net borrowings (repayments) of debt principal$(851)$2,419 Other Financing Activities:Cash received for common stock issuances$285 $218 Other financing activities$(353)$(166)Capitalization:Total debt outstanding at year end$24,654 $25,238 Total shareowners’ equity at year end669 3,283 Total capitalization$25,323 $28,521
+T161	Remove 55878 56216	Principal Amount in USD2020Fixed-rate senior notes:3.900% senior notes$1,000 4.450% senior notes750 5.200% senior notes500 5.300% senior notes1,250 Total$3,500 Principal Amount in USD2019Fixed-rate senior notes:2.200% senior notes$400 2.500% senior notes400 3.400% senior notes (multiple issuances)1,450 4.250% senior notes750 Total$3,000
+T162	Remove 57172 57658	Functional currency outstanding balance at year endOutstanding balance at year end ($)Average balance outstandingAverage balance outstanding ($)Average interest rate2020USD$15 $15 $1,426 $1,426 0.78 %EUR€— $— €432 $493 (0.39)%Total$15 Functional currency outstanding balance at year endOutstanding balance at year end ($)Average balance outstandingAverage balance outstanding ($)Average interest rate2019USD$2,172 $2,172 $1,665 $1,665 2.24 %EUR€949 $1,062 €903 $1,011 (0.39)%Total$3,234
+T163	Fact 58142 58167	The increase in cash used
+T164	Fact 58182 58239	changes in the vesting schedule for certain of our awards
+R73	Cause Cause:T164 Effect:T163	
+T165	Remove 59327 59766	Commitment Type 20212022202320242025After 2025TotalFinance Leases$69 $64 $50 $30 $27 $188 $428 Operating Leases (1)815 557 458 335 259 1,468 3,892 Debt Principal2,568 2,001 2,360 1,485 1,860 14,198 24,472 Debt Interest754 725 671 633 638 7,703 11,124 Purchase Commitments2,730 1,415 404 201 60 1 4,811 Tax Act Repatriation Liability— — 13 49 61 — 123 Pension Funding252 — — — — — 252 Total$7,188 $4,762 $3,956 $2,733 $2,905 $23,558 $45,102
+T166	Remove 94964 95164	Result As of December 31,(in millions)20202019Change in Fair Value:Currency Derivatives(1)$(809)$(786)Change in Annual Interest Expense:Variable Rate Debt(2)$26 $64 Interest Rate Derivatives(2)$33 $37
+T167	Verified 0 6	Item 7

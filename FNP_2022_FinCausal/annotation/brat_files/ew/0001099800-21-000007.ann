@@ -1,0 +1,96 @@
+T1	Remove 1237 1256	21Table of Contents
+T2	Fact 4576 4718	Despite the challenges associated with COVID-19, our net sales for 2020 were $4.4 billion, representing an increase of $38.3 million over 2019
+T3	Fact 4730 4763	sales growth of our TAVR products
+R1	Cause Cause:T3 Effect:T2	
+T4	Remove 4765 4784	22Table of Contents
+T5	Fact 4784 4817	Our gross profit increase in 2020
+T6	Fact 4832 5044	a charge of $73.1 million recorded in 2019, primarily comprised of the write off of inventory related to strategic decisions regarding our TAVR portfolio, including the decision to discontinue our CENTERA program
+R2	Cause Cause:T6 Effect:T5	
+T7	Fact 5046 5100	The decrease in our diluted earnings per share in 2020
+T8	Fact 5115 5251	an after-tax charge of $305.1 million to settle certain patent litigation related to transcatheter mitral and tricuspid repair products.
+R3	Cause Cause:T8 Effect:T7	
+T9	Remove 7620 7840	20202019$%United States$2,516.8 $2,532.7 $(15.9)(0.6)%Europe973.6 941.2 32.4 3.4 %Japan460.1 444.7 15.4 3.5 %Rest of World435.8 429.4 6.4 1.5 %International1,869.5 1,815.3 54.2 3.0 %Total net sales$4,386.3 $4,348.0 $38.3
+T10	Remove 8312 8332	"23Table of Contents
+T11	Remove 9582 9601	24Table of Contents
+T12	Remove 10905 10924	25Table of Contents
+T13	Fact 11829 11893	Critical CareThe decrease in net sales of Critical Care products
+T14	Fact 11908 12084	a decline in sales of our enhanced surgical recovery products, primarily in the United States, as many surgical procedures were delayed due to COVID-19 beginning in March 2020.
+R4	Cause Cause:T14 Effect:T13	
+T15	Fact 12254 12304	These decreases in net sales were partially offset
+T16	Fact 12308 12445	increased demand for our pressure monitoring products, primarily in Europe and the United States, as COVID-19 hospitalizations increased.
+R5	Cause Cause:T16 Effect:T15	
+T17	Fact 12446 12540	In addition, our sales in 2020 and 2019 included $22.6 million and $16.8 million, respectively
+T18	Fact 12553 12627	CAS Medical Systems, Inc. ("CASMED"), which we acquired on April 18, 2019.
+R6	Cause Cause:T18 Effect:T17	
+T19	Remove 12740 12759	26Table of Contents
+T20	Fact 12854 12963	In 2019, our gross profit was reduced by $73.1 million due to the decision to discontinue our CENTERA program
+T21	Fact 12978 13035	a 1.7 percentage point increase in 2020 compared to 2019.
+R7	Cause Cause:T20 Effect:T21	
+T22	Fact 13036 13070	This increase was partially offset
+T23	Fact 13074 13248	a) a 1.0 percentage point decrease in 2020 due to the impact of foreign currency exchange rate fluctuations, net of hedging, and b) incremental costs associated with COVID-19
+R8	Cause Cause:T23 Effect:T22	
+T24	Fact 13249 13357	Selling, General, and Administrative ("SG&A") ExpensesThe decrease in SG&A expenses in 2020 compared to 2019
+T25	Fact 13379 13654	a) decreased sales, marketing and travel-related expense associated with COVID-19 and b) lower performance-based compensation, partially offset by increased sales and marketing expenses related to transcatheter structural heart field personnel, primarily in the United States
+R9	Cause Cause:T25 Effect:T24	
+T26	Remove 13655 13674	27Table of Contents
+T27	Fact 13674 13768	Research and Development ("R&D") ExpensesThe increase in R&D expenses in 2020 compared to 2019
+T28	Fact 13790 13963	a) investments in our transcatheter mitral and tricuspid therapies and our aortic valve replacement programs and b) costs associated with discontinuing our SUTRAFIX program.
+R10	Cause Cause:T28 Effect:T27	
+T29	Fact 13964 14001	These increases were partially offset
+T30	Fact 14005 14120	a) decreased spending on transcatheter aortic valve clinical trials and b) decreased performance-based compensation
+R11	Cause Cause:T30 Effect:T29	
+T33	Fact 15097 15307	Change in Fair Value of Contingent Consideration Liabilities, netThe change in fair value of contingent consideration liabilities resulted in expense of $13.6 million in 2020 and income of $6.1 million in 2019.
+T34	Fact 15308 15576	The expense in 2020 was primarily driven by the accretion of interest due to the passage of time and adjustments to discount rates, partially offset by changes in the projected probability and timing of milestone achievements, and the projected timing of cash inflows.
+T35	Fact 15577 15814	The income in 2019 was due primarily to longer product development timelines, which reduced the probability of milestone achievements, partially offset by the accretion of interest due to the passage of time and discount rate adjustments
+R13	Cause Cause:T34 Effect:T33	
+R14	Cause Cause:T35 Effect:T33	
+T36	Fact 15943 16043	Interest ExpenseInterest expense was $15.8 million and $20.7 million in 2020 and 2019, respectively.
+T37	Fact 16044 16160	The decrease in interest expense resulted primarily from higher capitalized interest due to facilities construction.
+R15	Cause Cause:T37 Effect:T36	
+T38	Remove 16161 16180	28Table of Contents
+T39	Fact 16180 16278	Interest IncomeInterest income was $23.4 million and $32.2 million in 2020 and 2019, respectively.
+T40	Fact 16279 16421	The decrease in interest income resulted primarily from lower average interest rates, partially offset by a higher average investment balance.
+R16	Cause Cause:T40 Effect:T39	
+T41	Fact 16678 16708	The net foreign exchange gains
+T42	Fact 16719 16928	the foreign currency fluctuations in our global trade and intercompany receivable and payable balances, offset by the gains and losses on derivative instruments intended as an economic hedge of those exposures
+R17	Cause Cause:T42 Effect:T41	
+T43	Fact 17654 17726	Our effective tax rate for 2020 decreased slightly in comparison to 2019
+T44	Fact 17744 18029	the tax benefit from the Settlement Agreement with Abbott (see Notes 3 and 18 to the "Consolidated Financial Statements"), partially offset by the increase in the U.S. tax on global intangible low-taxed income and the decrease in the tax benefit from employee share-based compensation.
+R18	Cause Cause:T44 Effect:T43	
+T45	Fact 18030 18128	In 2020, the difference between our 10.2% effective tax rate and the Federal statutory rate of 21%
+T46	Fact 18150 18314	a) foreign earnings taxed at lower rates, b) Federal and California research and development credits, and c) the tax benefit from employee share-based compensation.
+R19	Cause Cause:T46 Effect:T45	
+T47	Remove 19672 19695	The 29Table of Contents
+T48	Fact 24461 24537	As of December 31, 2020, we had a remaining tax obligation of $238.7 million
+T49	Fact 24549 24573	the deemed repatriation.
+R20	Cause Cause:T49 Effect:T48	
+T50	Remove 24934 24953	30Table of Contents
+T31	Fact 28407 28595	Consolidated Cash Flows - For the twelve months ended December 31, 2020 and 2019 Net cash flows provided by operating activities of $1.1 billion for 2020 decreased $128.6 million from 2019
+T32	Fact 28613 28790	lower operating profits in 2020 and a payment of $100.0 million for a litigation settlement, partially offset by a payment of $180.0 million in 2019 for a litigation settlement.
+R12	Cause Cause:T32 Effect:T31	
+T51	Remove 28790 28809	31Table of Contents
+T52	Fact 28809 28872	Net cash used in investing activities of $531.1 million in 2020
+T53	Fact 28896 28985	capital expenditures of $407.0 million and net purchases of investments of $87.6 million.
+R21	Cause Cause:T53 Effect:T52	
+T54	Fact 28986 29049	Net cash used in investing activities of $595.8 million in 2019
+T55	Fact 29073 29458	a) capital expenditures of $254.4 million, b) net purchases of investments of $174.9 million, c) a $100.2 million net cash payment associated with the acquisition of CASMED, d) a $35.0 million payment for an option to acquire a company, and e) a $24.0 million payment to acquire certain early-stage transcatheter intellectual property and associated clinical and regulatory experience.
+R22	Cause Cause:T55 Effect:T54	
+T56	Fact 29591 29654	Net cash used in financing activities of $486.9 million in 2020
+T57	Fact 29678 29788	purchases of treasury stock of $625.4 million, partially offset by proceeds from stock plans of $140.5 million
+R23	Cause Cause:T57 Effect:T56	
+T58	Fact 29789 29852	Net cash used in financing activities of $115.6 million in 2019
+T59	Fact 29876 29986	purchases of treasury stock of $263.3 million, partially offset by proceeds from stock plans of $160.5 million
+R24	Cause Cause:T59 Effect:T58	
+T60	Remove 30138 30751	Payments Due by PeriodContractual ObligationsTotalYear 1Years 2-3Years 4-5After 5YearsDebt$600.0 $— $— $— $600.0 Operating leases108.1 30.0 35.1 14.9 28.1 Interest on debt148.9 20.5 40.5 39.4 48.5 Transition tax on unremitted foreign earnings and profits (a)238.7 25.1 72.2 141.4 — Litigation settlement obligation (minimum payments)250.0 50.0 100.0 100.0 — Pension obligations (b)2.5 2.5 — — — Purchase and other commitments (c)26.7 13.7 9.7 1.5 1.8 Total contractual cash obligations (d), (e)$1,374.9 $141.8 $257.5 $297.2 $678.4 _______________________________________________________________________________(a)
+T61	Fact 30753 30834	As of December 31, 2020, we had recorded $238.7 million of income tax liabilities
+T62	Fact 30846 30923	the one-time transition tax that resulted from the enactment of the 2017 Act.
+R25	Cause Cause:T62 Effect:T61	
+T63	Fact 32630 32742	As of December 31, 2020, the gross liability for uncertain tax positions, including interest, was $301.2 million
+T64	Fact 32768 32793	transfer pricing matters.
+R26	Cause Cause:T64 Effect:T63	
+T65	Remove 32988 33007	32Table of Contents
+T66	Remove 38507 38526	33Table of Contents
+T67	Remove 42222 42242	34Table of ContentsI
+T68	Remove 47190 47209	35Table of Contents
+T69	Remove 51936 51955	36Table of Contents
+T70	Verified 0 6	Item 7

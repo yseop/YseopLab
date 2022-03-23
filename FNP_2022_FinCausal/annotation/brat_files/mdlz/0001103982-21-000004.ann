@@ -1,0 +1,202 @@
+T1	Fact 1745 1843	During 2020, we experienced a significant increase in demand and revenue growth in certain markets
+T2	Fact 1847 1912	consumers increased their food purchases for in-home consumption.
+R1	Cause Cause:T2 Effect:T1	
+T3	Fact 6750 6828	Our 2020 net revenue and net earnings in U.S. dollars were negatively affected
+T4	Fact 6832 6964	currency translation losses from a generally stronger U.S. dollar relative to other currencies in the countries in which we operate.
+R2	Cause Cause:T4 Effect:T3	
+T5	Fact 6966 7035	During the second quarter of 2020, we incurred higher operating costs
+T6	Fact 7050 7142	labor, customer service and logistics, security, personal protective equipment and cleaning.
+R3	Cause Cause:T6 Effect:T5	
+T7	Fact 11391 11420	n connection with the testing
+T8	Fact 11440 11526	eight brands were impaired and we recorded $144 million of impairment charges in 2020.
+R4	Cause Cause:T8 Effect:T7	
+T9	Fact 14748 14801	During 2019, we recognized a $23 million pre-tax gain
+T10	Fact 14813 14902	the impact of a KDP acquisition that decreased our ownership interest from 13.8% to 13.6%
+R5	Cause Cause:T10 Effect:T9	
+T12	Remove 14904 14923	33Table of Contents
+T11	Fact 14923 15124	On March 4, 2020, we participated in a secondary offering of KDP shares and sold approximately 6.8 million shares, which reduced our ownership interest by 0.5% to 13.1% of the total outstanding shares.
+T13	Fact 15125 15265	We received $185 million of proceeds and recorded a pre-tax gain of $71 million (or $54 million after-tax) during the first quarter of 2020.
+R6	Cause Cause:T11 Effect:T13	
+T14	Fact 16177 16440	On May 29, 2020, we participated in the JDE Peet's offering and, with the subsequent exercise of the over-allotment option, we sold a total of approximately 11.1 million shares during the second quarter of 2020, retaining a 22.9% ownership interest in JDE Peet's.
+T15	Fact 16441 16628	We received €350 million ($394 million) of total proceeds from the sales of JDE Peet's shares and we recorded a preliminary pre-tax gain of $121 million during the second quarter of 2020.
+T16	Fact 16629 16705	We also incurred a $261 million tax expense that is payable in 2020 and 2021
+R7	Cause Cause:T14 Effect:T15	
+R8	Cause Cause:T14 Effect:T16	
+T17	Fact 18161 18364	Based on these Federal / Cantonal events, our position is the enactment of Swiss tax reform for U.S. GAAP purposes was met as of September 30, 2019, and we recorded the impacts in the third quarter 2019.
+T18	Fact 18365 18690	The net impact was a benefit of $767 million, which consisted of a $769 million reduction in deferred tax expense from an allowed step-up of intangible assets for tax purposes and remeasurement of our deferred tax balances, partially offset by a $2 million indirect tax impact in selling, general and administrative expenses.
+R9	Cause Cause:T17 Effect:T18	
+T19	Fact 19580 19694	Within selling, general and administrative expenses, we recorded a $35 million ($26 million net of tax) adjustment
+T20	Fact 19706 19742	the discounted withdrawal liability.
+R10	Cause Cause:T20 Effect:T19	
+T21	Fact 20148 20288	Net revenues were approximately $26.6 billion in 2020 and $25.9 billion in 2019, an increase of 2.8% in 2020 and a decrease of 0.3% in 2019.
+T22	Fact 20289 20376	In 2020, net revenues were significantly impacted by the COVID-19 outbreak and response
+R11	Cause Cause:T22 Effect:T21	
+T23	Fact 21116 21145	Net revenue increased in 2020
+T24	Fact 21157 21297	higher net pricing, favorable volume/mix and incremental net revenues from our acquisitions of Give & Go in 2020 and Perfect Snacks in 2019.
+R12	Cause Cause:T24 Effect:T23	
+T25	Fact 21620 21649	Net revenue decreased in 2019
+T26	Fact 21661 21803	the impact of unfavorable currency translation and the impact of the divestiture of most of our cheese business in the Middle East and Africa.
+R13	Cause Cause:T26 Effect:T25	
+T27	Fact 21804 21841	Net revenues were positively affected
+T28	Fact 21845 21973	higher net pricing and favorable volume/mix, as well as our acquisitions of Perfect Snacks in 2019 and Tate's Bake Shop in 2018.
+R14	Cause Cause:T28 Effect:T27	
+T29	Fact 21974 22078	Organic Net Revenue increased 3.7% to $26.8 billion in 2020 and increased 4.1% to $26.9 billion in 2019.
+T30	Fact 22079 22284	While Organic Net Revenue in 2020 was impacted by the COVID-19 outbreak and response described above, Organic Net Revenue increased in both 2020 and 2019 due to higher net pricing and favorable volume/mix.
+R15	Cause Cause:T30 Effect:T29	
+T31	Fact 22663 22783	Diluted EPS attributable to Mondelēz International decreased 8.2% to $2.47 in 2020 and increased 20.6% to $2.69 in 2019.
+T32	Fact 22785 23272	Diluted EPS decreased in 2020 primarily driven by lapping the prior-year benefit from Swiss tax reform, costs associated with the JDE Peet's transaction, loss on debt extinguishment, higher intangible asset impairment charges, unfavorable year-over-year mark-to-market impacts from currency and commodity derivatives, lapping a prior-year gain on divestiture, lapping the prior-year benefit from pension participation changes and the unfavorable impact on net earnings from divestitures.
+R16	Cause Cause:T32 Effect:T31	
+T33	Fact 23575 23604	Diluted EPS increased in 2019
+T34	Fact 23625 24343	the benefit from Swiss tax reform, lapping the prior-year impact from pension participation changes, operating gains, lower Simplify to Grow program costs, an increase in equity method investment earnings, lapping the prior-year loss on debt extinguishment, fewer shares outstanding, a gain on divestiture, lower interest expense and a benefit from current-year pension participation changes, partially offset by lapping the prior-year gain on equity method investment transactions, unfavorable currency translation, a loss related to interest rate swaps, the expense from the resolution of tax matters in 2019 and an unfavorable year-over-year change in mark-to-market impacts from currency and commodity derivatives.
+R17	Cause Cause:T34 Effect:T33	
+T35	Fact 28549 28681	While gum and candy category growth was down due to less on-the-go consumption, the overall snack category continued to grow in 2020
+T36	Fact 28698 28798	increased consumer demand for snacks purchases for in-home consumption during the COVID-19 outbreak.
+R18	Cause Cause:T36 Effect:T35	
+T37	Fact 38078 38381	In 2020, we generated 9.0% of our net revenues in the U.K.Argentina – as further discussed in Note 1, Summary of Significant Accounting Policies – Currency Translation and Highly Inflationary Accounting, on July 1, 2018, we began to apply highly inflationary accounting for our Argentinean subsidiaries.
+T38	Fact 38382 38698	As a result, we recorded a remeasurement loss of $9 million in 2020, a remeasurement gain of $4 million in 2019 and a remeasurement loss of $11 million in 2018 within selling, general and administrative expenses related to the revaluation of the Argentinean peso denominated net monetary position over these periods.
+R19	Cause Cause:T37 Effect:T38	
+T39	Fact 44409 44482	Net revenues were higher in developed markets, particularly North America
+T40	Fact 44497 44679	the COVID-19 outbreak and response, demand for our products, primarily biscuits and chocolate, grew significantly as consumers increased their food purchases for in-home consumption.
+R20	Cause Cause:T40 Effect:T39	
+T41	Fact 45305 45333	Net revenue increase of 2.8%
+T42	Fact 45348 45511	our underlying Organic Net Revenue growth of 3.7% and the impact of acquisitions, mostly offset by unfavorable currency and the impact of a prior-year divestiture.
+R21	Cause Cause:T42 Effect:T41	
+T43	Fact 45512 45538	Organic Net Revenue growth
+T44	Fact 45553 45597	higher net pricing and favorable volume/mix.
+R22	Cause Cause:T44 Effect:T43	
+T45	Fact 46034 46076	The April 1, 2020 acquisition of Give & Go
+T46	Fact 46083 46253	incremental net revenues of $390 million and the July 16, 2019 acquisition of a majority interest in Perfect Snacks added incremental net revenues of $55 million in 2020.
+R23	Cause Cause:T45 Effect:T46	
+T47	Fact 46727 46830	The impact of the May 28, 2019 divestiture of most of our cheese business in the Middle East and Africa
+T48	Fact 46843 46899	a year-over-year decline in net revenues of $55 million.
+R24	Cause Cause:T47 Effect:T48	
+T49	Fact 50598 50625	The increase in input costs
+T50	Fact 50640 50778	higher raw material costs, partially offset by lower manufacturing costs driven by productivity net of incremental COVID-19 related costs.
+R25	Cause Cause:T50 Effect:T49	
+T51	Fact 51033 51115	Total selling, general and administrative expenses decreased $38 million from 2019
+T52	Fact 51189 51565	a favorable currency impact related to expenses, favorable change from the resolution of tax matters (a benefit in 2020 as compared to an expense in 2019), lower implementation costs incurred for the Simplify to Grow Program, lapping prior-year value-added tax (“VAT”) related settlements, lapping prior-year CEO transition remuneration and lapping the prior-year divestiture.
+R26	Cause Cause:T52 Effect:T51	
+T53	Fact 51937 52039	Excluding these factors, selling, general and administrative expenses increased $77 million from 2019.
+T54	Fact 52040 52212	The increase was driven primarily by higher advertising and consumer promotion costs, partially offset by lower overhead spending net of incremental COVID-19 related costs.
+R27	Cause Cause:T54 Effect:T53	
+T55	Fact 52307 52377	Unfavorable currency changes decreased operating income by $59 million
+T56	Fact 52395 52742	the strength of the U.S. dollar relative to most currencies, including the Brazilian real, Russian ruble, Indian rupee, Swiss franc, South African rand and Turkish Lira, partially offset by the strength of several currencies relative to the U.S. dollar, including the euro, Egyptian pound, Philippine peso, British pound sterling and Swedish krona
+R28	Cause Cause:T56 Effect:T55	
+T57	Fact 52743 52813	Operating income margin decreased from 14.9% in 2019 to 14.5% in 2020.
+T58	Fact 52814 53332	The decrease in operating income margin was driven primarily by the year-over-year unfavorable change in mark-to-market gains/(losses) from currency and commodity hedging activities, higher intangible asset impairment charges, costs associated with the JDE Peet's transaction, lapping the prior-year gain on a divestiture and lapping the benefit from prior-year pension participation changes, partially offset by the favorable impact from the resolution of tax matters and lower costs for the Simplify to Grow Program.
+R29	Cause Cause:T58 Effect:T57	
+T59	Fact 53333 53412	Adjusted Operating Income margin increased from 16.5% in 2019 to 16.6% in 2020.
+T60	Fact 53413 53684	The increase in Adjusted Operating Income margin was driven primarily by higher pricing, lower manufacturing costs reflecting productivity net of incremental COVD-19 costs, and selling, general and administrative cost leverage, mostly offset by higher raw material costs.
+R30	Cause Cause:T60 Effect:T59	
+T61	Fact 58967 59036	Unfavorable currency impacts decreased net revenues by $1,154 million
+T62	Fact 59055 59277	the strength of the U.S. dollar relative to most currencies, including the Argentinean peso, euro, Brazilian real, British pound sterling, Australian dollar, Chinese yuan, Indian rupee, Turkish lira and South African rand.
+R31	Cause Cause:T62 Effect:T61	
+T63	Fact 59278 59384	The impact of the divestiture of most of our cheese business in the Middle East and Africa on May 28, 2019
+T64	Fact 59397 59453	a year-over-year decline in net revenues of $71 million.
+R32	Cause Cause:T64 Effect:T63	
+T65	Fact 59454 59495	Our underlying Organic Net Revenue growth
+T66	Fact 59510 59554	higher net pricing and favorable volume/mix.
+R33	Cause Cause:T66 Effect:T65	
+T67	Fact 63849 63876	The increase in input costs
+T68	Fact 63891 63992	higher raw material costs, partially offset by lower manufacturing costs due to productivity efforts.
+R34	Cause Cause:T68 Effect:T67	
+T69	Fact 64372 64455	Total selling, general and administrative expenses decreased $339 million from 2018
+T70	Fact 64464 64979	a number of factors noted in the table above, including in part, the lapping of the prior-year impact from pension participation changes, favorable currency impact, the benefit from current-year pension participation changes, favorable change in remeasurement of net monetary position in Argentina (remeasurement gain in 2019 as compared to a remeasurement loss in 2018), the lapping of a prior-year expense from the resolution of a tax matter, lower CEO transition remuneration and lower acquisition-related costs.
+R35	Cause Cause:T70 Effect:T69	
+T71	Fact 65312 65415	Excluding these factors, selling, general and administrative expenses increased $173 million from 2018.
+T72	Fact 65416 65561	The increase was driven primarily by higher overheads reflecting route-to-market investments and higher advertising and consumer promotion costs.
+R36	Cause Cause:T72 Effect:T71	
+T73	Fact 65740 65811	Unfavorable currency changes decreased operating income by $227 million
+T74	Fact 65829 66017	the strength of the U.S. dollar relative to most currencies, including the euro, Argentinean peso, British pound sterling, Brazilian real, Australian dollar, Chinese yuan and Indian rupee.
+R37	Cause Cause:T74 Effect:T73	
+T75	Fact 66017 66087	Operating income margin increased from 12.8% in 2018 to 14.9% in 2019.
+T76	Fact 66088 66656	The increase in operating income margin was driven primarily by the lapping of the prior-year impact from pension participation changes, lower Simplify to Grow Program costs, a gain on divestiture, the benefit from current-year pension participation changes, the lapping of a prior-year expense from the resolution of a tax matter and lower CEO transition remuneration, partially offset by the expenses from the resolution of tax matters in 2019 and the year-over-year unfavorable change in mark-to-market gains/(losses) from currency and commodity hedging activities.
+R38	Cause Cause:T76 Effect:T75	
+T77	Fact 73837 73892	Segment operating income decreased $152 million (44.6%)
+T78	Fact 73911 74260	higher raw material costs, unfavorable volume/mix, unfavorable currency, higher other selling, general and administrative expenses (net of lapping the expense of VAT-related settlements in 2019) and an unfavorable change in remeasurement of net monetary position in Argentina (remeasurement loss in 2020 as compared to a remeasurement gain in 2019).
+R39	Cause Cause:T78 Effect:T77	
+T79	Fact 74513 74579	2019 compared with 2018:Net revenues decreased $184 million (5.7%)
+T80	Fact 74588 74704	unfavorable currency (13.5 pp) and unfavorable volume/mix (2.1 pp), partially offset by higher net pricing (9.9 pp).
+R40	Cause Cause:T80 Effect:T79	
+T81	Fact 74881 74955	Unfavorable volume/mix was due to the impact of pricing-related elasticity
+T82	Fact 74975 75095	declines in refreshment beverages, candy, cheese & grocery and chocolate, partially offset by gains in biscuits and gum.
+R41	Cause Cause:T82 Effect:T81	
+T83	Fact 66657 66736	Adjusted Operating Income margin decreased from 16.7% in 2018 to 16.5% in 2019.
+T84	Fact 66737 66899	The decrease in Adjusted Operating Income margin was driven primarily by higher raw material costs, mostly offset by higher pricing and lower manufacturing costs.
+R42	Cause Cause:T84 Effect:T83	
+T85	Fact 73073 73116	Net revenues decreased $541 million (17.9%)
+T86	Fact 73125 73241	unfavorable currency (18.1 pp) and unfavorable volume/mix (7.5 pp), partially offset by higher net pricing (7.7 pp).
+R43	Cause Cause:T86 Effect:T85	
+T87	Fact 75201 75255	Segment operating income decreased $69 million (16.8%)
+T88	Fact 75274 75661	higher raw material costs, unfavorable currency, unfavorable volume/mix, the lapping of the 2018 benefit from the resolution of a Brazilian indirect tax matter of $26 million, higher manufacturing costs and higher other selling, general and administrative expenses (including lapping the benefit from a VAT-related settlement in 2018 and the expense of a VAT-related settlement in 2019).
+R44	Cause Cause:T88 Effect:T87	
+T89	Fact 76900 76989	The May 28, 2019 divestiture of most of our cheese business in the Middle East and Africa
+T90	Fact 77002 77058	a year-over-year decline in net revenues of $55 million.
+R45	Cause Cause:T89 Effect:T90	
+T91	Fact 77570 77625	Segment operating income increased $130 million (18.8%)
+T92	Fact 77644 77987	higher net pricing, lapping prior-year expenses from the resolution of tax matters in India totaling $87 million, lower manufacturing costs (net of incremental COVID-19 related costs), lower other selling, general and administrative expenses, lower intangible asset impairment charges and lower costs incurred for the Simplify to Grow Program.
+R46	Cause Cause:T92 Effect:T91	
+T93	Fact 78153 78218	2019 compared with 2018:Net revenues increased $41 million (0.7%)
+T94	Fact 78227 78378	favorable volume/mix (3.6 pp) and higher net pricing (1.7 pp), mostly offset by unfavorable currency (3.3 pp) and the impact of a divestiture (1.3 pp).
+R47	Cause Cause:T94 Effect:T93	
+T95	Fact 78741 78833	The divestiture of most of our cheese business in the Middle East and Africa on May 28, 2019
+T96	Fact 78847 78903	a year-over-year decline in net revenues of $71 million.
+R48	Cause Cause:T95 Effect:T96	
+T97	Fact 78904 78957	Segment operating income decreased $11 million (1.6%)
+T98	Fact 78976 79285	higher raw material costs, expenses from the resolution of tax matters in India totaling $87 million, higher advertising and consumer promotion costs, unfavorable currency, higher other selling, general and administrative expenses, the impact of the divestiture and higher intangible asset impairment charges.
+R49	Cause Cause:T98 Effect:T97	
+T99	Fact 79795 79861	2020 compared with 2019:Net revenues increased $235 million (2.4%)
+T100	Fact 79870 79982	favorable volume/mix (2.8 pp), partially offset by lower net pricing (0.3 pp) and unfavorable currency (0.1 pp).
+R50	Cause Cause:T100 Effect:T99	
+T101	Remove 79487 79795	For the Years EndedDecember 31, 20202019$ change% change (in millions) Net revenues$10,207 $9,972 $235 2.4 %Segment operating income1,775 1,732 43 2.5 % For the Years EndedDecember 31, 20192018$ change% change (in millions) Net revenues$9,972 $10,122 $(150)(1.5)%Segment operating income1,732 1,734 (2)(0.1)%
+T102	Fact 80453 80470	Lower net pricing
+T103	Fact 80485 80606	biscuits and chocolate, partially offset by higher net pricing in cheese & grocery, candy, gum and refreshment beverages.
+R51	Cause Cause:T103 Effect:T102	
+T104	Fact 80975 81028	Segment operating income increased $43 million (2.5%)
+T105	Fact 81047 81174	favorable volume/mix, lower costs incurred for the Simplify to Grow Program and lower advertising and consumer promotion costs.
+R52	Cause Cause:T105 Effect:T104	
+T106	Fact 81395 81461	2019 compared with 2018:Net revenues decreased $150 million (1.5%)
+T107	Fact 81470 81576	unfavorable currency (5.2 pp), partially offset by favorable volume/mix (3.7 pp), as net pricing was flat.
+R53	Cause Cause:T107 Effect:T106	
+T108	Fact 81958 82010	Segment operating income decreased $2 million (0.1%)
+T109	Fact 82029 82129	unfavorable currency, higher raw material costs and higher advertising and consumer promotion costs.
+T110	Fact 82610 82679	2020 compared with 2019:Net revenues increased $1,049 million (14.8%)
+T111	Fact 82688 82838	favorable volume/mix (6.3 pp), the impact of acquisitions (6.3 pp) and higher net pricing (2.3 pp), partially offset by unfavorable currency (0.1 pp).
+R54	Cause Cause:T111 Effect:T110	
+T112	Fact 83077 83119	The April 1, 2020 acquisition of Give & Go
+T113	Fact 83126 83284	incremental net revenues of $390 million and the July 16, 2019 acquisition of a majority interest in Perfect Snacks added net revenues of $55 million in 2020.
+R55	Cause Cause:T112 Effect:T113	
+T114	Fact 83499 83553	Segment operating income increased $136 million (9.4%)
+T115	Fact 83572 83644	favorable volume/mix, higher net pricing and the impact of acquisitions.
+R56	Cause Cause:T115 Effect:T114	
+T116	Fact 84037 84103	2019 compared with 2018:Net revenues increased $223 million (3.2%)
+T117	Fact 84112 84267	higher net pricing (2.3 pp) and the impact of acquisitions (1.3 pp), partially offset by unfavorable currency (0.3 pp) and unfavorable volume/mix (0.1 pp).
+R57	Cause Cause:T117 Effect:T116	
+T118	Fact 84341 84411	The July 16, 2019 acquisition of a majority interest in Perfect Snacks
+T119	Fact 84418 84553	net revenues of $53 million and the June 7, 2018 acquisition of Tate’s Bake Shop added incremental net revenues of $35 million in 2019.
+R58	Cause Cause:T118 Effect:T119	
+T120	Fact 84783 84838	Segment operating income increased $602 million (70.9%)
+T121	Fact 84857 85197	lapping prior-year pension participation changes, higher net pricing, lower manufacturing costs, lower costs incurred for the Simplify to Grow Program, benefit from current-year pension participation changes, lapping prior-year intangible asset impairment charges and the impact from the acquisitions of Perfect Snacks and Tate's Bake Shop.
+R59	Cause Cause:T121 Effect:T120	
+T122	Fact 101074 101232	Net Cash Provided by Operating Activities:Operating activities provided net cash of $3,964 million in 2020, $3,965 million in 2019 and $3,948 million in 2018.
+T123	Fact 101233 101626	Net cash provided by operating activities was largely flat in 2020 relative to 2019 as higher cash tax payments in 2020 (primarily related to sales of KDP and JDE Peet's shares and the resolution of several indirect tax matters under a tax amnesty program in India) and the payment of costs associated with the JDE Peet's transaction in 2020 were largely offset by working capital improvements
+R60	Cause Cause:T123 Effect:T122	
+T124	Fact 101628 101710	The increase in net cash provided by operating activities in 2019 relative to 2018
+T125	Fact 101732 101926	higher earnings, increased distributions from equity method investments and lower pension contributions, partially offset by increased working capital requirements including higher tax payments.
+R61	Cause Cause:T125 Effect:T124	
+T126	Fact 101926 102145	Net Cash Provided by/Used in Investing Activities:Net cash provided by investing activities was $500 million in 2020, compared to net cash used in investing activities of $960 million in 2019 and $1,224 million in 2018.
+T127	Fact 102146 102430	The increase in net cash provided by investing activities in 2020 relative to 2019 was primarily due to cash received from the sale of shares in the JDE Peet's and KDP offerings and lower capital expenditures, partially offset by cash paid to acquire a majority interest in Give & Go.
+R62	Cause Cause:T127 Effect:T126	
+T128	Fact 102431 102509	The decrease in net cash used in investing activities in 2019 relative to 2018
+T129	Fact 102531 103028	less cash expended for acquisitions in 2019 than in 2018, lower capital expenditures and the 2019 cash proceeds from the divestiture of primarily our cheese business in the Middle East and Africa, partially offset by lower cash received as a result of the settlement and replacement of several net investment hedge derivative contracts and cash paid to settle our forward-starting interest rate swaps.Capital expenditures were $863 million in 2020, $925 million in 2019 and $1,095 million in 2018.
+R63	Cause Cause:T129 Effect:T128	
+T130	Fact 103544 103622	The decrease in net cash used in financing activities in 2020 relative to 2019
+T131	Fact 103644 103796	higher net debt issuances and lower share repurchases, partially offset by higher dividends paid and lower proceeds from stock option exercises in 2020.
+R64	Cause Cause:T131 Effect:T130	
+T132	Fact 103797 103875	The increase in net cash used in financing activities in 2019 relative to 2018
+T133	Fact 103897 104001	lower net debt issuances and higher dividends paid in 2019, partially offset by lower share repurchases.
+R65	Cause Cause:T133 Effect:T132	
+T134	Fact 113442 113568	As of December 31, 2020, our Board of Director has authorized share repurchases up to $23.7 billion through December 31, 2023.
+T135	Fact 113569 113901	Under this program, we have repurchased approximately $17.9 billion of shares through December 31, 2020 ($1.4 billion in 2020, $1.5 billion in 2019, $2.0 billion in 2018, $2.2 billion in 2017, $2.6 billion in 2016, $3.6 billion in 2015, $1.9 billion in 2014 and $2.7 billion in 2013), at a weighted-average cost of $40.57 per share.
+R66	Cause Cause:T134 Effect:T135	
+T136	Verified 0 6	Item 7

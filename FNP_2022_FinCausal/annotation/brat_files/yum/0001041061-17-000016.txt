@@ -1,0 +1,402 @@
+Item 7.Management’s Discussion and Analysis of Financial Condition and Results of Operations.Introduction and OverviewThe following Management’s Discussion and Analysis (“MD&A”), should be read in conjunction with the Consolidated Financial Statements (“Financial Statements”) in Item 8 and the Forward-Looking Statements and the Risk Factors set forth in Item 1A.
+YUM!
+Brands, Inc. (“YUM” or the “Company”) operates or franchises a worldwide system of over 43,500 restaurants in more than 135 countries and territories operating under the KFC, Pizza Hut or Taco Bell (collectively the "Concepts") brands.
+These three Concepts are the global leaders in the chicken, pizza and Mexican-style food categories, respectively.
+Of the over 43,500 restaurants, 7% are operated by the Company and its subsidiaries and 93% are operated by franchisees.As of December 31, 2016, YUM consists of three operating segments:•The KFC Division which includes the worldwide operations of the KFC concept •The Pizza Hut Division which includes the worldwide operations of the Pizza Hut concept •The Taco Bell Division which includes the worldwide operations of the Taco Bell concept Effective January 2016, the India Division was segmented by brand, integrated into the global KFC, Pizza Hut and Taco Bell Divisions, and is no longer a separate operating segment.
+While our consolidated results were not impacted, we have restated our historical segment information for consistent presentation.On October 31, 2016 (the “Distribution Date”), we completed the spin-off of our China business (the "Separation") into an independent, publicly-traded company under the name of Yum China Holdings, Inc. (“Yum China”).
+On the Distribution Date, we distributed to each of our shareholders of record as of the close of business on October 19, 2016 (the “Record Date”), one share of Yum China common stock for each share of our Common Stock held as of the Record Date.
+The distribution was structured to be a tax free distribution to our U.S. shareholders for federal income tax purposes in the United States.
+Yum China’s common stock now trades on the New York Stock Exchange under the symbol “YUMC.” After the distribution, we do not beneficially own any shares of Yum China common stock.Concurrent with the Separation, a subsidiary of the Company entered into a Master License Agreement with a subsidiary of Yum China for the exclusive right to use and sublicense the use of intellectual property owned by YUM and its affiliates for the development and operation of KFC, Pizza Hut and Taco Bell restaurants in China.
+Prior to the Separation, our operations in mainland China were reported in our former China Division segment results.
+As a result of the Separation, the results of operations, assets and liabilities, and cash flows of the separated business are presented as discontinued operations in our Consolidated Statements of Income, Consolidated Balance Sheets and Consolidated Statements of Cash Flows for all periods presented.
+See additional information related to the impact of the Separation in Item 8, Note 4 to the Consolidated Financial Statements.
+On October 11, 2016, we announced our strategic transformation plans to drive global expansion of our KFC, Pizza Hut and Taco Bell brands (“YUM’s Strategic Transformation Initiatives”) following the Separation.
+Major features of the Company’s transformation and growth strategy involve being more focused, franchised and efficient.
+YUM’s Strategic Transformation Initiatives below represent the continuation of YUM’s transformation of its operating model and capital structure.•More Focused.
+Four growth drivers will form the basis of YUM’s strategic plans and repeatable business model to accelerate same-store sales growth and net-new restaurant development at KFC, Pizza Hut and Taco Bell around the world over the long term.
+The Company will focus on becoming best-in-class in: •Building Distinctive, Relevant Brands •Developing Unmatched Franchise Operating Capability •Driving Bold Restaurant Development •Growing Unrivaled Culture and Talent •More Franchised.
+YUM intends to increase franchise restaurant ownership to at least 98% by the end of 2018.•More Efficient.
+The Company intends to revamp its financial profile, improving the efficiency of its organization and cost structure globally, by: •Reducing annual capital expenditures to approximately $100 million in 2019; •Reducing General and administrative ("G&A") expenses by a cumulative ~$300 million over the next three years; and23•Maintaining an optimized capital structure of ~5.0x Earnings Before Interest, Taxes, Depreciation and Amortization (“EBITDA”) leverage.Since the fourth quarter of 2015, we have returned approximately $7.2 billion of capital to shareholders through share repurchases and cash dividends, funding the repurchases through a recapitalization and issuance of $5.2 billion of incremental borrowings in 2016.
+Over the next 3 years, we intend to return an additional $6.5 - $7.0 billion to shareholders through share repurchases and cash dividends.
+We intend to fund these shareholder returns through a combination of refranchising proceeds, free cash flow generation and maintenance of our five times EBITDA leverage.
+We anticipate generating proceeds in excess of $2 billion, net of tax, through our refranchising initiatives.
+Refer to the Liquidity and Capital Resources section of this MD&A for additional details.
+We intend for this MD&A to provide the reader with information that will assist in understanding our results of operations, including performance metrics that management uses to assess the Company's performance.
+Throughout this MD&A, we commonly discuss the following performance metrics:•The Company provides certain percentage changes excluding the impact of foreign currency translation (“FX” or “Forex”).
+These amounts are derived by translating current year results at prior year average exchange rates.
+We believe the elimination of the foreign currency translation impact provides better year-to-year comparability without the distortion of foreign currency fluctuations.•System sales growth includes the results of all restaurants regardless of ownership, including company-owned and franchise restaurants that operate our Concepts.
+Sales of franchise restaurants typically generate ongoing franchise and license fees for the Company at a rate of 3% to 6% of sales.
+Franchise restaurant sales are not included in Company sales on the Consolidated Statements of Income; however, the franchise and license fees are included in the Company’s revenues.
+We believe system sales growth is useful to investors as a significant indicator of the overall strength of our business as it incorporates all of our revenue drivers, Company and franchise same-store sales as well as net unit growth.•Same-store sales growth is the estimated percentage change in sales of all restaurants that have been open and in the YUM system one year or more.
+•Company restaurant profit ("Restaurant profit") is defined as Company sales less expenses incurred directly by our Company-owned restaurants in generating Company sales.
+Company restaurant margin as a percentage of sales is defined as Restaurant profit divided by Company sales.
+Within the Company Sales and Restaurant Profit sections of this MD&A, Store Portfolio Actions represent the net impact of new unit openings, acquisitions, refranchising and store closures, and Other primarily represents the impact of same-store sales as well as the impact of changes in costs such as inflation/deflation.•Operating margin is Operating Profit divided by Total revenues.•In addition to the results provided in accordance with U.S. Generally Accepted Accounting Principles ("GAAP") , the Company has provided non-GAAP measurements which present Diluted Earnings Per Share from Continuing Operations excluding Special Items, our Effective Tax Rate excluding Special Items, Core Operating Profit and Core Operating Profit excluding 53rd week.
+Core Operating Profit excludes Special Items and foreign currency translation and we use Core Operating Profit for the purposes of evaluating performance internally.
+Special Items are not included in any of our externally reported segment results, and we believe the elimination of the foreign currency translation impact provides better year-to-year comparability without the distortion of foreign currency fluctuations.
+We provide Core Operating Profit excluding 53rd week to further enhance the comparability of fiscal 2016, which had a 53rd week, with prior year results.
+These non-GAAP measurements are not intended to replace the presentation of our financial results in accordance with GAAP.
+Rather, the Company believes that the presentation of Diluted Earnings Per Share from Continuing Operations excluding Special Items, our Effective Tax Rate excluding Special Items, Core Operating Profit and Core Operating Profit excluding 53rd week, provide additional information to investors to facilitate the comparison of past and present operations, excluding items that the Company does not believe are indicative of our ongoing operations due to their size and/or nature.All Note references herein refer to the Notes to the Financial Statements.
+Tabular amounts are displayed in millions of U.S. dollars except per share and unit count amounts, or as otherwise specifically identified.
+Unless otherwise stated, financial results herein reflect continuing operations of the Company.
+Percentages may not recompute due to rounding.
+24Results of OperationsSummaryAll comparisons within this summary are versus the same period a year ago, exclude the impact of Special Items and include the impact of a 53rd week in 2016, unless otherwise noted.
+2016 diluted EPS from Continuing Operations increased 18% to $2.48 per share.
+2016 diluted EPS from Continuing Operations excluding Special Items increased 5% to $2.45 per share.Foreign currency translation from our international operations negatively impacted GAAP Operating Profit by $55 million.
+2016 financial highlights are below: 2016 % Change System Sales, ex FX Same Store Sales Net New Units GAAP Operating Profit Core Operating ProfitKFC Division 7% 3 % 3% 5% 11%Pizza Hut Division 2% (1)% 2% 7% 9%Taco Bell Division 6% 2 % 3% 11% 10%Worldwide 5% 1 % 3% 16% 13% Results Excluding 53rd Week (2016 % Change) System Sales, ex FX Core Operating ProfitKFC Division 6% 10%Pizza Hut Division 1% 7%Taco Bell Division 4% 8%Worldwide 4% 11%25WorldwideGAAP Results Amount % B/(W) 2016 2015 2014 2016 2015Company sales$4,200 $4,356 $4,503(4) (3) Franchise and license fees and income2,166 2,084 2,0844 — Total revenues$6,366 $6,440 $6,587(1) (2) Restaurant profit$702 $709 $633(1) 12 Restaurant Margin %16.7% 16.3% 14.1% 0.4 ppts.
+2.2 ppts.
+Operating Profit$1,625 $1,402 $1,51716 (8)
+
+
+Interest expense, net307 141 143NM 1 Income tax provision324 325 368— 11 Income from continuing operations994 936 1,006 6 (7) Income from discontinued operations, net of tax625 357 45 75 NM Net Income$1,619 $1,293 $1,05125 23 Diluted EPS(a) from continuing operations$2.48 $2.11 $2.22 18 (5) Diluted EPS(a) from discontinued operations$1.56 $0.81 $0.10 94 NM Diluted EPS(a)$4.04 $2.92 $2.3239 26 Effective tax rate - continuing operations24.6% 25.8% 26.7%1.2 ppts.
+0.9 ppts.
+(a)See Note 3 for the number of shares used in these calculations.Performance Metrics
+ % Increase (Decrease)Unit Count2016 2015 2014 2016 2015Franchise40,758 39,263 37,984 4 3Company-owned2,859 3,159 3,247 (9) (3) 43,617 42,422 41,231 3 3 % B/(W) 2016 2015System Sales Growth, reported 2 —Same-Store Sales Growth 1 2System Sales Growth, excluding FX 5 5System Sales Growth, excluding FX and 53rd week 4 N/A
+ Non-GAAP Items
+Core Operating Profit Growth 13 6Core Operating Profit Growth excluding 53rd week 11 N/ADiluted EPS from Continuing Operations excluding Special Items 5 626Extra Week in 2016Fiscal 2016 included a 53rd week for all of our U.S. businesses and certain of our non-U.S. businesses that report 13 four-week periods versus 12 months.
+See Note 2 for additional details related to our fiscal calendar.
+The following table summarizes the estimated impact of the 53rd week on Revenues and Operating Profit: KFC Division Pizza Hut Division Taco Bell Division Unallocated TotalRevenues
+ Company sales$26 $5 $24 $— $55Franchise and license fees and income8 6 7 — 21Total revenues$34 $11 $31 $— $76
+
+Operating Profit
+ Franchise and license fees and income$8 $6 $7 $— $21Restaurant profit6 1 7 — 14G&A expenses(3) (2) (2) (1) (8)Operating Profit$11 $5 $12 $(1) $2727Non-GAAP ItemsNon-GAAP Items, along with the reconciliation to the most comparable GAAP financial measure, are presented below.
+Year Detail of Special Items 2016 2015 2014Refranchising initiatives(a) $141 $(20) $13YUM's Strategic Transformation Initiatives (See Note 5) (71) — —Non-cash charges associated with share-based compensation (See Note 5) (30) — —Costs associated with KFC U.S.
+Acceleration Agreement (See Note 5) (26) (72) —Settlement charges associated with pension deferred vested project (See Note 5) (25) — —Other Special Items Income (Expense) (3) — 3Special Items Income (Expense) - Operating Profit (14) (92) 16Tax Benefit (Expense) on Special Items(b) 27 (4) (4)Special Items Income (Expense), net of tax - Continuing Operations $13 $(96) $12Average diluted shares outstanding 400 443 453Special Items diluted EPS $0.03 $(0.22) $0.02
+ Reconciliation of GAAP Operating Profit to Core Operating Profit and Core Operating Profit, excluding 53rd Week
+
+ Consolidated
+GAAP Operating Profit $1,625 $1,402 $1,517Special Items Income (Expense) - Operating Profit (14) (92) 16Foreign Currency Impact on Reported Operating Profit(b) (55) (92) N/ACore Operating Profit $1,694 $1,586 $1,501Impact of 53rd Week 27 N/A N/ACore Operating Profit, excluding 53rd Week $1,667 $1,586 $1,501
+ KFC Division
+GAAP Operating Profit $874 $832 876Foreign Currency Impact on Reported Operating Profit(b) (48) (84) N/ACore Operating Profit 922 916 876Impact of 53rd Week 11 N/A N/ACore Operating Profit, excluding 53rd Week $911 $916 $876
+ Pizza Hut Division
+GAAP Operating Profit $370 $347 $347Foreign Currency Impact on Reported Operating Profit(b) (7) (8) N/ACore Operating Profit 377 355 347Impact of 53rd Week 5 N/A N/ACore Operating Profit, excluding 53rd Week $372 $355 $347
+ Taco Bell Division
+GAAP Operating Profit $593 $536 $478Foreign Currency Impact on Reported Operating Profit(b) — — N/ACore Operating Profit 593 536 478Impact of 53rd Week 12 N/A N/ACore Operating Profit, excluding 53rd Week $581 $536 $478
+ 28
+ Reconciliation of Diluted EPS from Continuing Operations to Diluted EPS from Continuing Operations excluding Special Items
+Diluted EPS from Continuing Operations $2.48 $2.11 $2.22Special Items EPS 0.03 (0.22) 0.02Diluted EPS from Continuing Operations excluding Special Items $2.45 $2.33 $2.20
+ Reconciliation of GAAP Effective Tax Rate to Effective Tax Rate excluding Special Items
+GAAP Effective Tax Rate 24.6 % 25.8% 26.7 %Impact on Tax Rate as a result of Special Items(c) (1.7)% 2.1% (0.1)%Effective Tax Rate excluding Special Items 26.3 % 23.7% 26.8 %(a)We have historically recorded refranchising gains and losses in the U.S. as Special Items due to the scope of our U.S. refranchising program and the volatility in associated gains and losses.
+Beginning in 2016, we are also including all international refranchising gains and losses in Special Items.
+The inclusion in Special Items of these additional international refranchising gains and losses is the result of the anticipated size and volatility of refranchising initiatives outside the U.S. that will take place in connection with our previously announced plans to have at least 98% franchise ownership by the end of 2018. International refranchising gains and losses in 2015 and 2014 previously not included in Special Items were not significant and have not been reclassified into Special Items.
+See Note 5 for discussion of Refranchising Gain and Losses.
+(b)The foreign currency impact on reported Operating Profit is presented in relation only to the immediately preceding year presented.
+When determining applicable Core Operating Profit Growth percentages, the Core Operating Profit for the current year should be compared to the prior GAAP Operating Profit adjusted only for the prior year Special Items Income (Expense).
+(c)The tax benefit (expense) was determined based upon the impact of the nature, as well as the jurisdiction of the respective individual components within Special Items.
+In 2016, our tax rate on Special Items was favorably impacted by the utilization of capital loss carryforwards associated with U.S. refranchising.
+In 2015, our tax rate on Special Items was unfavorably impacted by the non-deductibility of certain losses associated with international refranchising.
+See Note 18.
+29KFC DivisionThe KFC Division has 20,604 units, 80% of which are located outside the U.S.
+The KFC Division has experienced significant unit growth in emerging markets, which comprised approximately 60% of both the Division’s units and profits, respectively, as of the end of 2016.
+Additionally, 93% of the KFC Division units were operated by franchisees as of the end of 2016.
+% B/(W) % B/(W)
+ 2016 2015 2016 2015 2014 Reported Ex FX Ex-FX and 53rd Week Reported Ex FXSystem Sales Growth (Decline)
+ 2 7 6 (3) 5 Same-Store Sales Growth
+ 3 N/A N/A 1 N/A
+
+
+
+ Company sales $2,166 $2,203 $2,440 (2) 5 3 (10) 4 Franchise and license fees and income 1,066 1,032 1,067 3 8 7 (3) 5 Total revenues $3,232 $3,235 $3,507 — 6 5 (8) 4
+
+
+
+ Restaurant profit $319 $308 $311 4 10 8 (1) 13 Restaurant margin % 14.7% 14.0% 12.8% 0.7ppts.
+0.7ppts.
+0.7ppts.
+1.2ppts.
+1.2ppts.
+G&A expenses $391 $401 $399 2 (1) — — (11) Operating Profit $874 $832 $876 5 11 10 (5) 5
+ % Increase (Decrease)Unit Count 2016 2015 2014 2016 2015Franchise 19,183 18,452 17,894 4 3Company-owned 1,421 1,500 1,526 (5) (2) 20,604 19,952 19,420 3 3 2015 New Builds Closures Refranchised Acquired Other 2016Franchise 18,452 976 (409) 163 — 1 19,183Company-owned 1,500 120 (35) (163) — (1) 1,421Total 19,952 1,096 (444) — — — 20,604 2014 New Builds Closures Refranchised Acquired Other 2015Franchise 17,894 975 (511) 117 (12) (11) 18,452Company-owned 1,526 106 (27) (117) 12 — 1,500Total 19,420 1,081 (538) — — (11) 19,95230Company Sales and Restaurant ProfitThe changes in Company sales and Restaurant profit were as follows: 2016 vs. 2015Income / (Expense)2015 Store Portfolio Actions Other FX 53rd Week 2016Company sales$2,203 $24 $52 $(139) $26 $2,166Cost of sales(757) (10) (10) 50 (9) (736)Cost of labor(513) (3) (16) 29 (6) (509)Occupancy and other(625) 3 (15) 40 (5) (602)Restaurant profit$308 $14 $11 $(20) $6 $319
+
+ 2015 vs. 2014Income / (Expense)2014 Store Portfolio Actions Other FX 2015Company sales$2,440 $56 $46 $(339) $2,203Cost of sales(858) (27) 11 117 (757)Cost of labor(568) (10) (15) 80 (513)Occupancy and other(703) (16) (1) 95 (625)Restaurant profit$311 $3 $41 $(47) $308
+
+In 2016, the increase in Company sales associated with store portfolio actions was driven by international net new unit growth, partially offset by refranchising.
+The increase in Restaurant profit associated with store portfolio actions was driven by international net new unit growth.
+Significant other factors impacting Company sales and/or Restaurant profit were company same-store sales growth of 2%, partially offset by wage inflation and higher commodity costs.In 2015, the increase in Company sales and Restaurant profit associated with store portfolio actions was driven by international net new unit growth, partially offset by refranchising.
+Significant other factors impacting Company sales and/or Restaurant profit were company same-store sales growth of 2%.Franchise and License Fees and IncomeIn 2016, the increase in Franchise and license fees and income, excluding the impacts of foreign currency translation and 53rd week, was driven by international net new unit growth, franchise same-store sales growth of 3% and refranchising.In 2015, the increase in Franchise and license fees and income, excluding the impact of foreign currency translation, was driven by international net new unit growth, franchise same-store sales growth of 1% and refranchising.G&A ExpensesIn 2016, G&A expenses, excluding the impacts of foreign currency translation and 53rd week, were even with prior year as the impact of higher compensation costs due to increased headcount and wage inflation in international markets and higher incentive compensation was offset by lower U.S. pension costs.
+In 2015, the increase in G&A expenses, excluding the impact of foreign currency translation, was driven by higher incentive compensation,increased headcount in international markets and higher pension costs, including lapping the favorable resolution of a pension issue in the UK in 2014.31Operating ProfitIn 2016, the increase in Operating Profit, excluding the impacts of foreign currency translation and 53rd week, was driven by international net new unit growth and same-store sales growth, partially offset by higher restaurant operating costs and advertising contributions associated with the KFC U.S.
+Acceleration Agreement.In 2015, the increase in Operating Profit, excluding the impact of foreign currency translation, was driven by same-store sales and international net new unit growth, partially offset by higher G&A expenses.Pizza Hut DivisionThe Pizza Hut Division has 16,409 units, 53% of which are located outside the U.S.
+The Pizza Hut Division operates as one brand that uses multiple distribution channels including delivery, dine-in and express (e.g.
+airports).
+Emerging markets comprised approximately one-third of both units and profits for the Division as of the end of 2016.
+Additionally, 97% of the Pizza Hut Division units were operated by franchisees as of the end of 2016.
+% B/(W) % B/(W)
+ 2016 2015 2016 2015 2014 Reported Ex FX Ex-FX and 53rd Week Reported Ex FXSystem Sales Growth (Decline)
+ — 2 1 (1) 3 Same-Store Sales Growth (Decline)
+ (1) N/A N/A — N/A
+
+
+
+ Company sales $494 $609 $609 (19) (17) (18) — 3 Franchise and license fees and income 617 605 606 2 4 3 — 4 Total revenues $1,111 $1,214 $1,215 (8) (7) (8) — 3
+
+
+
+ Restaurant profit $41 $59 $49 (31) (31) (33) 20 17 Restaurant margin % 8.3% 9.7% 8.1% (1.4)ppts.
+(1.6)ppts.
+(1.7)ppts.
+1.6ppts.
+1.1ppts.
+G&A expenses $241 $272 $253 12 10 11 (7) (13) Operating Profit $370 $347 $347 7 9 7 — 2
+ % Increase (Decrease)Unit Count 2016 2015 2014 2016 2015Franchise 15,856 15,304 14,817 4 3Company-owned 553 759 788 (27) (4) 16,409 16,063 15,605 2 3 2015 New Builds Closures Refranchised Acquired Other 2016Franchise 15,304 881 (547) 218 — — 15,856Company-owned 759 45 (33) (218) — — 553Total 16,063 926 (580) — — — 16,40932 2014 New Builds Closures Refranchised Acquired Other 2015Franchise 14,817 915 (479) 90 (44) 5 15,304Company-owned 788 55 (38) (90) 44 — 759Total 15,605 970 (517) — — 5 16,063Company Sales and Restaurant ProfitThe changes in Company sales and Restaurant profit were as follows: 2016 vs. 2015Income / (Expense)2015 Store Portfolio Actions Other FX 53rd Week 2016Company sales$609 $(120) $10 $(10) $5 $494Cost of sales(169) 34 (3) 3 (2) (137)Cost of labor(190) 40 (8) 3 (1) (156)Occupancy and other(191) 33 (5) 4 (1) (160)Restaurant profit$59 $(13) $(6) $— $1 $41
+
+ 2015 vs. 2014Income / (Expense)2014 Store Portfolio Actions Other FX 2015Company sales$609 $22 $(4) $(18) $609Cost of sales(181) (6) 12 6 (169)Cost of labor(189) (6) (1) 6 (190)Occupancy and other(190) (8) (1) 8 (191)Restaurant profit$49 $2 $6 $2 $59
+
+In 2016, the decrease in Company sales and Restaurant profit associated with store portfolio actions was driven by refranchising.
+Significant other factors impacting Company sales and/or Restaurant profit were higher labor costs and increased advertising spend in the U.S., partially offset by company same-store sales growth of 2%.
+In 2015, the increase in Company sales and Restaurant profit associated with store portfolio actions was driven by the impact of acquisitions in Canada and the U.S. and net new unit growth, partially offset by refranchising.
+Significant other factors impacting Company sales and/or Restaurant profit were commodity deflation, primarily in the U.S., partially offset by company same-store sales declines of 1%.Franchise and License Fees and IncomeIn 2016, the increase in Franchise and license fees income, excluding the impacts of foreign currency translation and 53rd week, was driven by net new unit growth, refranchising and higher fees from expiring development agreements, partially offset by franchise same-store sales declines of 2%.
+In 2015, the increase in Franchise and license fees and income, excluding the impact of foreign currency translation, was driven by net new unit growth.
+Franchise same-store sales were even.33G&A ExpensesIn 2016, the decrease in G&A expenses, excluding the impacts of foreign currency translation and 53rd week, was driven by lower litigation settlement costs and legal fees, refranchising and lower U.S. pension costs, partially offset by higher incentive compensation costs.
+In 2015, the increase in G&A expenses, excluding the impact of foreign currency translation, was driven by strategic international investments and higher U.S. pension costs.Operating ProfitIn 2016, the increase in Operating Profit, excluding the impacts of foreign currency translation and 53rd week, was driven by lower G&A expenses and net new unit growth, partially offset by franchise same-store sales declines.In 2015, the increase in Operating Profit, excluding the impact of foreign currency translation, was driven by net new unit growth and lower commodity costs, partially offset by higher G&A expenses.Taco Bell DivisionThe Taco Bell Division has 6,604 units, the vast majority of which are in the U.S.
+The Company owns 14% of the Taco Bell units in the U.S., where the brand has historically achieved high restaurant margins and returns.
+% B/(W) % B/(W)
+ 2016 2015 2016 2015 2014 Reported Ex FX Ex-FX and 53rd Week Reported Ex FXSystem Sales Growth
+ 6 6 4 8 8 Same-Store Sales Growth
+ 2 N/A N/A 5 N/A Company sales $1,540 $1,544 $1,454 — — (2) 6 6 Franchise and license fees and income 485 447 411 8 9 7 9 9 Total revenues $2,025 $1,991 $1,865 2 2 — 7 7
+
+
+
+ Restaurant profit $342 $342 $274 — — (2) 25 25 Restaurant margin % 22.2% 22.2% 18.8% —ppts.
+—ppts.
+(0.1)ppts.
+3.4ppts.
+3.4ppts.
+G&A expenses $213 $230 $187 7 7 8 (23) (23) Operating Profit $593 $536 $478 11 10 8 12 12
+ % Increase (Decrease)Unit Count 2016 2015 2014 2016 2015Franchise 5,719 5,507 5,273 4 4Company-owned 885 900 933 (2) (4) 6,604 6,4076,206 3 3 2015 New Builds Closures Refranchised Acquired Other 2016Franchise 5,507 260 (94) 46 (1) 1 5,719Company-owned 900 34 (4) (46) 1 — 885Total 6,407 294 (98) — — 1 6,60434 2014 New Builds Closures Refranchised Acquired Other 2015Franchise 5,273 240 (80) 65 — 9 5,507Company-owned 933 37 (5) (65) — — 900Total 6,206 277 (85) — — 9 6,407Company Sales and Restaurant ProfitThe changes in Company sales and Restaurant profit were as follows: 2016 vs. 2015Income / (Expense)2015 Store Portfolio Actions Other 53rd Week 2016Company sales$1,544 $(37) $9 $24 $1,540Cost of sales(422) 11 21 (6) (396)Cost of labor(428) 10 (19) (7) (444)Occupancy and other(352) 7 (9) (4) (358)Restaurant profit$342 $(9) $2 $7 $342
+
+ 2015 vs. 2014Income / (Expense)2014 Store Portfolio Actions Other 2015Company sales$1,454 $39 $51 $1,544Cost of sales(432) (10) 20 (422)Cost of labor(414) (13) (1) (428)Occupancy and other(334) (11) (7) (352)Restaurant profit$274 $5 $63 $342
+ In 2016, the decrease in Company sales and Restaurant profit associated with store portfolio actions was driven by refranchising, partially offset by net new unit growth.
+Significant other factors impacting Company sales and/or Restaurant profit were company same-store sales growth of 1% and favorable commodity costs, partially offset by higher labor costs and store-level investments.In 2015, the increase in Company sales and Restaurant profit associated with store portfolio actions was driven by net new unit growth.
+Significant other factors impacting Company sales and/or Restaurant profit were company same-store sales growth of 4% and commodity deflation.Franchise and License Fees and IncomeIn 2016, the increase in Franchise and license fees and income, excluding the impacts of foreign currency translation and the 53rd week, was driven by net new unit growth, franchise same-store sales growth of 2% and refranchising.
+In 2015, the increase in Franchise and license fees and income was driven by franchise same-store sales growth of 5%, net new unit growth and lapping franchise incentives provided in the first quarter of 2014 related to the national launch of breakfast.G&A ExpensesIn 2016, the decrease in G&A expenses was driven by lower U.S. pension costs, lapping the Live Más Scholarship contribution, and lower litigation costs.
+In 2015, the increase in G&A expenses was driven by higher incentive compensation costs, investment spending on strategic growth and technology initiatives, higher U.S. pension costs, higher litigation costs and the creation of the Live Más Scholarship.
+35Operating ProfitIn 2016, the increase in Operating Profit, excluding the impacts of foreign currency translation and 53rd week, was driven by same-store sales growth, net new unit growth and lower G&A expenses, partially offset by higher restaurant operating costs and refranchising.
+In 2015, the increase in Operating Profit was driven by same-store sales growth and net new unit growth, partially offset by higher G&A expenses.Corporate & Unallocated
+ % B/(W)Income/(Expense) 2016 2015 2014 2016 2015Corporate G&A expenses $(316) $(196) $(189) (62) (3) Unallocated Franchise and license fees and income (2) — — NM NM Unallocated Franchise and license expenses (24) (71) — 67 NM Refranchising gain (loss) (See Note 5) 141 (23) 16 NM NM Unallocated Other income (expense) (11) (23) (11) 47 NM Interest expense, net (307) (141) (143) NM 1 Income tax provision (See Note 18) (324) (325) (368) — 11 Effective tax rate (See Note 18) 24.6% 25.8% 26.7% 1.2ppts.
+0.9ppts.Corporate G&A ExpensesIn 2016, the increase in Corporate G&A expenses was driven by incremental costs associated with YUM's Strategic Transformation Initiatives (See Note 5), non-cash charges associated with the modification of certain Executive Income Deferral (“EID”) share-based compensation awards (See Note 5 ), Retirement plan settlement charges (See Note 5) and higher incentive compensation costs, partially offset by lower professional and legal fees.In 2015, the increase in Corporate G&A expenses was driven by higher pension costs.Unallocated Franchise and License fees and incomeIn 2016, Unallocated Franchise and license fees and income reflects charges related to the KFC U.S.
+Acceleration Agreement.
+See Note 5.Unallocated Franchise and License expensesIn 2016 and 2015, Unallocated Franchise and license expenses reflect charges related to the KFC U.S.
+Acceleration Agreement.
+See Note 5.Unallocated Other Income (Expense)In 2016, Unallocated Other (income) expense primarily includes write-downs related to our decision to dispose of our corporate aircraft and foreign exchange losses.
+See Note 8.In 2015 and 2014, Unallocated Other (income) expense primarily includes foreign exchange losses.
+Interest Expense, NetThe increase in interest expense, net for 2016 was driven by increased outstanding borrowings.
+See Note 11.The decrease in interest expense, net for 2015 was driven by lower effective interest rates on outstanding borrowings, partially offset by increased short-term borrowings.36Income Tax ProvisionSee Note 18 for discussion of our income tax provision.Income from Discontinued Operations, Net of TaxThe following table is a summary of the operating results of the China business which have been reflected in discontinued operations.
+See Note 4 for additional information.
+2016(a) 2015 2014Total revenues $5,776 $6,909 $6,934Total income from discontinued operations before income taxes(b)(c) 571 526 53Income tax (benefit) provision(c)(d) (65) 164 38Income from discontinued operations, net of tax(c) 625 357 45(a)Includes Yum China financial results from January 1, 2016 to October 31, 2016.
+(b)Includes costs incurred to execute the Separation of $68 million and $9 million for 2016 and 2015, respectively.
+Such costs primarily relate to transaction advisors, legal and other consulting fees.
+(c)During 2014, we recorded a $463 million non-cash impairment charge related to China's investment in the Little Sheep restaurant business.
+The tax benefit associated with these losses of $76 million and the losses allocated to the noncontrolling founding shareholder of $26 million resulted in a net impact of $361 million on Income from discontinued operations, net of tax.
+(d)During 2016, we recorded a tax benefit of $233 million related to previously recorded losses associated with China's Little Sheep business.
+The tax benefit associated with these losses was able to be recognized as a result of legal entity restructuring completed in anticipation of the China spin-off.37Consolidated Cash FlowsNet cash provided by operating activities from continuing operations was $1,204 million in 2016 versus $1,213 million in 2015.
+The decrease was primarily driven by an increase in interest payments, partially offset by a decrease in income tax payments.In 2015, net cash provided by operating activities from continuing operations was $1,213 million compared to $1,217 million in 2014.
+The decrease was primarily driven by higher pension contributions, offset by lapping higher income tax payments in the prior year.Net cash used in investing activities from continuing operations was $24 million in 2016 compared to $189 million in 2015.
+The decrease was primarily driven by higher refranchising proceeds and lower capital spending.In 2015, net cash used in investing activities from continuing operations was $189 million compared to $424 million in 2014.
+The decrease was primarily driven by higher refranchising proceeds and lower capital spending.Net cash used in financing activities from continuing operations was $677 million in 2016 compared to $1,058 million in 2015.
+The decrease was primarily driven by higher proceeds from net borrowings, partially offset by higher share repurchases.In 2015, net cash used in financing activities from continuing operations was $1,058 million compared to $739 million in 2014.
+The increase was primarily driven by higher share repurchases and dividends, partially offset by higher net borrowings.Consolidated Financial ConditionDuring 2016, we issued $6.9 billion in new debt and repaid $1.6 billion of borrowings that were outstanding as of December 26, 2015.
+See Note 11 for detail on these debt issuances and repayments.
+Shareholders’ Equity (Deficit) declined $6.6 billion due primarily to share repurchases of $5.4 billion and the spin-off of our China business.Liquidity and Capital ResourcesIn October 2015, we announced our intent to separate our former China business into an independent publicly-traded company and become more of a pure play franchisor with more stable earnings, higher profit margins, lower capital requirements and stronger cash flow conversion.
+Additionally, we announced our intention to return substantial capital to shareholders, the majority of which was to be funded by incremental borrowings.
+Since the fourth quarter of 2015, through December 31, 2016, we have repurchased 79 million shares of our Common Stock for $6.3 billion, including $5.4 billion in 2016.
+Over the same period, we have paid cash dividends of $942 million, including $744 million in 2016, for a total return to shareholders of $7.2 billion.
+Number of Common Shares Repurchased Value of Common Shares Repurchased Average Price Paid Per Share Dividends Paid Total Return to ShareholdersFourth Quarter 201511 $830 $72.64 $198 $1,028First Quarter 201613 925 69.68 192 1,117Second Quarter 20169 740 81.98 187 927Third Quarter 201624 2,092 87.12 179 2,271Fourth Quarter 2016 - pre-Separation13 1,115 89.15 — 1,115Fourth Quarter 2016 - post-Separation(a)9 576 62.90 186 762 79 $6,278 $942 $7,220(a)Includes the effect of $45 million in share repurchases (0.7 million shares) with trade dates prior to December 31, 2016 but settlement dates subsequent to December 31, 2016.See Note 17 for additional details related to our share repurchase activity.We completed $6.9 billion of debt financing transactions during 2016 to assist in funding the shareholder returns noted above.
+As of December 31, 2016, approximately 90%, including the impact of interest rate swaps, of our $9.1 billion of total debt outstanding is fixed with an effective overall interest rate of approximately 4.7%.
+We have transitioned to non-investment grade credit ratings 38of BB (Standard & Poor's)/Ba3 (Moody's) with a balance sheet more consistent with highly-levered peer restaurant franchise companies.
+We are now managing a capital structure which is levered in-line with our target of approximately five times EBITDA, and which we believe provides an attractive balance between optimized interest rates, duration and flexibility with diversified sources of liquidity and maturities spread over multiple years.
+See Note 11 for details of our financing activities supporting the return of capital initiative.In October 2016, we announced YUM’s Strategic Transformation Initiatives to drive global expansion of the KFC, Pizza Hut and Taco Bell brands following the Separation on October 31, 2016.
+As part of this transformation we intend to own less than 1,000 stores by the end of 2018 and, by 2019, reduce annual run-rate capital expenditures to approximately $100 million, improve our efficiency by lowering G&A expenses to 1.7% of system sales and increase free cash flow conversion to 100%.
+Over the next 3 years, we intend to return an additional $6.5 to $7.0 billion to shareholders through share repurchases and cash dividends.
+We intend to fund these additional shareholder returns through a combination of free cash flow generation, refranchising proceeds and maintenance of our five times EBITDA leverage.
+We anticipate generating proceeds in excess of $2 billion, net of tax, through the refranchising of over 2,000 stores.We have historically generated substantial cash flows from the operations of our company-owned stores and from our extensive franchise operations, which require a limited YUM investment.
+Our annual operating cash flows from continuing operations have approximated $1.2 billion each of the past three years.
+Going forward, we anticipate that any decrease in operating cash flows from the operation of fewer Company-owned stores due to refranchising will be offset with savings generated from decreased capital investment and G&A expense required to support company operations.
+To the extent operating cash flows plus other sources of cash such as refranchising proceeds do not cover our anticipated cash needs, we maintain $1 billion of undrawn capacity under our existing revolving credit facility.
+Our balance sheet often reflects a working capital deficit, which is not uncommon in our industry and is also historically common for YUM.
+Company sales are paid in cash or by credit card (which is quickly converted into cash) and our royalty receivables from franchisees are generally due within 30 days of the period in which the related sales occur.
+Substantial amounts of cash received have historically been either invested in new restaurant assets which are non-current in nature or returned to shareholders.
+As part of our working capital strategy we negotiate favorable credit terms with vendors and, as a result, our on-hand inventory turns faster than the related short-term liabilities.
+Accordingly, it is not unusual for current liabilities to exceed current assets.
+We believe such a deficit has no significant impact on our liquidity or operations.We generate a significant amount of cash from operating activities outside the U.S. that we have used historically to fund our international development.
+To the extent we have needed to repatriate international cash to fund our U.S. discretionary cash spending, including returns to shareholders and debt repayments, we have historically been able to do so in a tax-efficient manner.
+If we experience an unforeseen decrease in our cash flows from our U.S. businesses or are unable to refinance future U.S. debt maturities we may be required to repatriate future international earnings at tax rates higher than we have historically experienced.
+Borrowing CapacitySecuritization Notes.
+In May 2016, Taco Bell Funding, LLC, a newly formed special purpose subsidiary of the Company, issued an aggregate of $2.3 billion of fixed rate senior secured notes (“Class A-2 Notes”).
+In connection with the issuance of the Class A-2 Notes, Taco Bell Funding, LLC also issued variable rate notes (the “Variable Funding Notes” and, together with the Class A-2 Notes, the “Securitization Notes”) pursuant to a new revolving financing facility, which allows for the borrowing of up to $100 million including the issuance of letters of credit up to $50 million.
+We have no outstanding borrowings related to the Variable Funding Notes and have $15 million in letters of credit outstanding as of December 31, 2016 related to this facility.
+The Securitization Notes contain cross-default provisions whereby the failure to pay principal on any outstanding Securitization Notes will constitute an event of default under any other Securitization Notes.The Company used certain of the proceeds from the sale of the Class A-2 Notes to pay down the entire outstanding balance of $2 billion of its Unsecured Short-term Loan Credit Facility ("Bridge Facility"), at which time the Bridge Facility was terminated, as well as to pay related fees and expenses and fund certain accounts related to the Securitization Notes.
+The remaining proceeds of the Securitization Notes were used to return capital to shareholders through share repurchases and for general corporate purposes.
+Credit Agreement.
+In June 2016, three wholly-owned subsidiaries of the Company, KFC Holding Co., Pizza Hut Holdings, LLC and Taco Bell of America, LLC, as co-borrowers (the "Borrowers") entered into a new credit agreement (the “Credit Agreement”) providing for (i) a $500 million Term Loan A facility (the “Term Loan A Facility”), (ii) a $2 billion Term Loan B facility (the “Term Loan B Facility”) and (iii) a $1 billion revolving facility (the “Revolving Facility”) which has no outstanding borrowings 39and has $5 million in letters of credit outstanding as of December 31, 2016, each of which may be increased subject to certain conditions.
+Our Term Loan A Facility and Term Loan B Facility contain cross-default provisions whereby the failure to pay principal of or otherwise perform any agreement or condition under indebtedness of certain subsidiaries with a principal amount in excess of $100 million will constitute an event of default under the Credit Agreement.Subsidiary Senior Unsecured Notes.
+On June 16, 2016, the Borrowers issued an aggregate of $1.05 billion Senior Unsecured Notes due 2024 and an aggregate of $1.05 billion Senior Unsecured Notes due 2026 (together, the “Subsidiary Senior Unsecured Notes”).
+Our Subsidiary Senior Unsecured Notes contain cross-default provisions whereby the acceleration of the maturity of the indebtedness of certain subsidiaries with a principal amount in excess of $100 million or the failure to pay principal of such indebtedness will constitute an event of default under the Subsidiary Senior Unsecured Notes.We used certain of the proceeds from the Subsidiary Senior Unsecured Notes and the Term Loan A Facility and the Term Loan B Facility to repay all outstanding amounts under our senior unsecured revolving credit facility (the “Senior Unsecured Revolving Credit Facility”) which had outstanding borrowings of $701 million as of December 26, 2015.
+Concurrent with this repayment the Senior Unsecured Revolving Credit Facility was terminated.
+The remaining proceeds are being used to return capital to shareholders through share repurchases and for general corporate purposes.The majority of our remaining long-term debt primarily comprises Senior, unsecured obligations ("YUM Senior Unsecured Notes") which ranks equally in right of payment with all of our existing and future unsecured unsubordinated indebtedness.
+The YUM Senior Unsecured Notes have varying maturity dates from 2018 through 2043 and stated interest rates ranging from 3.75% to 6.88%.
+Amounts outstanding under YUM Senior Unsecured Notes were $2.2 billion at December 31, 2016.
+Our YUM Senior Unsecured Notes contain cross-default provisions whereby the acceleration of the maturity of any of our indebtedness in a principal amount in excess of $50 million will constitute a default under the YUM Senior Unsecured Notes unless such indebtedness is discharged, or the acceleration of the maturity of that indebtedness is annulled, within 30 days after notice.
+The following table summarizes the future maturities of our outstanding long-term debt, excluding capital leases, as of December 31, 2016.
+2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 2037 2043 TotalSecuritization Notes $23 $23 $23 $789 $15 $15 $479 $10 $10 $907
+ $2,294Credit Agreement 32 45 51 76 395 20 1,871
+
+ 2,490Subsidiary Senior Unsecured Notes
+
+ 1,050 1,050
+ 2,100YUM Senior Unsecured Notes 325 250 350 350 325
+ 325 275 2,200Total $55 $393 $324 $1,215 $760 $35 $2,675 $1,060 $10 $1,957 $325 $275 $9,084As a result of issuing the Securitization Notes and the Subsidiary Senior Unsecured Notes and executing the Credit Agreement we have completed our recapitalization plan.
+Full year 2016 interest expense was $333 million and we currently expect annualized interest expense of approximately $430 million based on existing debt levels and current interest rates on our variable-rate debt.See Note 11 for details on the the Securitization Notes, Subsidiary Senior Unsecured Notes, the Credit Agreement and YUM Senior Unsecured Notes.Contractual ObligationsOur significant contractual obligations and payments as of December 31, 2016 included: Total Less than 1 Year 1-3 Years 3-5 Years More than 5 YearsLong-term debt obligations(a) $12,304 $462 $1,481 $2,628 $7,733Capital leases(b) 181 16 31 29 105Operating leases(b) 1,204 171 276 186 571Purchase obligations(c) 417 273 115 28 1Benefit plans(d) 249 120 38 28 63Total contractual obligations $14,355 $1,042 $1,941 $2,899 $8,47340(a)Amounts include maturities of debt outstanding as of December 31, 2016 and expected interest payments on those outstanding amounts on a nominal basis.
+See Note 11.
+(b)These obligations, which are shown on a nominal basis, relate primarily to approximately 2,000 company-owned restaurants.
+See Note 12.
+(c)Purchase obligations include agreements to purchase goods or services that are enforceable and legally binding on us and that specify all significant terms, including: fixed or minimum quantities to be purchased; fixed, minimum or variable price provisions; and the approximate timing of the transaction.
+We have excluded agreements that are cancelable without penalty.
+Purchase obligations relate primarily to supply agreements, marketing, information technology, purchases of property, plant and equipment ("PP&E") as well as consulting, maintenance and other agreements.
+(d)Includes actuarially-determined timing of payments from our most significant unfunded pension plan as well as scheduled payments from our deferred compensation plan and other unfunded benefit plans where payment dates are determinable.
+This table excludes $37 million of future benefit payments for deferred compensation and other unfunded benefit plans to be paid upon separation of employee's service or retirement from the company, as we cannot reasonably estimate the dates of these future cash payments.We sponsor noncontributory defined benefit pension plans covering certain salaried and hourly employees, the most significant of which are in the U.S. and UK.
+The most significant of the U.S. plans, the YUM Retirement Plan (the “Plan”), is funded while benefits from our other significant U.S. plan are paid by the Company as incurred (see footnote (d) above).
+Our funding policy for the Plan is to contribute annually amounts that will at least equal the minimum amounts required to comply with the Pension Protection Act of 2006.
+However, additional voluntary contributions are made from time-to-time to improve the Plan’s funded status.
+At December 31, 2016 the Plan was in a net underfunded position of $58 million.
+The UK pension plans were in a net overfunded position of $44 million at our 2016 measurement date.
+We do not anticipate making any significant contributions to the Plan in 2017.
+Investment performance and corporate bond rates have a significant effect on our net funding position as they drive our asset balances and discount rate assumptions.
+Future changes in investment performance and corporate bond rates could impact our funded status and the timing and amounts of required contributions in 2017 and beyond.Our post-retirement health care plan in the U.S. is not required to be funded in advance, but is pay as you go.
+We made post-retirement benefit payments of $5 million in 2016 and no future funding amounts are included in the contractual obligations table.
+See Note 15.
+We have excluded from the contractual obligations table payments we may make for exposures for which we are self-insured, including workers’ compensation, employment practices liability, general liability, automobile liability, product liability and property losses (collectively “property and casualty losses”) and employee healthcare and long-term disability claims.
+The majority of our recorded liability for self-insured property and casualty losses and employee healthcare and long-term disability claims represents estimated reserves for incurred claims that have yet to be filed or settled.We have not included in the contractual obligations table approximately $4 million of liabilities for unrecognized tax benefits relating to various tax positions we have taken.
+These liabilities may increase or decrease over time as a result of tax examinations, and given the status of the examinations, we cannot reliably estimate the period of any cash settlement with the respective taxing authorities.
+These liabilities exclude amounts that are temporary in nature and for which we anticipate that over time there will be no net cash outflow.We have excluded from the contractual obligations table certain commitments associated with the KFC U.S.
+Acceleration Agreement (See Note 5) as we cannot reliably estimate the specific timing of the remaining investments to be made in each of the next two years.
+In connection with this agreement we anticipate investing a total of approximately $120 million from 2015 through 2018 primarily to fund new back-of-house equipment for franchisees and to provide incentives to accelerate franchisee store remodels, of which $98 million has been invested through 2016.
+Off-Balance Sheet ArrangementsSee the Lease Guarantees and Franchise Loan Pool and Equipment Guarantees sections of Note 20 for discussion of our off-balance sheet arrangements.41New Accounting Pronouncements Not Yet AdoptedIn May 2014, the Financial Accounting Standards Board ("FASB") issued Accounting Standards Update ("ASU") No.
+2014-09, Revenue from Contracts with Customers (Topic 606), to provide principles within a single framework for revenue recognition of transactions involving contracts with customers across all industries.
+The standard allows for either a full retrospective or modified retrospective transition method.
+In March and April 2016, the FASB issued the following amendments to clarify the implementation of ASU 2014-09: ASU No.
+2016-08, Revenue from Contracts with Customers (Topic 606): Principal versus Agent Considerations (Reporting Revenue Gross versus Net) and ASU No.
+2016-10 Revenue from Contracts with Customers (Topic 606): Identifying Performance Obligations and Licensing.
+We intend to adopt the new standards using the full retrospective transition method in the first quarter of 2018.We do not believe these standards will impact the recognition of our two largest sources of revenue, sales in company-owned restaurants and sales-based continuing fees from franchisees.
+Additionally, we do not expect the new standards will materially impact the recognition of refranchising gains and losses as these transactions are divestitures of businesses and thus outside the scope of the standards.
+See Note 2 for a description of our current accounting policies.The standards require that the transaction price received from customers be allocated to each separate and distinct performance obligation.
+The transaction price attributable to each separate and distinct performance obligation is then recognized as the performance obligations are satisfied.
+We are currently evaluating the standards to determine whether the services we provide related to upfront fees we receive from franchisees such as initial or renewal fees contain separate and distinct performance obligations from the franchise right.
+If we determine these services are not separate and distinct from the overall franchise right, the fees received will be recognized as revenue over the term of each respective franchise agreement.
+We currently recognize upfront franchise fees such as initial and renewal fees when the related services have been provided, which is when a store opens for initial fees and when renewal options become effective for renewal fees.
+The standards require the unamortized portion of fees received to be presented in our Consolidated Balance Sheets as a contract liability.
+Any contract liabilities required to be recorded as a result of adopting these standards may be material to our Consolidated Balance Sheets given the volume of our franchise agreements and their duration, which is typically equal to or in excess of ten years.Similarly, we are currently evaluating whether the benefits we receive from incentive payments we may make to our franchisees (e.g.
+equipment funding provided under the KFC U.S.
+Acceleration Agreement, see Note 5) are separate and distinct from the benefits we receive from the franchise right.
+If they cannot be separated from the franchise right then such incentive payments would be amortized as a reduction of revenue over the term of the franchise agreement.
+Currently, we recognize any payments made to franchisees within our Consolidated Statements of Income when we are obligated to make the payment.We are also evaluating whether the standards will have an impact on transactions currently not included in our revenues such as franchisee contributions to and subsequent expenditures from advertising cooperatives that we are required to consolidate.
+We act as an agent in regard to these franchisee contributions and expenditures and as such we do not currently include them in our Consolidated Statements of Income or Cash Flows.
+See Note 2 for details.
+We are evaluating whether the new standards will impact the principal/agent determinations in these arrangements.
+If we determine we are the principal in these arrangements we would include contributions to and expenditures from these advertising cooperatives within our Consolidated Statements of Income and Cash Flows.
+While any such change has the potential to materially impact our gross amount of reported revenues and expenses, such impact would largely be offsetting and we would not expect there to be a significant impact on our reported Net Income.
+In February 2016, the FASB issued ASU No.
+2016-02, Leases (Topic 842), which increases transparency and comparability among organizations by requiring that substantially all lease assets and liabilities be recognized on the balance sheet and disclosing key information about leasing arrangements.
+ASU 2016-02 is effective for the Company in our first quarter of fiscal 2019 with early adoption permitted.
+The standard must be adopted using a modified retrospective transition approach for leases existing at, or entered into after, the beginning of the earliest comparative period presented in the financial statements.
+We currently plan to adopt ASU 2016-02 in the first quarter of 2019 and we are evaluating the impact the adoption of this standard will have on our Financial Statements.
+Based on our current volume of store leases and subleases (See Note 12) to franchisees we expect this adoption will result in a material increase in the assets and liabilities on our Consolidated Balance Sheets; however, we believe the impact will be less material over time as we execute our strategy to be at least 98% franchised by 2019 and thus are a party to fewer leases.
+Further, we do not anticipate adoption will have a significant impact on our Consolidated Statements of Income or Cash Flows.In March 2016, the FASB issued ASU No.
+2016-09, Compensation - Stock Compensation (Topic 718): Improvements to Employee Share-Based Payment Accounting, which is intended to simplify several aspects of the accounting for employee share-based payment transactions, including their income tax consequences, classification of awards as either equity or liabilities and classification on the statement of cash flows.
+ASU 2016-09 is effective for the Company in our first quarter of fiscal 2017.
+Upon adoption of this standard, excess tax benefits associated with share-based compensation, which we currently recognize within 42Common Stock, will be reflected within the Income tax provision in our Consolidated Statements of Income.
+Additionally, our Consolidated Statements of Cash Flows will present such excess tax benefits, which are currently presented as a financing activity, as an operating activity.
+The impact of adopting this standard on our Financial Statements will be dependent on the timing and intrinsic value of future share-based compensation award exercises.
+Given the current intrinsic value of our outstanding share-based compensation awards, we currently anticipate a significant impact to our reported tax rate as exercises occur.
+In June 2016, the FASB issued ASU No.
+2016-13, Financial Instruments-Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments, which requires measurement and recognition of expected versus incurred credit losses for financial assets held.
+ASU 2016-13 is effective for the Company in our first quarter of fiscal 2020 with early adoption permitted beginning in the first quarter of fiscal 2019.
+We are currently evaluating the impact the adoption of this standard will have on our Financial Statements.In October 2016, the FASB issued ASU No.
+2016-16, Income Taxes (Topic 740): Intra-Entity Transfers of Assets Other Than Inventory, which requires the recognition of the income tax consequences of an intra-entity transfer of an asset, other than inventory, when the transfer occurs.
+The guidance will require a modified retrospective application with a cumulative adjustment to opening retained earnings at the beginning of our first quarter of fiscal 2019 but permits adoption at the beginning of an earlier annual period.
+We are currently evaluating the impact of adopting ASU 2016-16 on our Financial Statements.Critical Accounting Policies and EstimatesOur reported results are impacted by the application of certain accounting policies that require us to make subjective or complex judgments.
+These judgments involve estimations of the effect of matters that are inherently uncertain and may significantly impact our quarterly or annual results of operations or financial condition.
+Changes in the estimates and judgments could significantly affect our results of operations and financial condition and cash flows in future years.
+A description of what we consider to be our most significant critical accounting policies follows.
+Impairment or Disposal of Long-Lived AssetsWe review long-lived assets of restaurants (primarily PP&E and allocated intangible assets subject to amortization) semi-annually for impairment, or whenever events or changes in circumstances indicate that the carrying amount of a restaurant may not be recoverable.
+We evaluate recoverability based on the restaurant’s forecasted undiscounted cash flows, which incorporate our best estimate of sales growth and margin improvement based upon our plans for the unit and actual results at comparable restaurants.
+For restaurant assets that are deemed to not be recoverable, we write-down the impaired restaurant to its estimated fair value.
+Key assumptions in the determination of fair value are the future after-tax cash flows of the restaurant, which are reduced by future royalties a franchisee would pay, and a discount rate.
+The after-tax cash flows incorporate reasonable sales growth and margin improvement assumptions that would be used by a franchisee in the determination of a purchase price for the restaurant.
+Estimates of future cash flows are highly subjective judgments and can be significantly impacted by changes in the business or economic conditions.We perform an impairment evaluation at a restaurant group level if it is more likely than not that we will refranchise restaurants as a group.
+Expected net sales proceeds are generally based on actual bids from the buyer, if available, or anticipated bids given the discounted projected after-tax cash flows for the group of restaurants.
+Historically, these anticipated bids have been reasonably accurate estimations of the proceeds ultimately received.
+The after-tax cash flows used in determining the anticipated bids incorporate reasonable assumptions we believe a franchisee would make such as sales growth and margin improvement as well as expectations as to the useful lives of the restaurant assets.
+These after-tax cash flows also include a deduction for the anticipated, future royalties we would receive under a franchise agreement with terms substantially at market entered into simultaneously with the refranchising transaction.
+The discount rate used in the fair value calculations is our estimate of the required rate of return that a franchisee would expect to receive when purchasing a similar restaurant or groups of restaurants and the related long-lived assets.
+The discount rate incorporates rates of returns for historical refranchising market transactions and is commensurate with the risks and uncertainty inherent in the forecasted cash flows.Impairment of GoodwillWe evaluate goodwill for impairment on an annual basis as of the beginning of our fourth quarter or more often if an event occurs or circumstances change that indicates impairment might exist.
+Goodwill is evaluated for impairment by determining whether the fair value of our reporting units exceed their carrying values.
+Our reporting units are our business units (which are aligned based on geography) in our KFC, Pizza Hut and Taco Bell Divisions.
+Fair value is the price a willing buyer would pay for the 43reporting unit, and is generally estimated using discounted expected future after-tax cash flows from Company-owned restaurant operations and franchise royalties.Future cash flow estimates and the discount rate are the key assumptions when estimating the fair value of a reporting unit.
+Future cash flows are based on growth expectations relative to recent historical performance and incorporate sales growth and margin improvement assumptions that we believe a third-party buyer would assume when determining a purchase price for the reporting unit.
+The sales growth and margin improvement assumptions that factor into the discounted cash flows are highly correlated as cash flow growth can be achieved through various interrelated strategies such as product pricing and restaurant productivity initiatives.
+The discount rate is our estimate of the required rate of return that a third-party buyer would expect to receive when purchasing a business from us that constitutes a reporting unit.
+We believe the discount rate is commensurate with the risks and uncertainty inherent in the forecasted cash flows.The fair values of all our reporting units with goodwill balances were substantially in excess of their respective carrying values as of the 2016 goodwill testing date.When we refranchise restaurants, we include goodwill in the carrying amount of the restaurants disposed of based on the relative fair values of the portion of the reporting unit disposed of in the refranchising versus the portion of the reporting unit that will be retained.
+The fair value of the portion of the reporting unit disposed of in a refranchising is determined by reference to the discounted value of the future cash flows expected to be generated by the restaurant and retained by the franchisee, which include a deduction for the anticipated, future royalties the franchisee will pay us associated with the franchise agreement entered into simultaneously with the refranchising transaction.
+Appropriate adjustments are made to the fair value determinations if such franchise agreement is determined to not be at prevailing market rates.
+When determining whether such franchise agreement is at prevailing market rates our primary consideration is consistency with the terms of our current franchise agreements both within the country that the restaurants are being refranchised in and around the world.
+The Company believes consistency in royalty rates as a percentage of sales is appropriate as the Company and franchisee share in the impact of near-term fluctuations in sales results with the acknowledgment that over the long-term the royalty rate represents an appropriate rate for both parties.The discounted value of the future cash flows expected to be generated by the restaurant and retained by the franchisee is reduced by future royalties the franchisee will pay the Company.
+The Company thus considers the fair value of future royalties to be received under the franchise agreement as fair value retained in its determination of the goodwill to be written off when refranchising.
+Others may consider the fair value of these future royalties as fair value disposed of and thus would conclude that a larger percentage of a reporting unit’s fair value is disposed of in a refranchising transaction.During 2016, the Company's reporting units with the most significant refranchising activity and recorded goodwill were Pizza Hut U.S. and Taco Bell U.S.
+Within Pizza Hut U.S., 195 restaurants were refranchised (representing 38% of beginning-of-year company units) and $3 million in goodwill was written off (representing 4% of beginning-of-year goodwill).
+Within Taco Bell U.S., 46 restaurants were refranchised (representing 5% of beginning-of-year company units) and $2 million in goodwill was written off (representing 2% of beginning-of-year goodwill).
+See Note 2 for a further discussion of our policies regarding goodwill.Self-Insured Property and Casualty LossesWe record our best estimate of the remaining cost to settle incurred self-insured property and casualty losses.
+The estimate is based on the results of an independent actuarial study and considers historical claim frequency and severity as well as changes in factors such as our business environment, benefit levels, medical costs and the regulatory environment that could impact overall self-insurance costs.
+Additionally, our reserve includes a risk margin to cover unforeseen events that may occur over the several years required to settle claims, increasing our confidence level that the recorded reserve is adequate.See Note 20 for a further discussion of our insurance programs.Pension PlansCertain of our employees are covered under defined benefit pension plans.
+Our two most significant plans are in the U.S. and combined had a projected benefit obligation (“PBO”) of $993 million and a fair value of plan assets of $837 million at December 31, 2016.The PBO reflects the actuarial present value of all benefits earned to date by employees and incorporates assumptions as to future compensation levels.
+Due to the relatively long time frame over which benefits earned to date are expected to be paid, our PBOs 44are highly sensitive to changes in discount rates.
+For our U.S. plans, we measured our PBOs using a discount rate of 4.60% at December 31, 2016.
+This discount rate was determined with the assistance of our independent actuary.
+The primary basis for this discount rate determination is a model that consists of a hypothetical portfolio of ten or more corporate debt instruments rated Aa or higher by Moody’s or Standard & Poor's ("S&P") with cash flows that mirror our expected benefit payment cash flows under the plans.
+We exclude from the model those corporate debt instruments flagged by Moody’s or S&P for a potential downgrade (if the potential downgrade would result in a rating below Aa by both Moody's and S&P) and bonds with yields that were two standard deviations or more above the mean.
+In considering possible bond portfolios, the model allows the bond cash flows for a particular year to exceed the expected benefit payment cash flows for that year.
+Such excesses are assumed to be reinvested at appropriate one-year forward rates and used to meet the benefit payment cash flows in a future year.
+The weighted-average yield of this hypothetical portfolio was used to arrive at an appropriate discount rate.
+We also ensure that changes in the discount rate as compared to the prior year are consistent with the overall change in prevailing market rates and make adjustments as necessary.
+A 50 basis-point increase in this discount rate would have decreased these U.S. plans’ PBOs by approximately $60 million at our measurement date.
+Conversely, a 50 basis-point decrease in this discount rate would have increased our U.S. plans’ PBOs by approximately $65 million at our measurement date.The pension expense we will record in 2017 is also impacted by the discount rate, as well as the long-term rates of return on plan assets and mortality assumptions we selected at our measurement date.
+We expect pension expense for our U.S. plans, excluding the impact of settlement charges associated with the deferred vested payout program in 2016 (See Note 5), to be largely unchanged in 2017.
+A 50 basis-point decrease in our discount rate assumption at our 2016 measurement date would increase our 2017 U.S. pension expense by approximately $8 million.
+A 50 basis-point increase in our discount rate assumption at our 2016 measurement date would decrease our 2017 U.S. pension expense by approximately $4 million.Our estimated long-term rate of return on U.S. plan assets is based upon the weighted-average of historical returns for each asset category.
+Our expected long-term rate of return on U.S. plan assets, for purposes of determining 2017 pension expense, at December 31, 2016 was 6.5%.
+We believe this rate is appropriate given the composition of our plan assets and historical market returns thereon.
+A 100 basis point change in our expected long-term rate of return on plan assets assumption would impact our 2017 U.S. pension expense by approximately $8 million.
+Additionally, every 100 basis point variation in actual return on plan assets versus our expected return of 6.5% will impact our unrecognized pre-tax actuarial net loss by approximately $8 million.A decrease in discount rates over time has largely contributed to an unrecognized pre-tax actuarial net loss of $150 million included in Accumulated other comprehensive income (loss) for these U.S. plans at December 31, 2016.
+We will recognize approximately $7 million of such loss in net periodic benefit cost in 2017 versus $6 million recognized in 2016.
+See Note 15.
+Income TaxesAt December 31, 2016, we had valuation allowances of approximately $195 million to reduce our $1.1 billion of deferred tax assets to amounts that are more likely than not to be realized.
+The net deferred tax assets primarily relate to capital loss carryforwards and temporary differences in profitable U.S. federal, state and foreign jurisdictions, net operating losses in certain foreign jurisdictions, the majority of which do not expire, and U.S. foreign tax credit carryovers that expire 10 years from inception and for which we anticipate having foreign earnings to utilize.
+In evaluating our ability to recover our deferred tax assets, we consider future taxable income in the various jurisdictions as well as carryforward periods and restrictions on usage.
+The estimation of future taxable income in these jurisdictions and our resulting ability to utilize deferred tax assets can significantly change based on future events, including our determinations as to feasibility of certain tax planning strategies and refranchising plans.
+Thus, recorded valuation allowances may be subject to material future changes.As a matter of course, we are regularly audited by federal, state and foreign tax authorities.
+We recognize the benefit of positions taken or expected to be taken in our tax returns in our Income tax provision when it is more likely than not that the position would be sustained upon examination by these tax authorities.
+A recognized tax position is then measured at the largest amount of benefit that is greater than fifty percent likely of being realized upon settlement.
+At December 31, 2016, we had $91 million of unrecognized tax benefits, $87 million of which are temporary in nature and, if recognized, would not impact the effective tax rate.
+We evaluate unrecognized tax benefits, including interest thereon, on a quarterly basis to ensure that they have been appropriately adjusted for events, including audit settlements, which may impact our ultimate payment for such exposures.We have investments in foreign subsidiaries where the carrying values for financial reporting exceed the tax basis.
+We have not provided deferred tax on the portion of the excess that we believe is indefinitely reinvested, as we have the ability and intent to indefinitely postpone these basis differences from reversing with a tax consequence.
+We estimate that our total temporary difference upon which we have not provided deferred tax is approximately $2.1 billion at December 31, 2016.
+A determination of the deferred tax liability on this amount is not practicable.
+45If our intentions regarding our ability and intent to postpone these basis differences from reversing with a tax consequence change, deferred tax may need to be provided that could materially impact the provision for income taxes.See Note 18 for a further discussion of our income taxes.Item 7A.Quantitative and Qualitative Disclosures About Market Risk.The Company is exposed to financial market risks associated with interest rates, foreign currency exchange rates and commodity prices.
+In the normal course of business and in accordance with our policies, we manage these risks through a variety of strategies, which may include the use of financial and commodity derivative instruments to hedge our underlying exposures.
+Our policies prohibit the use of derivative instruments for trading purposes, and we have processes in place to monitor and control their use.Interest Rate RiskWe have a market risk exposure to changes in interest rates, principally in the U.S. Our outstanding Long-term debt of $9.1 billion includes 73% fixed-rate debt and 27% variable-rate debt.
+We have attempted to minimize the interest rate risk related to $1.55 billion of this variable-rate debt through the use of interest rate swaps.
+As a result, approximately 90% of our $9.1 billion of outstanding debt at December 31, 2016 is effectively fixed-rate debt.
+See Note 11 for details on these issuances and repayments and Note 13 for details related to interest rate swaps.As of December 31, 2016 and December 26, 2015 a hypothetical 100 basis-point increase in short-term interest rates would result, over the following twelve-month period after consideration of the aforementioned interest rate swaps, in an increase of approximately $10 million and $14 million, respectively, in Interest expense, net within our Consolidated Statements of Income.
+These estimated amounts are based upon the current level of variable-rate debt that has not been swapped to fixed and assume no changes in the volume or composition of that debt and include no impact from interest income related to cash and cash equivalents.The fair value of our cumulative fixed-rate debt of $6.6 billion as of December 31, 2016, would decrease approximately $375 million as a result of the same hypothetical 100 basis-point increase.
+At December 31, 2016, a hypothetical 100 basis-point decrease in short-term interest rates would decrease the fair value of our interest rate swaps approximately $55 million.
+Fair value was determined based on the present value of expected future cash flows considering the risks involved and using discount rates appropriate for the durations.Foreign Currency Exchange Rate RiskChanges in foreign currency exchange rates impact the translation of our reported foreign currency denominated earnings, cash flows and net investments in foreign operations and the fair value of our foreign currency denominated financial instruments.
+Historically, we have chosen not to hedge foreign currency risks related to our foreign currency denominated earnings and cash flows through the use of financial instruments.
+We attempt to minimize the exposure related to our net investments in foreign operations by financing those investments with local currency denominated debt when practical.
+In addition, we attempt to minimize the exposure related to foreign currency denominated financial instruments by purchasing goods and services from third parties in local currencies when practical.
+Consequently, foreign currency denominated financial instruments consist primarily of intercompany receivables and payables.
+At times, we utilize forward contracts and cross-currency swaps to reduce our exposure related to these intercompany receivables and payables.
+The notional amount and maturity dates of these contracts match those of the underlying receivables or payables such that our foreign currency exchange risk related to these instruments is minimized.The Company’s foreign currency net asset exposure (defined as foreign currency assets less foreign currency liabilities) totaled approximately $2.1 billion as of December 31, 2016.
+Operating in international markets exposes the Company to movements in foreign currency exchange rates.
+The Company’s primary exposures result from our operations in Asia-Pacific, Europe and the Americas.
+For the fiscal year ended December 31, 2016 Operating Profit would have decreased approximately $105 million if all foreign currencies had uniformly weakened 10% relative to the U.S. dollar.
+This estimated reduction assumes no changes in sales volumes or local currency sales or input prices.Commodity Price RiskWe are subject to volatility in food costs as a result of market risk associated with commodity prices.
+Our ability to recover increased costs through higher pricing is, at times, limited by the competitive environment in which we operate.
+We manage our exposure to this risk primarily through pricing agreements with our vendors.46

@@ -1,0 +1,318 @@
+T1	Remove 7152 7171	22Table of Contents
+T2	QFact 8901 9077	The Company’s results in 2012 were impacted by the following factors: •Core sales, which exclude foreign currency, increased 2.2% in 2012 compared to the same period last year.
+T3	Fact 9078 9306	New products, geographic expansion and core sales growth in emerging markets were the primary drivers of the core sales growth, with double- and high-single-digit core sales growth in Latin America and Asia Pacific, respectively
+R1	Cause Cause:T3 Effect:T2	
+T4	Fact 9308 9458	Deteriorating macroeconomic conditions in Western Europe and lower merchandising in Europe in advance of the SAP go-live adversely impacted core sales
+T5	QFact 9491 9562	a 4.7% core sales decline in the Europe, Middle East, and Africa region
+R2	Cause Cause:T4 Effect:T5	
+T6	Fact 9810 9968	Core sales increased 9.8% in the Baby & Parenting segment, with improved retail-level sales in North America and sustained momentum in the Asia Pacific region
+T7	Fact 9986 10007	new product launches.
+R3	Cause Cause:T7 Effect:T6	
+T8	Fact 10008 10049	Core sales grew 7.0% in the Tools segment
+T9	Fact 10104 10143	the segment’s international businesses.
+R4	Cause Cause:T9 Effect:T8	
+T10	Fact 10144 10192	Core sales increased 3.2% in the Writing segment
+T11	Fact 10203 10289	the continued global rollout of Paper Mate® InkJoy® and a strong back-to-school season
+R5	Cause Cause:T11 Effect:T10	
+T12	Fact 10291 10355	The Home Solutions segment realized a core sales decline of 3.6%
+T13	Fact 10374 10622	continued operational challenges in the Décor business (Levolor window treatments) within the Home Solutions segment and challenges in the Culinary and Décor businesses related to a change in merchandising strategy at a significant retail customer.
+R6	Cause Cause:T13 Effect:T12	
+T14	Fact 10624 10795	Input and sourced product cost inflation was more than offset by pricing and productivity, which resulted in a 20 basis point improvement in gross margin compared to 2011.
+T15	Fact 10796 11003	The Company’s gross margin increased despite continued operational challenges in the Décor business within the Home Solutions segment and pressures due to uncertain macroeconomic conditions in Western Europe
+R7	Cause Cause:T15 Effect:T14	
+T16	Remove 11507 11526	23Table of Contents
+T17	Fact 13593 13633	Improved the Company’s capital structure
+T18	Fact 13637 14072	completing the offering and sale of $500.0 million unsecured senior notes, consisting of $250.0 million principal amount of 2.0% notes due 2015 and $250.0 million principal amount of 4.0% notes due 2022, the aggregate proceeds of which were used in July 2012 to redeem the $436.7 million of outstanding 5.25% junior convertible subordinated debentures due December 2027, underlying the Company’s 5.25% convertible preferred securities.
+R8	Cause Cause:T18 Effect:T17	
+T19	Fact 14073 14235	Completed the offering and sale of $350.0 million 2.05% unsecured senior notes due 2017 and used the proceeds together with cash on hand and short-term borrowings
+T20	Fact 14239 14509	repay the $500.0 million principal amount of the 5.50% senior notes due April 2013 (the “2013 Notes”), for which interest expense was previously recorded at a rate of approximately 3.5% after contemplating the effects of the interest rate swaps related to the 2013 Notes
+R9	Cause Cause:T19 Effect:T20	
+T21	Fact 14805 14894	Continued the $300.0 million three-year share repurchase plan that expires in August 2014
+T22	Fact 14914 15029	the Company repurchased and retired an additional 4.9 million shares of common stock for $91.5 million during 2012.
+R10	Cause Cause:T21 Effect:T22	
+T23	Remove 15176 15195	24Table of Contents
+T24	Fact 17435 17573	Restructuring and restructuring-related charges of $69 million and $10 million, respectively, have been incurred through December 31, 2012
+T25	Fact 17602 17705	employee-related cash costs, including severance, retirement, and other termination benefits and costs.
+R11	Cause Cause:T25 Effect:T24	
+T26	Fact 17706 17851	Restructuring-related charges represent incremental cost of products sold and SG&A expenses associated with the implementation of Project Renewal
+T27	Fact 17856 17987	Consists of approximately 80% employee-related cash costs including severance, retirement, and other termination benefits and costs
+R12	Cause Cause:T27 Effect:T26	
+T28	Remove 20501 20520	25Table of Contents
+T30	Remove 24399 24485	Core sales$129.2 2.2 %Foreign currency(91.1) (1.6)Total change in net sales$38.1 0.6 %
+T31	Fact 24485 24537	Core sales increased 2.2% compared to the prior year
+T29	Fact 24549 24675	double-digit core sales growth in the Latin America region and high-single-digit core sales growth in the Asia Pacific region.
+R13	Cause Cause:T29 Effect:T31	
+T32	Fact 24676 24727	The growth in emerging markets was partially offset
+T33	Fact 24731 24824	a decline in the Company’s European businesses due to a challenging macroeconomic environment
+R14	Cause Cause:T33 Effect:T32	
+T34	Fact 24968 24984	Foreign currency
+T35	Fact 25003 25029	reducing net sales by 1.6%
+R15	Cause Cause:T34 Effect:T35	
+T36	Fact 25173 25308	The primary drivers of the 20 basis point gross margin increase were pricing and productivity, partially offset by input cost inflation
+T37	Fact 25030 25172	Gross margin, as a percentage of net sales, for 2012 was 37.8%, or $2,229.1 million, versus 37.6% of net sales, or $2,205.2 million, for 2011.
+R16	Cause Cause:T36 Effect:T37	
+T38	Fact 25309 25434	SG&A expenses for 2012 were 25.8% of net sales, or $1,521.1 million, versus 25.8% of net sales, or $1,515.3 million, for 2011
+T39	Fact 25436 25879	In constant currency, SG&A expenses increased $32.6 million, primarily due to $37.1 million of incremental investments in brand building and strategic SG&A activities to support new products, marketing initiatives, new market entries and global expansion, and a $7.3 million increase in structural SG&A due to increased annual incentive compensation offset by savings from structural cost savings initiatives and ongoing restructuring projects
+R17	Cause Cause:T39 Effect:T38	
+T40	Fact 26103 26162	restructuring-related costs associated with Project Renewal
+T41	Fact 26057 26099	In 2012, the Company incurred $7.6 million
+R18	Cause Cause:T40 Effect:T41	
+T42	Fact 26301 26379	The Company recorded non-cash impairment charges of $382.6 million during 2011
+T43	Fact 26405 26490	the impairment of goodwill in the Company’s Baby & Parenting and Hardware businesses.
+R19	Cause Cause:T43 Effect:T42	
+T44	Fact 26542 26649	The Company recorded restructuring costs of $56.1 million and $50.1 million for 2012 and 2011, respectively
+T45	Fact 26651 27021	The restructuring costs in 2012 relate to Project Renewal and the European Transformation Plan and consisted of $44.0 million of employee severance, termination benefits and employee relocation costs, $12.8 million of exited contractual commitments and other restructuring costs, and a net benefit of $0.7 million for facility and other exits, including impairment costs
+R20	Cause Cause:T45 Effect:T44	
+T46	Fact 27023 27055	The restructuring costs for 2011
+T47	Fact 27066 27367	Project Renewal and the European Transformation Plan and consisted of $8.4 million of facility and other exit and impairment costs, $33.2 million of employee severance, termination benefits and employee relocation costs, and $8.5 million of exited contractual commitments and other restructuring costs
+R21	Cause Cause:T47 Effect:T46	
+T48	Fact 27845 27945	Interest expense for 2012 was $76.1 million, a decrease of $10.1 million from $86.2 million for 2011
+T49	Fact 27954 27987	lower average debt levels in 2012
+R22	Cause Cause:T49 Effect:T48	
+T50	Fact 28093 28363	During 2012, the Company has recognized foreign exchange transactional gains of $2.3 million compared to foreign exchange losses of $14.7 million for 2011, as currencies generally appreciated against the U.S. Dollar during 2012 compared to depreciating in the prior year
+T51	Fact 28364 28473	The Company recognized income tax expense of $166.3 million and $17.9 million for 2012 and 2011, respectively
+R23	Cause Cause:T50 Effect:T51	
+T52	Fact 28475 28509	The increase in income tax expense
+T53	Fact 28539 28801	pretax income in 2012 and a change in the geographical mix in earnings, as well as $23.1 million of income tax expense attributable to charges resulting from incremental tax contingencies and the expiration of various statutes of limitation and audit settlements
+R24	Cause Cause:T53 Effect:T52	
+T54	Fact 28803 28973	The income tax expense in 2011 is net of a $76.2 million tax benefit the Company was able to record associated with a portion of the $382.6 million of impairment charges.
+T55	Fact 28974 29236	Additionally, the 2011 income tax expense is net of the favorable impact of $49.0 million of benefits due to the reversal of accruals for certain tax contingencies, including interest and penalties, upon the expiration of various worldwide statutes of limitation
+R25	Cause Cause:T55 Effect:T54	
+T56	Fact 29564 29641	During 2012, all conditions related to the escrow were satisfied and resolved
+T57	Fact 29647 29817	the Company had received $7.8 million from the escrow and recognized the proceeds as a gain from the sale of the hand torch and solder business in discontinued operations
+R26	Cause Cause:T56 Effect:T57	
+T58	Fact 29819 29875	The loss on disposal of discontinued operations for 2011
+T59	Fact 29887 29937	the disposal of the hand torch and solder business
+R27	Cause Cause:T59 Effect:T58	
+T60	Fact 30417 30469	Core sales increased 1.8% compared to the prior year
+T61	Fact 30481 30681	growth in the Company’s international businesses, particularly in emerging markets, with double-digit core sales growth in the Latin America and Asia Pacific regions, across substantially all segments
+R28	Cause Cause:T61 Effect:T60	
+T62	Remove 30335 30412	Core sales$102.0 1.8%Foreign currency104.4 1.8Total change in net sales$206.4
+T63	Remove 30413 30417	3.6%
+T64	Fact 30817 30833	Foreign currency
+T65	Fact 30846 30879	1.8% to the increase in net sales
+R29	Cause Cause:T64 Effect:T65	
+T66	Fact 31023 31305	The primary drivers of the 40 basis point gross margin decrease were input and sourced product cost inflation, partially offset by pricing and productivity.SG&A expenses for 2011 were 25.8% of net sales, or $1,515.3 million, versus 25.6% of net sales, or $1,447.8 million, for 2010.
+T67	Fact 30880 31022	Gross margin, as a percentage of net sales, for 2011 was 37.6%, or $2,205.2 million, versus 38.0% of net sales, or $2,148.7 million, for 2010.
+R30	Cause Cause:T66 Effect:T67	
+T68	Fact 31307 31365	n constant currency, SG&A expenses increased $36.6 million
+T69	Fact 31373 31569	$39.8 million of incremental investments in brand building and other strategic SG&A activities to support marketing initiatives, advertising and promotions, new market entries and global expansion
+R31	Cause Cause:T69 Effect:T68	
+T70	Fact 31571 31644	SG&A expenses for 2011 include $6.3 million of incremental costs incurred
+T71	Fact 31652 31801	the Company’s Chief Executive Officer transition and an increase of $22.2 million in restructuring-related costs for the European Transformation Plan
+R32	Cause Cause:T71 Effect:T70	
+T72	Fact 31803 31898	The aforementioned increases were partially offset by $31.7 million lower structural SG&A costs
+T73	Fact 31930 31989	lower incentive compensation costs in 2011 compared to 2010
+T74	Fact 31990 32095	As a result of the Company’s annual impairment testing of goodwill and indefinite-lived intangible assets
+T75	Fact 32097 32285	the Company recorded non-cash impairment charges of $382.6 million during 2011, principally relating to the impairment of goodwill in the Company’s Baby & Parenting and Hardware businesses
+R33	Cause Cause:T74 Effect:T75	
+T76	Fact 32447 32564	The year-over-year decrease in restructuring costs was attributable to the completion of Project Acceleration in 2010
+T77	Fact 32338 32446	The Company recorded restructuring costs of $50.1 million and $77.4 million for 2011 and 2010, respectively.
+R34	Cause Cause:T76 Effect:T77	
+T78	Fact 32566 32598	The restructuring costs for 2011
+T79	Fact 32609 32910	Project Renewal and the European Transformation Plan and consisted of $8.4 million of facility and other exit and impairment costs; $33.2 million of employee severance, termination benefits and employee relocation costs; and $8.5 million of exited contractual commitments and other restructuring costs
+R35	Cause Cause:T79 Effect:T78	
+T80	Fact 32912 32943	The restructuring costs in 2010
+T81	Fact 32964 33230	Project Acceleration and included $6.0 million of facility and other exit and impairment costs; $53.5 million of employee severance, termination benefits and employee relocation costs; and $17.9 million of exited contractual commitments and other restructuring costs
+R36	Cause Cause:T81 Effect:T80	
+T82	Fact 33700 33801	Interest expense for 2011 was $86.2 million, a decrease of $32.2 million from $118.4 million for 2010
+T83	Fact 33810 33980	lower overall borrowing costs resulting from the Capital Structure Optimization Plan, a more favorable interest rate environment and a higher mix of short-term borrowings
+R37	Cause Cause:T83 Effect:T82	
+T84	Fact 34087 34169	The losses related to extinguishments of debt of $218.6 million recognized in 2010
+T85	Fact 34180 34459	the retirement of $279.3 million of the $300.0 million aggregate principal amount of 10.60% senior unsecured notes due April 2019 and $324.7 million principal amount of the $345.0 million 5.50% convertible senior notes due 2014 pursuant to the Capital Structure Optimization Plan
+R38	Cause Cause:T85 Effect:T84	
+T86	Fact 34461 34636	During 2011, the Company recognized $14.7 million of foreign exchange transactional losses; however, during 2010, the Company recognized foreign exchange gains of $6.9 million
+T87	Fact 34660 34919	a foreign exchange gain of $5.6 million associated with the Company’s transition to the Transaction System for Foreign Currency Denominated Securities (“SITME”) rate for remeasuring the Company’s Venezuelan assets and liabilities denominated in Bolivar Fuerte
+R39	Cause Cause:T87 Effect:T86	
+T88	Fact 34939 35046	The Company recognized income tax expense of $17.9 million and $5.6 million for 2011 and 2010, respectively
+T89	Remove 34920 34939	28Table of Contents
+T90	Fact 35048 35303	The change in the income tax expense was primarily attributable to the $382.6 million of impairment charges in 2011, which were only partially deductible, and $218.6 million of losses related to extinguishments of debt in 2010, which were fully deductible
+R40	Cause Cause:T90 Effect:T88	
+T91	Fact 35305 35869	The change in the income tax expense was also attributable to the recognition of income tax benefits of $49.0 million in 2011 due to the reversal of accruals for certain tax contingencies, including interest and penalties, upon the expiration of various worldwide statutes of limitation, and the recognition of $63.6 million of previously unrecognized tax benefits in 2010 as a result of the Company entering into a binding closing agreement related to its 2005 and 2006 U.S. Federal income tax examination, including all issues that were at the IRS Appeals Office
+R41	Cause Cause:T91 Effect:T88	
+T92	Fact 36017 36102	The loss on disposal of discontinued operations for 2011 was $15.2 million, after tax
+T93	Fact 36115 36165	the disposal of the hand torch and solder business
+R42	Cause Cause:T93 Effect:T92	
+T94	Fact 37494 37605	For 2012, includes restructuring-related costs associated with Project Renewal of $4.9 million and $1.2 million
+T95	Fact 37622 37676	the Home Solutions and Writing segments, respectively.
+R43	Cause Cause:T95 Effect:T94	
+T96	Fact 37680 37769	Includes restructuring-related costs of $24.3 million and $37.4 million for 2012 and 2011
+T97	Fact 37801 37922	the European Transformation Plan and $4.1 million of restructuring-related costs associated with Project Renewal for 2012
+R44	Cause Cause:T97 Effect:T96	
+T98	Fact 37924 37997	The 2011 operating income also includes $6.3 million of incremental costs
+T99	Fact 38014 38070	the Company’s Chief Executive Officer transition in 2011
+R45	Cause Cause:T99 Effect:T98	
+T100	Fact 38216 38240	Core sales declined 3.6%
+T101	Fact 38259 38454	continuing challenges in the Décor business and also due to a change in merchandising strategy by a significant retail customer in North America, which impacted the Décor and Culinary businesses.
+R46	Cause Cause:T101 Effect:T100	
+T102	Fact 38646 38805	Operating income for 2012 was $217.5 million, or 13.2% of net sales, a decrease of $11.4 million, or 5.0%, from $228.9 million, or 13.4% of net sales, for 2011
+T103	Fact 38807 39012	The 20 basis point decrease in operating margin is primarily attributable to a reduction in gross margin, as input cost inflation and unfavorable mix were partially offset by pricing and productivity gains
+R47	Cause Cause:T103 Effect:T102	
+T104	Fact 39014 39105	In constant currency, SG&A costs as a percentage of net sales remained relatively unchanged
+T105	Fact 39109 39222	reductions in SG&A driven by savings realized from Project Renewal were consistent with the declines in net sales
+R48	Cause Cause:T105 Effect:T104	
+T106	Fact 39343 39368	Core sales increased 3.2%
+T107	Fact 39380 39640	a strong back-to-school season and double-digit core sales growth in the Latin American markets due to the rollout of new products, partially offset by a challenging macroeconomic environment in Western Europe which adversely impacted the fine writing business
+T108	Fact 39834 39994	Operating income for 2012 was $261.9 million, or 18.5% of net sales, an increase of $15.0 million, or 6.1%, from $246.9 million, or 17.6% of net sales, for 2011
+T109	Fact 39996 40163	The 90 basis point increase in operating margin is primarily attributable to gross margin expansion, as pricing and productivity more than offset input cost inflation.
+R49	Cause Cause:T109 Effect:T108	
+T110	Fact 40164 40251	In constant currency, SG&A costs as a percentage of net sales increased 20 basis points
+T111	Fact 40270 40383	higher brand building and ongoing strategic SG&A spending to support the continued rollout of Paper Mate® InkJoy®
+T112	Fact 40498 40523	Core sales increased 7.0%
+T113	Fact 40534 40650	the introduction of new products in North America and continued investment in sales forces in international markets.
+R50	Cause Cause:T113 Effect:T112	
+T114	Fact 40851 41009	Operating income for 2012 was $109.8 million, or 13.6% of net sales, a decrease of $9.3 million, or 7.8%, from $119.1 million, or 15.3% of net sales, for 2011
+T115	Fact 41011 41176	The 170 basis point decrease in operating margin is partially attributable to input cost inflation and unfavorable mix, partially offset by pricing and productivity.
+R51	Cause Cause:T115 Effect:T114	
+T116	Fact 41177 41497	The decrease was also the result of a 100 basis point increase in constant currency SG&A costs as a percentage of net sales due to higher brand building and ongoing strategic SG&A spending, structural SG&A to support geographic expansion, and sustained investment in selling and marketing resources in certain businesses
+R52	Cause Cause:T116 Effect:T114	
+T117	Fact 41653 41814	Excluding the impacts of foreign currency, sales at the segment’s North American businesses increased 6.2% while sales declined 10.1% at international businesses
+T118	Fact 41833 41876	continued softness in the European markets.
+R53	Cause Cause:T118 Effect:T117	
+T119	Fact 41928 42087	Operating income for 2012 was $92.9 million, or 12.2% of net sales, a decrease of $15.4 million, or 14.2%, from $108.3 million, or 14.6% of net sales, for 2011
+T120	Fact 42089 42501	The 240 basis point decrease in operating margin is primarily attributable to a 290 basis point increase in constant currency SG&A costs as a percentage of net sales due to higher brand building and ongoing strategic SG&A spending, structural SG&A to support geographic expansion primarily in Latin America, and sustained investments in selling and marketing resources, partially offset by gross margin expansion
+R54	Cause Cause:T120 Effect:T119	
+T121	Fact 42627 42652	Core sales increased 9.8%
+T122	Fact 42690 42836	improvements in sales at the retail level in North America and sustained growth momentum in the Asia Pacific markets attributable to new products.
+R55	Cause Cause:T122 Effect:T121	
+T123	Fact 43057 43215	Operating income for 2012 was $72.7 million, or 9.9% of net sales, an increase of $21.1 million, or 40.9%, from $51.6 million, or 7.6% of net sales, for 2011.
+T124	Fact 43216 43433	The 230 basis point increase in operating margin is attributable to productivity, favorable mix, and better leverage of constant currency SG&A costs on the net sales increase, partially offset by input cost inflation.
+R56	Cause Cause:T124 Effect:T123	
+T125	Fact 43550 43575	Core sales decreased 0.4%
+T126	Fact 43594 43720	declines in the window hardware and interactive teaching technologies product lines, partially offset by increases in labeling
+R57	Cause Cause:T126 Effect:T125	
+T127	Fact 43927 44086	Operating income for 2012 was $68.2 million, or 12.6% of net sales, an increase of $8.0 million, or 13.3%, from $60.2 million, or 10.9% of net sales, for 2011.
+T128	Fact 44087 44335	The 170 basis point increase in operating margin is attributable to a 280 basis point decrease in constant currency SG&A costs as a percentage of net sales, driven by reductions in strategic SG&A activities, partially offset by input cost inflation
+R58	Cause Cause:T128 Effect:T127	
+T129	Fact 45544 45633	Includes restructuring-related costs of $37.4 million and $15.2 million for 2011 and 2010
+T130	Fact 45649 45828	associated with the European Transformation Plan, and 2011 also includes $6.3 million of incremental costs associated with the Company’s Chief Executive Officer transition in 2011
+R59	Cause Cause:T130 Effect:T129	
+T131	Fact 45975 46000	Core sales increased 1.2%
+T132	Fact 46012 46112	high-single-digit core sales growth at Calphalon due to new product launches and distribution gains.
+R60	Cause Cause:T132 Effect:T131	
+T133	Fact 46315 46474	Operating income for 2011 was $228.9 million, or 13.4% of net sales, an increase of $0.6 million, or 0.3%, from $228.3 million or 13.6% of net sales, for 2010.
+T134	Fact 46475 46618	The 20 basis point decline in operating margin is primarily attributable to input cost inflation, partially offset by pricing and productivity.
+R61	Cause Cause:T134 Effect:T133	
+T135	Remove 44509 45190;45191 45543	Home Solutions $1,710.2 $1,678.0 1.9 %Writing 1,399.3 1,355.8 3.2Tools 779.6 687.6 13.4Commercial Products 741.5 683.1 8.5Baby & Parenting 680.4 700.2 (2.8)Specialty 553.6 553.5 —Total net sales $5,864.6 $5,658.2 3.6The following table sets forth an analysis of changes in net sales in each segment for 2011 as compared to 2010: Home Solutions Writing Tools Commercial Products Baby & Parenting SpecialtyCore sales1.2% 0.8% 10.3% 7.4% (5.5)% (2.1)%Foreign currency0.7 2.4 3.1 1.1 2.7 2.1Total change in net sales1.9% 3.2% 13.4% 8.5% (2.8)% 0.0 %Operating income (loss) by segment was as follows for the years ended December 31, (in millions, except percentages): 2011 2010 % Change Home Solutions $228.9 $228.3 0.3 %Writing 246.9 222.4 11.0Tools 119.1 93.0 28.1Commercial Products 108.3 134.2 (19.3)Baby & Parenting 51.6 53.4 (3.4)Specialty 60.2 66.5 (9.5)Impairment charges (382.6) — NMFRestructuring costs (50.1) (77.4) 35.3Corporate(3) (125.1) (96.9) (29.1)Total operating income $257.2 $623.5 (58.7)%NMF - Not meaningful figure(3)
+T136	Fact 46619 46707	In constant currency, SG&A costs as a percentage of net sales decreased 110 basis points
+T137	Fact 46715 46749	lower incentive compensation costs
+R62	Cause Cause:T137 Effect:T136	
+T138	Fact 46870 46960	Core sales increased 0.8% with low-single-digit core sales growth in fine writing products
+T139	Fact 46982 47038	a modest core sales decline in everyday writing products
+R63	Cause Cause:T139 Effect:T138	
+T140	Fact 47040 47191	Core sales growth for everyday writing products was impacted by an estimated $5 to $10 million of sales shifted from 2011 to the fourth quarter of 2010
+T141	Fact 47199 47263	customer order acceleration to qualify for annual volume rebates
+R64	Cause Cause:T141 Effect:T140	
+T142	Fact 47472 47633	Operating income for 2011 was $246.9 million, or 17.6% of net sales, an increase of $24.5 million, or 11.0%, from $222.4 million, or 16.4% of net sales, for 2010
+T143	Fact 47635 47820	The 120 basis point increase in operating margin is attributable to a 60 basis point increase in gross margin, as pricing and productivity were partially offset by input cost inflation.
+R65	Cause Cause:T143 Effect:T142	
+T144	Fact 47821 47908	In constant currency, SG&A costs as a percentage of net sales decreased 60 basis points
+T145	Fact 47916 48110	lower structural SG&A costs, including lower incentive compensation, partially offset by higher strategic SG&A spending to support geographic expansion, new market entries and distribution gains
+R66	Cause Cause:T145 Effect:T144	
+T146	Fact 48226 48252	Core sales increased 10.3%
+T147	Fact 48264 48330	double- and high-single-digit core sales growth across the segment
+R67	Cause Cause:T147 Effect:T146	
+T148	Fact 48522 48682	Operating income for 2011 was $119.1 million, or 15.3% of net sales, an increase of $26.1 million, or 28.1%, from $93.0 million, or 13.5% of net sales, for 2010
+T149	Fact 48684 48995	The 180 basis point increase in operating margin is attributable to a 190 basis point decrease in constant currency SG&A as a percentage of net sales due to better leverage of structural SG&A as a result of increased sales, partially offset by the effects of input cost inflation net of pricing and productivity
+R68	Cause Cause:T149 Effect:T148	
+T150	Fact 49151 49303	Excluding the impacts of currency, sales at the segment’s North American businesses increased 9.2% while sales declined 1.2% at international businesses
+T151	Fact 49322 49354	weakness in the European markets
+R69	Cause Cause:T151 Effect:T150	
+T152	Fact 49404 49565	Operating income for 2011 was $108.3 million, or 14.6% of net sales, a decrease of $25.9 million, or 19.3%, from $134.2 million, or 19.6% of net sales, for 2010.
+T153	Fact 49566 49721	The 500 basis point decrease in operating margin is primarily attributable to input cost inflation and unfavorable product mix, partially offset by pricing
+R70	Cause Cause:T153 Effect:T152	
+T154	Fact 49723 49811	In constant currency, SG&A costs as a percentage of net sales increased 130 basis points
+T155	Fact 49819 49978	increases in brand building, other strategic SG&A and structural spending to support products and initiatives, partially offset by lower incentive compensation
+R71	Cause Cause:T155 Effect:T154	
+T156	Fact 50103 50127	Core sales declined 5.5%
+T157	Fact 50145 50241	continued economic pressure and declining birth rates in the North American and European markets
+R72	Cause Cause:T157 Effect:T156	
+T158	Fact 50432 50586	Operating income for 2011 was $51.6 million, or 7.6% of net sales, a decrease of $1.8 million, or 3.4%, from $53.4 million, or 7.6% of net sales, for 2010
+T159	Fact 50588 50706	Operating margins were favorably impacted by pricing and productivity, which more than offset the impacts of inflation
+R73	Cause Cause:T159 Effect:T158	
+T160	Fact 51126 51151	Core sales decreased 2.1%
+T161	Fact 51163 51320	double-digit core sales declines at the hardware businesses, partially offset by mid-single-digit core sales growth in the labeling and technology businesses
+R74	Cause Cause:T161 Effect:T160	
+T162	Fact 51510 51666	Operating income for 2011 was $60.2 million, or 10.9% of net sales, a decrease of $6.3 million, or 9.5%, from $66.5 million, or 12.0% of net sales, for 2010
+T163	Fact 51668 51833	The 110 basis point decrease in operating margin is primarily attributable to a 190 basis point increase in constant currency SG&A costs as a percentage of net sales
+R75	Cause Cause:T163 Effect:T162	
+T164	Fact 51835 51895	Structural SG&A costs increased as a percentage of net sales
+T165	Fact 51911 51938	the decrease in core sales.
+R76	Cause Cause:T165 Effect:T164	
+T166	Fact 51939 52048	Higher strategic SG&A costs in the technology businesses attributable to investments in strategic initiatives
+T167	Fact 52069 52124	the increase in SG&A costs as a percentage of net sales
+R77	Cause Cause:T166 Effect:T167	
+T170	Fact 53261 53325	The $57.2 million year-over-year increase in operating cash flow
+T168	Fact 52948 53045	Historically, the Company’s primary sources of liquidity and capital resources have included cash
+T169	Fact 53058 53158	operations, proceeds from divestitures, issuance of debt, and use of available borrowing facilities.
+R78	Cause Cause:T169 Effect:T168	
+T171	Fact 53364 53749	•improved profitability in 2012 compared to 2011;•a $61.7 million decrease in incentive compensation payments made in 2012 compared to 2011; and•a $9.2 million decrease in customer program payments during 2012 compared to 2011;Partially offset by•a $41.1 million increase in contributions to the Company’s defined benefit plans, including its primary U.S. defined benefit pension plan.
+R79	Cause Cause:T171 Effect:T170	
+T172	Fact 53893 53956	The $21.3 million year-over-year decline in operating cash flow
+T173	Fact 54001 54267	•higher customer program payments in 2011 compared to 2010, including higher amounts paid in 2011 for amounts earned in 2010 compared to customer program payments in 2010 for amounts earned in 2009, which resulted in an incremental $114.0 million use of cash in 2011
+R80	Cause Cause:T173 Effect:T172	
+T174	Fact 54718 54915	The Company's short-term borrowings, which include commercial paper and the receivables financing facility, were $210.7 million at December 31, 2012 compared to $103.6 million at December 31, 2011.
+T175	Fact 54916 55301	The increase in short-term borrowings is primarily due to the redemption of the $436.7 million of the 5.25% Junior Convertible Subordinated Debentures (the "Debentures") in July 2012 and the repayments of an aggregate $750.0 million principal amount of medium-term notes during 2012, partially offset by proceeds from long-term debt issuances in the second and fourth quarters of 2012.
+R81	Cause Cause:T175 Effect:T174	
+T176	Fact 56840 56899	During 2011, the Company made net payments of $34.4 million
+T177	Fact 56911 57092	its short-term borrowing arrangements, including commercial paper and its receivables facility, compared to $133.6 million of net proceeds from these borrowing arrangements in 2010.
+R82	Cause Cause:T177 Effect:T176	
+T178	Fact 59038 59053	early repayment
+T179	Fact 58863 59030	In December 2012, the Company repaid $500.0 million outstanding principal amount of 5.50% notes due in April 2013 (the “2013 Notes”) and paid a premium of $7.1 million
+R83	Cause Cause:T178 Effect:T179	
+T180	Fact 59409 59502	In connection with the extinguishments of $20.2 million principal amount of Convertible Notes
+T181	Fact 59504 59595	the Company paid $3.1 million in cash to the holders of such Convertible Notes during 2011.
+R84	Cause Cause:T181 Effect:T180	
+T182	Fact 61301 61371	During 2012 and 2011, the Company paid $26.5 million and $20.0 million
+T183	Fact 61406 61451	acquisitions and acquisition-related activity
+R85	Cause Cause:T183 Effect:T182	
+T184	Fact 61452 61642	Cash used for restructuring activities was $48.6 million, $39.5 million and $72.8 million for 2012, 2011 and 2010, respectively, and is included in the cash provided by operating activities.
+T185	Fact 61643 61739	These payments relate primarily to employee severance, termination benefits and relocation costs
+R86	Cause Cause:T185 Effect:T184	
+T186	Remove 62566 62683	2012 2011 2010Accounts receivable67 61 62Inventory66 68 69Accounts payable(50) (46) (47)Cash conversion cycle83 83 84
+T187	Remove 67357 67524	2012 2011Short-term Borrowing ArrangementMaximum Average Maximum AverageCommercial paper$392.8 $163.6 $214.5 $80.0Receivables financing facility200.0 128.3 200.0 160.1
+T188	Remove 69040 69059	36Table of Contents
+T189	Fact 70291 70457	issuances of an aggregate of $850 million principal amount of medium-term notes and a $100.0 million increase in borrowings under the receivables facility during 2012
+T190	Fact 70214 70287	The decrease in total debt due to repayments in 2012 was partially offset
+R87	Cause Cause:T189 Effect:T190	
+T191	Remove 70621 70727	2012 2011 2010Average outstanding debt$2,195.5 $2,351.3 $2,461.0Average interest rate(1)3.5% 3.6% 4.8% (1)
+T192	Fact 70818 71026	The Company’s floating-rate debt, which includes medium-term notes that are subject to fixed-for-floating interest rate swaps, was 51.7% and 17.7% of total debt as of December 31, 2012 and 2011, respectively.
+T193	Fact 71027 71373	The increase in floating-rate debt is primarily due to fixed-for-floating interest rate swaps related to $500.0 million of 4.7% medium-term notes due 2020 that were entered into during 2012, whereas in 2011, the Company terminated and settled fixed-for-floating interest rate swaps relating to $750.0 million principal amount of medium-term notes
+R88	Cause Cause:T193 Effect:T192	
+T194	Fact 72528 72650	During 2012, the projected benefit obligations of the Company’s defined benefit plans increased approximately $170 million
+T195	Fact 72669 72699	the decline in interest rates.
+R89	Cause Cause:T195 Effect:T194	
+T196	Remove 73733 73752	37Table of Contents
+T197	Remove 78352 78679	Payments Due by Period TotalLess than 1 Year1-3 Years3-5 YearsMore than 5 YearsDebt(1)$1,918.4$211.9$250.0$350.0$1,106.5Interest on debt(2)453.167.2129.4121.9134.6Operating lease obligations(3)457.3105.5149.998.0103.9Purchase obligations(4)742.9645.697.3——Total contractual obligations(5)$3,571.7$1,030.2$626.6$569.9$1,345.0(1)
+T198	Fact 81662 81745	As of December 31, 2012, the Company had $45.7 million in standby letters of credit
+T199	Fact 81767 81869	the Company’s self-insurance programs, including workers’ compensation, product liability and medical.
+R90	Cause Cause:T199 Effect:T198	
+T200	Fact 81336 81406	As of December 31, 2012, the Company had liabilities of $727.7 million
+T201	Fact 81418 81570	its unfunded and underfunded pension and other postretirement benefit plans for which the Company expects to make contributions of $144 million in 2013.
+R91	Cause Cause:T201 Effect:T200	
+T202	Remove 82929 82948	39Table of Contents
+T203	Remove 94544 94563	41Table of Contents
+T204	Fact 99338 99405	The Company capitalized $43.9 million of software costs during 2012
+T205	Fact 99430 99549	to employee, consultant and related personnel costs incurred in the rollout of SAP in the European region and in Brazil
+R92	Cause Cause:T205 Effect:T204	
+T206	Remove 100615 100634	42Table of Contents
+T207	Remove 106072 106091	43Table of Contents
+T208	Remove 109155 109265	2012 2011 2010Net pension cost$25.4 $19.5 $21.5Net postretirement benefit costs7.2 8.4 9.2Total$32.6 $27.9 $30
+T209	Remove 109528 109547	44Table of Contents
+T210	Remove 109734 109961	Impact on 2012 Expense 25 basis point decrease in discount rate$0.625 basis point increase in discount rate$(0.7)25 basis point decrease in expected return on assets$3.025 basis point increase in expected return on assets$(3.0)
+T211	Remove 110515 110638	December 31, 2012 Impact on PBO25 basis point decrease in discount rate$68.325 basis point increase in discount rate$(65.7)
+T212	Fact 110639 110834	The Company has $621.1 million (after-tax) of net unrecognized pension and other postretirement losses ($931.3 million pretax) included as a reduction to stockholders’ equity at December 31, 2012
+T213	Fact 110836 111054	The unrecognized gains and losses primarily result from changes to life expectancies and other actuarial assumptions, changes in discount rates, as well as actual returns on plan assets being more or less than expected
+R93	Cause Cause:T213 Effect:T212	
+T214	Remove 111681 112055	“Financial Statements and Supplementary Data—Footnote 1—Description of Business and Significant Accounting Policies—Recent Accounting Pronouncements.” International Operations For 2012, 2011 and 2010, the Company’s non-U.S. businesses accounted for approximately 32%, 33% and 32% of net sales, respectively (see Footnote 19 of the Notes to Consolidated Financial Statements)
+T215	Remove 112187 112366	2012 vs. 2011 2011 vs. 2010 2012 2011 2010 % Change % ChangeU.S.$4,004.5 $3,915.7 $3,870.3 2.3 % 1.2%Non-U.S1,898.2 1,948.9 1,787.9 (2.6) 9.0 $5,902.7 $5,864.6 $5,658.2 0.6 % 3.6%
+T216	Remove 113871 113890	45Table of Contents
+T217	Fact 114242 114274	The transition to the SITME rate
+T218	Fact 114289 114383	a one-time foreign exchange gain of $5.6 million, which is recognized in other income in 2010.
+R94	Cause Cause:T217 Effect:T218	
+T219	Remove 119600 119619	46Table of Contents
+T220	Remove 125372 125391	47Table of Contents
+T221	Remove 126379 126487	Prepaid expenses and other$0.5Other assets$38.9Other accrued liabilities$1.3Other noncurrent liabilities$7.2
+T222	Remove 127643 127817	Market Risk(1) 2012Average December 31,2012 2011Average December 31,2011 ConfidenceLevelInterest rates $6.6 $2.9 $10.3 $10.6 95%Foreign exchange $9.7 $6.0 $11.8 $15.5 95% (1)
+T223	Remove 129458 129477	48Table of Contents
+T224	Verified 0 6	ITEM 7

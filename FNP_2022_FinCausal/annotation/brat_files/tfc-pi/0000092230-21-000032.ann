@@ -1,0 +1,266 @@
+T1	Fact 6214 6249	The increase in net interest income
+T2	Fact 6271 6444	a $152.9 billion increase in average outstanding loans, a $32.6 billion increase in average securities, partially offset by a 78 basis point decrease in earning asset yields
+R1	Cause Cause:T2 Effect:T1	
+T3	Fact 7715 7757	NPAs increased $703 million year over year
+T4	Fact 7776 7929	PCI loans that would have been classified as nonperforming at December 31, 2019 and loans exiting certain accommodation programs related to the CARES Act
+R2	Cause Cause:T4 Effect:T3	
+T5	Fact 8064 8106	Additional increases in noninterest income
+T6	Fact 8129 8206	higher insurance income driven by improved production levels and acquisitions
+R3	Cause Cause:T6 Effect:T5	
+T7	Fact 8265 8347	Excluding merger-related and restructuring charges, incremental operating expenses
+T8	Fact 8359 8607	the Merger, the loss on extinguishment of debt, charitable contribution and the impact of an increase of $521 million of amortization expense for intangibles, noninterest expense increased $5.3 billion, primarily reflecting the impact of the Merger
+R4	Cause Cause:T8 Effect:T7	
+T9	Fact 9256 9365	Total shareholders' equity was $70.9 billion at December 31, 2020, up $4.4 billion compared to the prior year
+T10	Fact 9367 9468	The increase is due to net income in excess of dividends paid of $1.8 billion and OCI of $1.6 billion
+R5	Cause Cause:T10 Effect:T9	
+T11	Fact 12933 12993	The significant increases in earnings assets and liabilities
+T12	Fact 13015 13119	the Merger, as well as impacts from the COVID-19 pandemic and the resulting government stimulus programs
+R6	Cause Cause:T12 Effect:T11	
+T13	Fact 13454 13599	The yield on the average securities portfolio for the year ended December 31, 2020 was 2.09%, down 53 basis points compared to the earlier period
+T14	Fact 13617 13678	lower yields on new purchases and higher premium amortization
+R7	Cause Cause:T14 Effect:T13	
+T15	Fact 14095 14142	The lower rates on interest-bearing liabilities
+T16	Fact 14151 14177	the lower rate environment
+R8	Cause Cause:T16 Effect:T15	
+T17	Fact 14179 14324	The lower rates on long-term debt also reflect the amortization of the fair value mark on the assumed debt and the issuance of new long-term debt
+T18	Fact 13995 14093	The average rate on long-term debt was 1.75%, down 147 basis points compared to the earlier period
+R9	Cause Cause:T17 Effect:T18	
+T19	Remove 15042 15245	Table 9: Taxable-Equivalent Net Interest Income and Rate / Volume Analysis (1)2020 vs. 20192019 vs. 2018Year Ended December 31,(Dollars in millions)Average Balances (5)Yield/RateIncome/ExpenseIncr.(Decr.
+T20	Remove 15272 15348	)Change due to202020192018202020192018202020192018RateVolumeRateVolumeAssets
+T21	Remove 15246 15271	)Change due toIncr.(Decr.
+T22	Remove 15392 16154	U.S. Treasury$2,194 $2,644 $3,800 1.81 %2.01 %1.89 %$40 $53 $72 $(13)$(5)$(8)$(19)$4 $(23)GSE1,846 2,402 2,394 2.33 2.26 2.23 43 53 54 (10)2 (12)(1)(1)— Agency MBS78,564 44,710 39,559 2.07 2.59 2.45 1,625 1,161 969 464 (270)734 192 59 133 States and political subdivisions501 587 958 3.92 3.73 3.68 19 21 35 (2)1 (3)(14)— (14)Non-agency MBS86 269 349 16.81 14.05 11.93 15 38 42 (23)6 (29)(4)7 (11)Other36 33 40 2.33 3.75 3.34 1 1 1 — — — — — — Total securities83,227 50,645 47,100 2.09 2.62 2.49 1,743 1,327 1,173 416 (266)682 154 69 85 Interest earning trading assets4,655 1,277 633 3.62 2.02 3.82 168 26 24 142 33 109 2 (15)17 Other earning assets (3)31,240 2,888 1,618 0.50 2.89 2.63 156 83 43 73 (122)195 40 5 35 Loans and leases, net of unearned income: (4)
+T23	Remove 16156 17510	Commercial and industrial141,850 67,435 59,663 3.39 4.25 3.98 4,801 2,868 2,374 1,933 (681)2,614 494 169 325 CRE27,410 17,651 16,994 3.32 4.79 4.67 914 849 798 65 (311)376 51 21 30 Commercial Construction6,659 4,061 4,441 3.72 5.23 4.79 243 208 209 35 (74)109 (1)19 (20)Lease financing5,753 2,443 1,917 4.38 3.44 3.19 252 84 61 168 28 140 23 5 18 Residential mortgage51,423 31,668 29,932 4.51 4.08 4.05 2,320 1,291 1,212 1,029 148 881 79 9 70 Residential home equity and direct26,951 12,716 11,860 6.03 5.97 5.41 1,625 759 641 866 8 858 118 70 48 Indirect auto25,055 12,545 11,215 6.61 8.51 8.18 1,656 1,068 917 588 (282)870 151 38 113 Indirect other11,264 6,654 5,896 7.11 6.65 6.25 801 443 368 358 33 325 75 25 50 Student7,596 460 — 4.62 5.20 — 351 24 — 327 (3)330 24 — 24 Credit card5,027 3,181 2,723 9.34 9.05 8.73 470 288 238 182 10 172 50 9 41 PCI— 631 548 — 16.05 19.64 — 102 108 (102)— (102)(6)(21)15 Total loans and leases HFI308,988 159,445 145,189 4.35 5.01 4.77 13,433 7,984 6,926 5,449 (1,124)6,573 1,058 344 714 LHFS5,513 2,159 1,228 3.13 3.91 4.13 173 85 50 88 (20)108 35 (3)38 Total loans and leases314,501 161,604 146,417 4.33 4.99 4.77 13,606 8,069 6,976 5,537 (1,144)6,681 1,093 341 752 Total earning assets433,623 216,414 195,768 3.61 4.39 4.20 15,673 9,505 8,216 6,168 (1,499)7,667 1,289 400 889 Nonearning assets65,462 31,080 26,505
+T24	Remove 17512 17550	Total assets$499,085 $247,494 $222,273
+T25	Remove 17618 18433	Interest-checking$94,879 $31,592 $26,951 0.23 0.62 0.43 216 197 116 19 (184)203 81 59 22 Money market and savings123,826 67,922 62,257 0.21 0.91 0.62 264 621 387 (357)(664)307 234 196 38 Time deposits30,008 17,970 13,963 1.02 1.54 0.94 305 277 132 28 (115)143 145 100 45 Foreign office deposits - interest-bearing— 272 494 — 2.35 1.67 — 6 9 (6)— (6)(3)2 (5)Total interest-bearing deposits (6)248,713 117,756 103,665 0.32 0.93 0.62 785 1,101 644 (316)(963)647 457 357 100 Short-term borrowings10,129 8,462 5,955 1.35 2.34 1.86 137 198 111 (61)(95)34 87 33 54 Long-term debt45,793 24,756 23,755 1.75 3.22 2.88 800 797 683 3 (472)475 114 84 30 Total interest-bearing liabilities304,635 150,974 133,375 0.57 1.39 1.08 1,722 2,096 1,438 (374)(1,530)1,156 658 474 184 Noninterest-bearing deposits (6)114,580 55,513 53,818
+T26	Remove 18435 18470	Other liabilities11,846 6,899 5,337
+T27	Remove 18472 18512	Shareholders' equity68,024 34,108 29,743
+T28	Remove 18514 18582	Total liabilities and shareholders' equity$499,085 $247,494 $222,273
+T29	Remove 18584 18631	Average interest-rate spread 3.04 %3.00 %3.12 %
+T30	Remove 18633 18759	NIM/net interest income 3.22 %3.42 %3.46 %$13,951 $7,409 $6,778 $6,542 $31 $6,511 $631 $(74)$705 Taxable-equivalent adjustment
+T31	Remove 18760 18772	$125 $96 $96
+T32	Fact 19603 19700	The provision for credit losses was $2.3 billion, compared to $615 million for the earlier period
+T33	Fact 19702 20268	The increase in the provision for credit lossesreflects the significant builds to the allowance for credit losses in the first and second quarters of the year due to increased economic stress associated with the pandemic and specific consideration of its impact on certain industries, as well as uncertainty related to performance after the expiration of relief packages and COVID-19, increased loan balances arising from the Merger and the effect of applying the CECL methodology in the current period compared to the incurred loss methodology in the earlier period
+R10	Cause Cause:T33 Effect:T32	
+T34	Fact 20391 20481	Higher net charge-offs also contributed to the increase in the provision for credit losses
+T35	Fact 20504 20539	increases as a result of the Merger
+R11	Cause Cause:T35 Effect:T34	
+T36	Remove 21010 21767	Table 10: Noninterest IncomeYear Ended December 31,(Dollars in millions)% Change2020201920182020 vs. 20192019 vs. 2018Insurance income$2,193 $2,072 $1,852 5.8 %11.9 %Wealth management income1,277 715 660 78.6 8.3 Service charges on deposits1,020 762 712 33.9 7.0 Residential mortgage income1,000 285 258 NM10.5 Investment banking and trading income944 244 154 NM58.4 Card and payment related fees761 555 522 37.1 6.3 Lending related fees315 124 99 154.0 25.3 Operating lease income309 153 145 102.0 5.5 Commercial real estate related income271 116 100 133.6 16.0 Income from bank-owned life insurance179 129 116 38.8 11.2 Securities gains (losses)402 (116)3 NMNMOther income (loss)208 216 255 (3.7)(15.3)Total noninterest income$8,879 $5,255 $4,876 69.0 7.8
+T37	Fact 22345 22428	In addition to the impacts from the Merger, insurance income increased $121 million
+T38	Fact 22436 22470	strong production and acquisitions
+R12	Cause Cause:T38 Effect:T37	
+T39	Fact 22637 22676	Residential mortgage banking income was
+T40	Fact 22687 22898	strong production and refinance activity driven by the lower rate environment, partially offset by lower valuations of the mortgage servicing rights and increased amortization driven by higher prepayments speeds
+R13	Cause Cause:T40 Effect:T39	
+T41	Remove 23241 24035	Table 11: Noninterest ExpenseYear Ended December 31,(Dollars in millions)% Change2020201920182020 vs. 20192019 vs. 2018Personnel expense$8,146 $4,833 $4,313 68.5 %12.1 %Professional fees and outside processing1,252 433 365 189.1 18.6 Net occupancy expense904 507 491 78.3 3.3 Software expense862 338 272 155.0 24.3 Amortization of intangibles685 164 131 NM25.2 Equipment expense484 280 267 72.9 4.9 Marketing and customer development273 137 102 99.3 34.3 Operating lease depreciation258 136 120 89.7 13.3 Loan-related expense242 123 108 96.7 13.9 Regulatory costs125 81 134 54.3 (39.6)Merger-related and restructuring charges860 360 146 138.9 146.6 Loss (gain) on early extinguishment of debt235 — — NMNMOther expense571 542 483 5.4 12.2 Total noninterest expense$14,897 $7,934 $6,932 87.8 14.5
+T42	Fact 24516 24681	Excluding the items mentioned above and the impact of an increase of $521 million of amortization expense for intangibles, noninterest expense increased $5.3 billion
+T43	Fact 24718 24728	the Merger
+R14	Cause Cause:T43 Effect:T42	
+T44	Fact 24730 24817	In addition to the impacts of the Merger, operating costs were elevated due to COVID-19
+T45	Fact 24837 24906	approximately $250 million of expenses compared to the earlier period
+R15	Cause Cause:T44 Effect:T45	
+T46	Fact 25069 25111	Additionally, personnel expenses increased
+T47	Fact 25127 25273	the completion of a post-Merger reevaluation of job grades that resulted in additional salaries, incentives and equity-based compensation expenses
+R16	Cause Cause:T47 Effect:T46	
+T48	Remove 27178 27646	Table 12: Merger-Related and Restructuring Accrual Activity(Dollars in millions)Accrual at Jan 1, 2019ExpenseUtilizedAccrual at Dec 31, 2019ExpenseUtilizedAccrual at Dec 31, 2020Severance and personnel-related$43 $149 $(146)$46 $232 $(242)$36 Occupancy and equipment— 13 (13)— 294 (294)— Professional services1 102 (61)42 238 (264)16 Systems conversion and related costs— 4 (4)— 30 (30)— Other adjustments— 92 (91)1 66 (56)11 Total (1)$44 $360 $(315)$89 $860 $(886)$63
+T49	Remove 28291 28693	Table 13: Net Income by Reportable Segment% ChangeYear Ended December 31,(Dollars in millions)2020201920182020 vs. 20192019 vs. 2018Consumer Banking and Wealth$3,059 $1,765 $1,435 73.3 %23.0 %Corporate and Commercial Banking2,321 1,791 1,598 29.6 12.1 Insurance Holdings407 318 253 28.0 25.7 Other, Treasury & Corporate(1,295)(637)(29)103.3 NMTruist Financial Corporation$4,492 $3,237 $3,257 38.8 (0.6)
+T50	Fact 29214 29264	Segment net interest income increased $4.2 billion
+T51	Fact 29282 29292	the Merger
+R17	Cause Cause:T51 Effect:T50	
+T52	Fact 29294 29335	Noninterest income increased $1.7 billion
+T53	Fact 29353 29633	the Merger and higher residential mortgage income as a result of the lower rate environment driving mortgage production through refinance activity, partially offset by lower residential mortgage servicing income driven by higher prepayment and an MSR fair value adjustment in 2020
+R18	Cause Cause:T53 Effect:T52	
+T54	Fact 29635 29699	The allocated provision for credit losses increased $491 million
+T55	Fact 29717 29727	the Merger
+R19	Cause Cause:T55 Effect:T54	
+T56	Fact 29729 29771	Noninterest expense increased $3.8 billion
+T57	Fact 29789 29895	operating expenses and amortization of intangibles related to the Merger and impacts from COVID-19 in 2020
+R20	Cause Cause:T57 Effect:T56	
+T58	Fact 29897 29960	The allocated provision for income taxes increased $378 million
+T59	Fact 29978 29999	higher pre-tax income
+R21	Cause Cause:T59 Effect:T58	
+T60	Fact 30000 30124	Consumer Banking and Wealth average loans and leases held for investment increased $67.9 billion, or 94.9%, compared to 2019
+T61	Fact 30145 30155	the Merger
+R22	Cause Cause:T61 Effect:T60	
+T62	Fact 30369 30473	Consumer Banking and Wealth average total deposits increased $119.5 billion, or 120.4%, compared to 2019
+T63	Fact 30494 30534	the Merger and COVID-19 stimulus impacts
+R23	Cause Cause:T63 Effect:T62	
+T64	Fact 30922 30972	Segment net interest income increased $2.4 billion
+T65	Fact 30991 31001	the Merger
+R24	Cause Cause:T65 Effect:T64	
+T66	Fact 31003 31044	Noninterest income increased $1.3 billion
+T67	Fact 31062 31249	the Merger and other increases in investment banking income, partially offset by losses in trading income primarily related to the decline in interest rates and widening of credit spreads
+R25	Cause Cause:T67 Effect:T66	
+T68	Fact 31251 31315	The allocated provision for credit losses increased $1.2 billion
+T69	Fact 31333 31409	the Merger as well as increased economic stress associated with the pandemic
+R26	Cause Cause:T69 Effect:T68	
+T70	Fact 31411 31453	Noninterest expense increased $1.9 billion
+T71	Fact 31471 31551	operating expenses and amortization of intangibles related to the Merger in 2020
+R27	Cause Cause:T71 Effect:T70	
+T72	Fact 31553 31616	The allocated provision for income taxes increased $103 million
+T73	Fact 31634 31655	higher pre-tax income
+R28	Cause Cause:T73 Effect:T72	
+T74	Fact 31656 31785	Corporate and Commercial Banking average loans and leases held for investment increased $81.6 billion, or 95.9%, compared to 2019
+T75	Fact 31806 31846	the Merger and growth in corporate loans
+R29	Cause Cause:T75 Effect:T74	
+T76	Fact 31848 31953	Average loans and leases HFI for the Corporate and Institutional Group increased $47.4 billion, or 157.0%
+T77	Fact 31975 32229	the Merger and growth in commercial and industrial loans, while average loans and leases HFI for Commercial Community Banking increased $34.2 billion, or 62.3%, driven primarily by the Merger, and growth in commercial and industrial loans, and PPP impact
+R30	Cause Cause:T77 Effect:T76	
+T78	Fact 32230 32338	Corporate and Commercial Banking average total deposits increased $68.0 billion, or 102.7%, compared to 2019
+T79	Fact 32359 32399	the Merger and COVID-19 stimulus impacts
+R31	Cause Cause:T79 Effect:T78	
+T80	Fact 32718 32759	Noninterest income increased $129 million
+T81	Fact 32777 32897	organic growth in commercial property and casualty and other insurance commissions, along with acquisitions made in 2020
+R32	Cause Cause:T81 Effect:T80	
+T82	Fact 33051 33101	Segment net interest income decreased $158 million
+T83	Fact 33119 33230	a decline in funding charges on assets to other segments relative to the funding credit provided on liabilities
+R33	Cause Cause:T83 Effect:T82	
+T84	Fact 33232 33273	Noninterest income increased $447 million
+T85	Fact 33291 33407	the gain on sale of securities in 2020, partially offset by lower income related to certain post-employment benefits
+R34	Cause Cause:T85 Effect:T84	
+T86	Fact 33409 33472	The allocated provision for credit losses increased $27 million
+T87	Fact 33490 33528	the provision for unfunded commitments
+R35	Cause Cause:T87 Effect:T86	
+T88	Fact 33530 33572	Noninterest expense increased $1.2 billion
+T89	Fact 33590 33811	operating expenses related to the Merger, higher merger-related charges and incremental operating expenses related to the Merger, loss on early extinguishment of long-term debt, and elevated COVID-related expenses in 2020
+R36	Cause Cause:T89 Effect:T88	
+T90	Fact 33813 33864	The benefit for income taxes increased $306 million
+T91	Fact 33882 33902	a higher pre-tax los
+R37	Cause Cause:T91 Effect:T90	
+T92	Fact 35741 35857	The securities portfolio totaled $120.8 billion at December 31, 2020, compared to $74.7 billion at December 31, 2019
+T93	Fact 35859 35931	The increase was due primarily to a $47.0 billion increase in Agency MBS
+R38	Cause Cause:T93 Effect:T92	
+T94	Remove 35399 35740	Table 14: Composition of Securities PortfolioDecember 31,(Dollars in millions)20202019AFS securities (at fair value):U.S. Treasury$1,746 $2,276 GSE1,917 1,881 Agency MBS - residential113,541 68,236 Agency MBS - commercial3,057 1,341 States and political subdivisions493 585 Non-agency MBS— 368 Other34 40 Total AFS securities$120,788 $74,727
+T95	Fact 36021 36113	During 2020, the Company sold non-Agency MBS, and sold and reinvested residential Agency MBS
+T96	Fact 36115 36218	These sales were the primary drivers for the gains of $402 million for the year ended December 31, 2020
+R39	Cause Cause:T95 Effect:T96	
+T97	Remove 36848 37658	Table 15: Securities Yields by Major Category and MaturityDecember 31, 2020(Dollars in millions)AFSFair ValueYield (1)U.S. Treasury: Within one year$254 1.51 %One to five years1,492 0.85 Total1,746 0.95 GSE: Within one year288 2.81 One to five years1,553 2.20 After ten years76 3.03 Total1,917 2.33 Agency MBS - residential: (2) One to five years1 2.77 Five to ten years441 2.42 After ten years113,099 1.95 Total113,541 1.95 Agency MBS - commercial: (2)One to five years2 2.80 Five to ten years10 2.86 After ten years3,045 1.92 Total3,057 1.93 States and political subdivisions: Within one year29 3.54 One to five years132 2.58 Five to ten years115 4.58 After ten years217 3.65 Total493 3.57 Other: Within one year1 1.83 One to five years7 3.55 After ten years26 1.70 Total34 2.08 Total securities$120,788 1.95
+T98	Remove 45586 46376	Table 16: Loans and Leases as of Period EndDecember 31,(Dollars in millions)20202019201820172016Commercial:Commercial and industrial$138,354 $130,180 $61,935 $59,153 $57,739 CRE26,595 26,832 16,808 17,173 15,945 Commercial construction6,491 6,205 4,252 4,090 3,819 Lease financing5,240 6,122 2,018 1,911 1,677 Consumer:Residential mortgage47,272 52,071 31,393 28,725 29,921 Residential home equity and direct26,064 27,044 11,775 12,088 12,295 Indirect auto26,150 24,442 11,282 11,641 13,342 Indirect other11,177 11,100 6,143 5,594 5,222 Student7,552 6,743 — — — Credit card4,839 5,619 2,941 2,675 2,452 PCI— 3,484 466 651 910 Total loans and leases HFI299,734 299,842 149,013 143,701 143,322 LHFS6,059 8,373 988 1,099 1,716 Total loans and leases$305,793 $308,215 $150,001 $144,800 $145,038
+T99	Fact 47468 47525	This was partially offset by an increase in indirect auto
+T100	Fact 47533 47594	expanded client offerings and an improving credit environment
+R40	Cause Cause:T100 Effect:T99	
+T101	Fact 47595 47647	Credit card loans decreased $780 million during 2020
+T102	Fact 47655 47715	lower business and consumer spending as a result of COVID-19
+R41	Cause Cause:T102 Effect:T101	
+T103	Fact 47716 47755	LHFS decreased $2.3 billion during 2020
+T104	Fact 47773 48032	the sale of loans that had been placed in LHFS after the close of the Merger and the branch divestiture in connection with the Merger, partially offset by the transfer of $1.0 billion to LHFS due to the decision to exit a small ticket loan and lease portfolio
+R42	Cause Cause:T104 Effect:T103	
+T105	Remove 48582 49198	Table 17: Commercial Loan MaturitiesDecember 31, 2020(Dollars in millions)1 Year or Less1 to 5 YearsAfter 5 YearsTotalFixed rate: Commercial and industrial$4,776 $21,910 $18,383 $45,069 CRE359 2,296 2,273 4,928 Commercial construction10 85 116 211 Lease financing189 1,876 1,807 3,872 Total fixed rate5,334 26,167 22,579 54,080 Variable rate: Commercial and industrial20,610 54,435 18,240 93,285 CRE3,354 12,364 5,949 21,667 Commercial construction1,738 4,054 488 6,280 Lease financing147 315 906 1,368 Total variable rate25,849 71,168 25,583 122,600 Total commercial loans and leases$31,183 $97,335 $48,162 $176,680
+T106	Fact 50669 50762	Average commercial loans decreased $5.4 billion, primarily in commercial and industrial loans
+T107	Fact 50770 50798	paydowns on commercial lines
+R43	Cause Cause:T107 Effect:T106	
+T108	Remove 49756 50515	Table 18: Average Loans and LeasesFor the Three Months Ended(Dollars in millions)Dec 31, 2020Sep 30, 2020Jun 30, 2020Mar 31, 2020Dec 31, 2019Commercial:Commercial and industrial$139,223 $143,452 $152,991 $131,743 $81,853 CRE27,030 27,761 27,804 27,046 19,896 Commercial construction6,616 6,861 6,748 6,409 4,506 Lease financing5,401 5,626 5,922 6,070 3,357 Consumer:Residential mortgage48,847 51,500 52,380 52,993 34,824 Residential home equity and direct26,327 26,726 27,199 27,564 15,810 Indirect auto25,788 24,732 24,721 24,975 15,390 Indirect other11,291 11,530 11,282 10,950 7,772 Student7,519 7,446 7,633 7,787 1,825 Credit card4,818 4,810 4,949 5,534 3,788 PCI— — — — 1,220 Total average loans and leases HFI$302,860 $310,444 $321,629 $301,071 $190,241
+T109	Fact 50925 51009	The carrying value of PPP loans was down $1.4 billion compared to September 30, 2020
+T110	Fact 51029 51129	a decline of $304 million in average PPP loans compared to the average for the third quarter of 2020
+R44	Cause Cause:T109 Effect:T110	
+T111	Fact 51131 51259	In addition, average commercial loans were impacted by the transfer of $1.0 billion of certain loans and leases to held for sale
+T112	Fact 51279 51365	a decline in the average balance of $323 million compared to the third quarter of 2020
+R45	Cause Cause:T111 Effect:T112	
+T113	Fact 51366 51411	Average consumer loans decreased $2.2 billion
+T114	Fact 51429 51577	seasonally lower loan production and refinance activity resulting in a decline in residential mortgages and residential home equity and direct loans
+R46	Cause Cause:T114 Effect:T113	
+T115	Remove 52305 52550	Table 19: Client Accommodations (1)Active AccommodationsExited AccommodationsDecember 31, 2020(Dollars in millions)Total CountOutstanding BalanceOutstanding Balance% Paid-off or Current (2)Types of AccommodationsCommercial835 $274 $21,239 97.2 %
+T116	Remove 53745 53899	Table 20: Accommodations ExposureDecember 31, 2020(Dollars in billions)ExposureCurrent$28,571 Past due and still accruing545 Nonperforming372 Total$29,488
+T117	Fact 57183 57292	Nonperforming assets totaled $1.4 billion at December 31, 2020, up $703 million compared to December 31, 2019
+T118	Fact 57308 57479	the adoption of CECL, which resulted in the discontinuation of the pool-level accounting for PCI loans and replaced that with a loan-level evaluation for nonaccrual status
+R47	Cause Cause:T118 Effect:T117	
+T119	Remove 54556 57027	Table 21: Selected Credit ExposuresDecember 31, 2020(Dollars in billions)Outstanding BalancePercentage of Loans HFIHotels, Resorts & Cruise Lines$6.5 2.2 %Senior Care6.2 2.1 Oil & Gas Portfolio4.9 1.6 Acute Care Facilities4.6 1.5 Restaurants2.9 1.0 Sensitive Retail2.0 0.6 Total$27.1 9.0 %Other exposures (included in industries above):Leveraged lending$9.4 3.1 %Small secured real estate4.4 1.5 Truist Financial Corporation 55Asset QualityThe following tables summarize asset quality information for each of the last five years:Table 22: Asset QualityDecember 31,(Dollars in millions)20202019201820172016NPAs: NPLs: Commercial and industrial$532 $212 $200 $259 $369 CRE75 10 63 37 40 Commercial construction14 — 2 8 17 Lease financing28 8 3 1 4 Residential mortgage316 55 119 129 172 Residential home equity and direct205 67 53 64 63 Indirect auto155 100 82 71 71 Indirect other5 2 — 1 — Total NPLs HFI1,330 454 522 570 736 Loans held for sale5 107 — — — Total nonaccrual loans and leases1,335 561 522 570 736 Foreclosed real estate20 82 35 32 50 Other foreclosed property32 41 28 25 27 Total nonperforming assets$1,387 $684 $585 $627 $813 TDRs: Performing TDRs:Commercial and industrial$78 $47 $65 $50 $57 CRE47 6 8 11 16 Commercial construction— 37 2 5 9 Lease financing60 — — — — Residential mortgage648 470 656 605 769 Residential home equity and direct88 51 56 63 69 Indirect auto392 333 299 274 234 Indirect other6 5 6 7 6 Student5 — — — — Credit card37 31 27 28 27 Total performing TDRs$1,361 $980 $1,119 $1,043 $1,187 Nonperforming TDRs164 82 176 189 184 Total TDRs$1,525 $1,062 $1,295 $1,232 $1,371 Loans 90 days or more past due and still accruing: (1)Commercial and industrial$13 $1 $— $1 $— CRE— — — 1 — Residential mortgage841 543 405 465 522 Residential home equity and direct10 9 8 6 6 Indirect auto2 11 6 6 5 Indirect other2 2 — — 1 Student1,111 188 — — — Credit card29 22 13 12 12 PCI— 1,218 30 57 90 Total loans 90 days or more past due and still accruing$2,008 $1,994 $462 $548 $636 Loans 30-89 days past due and still accruing: (1) Commercial and industrial$83 $94 $34 $41 $44 CRE14 5 4 8 6 Commercial construction5 1 1 — 2 Lease financing6 2 1 4 4 Residential mortgage782 498 456 472 525 Residential home equity and direct98 122 63 67 62 Indirect auto495 560 390 373 347 Indirect other68 85 46 39 30 Student618 650 — — — Credit card51 56 26 21 21 PCI— 140 23 27 36 Total loans 30-89 days past due and still accruing$2,220 $2,213 $1,044 $1,052 $1,077
+T120	Fact 58035 58173	Performing TDRs were up $381 million compared to the prior year primarily in residential mortgage, lease financing and indirect auto loans
+T121	Fact 58176 58398	his increase primarily reflects the application of acquisition accounting related to the Merger, which resulted in the removal of the TDR designation on all loans that were restructured by SunTrust prior to the Merger date
+R48	Cause Cause:T121 Effect:T120	
+T122	Fact 58852 58927	Additionally, residential mortgage loans 90 days or more past due increased
+T123	Fact 58945 59001	the repurchase of delinquent government guaranteed loans
+R49	Cause Cause:T123 Effect:T122	
+T124	Remove 60290 61361	Table 23: Asset Quality RatiosAs Of / For The Year Ended December 31,20202019201820172016Loans 30-89 days past due and still accruing as a percentage of loans and leases HFI0.74 %0.74 %0.70 %0.73 %0.75 %Loans 90 days or more past due and still accruing as a percentage of loans and leases HFI0.67 0.66 0.31 0.38 0.44 NPLs as a percentage of loans and leases HFI0.44 0.15 0.35 0.40 0.51 Nonperforming loans and leases as a percentage of loans and leases (1)0.44 0.18 0.35 0.40 0.51 NPAs as a percentage of:Total assets (1)0.27 0.14 0.26 0.28 0.37 Loans and leases HFI plus foreclosed property0.46 0.19 0.39 0.44 0.57 Net charge-offs as a percentage of average loans and leases HFI0.36 0.40 0.36 0.38 0.38 ALLL as a percentage of loans and leases HFI1.95 0.52 1.05 1.04 1.04 Ratio of ALLL to:Net charge-offs5.21x2.44x2.98x2.78x2.80xNPLs4.39x3.41x2.99x2.62x2.03xLoans 90 days or more past due and still accruing as a percentage of loans and leases HFI excluding PPP, other government guaranteed and PCI loans(2)0.04 %0.03 %0.04 %0.05 %0.07 %Applicable ratios are annualized.
+T125	Remove 61956 62326	Table 24: Rollforward of NPAs(Dollars in millions)20202019Balance, January 1$684 $585 New NPAs (1)3,247 1,499 Advances and principal increases299 143 Disposals of foreclosed assets (2)(432)(479)Disposals of NPLs (3)(712)(239)Charge-offs and losses(578)(295)Payments(766)(392)Transfers to performing status(339)(137)Other, net(16)(1)Ending balance, December 31$1,387 $684
+T126	Remove 64517 64884	Table 25: Rollforward of Performing TDRs(Dollars in millions)20202019Balance, January 1$980 $1,119 Inflows933 576 Payments and payoffs (1)(194)(214)Charge-offs(44)(67)Transfers to nonperforming TDRs (2)(78)(77)Removal due to the passage of time(8)(18)Non-concessionary re-modifications(3)(8)Transferred to LHFS, sold and other(225)(331)Balance, December 31$1,361 $980
+T127	Fact 68552 68648	The ACL totaled $6.2 billion at December 31, 2020, compared to $1.9 billion at December 31, 2019
+T128	Fact 68650 68739	The increase in the allowance for credit losses was primarily due to the adoption of CECL
+R50	Cause Cause:T128 Effect:T127	
+T129	Remove 66417 68551	Commercial:Commercial and industrial$77 98.7 %$— — %$1 1.3 %$78 CRE47 100.0 — — — — 47 Commercial construction— — — — — — — Lease financing60 100.0 — — — — 60 Consumer:Residential mortgage383 59.1 107 16.5 158 24.4 648 Residential home equity and direct82 93.2 5 5.7 1 1.1 88 Indirect auto333 84.9 59 15.1 — — 392 Indirect other5 83.3 1 16.7 — — 6 Student5 100.0 — — — — 5 Credit card32 86.5 3 8.1 2 5.4 37 Total performing TDRs1,024 75.2 175 12.9 162 11.9 1,361 Nonperforming TDRs76 46.3 20 12.2 68 41.5 164 Total TDRs$1,100 72.1 $195 12.8 $230 15.1 $1,525 (1)Past due performing TDRs are included in past due disclosures and nonperforming TDRs are included in NPL disclosures.Truist Financial Corporation 59ACLActivity related to the ACL is presented in the following tables:Table 27: Activity in ACL(Dollars in millions)20202019201820172016Balance, beginning of period$1,889 $1,651 $1,609 $1,599 $1,550 CECL adoption - impact to retained earnings before tax2,762 — — — — CECL adoption - reserves on PCD assets378 — — — — Provision for credit losses2,335 615 566 547 572 Charge-offs: Commercial and industrial(358)(90)(92)(95)(143)CRE(78)(33)(10)(8)(8)Commercial construction(30)— (3)(2)(1)Lease financing(54)(11)(4)(5)(6)Residential mortgage(56)(21)(21)(47)(40)Residential home equity and direct(231)(93)(79)(69)(61)Indirect auto(378)(370)(342)(355)(315)Indirect other(60)(62)(49)(47)(51)Student(23)— — — — Credit card(182)(109)(76)(68)(61)PCI— — (2)(1)(15)Total charge-offs(1,450)(789)(678)(697)(701)Recoveries: Commercial and industrial92 25 39 36 44 CRE5 5 3 9 9 Commercial construction11 3 5 7 10 Lease financing4 1 1 2 2 Residential mortgage10 2 2 2 3 Residential home equity and direct66 30 25 27 28 Indirect auto87 52 49 46 44 Indirect other23 17 13 14 11 Student1 — — — — Credit card32 20 17 17 18 Total recoveries331 155 154 160 169 Net charge-offs(1,119)(634)(524)(537)(532)Other(46)257 — — 9 Balance, end of period$6,199 $1,889 $1,651 $1,609 $1,599 ALLL (excluding PCD / PCI loans)$5,668 $1,541 $1,549 $1,462 $1,445 ALLL for PCD / PCI loans167 8 9 28 44 RUFC364 340 93 119 110 Total ACL$6,199 $1,889 $1,651 $1,609 $1,599
+T130	Fact 68966 69023	The remaining increase in the allowance for credit losses
+T131	Fact 69043 69075	deteriorated economic conditions
+R51	Cause Cause:T131 Effect:T130	
+T132	Fact 69681 69773	Net charge-offs during 2020 totaled $1.1 billion, up $485 million compared to the prior year
+T133	Fact 69775 69836	The increase in net charge-offs primarily reflects the Merger
+R52	Cause Cause:T133 Effect:T132	
+T134	Remove 70683 71661	Table 28: Allocation of ALLL by Category20202019201820172016December 31,(Dollars in millions)Amount% Loans in Each CategoryAmount% Loans in Each CategoryAmount% Loans in each categoryAmount% Loans in each categoryAmount% Loans in each categoryCommercial and industrial$2,156 46.2 %$560 43.4 %$546 41.4 %$522 41.1 %$530 40.4 %CRE573 8.9 150 8.9 142 11.3 118 12.0 120 11.1 Commercial construction81 2.2 52 2.1 48 2.9 42 2.8 25 2.7 Lease financing48 1.7 10 2.0 11 1.4 9 1.3 7 1.2 Residential mortgage368 15.8 176 17.4 232 21.1 209 20.0 227 20.8 Residential home equity and direct714 8.7 107 9.0 104 7.9 113 8.4 111 8.6 Indirect auto1,198 8.7 304 8.2 298 7.6 296 8.1 273 9.3 Indirect other208 3.7 60 3.7 58 4.1 52 3.9 54 3.6 Student130 2.5 — 2.2 — — — — — — Credit card359 1.6 122 1.9 110 2.0 101 1.9 98 1.7 PCI— — 8 1.2 9 0.3 28 0.5 44 0.6 Total ALLL5,835 100.0 %1,549 100.0 %1,558 100.0 %1,490 100.0 %1,489 100.0 %RUFC364 340 93 119 110 Total ACL$6,199 $1,889 $1,651 $1,609 $1,599
+T135	Remove 73050 73579	Table 29: Other Assets as of Period EndDecember 31,(Dollars in millions)20202019Bank-owned life insurance$6,479 $6,383 Tax credit and other private equity investments5,685 5,448 Prepaid pension assets4,358 3,579 Derivative assets3,837 2,053 Accrued income1,934 1,807 Accounts receivable1,833 2,418 Leased assets and related assets1,810 1,897 ROU assets1,333 1,823 Prepaid expenses1,247 1,254 Equity securities at fair value1,054 817 Structured real estate390 987 FHLB stock164 764 Other549 2,602 Total other assets$30,673 $31,832
+T136	Remove 75171 75548	Table 30: Deposits as of Period EndDecember 31,(Dollars in millions)20202019201820172016Noninterest-bearing deposits$127,629 $92,405 $53,025 $53,767 $50,697 Interest checking105,269 85,492 28,130 27,677 30,263 Money market and savings126,238 120,934 63,467 62,757 64,883 Time deposits21,941 35,896 16,577 13,170 14,391 Total deposits$381,077 $334,727 $161,199 $157,371 $160,234
+T137	Fact 75549 75654	Deposits totaled $381.1 billion at December 31, 2020, an increase of $46.4 billion from December 31, 2019
+T138	Fact 75656 75816	The growth in deposits reflects solid growth in all non-time deposit categories resulting from pandemic-related client behavior and government stimulus programs
+R53	Cause Cause:T138 Effect:T137	
+T139	Fact 75818 75841	Time deposits decreased
+T140	Fact 75859 75964	maturities of wholesale negotiable certificates of deposit and higher-cost personal and business accounts
+R54	Cause Cause:T140 Effect:T139	
+T141	Remove 76077 76555	Table 31: Average DepositsThree Months Ended(Dollars in millions)Dec 31, 2020Sep 30, 2020Jun 30, 2020Mar 31, 2020Dec 31, 2019Noninterest-bearing deposits$127,103 $123,966 $113,875 $93,135 $64,485 Interest checking99,866 96,707 97,863 85,008 43,246 Money market and savings124,692 123,598 126,071 120,936 79,903 Time deposits23,605 27,940 33,009 35,570 23,058 Foreign office deposits - interest-bearing— — — — 24 Total average deposits$375,266 $372,211 $370,818 $334,649 $210,716
+T142	Fact 76684 76790	Average noninterest-bearing and interest checking deposit growth was strong for the fourth quarter of 2020
+T143	Fact 76801 76909	anticipated seasonal inflows in addition to continued growth resulting from pandemic-related client behavior
+R55	Cause Cause:T143 Effect:T142	
+T144	Fact 76911 76942	Average time deposits decreased
+T145	Fact 76960 77063	maturity of wholesale negotiable certificates of deposit and higher-cost personal and business accounts
+R56	Cause Cause:T145 Effect:T144	
+T146	Remove 77545 77784	Table 32: Scheduled Maturities of Time Deposits $100,000 and GreaterDecember 31, 2020(Dollars in millions)Three months or less$3,400 Over three through six months2,252 Over six through twelve months1,882 Over twelve months1,482 Total$9,016
+T147	Fact 79283 79406	At December 31, 2020, short-term borrowings totaled $6.1 billion, a decrease of $12.1 billion compared to December 31, 2019
+T148	Fact 79425 79480	a decrease of $10.8 billion in short-term FHLB advances
+R57	Cause Cause:T148 Effect:T147	
+T149	Remove 78515 79282	Table 33: Short-Term BorrowingsAs Of / For The Year Ended December 31,(Dollars in millions)202020192018Securities sold under agreements to repurchase: Maximum outstanding at any month-end during the year$2,348 $1,969 $836 Balance outstanding at end of year1,221 1,969 270 Average outstanding during the year1,504 826 446 Average interest rate during the year0.64 %2.01 %1.35 %Average interest rate at end of year0.13 1.41 1.59 Federal funds purchased and short-term borrowed funds:Maximum outstanding at any month-end during the year$19,392 $14,493 $8,919 Balance outstanding at end of year3,372 14,493 4,763 Average outstanding during the year6,951 7,354 5,341 Average interest rate during the year1.17 %2.28 %1.98 %Average interest rate at end of year0.20 1.75 2.49
+T150	Fact 79572 79712	Average short-term borrowings were $10.1 billion, or 2.4% of total funding for 2020, as compared to $8.5 billion, or 4.1% for the prior year
+T151	Fact 79714 79770	The increase in the average amount was due to the Merger
+R58	Cause Cause:T151 Effect:T150	
+T152	Fact 79772 79846	Average short-term borrowings decreased as a percentage of funding sources
+T153	Fact 79854 79875	strong deposit growth
+R59	Cause Cause:T153 Effect:T152	
+T154	Remove 92009 92376	Table 34: Interest Sensitivity Simulation AnalysisInterest Rate ScenarioAnnualized Hypothetical Percentage Change in Net Interest IncomeLinear Change in Prime Rate (bps)Prime RateDec 31, 2020Dec 31, 2019Dec 31, 2020Dec 31, 2019Up 1004.25 %5.75 %4.18 %0.95 %Up 503.75 5.25 3.24 0.75 No Change3.25 4.75 — — Down 25 (1)3.00 4.50 (1.82)NADown 50 (1)2.75 4.25 (2.09)(1.18)
+T155	Fact 93318 93406	Liquidity in the banking industry has been very strong during the current economic cycle
+T156	Fact 93408 93501	Much of this liquidity increase has resulted in growth in noninterest-bearing demand deposits
+R60	Cause Cause:T155 Effect:T156	
+T157	Remove 94335 94574	Table 35: Deposit Mix Sensitivity AnalysisLinear Change in Rates (bps)Base Scenario at December 31, 2020 (1)Results Assuming a Decrease in Noninterest-Bearing Demand Deposits$20 Billion$40 BillionUp 1004.18 %3.36 %2.54 %Up 503.24 2.64 2.04
+T158	Remove 95312 95484	Table 36: EVE Simulation AnalysisChange in Interest Rates (bps)Hypothetical Percentage Change in EVEDec 31, 2020Dec 31, 2019Up 1003.9 %(2.9)%No Change— — Down 100(7.6)(3.0)
+T159	Remove 103816 104204	Table 37: VaR-based MeasuresYear Ended December 31,20202019(Dollars in millions)10-Day Holding Period1-Day Holding Period10-Day Holding Period1-Day Holding PeriodVaR-based Measures:Maximum$65 $11 $9 $2 Average27 6 1 1 Minimum3 1 — — Period-end28 7 7 2 VaR by Risk Class:Interest Rate Risk2 2 Credit Spread Risk9 3 Equity Price Risk2 2 Foreign Exchange Risk— — Portfolio Diversification(5)
+T160	Remove 104732 104896	Table 38: Stressed VaR-based Measures - 10 Day Holding PeriodYear Ended December 31,(Dollars in millions)20202019Maximum$65 $33 Average33 5 Minimum13 2 Period-end28
+T161	Remove 127451 127878	Table 39: Credit Ratings of Truist Financial Corporation and Truist Bank S&PMoody'sFitchDBRS MorningstarTruist Financial Corporation:IssuerA- / A-2A3A+ / F1AH / R-1LSenior unsecuredA-A3AAHSubordinatedBBB+A3A-APreferred stockBBB-Baa2(hyb)BBBBBBHTruist Bank:IssuerA / A-1A2A+ / F1AAL / R-1MSenior unsecuredAA2A+AALDepositsNAAa2 / P-1AA- / F1+AAL / R-1MSubordinatedA-(P) A3AAHRatings outlook:Credit trendStableStableNegativeStable
+T162	Remove 129666 130370	Table 40: Contractual Obligations and Other CommitmentsDecember 31, 2020(Dollars in millions)TotalLess than 1 Year1 to 3 Years3 to 5 YearsAfter 5 YearsLong-term debt (1)$39,602 $5,373 $14,375 $11,106 $8,748 Operating leases2,079 361 677 468 573 Commitments to fund affordable housing investments1,057 623 364 27 43 Renewable energy, private equity and certain other equity method investment commitments (2)547 284 145 74 44 Time deposits21,941 17,438 3,860 593 50 Contractual interest payments (3)3,723 1,012 1,407 838 466 Purchase obligations (4)2,020 705 739 401 175 Nonqualified benefit plan obligations (5)1,914 22 54 53 1,785 Total contractual cash obligations$72,883 $25,818 $21,621 $13,560 $11,884
+T163	Remove 133666 134039	Table 41: Capital Requirements and Targets Minimum CapitalWell CapitalizedMinimum Capital Plus Stress Capital Buffer (3)Truist Targets (1) TruistTruist BankInterim Operating (2)StressedCET14.5 %NA6.5 %7.2 %8.0 %7.2 %Tier 1 capital6.0 6.08.0 8.7 9.3 8.7 Total capital8.0 10.010.0 10.7 11.3 10.7 Leverage ratio4.0 NA5.0 NA7.5 7.0 Supplementary leverage ratio3.0 NANANA6.5 6.0
+T164	Remove 138294 138552	Table 42: Capital Ratios - Truist BankDecember 31,20202019CET1 to risk-weighted assets11.0 %10.6 %Tier 1 capital to risk-weighted assets11.0 10.6 Total capital to risk-weighted assets13.0 12.0 Leverage ratio (1)8.7 14.5 Supplementary leverage ratio (2)7.5 NA
+T165	Remove 138863 139659	Table 43: Capital Ratios - Truist Financial CorporationDecember 31,(Dollars in millions, except per share data, shares in thousands)20202019Risk-based: CET1 capital to risk-weighted assets10.0 %9.5 %Tier 1 capital to risk-weighted assets12.1 10.8 Total capital to risk-weighted assets14.5 12.6 Leverage ratio (1)9.6 14.7 Supplementary leverage ratio (2)8.7 NANon-GAAP capital measure (3): Tangible common equity per common share$26.78 $25.93 Calculation of tangible common equity (3): Total shareholders' equity$70,912 $66,558 Less: Preferred stock8,048 5,102 Noncontrolling interests105 174 Goodwill and intangible assets, net of deferred taxes26,629 26,482 Tangible common equity$36,130 $34,800 Risk-weighted assets$379,153 $376,056 Common shares outstanding at end of period1,348,961 1,342,166
+T166	Fact 140996 141077	During 2020,Truist paid $2.4 billion in common stock dividends or $1.80 per share
+T167	Fact 141097 141139	a total payout ratio of 58.0% for the year
+R61	Cause Cause:T166 Effect:T167	
+T168	Remove 141171 141416	Table 44: Quarterly Financial Summary – Unaudited 20202019(Dollars in millions, except per share data)Fourth QuarterThird QuarterSecond QuarterFirst QuarterFourth QuarterThird QuarterSecond QuarterFirst QuarterConsolidated summary of operations:
+T169	Remove 141418 142154	Interest income$3,611 $3,623 $3,888 $4,426 $2,812 $2,218 $2,206 $2,173 Interest expense245 261 440 776 585 518 516 477 Provision for credit losses177 421 844 893 171 117 172 155 Noninterest income2,285 2,210 2,423 1,961 1,398 1,303 1,352 1,202 Noninterest expense3,833 3,755 3,878 3,431 2,575 1,840 1,751 1,768 Provision for income taxes311 255 191 224 153 218 234 177 Net income1,330 1,141 958 1,063 726 828 885 798 Noncontrolling interest1 3 3 3 5 3 (1)6 Preferred stock dividends101 70 53 74 19 90 44 43 Net income available to common shareholders$1,228 $1,068 $902 $986 $702 $735 $842 $749 Basic EPS$0.91 $0.79 $0.67 $0.73 $0.76 $0.96 $1.10 $0.98 Diluted EPS$0.90 $0.79 $0.67 $0.73 $0.75 $0.95 $1.09 $0.97 Selected average balances:
+T170	Remove 142156 142874	Assets$503,181 $500,826 $514,720 $477,550 $302,059 $232,420 $229,249 $225,573 Securities, at amortized cost102,053 79,828 75,159 75,701 60,699 48,900 46,115 46,734 Loans and leases (1)308,188 315,691 326,435 307,748 193,641 152,042 151,557 148,790 Total earning assets438,666 435,394 446,825 413,533 263,115 203,408 200,839 197,721 Deposits375,266 372,211 370,818 334,649 210,716 161,992 159,891 160,045 Short-term borrowings6,493 6,209 8,998 18,900 11,489 8,307 8,367 5,624 Long-term debt40,284 40,919 55,537 46,547 29,888 22,608 23,233 23,247 Total interest-bearing liabilities294,940 295,373 321,478 306,961 187,608 140,407 138,811 136,633 Shareholders' equity70,145 69,634 66,863 65,412 41,740 32,744 31,301 30,541
+T171	Fact 143572 143624	Average other earning assets increased $17.5 billion
+T172	Fact 143642 143697	higher interest-earning balances at the Federal Reserve
+R62	Cause Cause:T172 Effect:T171	
+T173	Fact 143959 144018	The significant increases in earning assets and liabilities
+T174	Fact 144040 144144	the Merger, as well as impacts from the COVID-19 pandemic and the resulting government stimulus programs
+R63	Cause Cause:T174 Effect:T173	
+T175	Fact 144145 144277	The yield on the total loan portfolio for the fourth quarter of 2020 was 4.12%, down 79 basis points compared to the earlier quarter
+T176	Fact 144304 144387	rate decreases, partially offset by purchase accounting accretion from merged loans
+R64	Cause Cause:T176 Effect:T175	
+T177	Fact 144389 144499	The yield on the average securities portfolio was 1.60%, down 105 basis points compared to the earlier quarter
+T178	Fact 144517 144546	lower yields on new purchases
+R65	Cause Cause:T178 Effect:T177	
+T179	Fact 144971 145053	The lower rates on interest-bearing liabilities reflect the lower rate environment
+T180	Fact 144762 144868	The average rate on short-term borrowings was 0.77%, down 138 basis points compared to the earlier quarter
+T181	Fact 144870 144969	The average rate on long-term debt was 1.64%, down 128 basis points compared to the earlier quarter
+R66	Cause Cause:T179 Effect:T181	
+R67	Cause Cause:T179 Effect:T180	
+T182	Fact 145055 145200	The lower rates on long-term debt also reflect the amortization of the fair value mark on the assumed debt and the issuance of new long-term debt
+R68	Cause Cause:T182 Effect:T181	
+T183	Fact 145912 145950	Insurance income increased $36 million
+T184	Fact 145958 146019	strong production and premium growth, as well as acquisitions
+R69	Cause Cause:T184 Effect:T183	
+T185	Fact 146251 146340	Service charges on deposits continued to rebound, but remained below 2019 combined levels
+T186	Fact 146348 146380	reduced overdraft incident rates
+R70	Cause Cause:T186 Effect:T185	
+T187	Fact 146642 146828	Excluding the merger-related items mentioned above and the impact of an increase of $101 million of amortization expense for intangibles, adjusted noninterest expense was up $994 million
+T188	Fact 146864 146874	the Merger
+R71	Cause Cause:T188 Effect:T187	
+T189	Fact 147005 147123	This produced an effective tax rate for the fourth quarter of 2020 of 19.0%, compared to 17.4% for the earlier quarter
+T190	Fact 147125 147154	The higher effective tax rate
+T191	Fact 146875 147003	The provision for income taxes was $311 million for the fourth quarter of 2020, compared to $153 million for the earlier quarter
+R72	Cause Cause:T191 Effect:T189	
+T192	Fact 147175 147196	higher pre-tax income
+R73	Cause Cause:T192 Effect:T190	
+T193	Verified 0 6	Item 7

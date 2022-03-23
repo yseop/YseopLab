@@ -1,0 +1,342 @@
+Item 7.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations Financial Presentation The following discussion and analysis contains forward-looking statements within the meaning of the federal securities laws, and should be read in conjunction with the disclosures we make concerning risks and other factors that may affect our business and operating results.
+You should read this information in conjunction with the consolidated financial statements and the notes thereto included in this annual report.
+See also “Cautionary Statement Concerning Forward-Looking Statements” immediately prior to Part I, Item 1 in this annual report.
+We categorize revenue from our cruise and cruise-related activities as either “passenger ticket” revenue or “onboard and other” revenue.
+Passenger ticket revenue and onboard and other revenue vary according to product offering, the size of the ship in operation, the length of cruises operated and the markets in which the ship operates.
+Our revenue is seasonal based on demand for cruises, which has historically been strongest during the Northern Hemisphere’s summer months.
+Passenger ticket revenue primarily consists of revenue for accommodations, meals in certain restaurants on the ship, certain onboard entertainment, and includes revenue for service charges and air and land transportation to and from the ship to the extent guests purchase these items from us.
+Onboard and other revenue primarily consists of revenue from gaming, beverage sales, shore excursions, specialty dining, retail sales, spa services and photo services.
+Our onboard revenue is derived from onboard activities we perform directly or that are performed by independent concessionaires, from which we receive a share of their revenue.
+Our cruise operating expense is classified as follows: · Commissions, transportation and other primarily consists of direct costs associated with passenger ticket revenue.
+These costs include travel agent commissions, air and land transportation expenses, related credit card fees, certain port expenses and the costs associated with shore excursions and hotel accommodations included as part of the overall cruise purchase price.
+· Onboard and other primarily consists of direct costs incurred in connection with onboard and other revenue, including casino, beverage sales and shore excursions.
+· Payroll and related consists of the cost of wages and benefits for shipboard employees and costs of certain inventory items, including food, for a third party that provides crew and other hotel services for certain ships.
+· Fuel includes fuel costs, the impact of certain fuel hedges and fuel delivery costs.
+· Food consists of food costs for passengers and crew on certain ships.
+· Other consists of repairs and maintenance (including Dry-dock costs), ship insurance and other ship expenses.
+Critical Accounting Policies Our consolidated financial statements have been prepared in accordance with U.S. GAAP.
+The preparation of these consolidated financial statements requires us to make estimates, judgments and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of our consolidated financial statements and the reported amounts of revenue and expenses during the periods presented.
+We rely on historical experience and on various other assumptions that we believe to be reasonable under the circumstances to make these estimates and judgments.
+Actual results could differ materially from these estimates.
+We believe that the following critical accounting policies reflect the significant estimates and assumptions used in the preparation of our consolidated financial statements.
+These critical accounting policies, which are presented in detail in our notes to our audited consolidated financial statements, relate to ship accounting, asset impairment and contingencies.
+Ship Accounting Ships represent our most significant assets, and we record them at cost less accumulated depreciation.
+Depreciation of ships is computed on a straight-line basis over the estimated service lives of primarily 30 years after a 15% reduction for the estimated residual value of the ship.
+Improvement costs that we believe add value to our ships are capitalized to the ship and depreciated over the shorter of the improvements’ estimated useful lives or the remaining useful life of the ship.
+Repairs and maintenance activities are charged to expense as incurred.
+We account for Dry-dock costs under the direct expense method which requires us to expense all Dry-dock costs as incurred.
+37 Table of Contents We determine the useful life of our ships based primarily on our estimates of the average useful life of the ships’ major component systems, such as cabins, main diesels, main electric, superstructure and hull.
+In addition, we consider the impact of anticipated changes in the vacation market and technological conditions and historical useful lives of similarly-built ships.
+Given the large and complex nature of our ships, our accounting estimates related to ships and determinations of ship improvement costs to be capitalized require considerable judgment and are inherently uncertain.
+Should certain factors or circumstances cause us to revise our estimate of ship service lives or projected residual values, depreciation expense could be materially lower or higher.
+If circumstances cause us to change our assumptions in making determinations as to whether ship improvements should be capitalized, the amounts we expense each year as repairs and maintenance costs could increase, partially offset by a decrease in depreciation expense.
+If we reduced our estimated average 30-year ship service life by one year, depreciation expense for the year ended December 31, 2018 would have increased by $13.3 million.
+In addition, if our ships were estimated to have no residual value, depreciation expense for the same period would have increased by $65.9 million.
+We believe our estimates for ship accounting are reasonable and our methods are consistently applied.
+We believe that depreciation expense is based on a rational and systematic method to allocate our ships’ costs to the periods that benefit from the ships’ usage.
+Asset Impairment We review our long-lived assets, principally ships, for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset may not be recoverable.
+Assets are grouped and evaluated at the lowest level for which there are identifiable cash flows that are largely independent of the cash flows of other groups of assets.
+We consider historical performance and future estimated results in our evaluation of potential impairment and then compare the carrying amount of the asset to the estimated future cash flows expected to result from the use of the asset.
+If the carrying amount of the asset exceeds the estimated expected undiscounted future cash flows, we measure the amount of the impairment by comparing the carrying amount of the asset to its fair value.
+We estimate fair value based on the best information available utilizing estimates, judgments and projections as necessary.
+Our estimate of fair value is generally measured by discounting expected future cash flows at discount rates commensurate with the associated risk.
+We evaluate goodwill for impairment annually or more frequently when an event occurs or circumstances change that indicates the carrying value of a reporting unit may not be recoverable.
+For our evaluation of goodwill we use the Step 0 Test which allows us to first assess qualitative factors to determine whether it is more likely than not (i.e., more than 50%) that the fair value of a reporting unit is less than its carrying value.
+In order to make this evaluation, we consider whether any of the following factors or conditions exist: · Changes in general macroeconomic conditions such as a deterioration in general economic conditions; limitations on accessing capital; fluctuations in foreign exchange rates; or other developments in equity and credit markets; · Changes in industry and market conditions such as a deterioration in the environment in which an entity operates; an increased competitive environment; a decline in market-dependent multiples or metrics (in both absolute terms and relative to peers); a change in the market for an entity’s products or services; or a regulatory or political development; · Changes in cost factors that have a negative effect on earnings and cash flows; · Decline in overall financial performance (for both actual and expected performance); · Entity and reporting unit specific negative events such as changes in management, key personnel, strategy, or customers; litigation; or a change in the composition or carrying amount of net assets; and · Decline in share price (in both absolute terms and relative to peers).
+We believe our estimates and judgments with respect to our long-lived assets, principally ships, goodwill, tradenames and other indefinite-lived intangible assets are reasonable.
+Nonetheless, if there was a material change in assumptions used in the determination of such fair values or if there is a material change in the conditions or circumstances that influence such assets, we could be required to record an impairment charge.
+If a material change occurred, we may conduct a quantitative assessment comparing the fair value of each reporting unit to its carrying value, including goodwill.
+This is called the Step I Test which consists of a combined approach using the expected future cash flows and market multiples to determine the fair value of the reporting units.
+For our annual impairment evaluation, we performed a Step 0 Test for the Norwegian, Regent Seven Seas and Oceania Cruises reporting units.
+As of December 31, 2018, there was $523.0 million, $462.1 million and $403.8 million of goodwill for the Oceania Cruises, Regent Seven Seas and Norwegian reporting units, respectively.
+As of December 31, 2018, our annual review consisting of the Step 0 Test supports the carrying value of these assets.
+38 Table of Contents Contingencies Periodically, we assess potential liabilities related to any lawsuits or claims brought against us or any asserted claims, including tax, legal and/or environmental matters.
+Although it is typically very difficult to determine the timing and ultimate outcome of such actions, we use our best judgment to determine if it is probable that we will incur an expense related to the settlement or final adjudication of such matters and whether a reasonable estimation of such probable loss, if any, can be made.
+In assessing probable losses, we take into consideration estimates of the amount of insurance recoveries, if any.
+In accordance with the guidance on accounting for contingencies, we accrue a liability when we believe a loss is probable and the amount of loss can be reasonably estimated.
+Although we believe that our estimates and judgments are reasonable, due to the inherent uncertainties related to the eventual outcome of litigation and potential insurance recoveries, it is possible that certain matters may be resolved for amounts materially different from any estimated provisions or previous disclosures.
+Non-GAAP Financial Measures We use certain non-GAAP financial measures, such as Net Revenue, Adjusted Net Revenue, Net Yield, Adjusted Net Yield, Net Cruise Cost, Adjusted Net Cruise Cost Excluding Fuel, Adjusted EBITDA, Adjusted Net Income and Adjusted EPS, to enable us to analyze our performance.
+See “Terms Used in this Annual Report” for the definitions of these and other non-GAAP financial measures.
+We utilize Net Revenue and Net Yield to manage our business on a day-to-day basis and believe that they are the most relevant measures of our revenue performance because they reflect the revenue earned by us net of significant variable costs.
+In measuring our ability to control costs in a manner that positively impacts net income, we believe changes in Net Cruise Cost and Adjusted Net Cruise Cost Excluding Fuel to be the most relevant indicators of our performance.
+As our business includes the sourcing of passengers and deployment of vessels outside of the U.S., a portion of our revenue and expenses are denominated in foreign currencies, particularly British pound, Canadian dollar, euro and Australian dollar which are subject to fluctuations in currency exchange rates versus our reporting currency, the U.S. dollar.
+In order to monitor results excluding these fluctuations, we calculate certain non-GAAP measures on a Constant Currency basis, whereby current period revenue and expenses denominated in foreign currencies are converted to U.S. dollars using currency exchange rates of the comparable period.
+We believe that presenting these non-GAAP measures on both a reported and Constant Currency basis is useful in providing a more comprehensive view of trends in our business.
+We believe that Adjusted EBITDA is appropriate as a supplemental financial measure as it is used by management to assess operating performance.
+We also believe that Adjusted EBITDA is a useful measure in determining our performance as it reflects certain operating drivers of our business, such as sales growth, operating costs, marketing, general and administrative expense and other operating income and expense.
+Adjusted EBITDA is not a defined term under GAAP nor is it intended to be a measure of liquidity or cash flows from operations or a measure comparable to net income, as it does not take into account certain requirements such as capital expenditures and related depreciation, principal and interest payments and tax payments and it includes other supplemental adjustments.
+In addition, Adjusted Net Revenue and Adjusted Net Yield, which exclude certain business combination accounting entries, are non-GAAP financial measures that we believe are useful as supplemental measures in evaluating the performance of our operating business and provide greater transparency into our results of operations.
+Adjusted Net Income and Adjusted EPS are non-GAAP financial measures that exclude certain amounts and are used to supplement GAAP net income and EPS.
+We use Adjusted Net Income and Adjusted EPS as key performance measures of our earnings performance.
+We believe that both management and investors benefit from referring to these non-GAAP financial measures in assessing our performance and when planning, forecasting and analyzing future periods.
+These non-GAAP financial measures also facilitate management’s internal comparison to our historical performance.
+In addition, management uses Adjusted EPS as a performance measure for our incentive compensation.
+The amounts excluded in the presentation of these non-GAAP financial measures may vary from period to period; accordingly, our presentation of Adjusted Net Revenue, Adjusted Net Yield, Adjusted Net Income and Adjusted EPS may not be indicative of future adjustments or results.
+For example, for the year ended December 31, 2017, we incurred an impairment of $2.9 million related to assets held for sale.
+A similar impairment was not incurred in the years ended December 31, 2018 or December 31, 2016.
+We included this as an adjustment in the reconciliation of Adjusted Net Income since this impairment amount was not representative of our day-to-day operations and we have included similar non-representative adjustments in prior periods.
+39 Table of Contents You are encouraged to evaluate each adjustment used in calculating our non-GAAP financial measures and the reasons we consider our non-GAAP financial measures appropriate for supplemental analysis.
+In evaluating our non-GAAP financial measures, you should be aware that in the future we may incur expenses similar to the adjustments in our presentation.
+Our non-GAAP financial measures have limitations as analytical tools, and you should not consider these measures in isolation or as a substitute for analysis of our results as reported under GAAP.
+Our presentation of our non-GAAP financial measures should not be construed as an inference that our future results will be unaffected by unusual or non-recurring items.
+Our non-GAAP financial measures may not be comparable to other companies.
+Please see a historical reconciliation of these measures to the most comparable GAAP measure presented in our consolidated financial statements below in the “Results of Operations” section.
+Summary of Significant 2018 Events In March 2018, we repurchased approximately $263.5 million of NCLH’s outstanding ordinary shares under our previously authorized three-year, $500.0 million share repurchase program, exhausting the remaining authorization under the program.
+In April 2018, the Board of Directors of NCLH approved a new three-year share repurchase program under which NCLH may purchase up to $1.0 billion of its ordinary shares.
+We repurchased approximately $401.3 million of NCLH’s ordinary shares under the Repurchase Program.
+In April 2018, Norwegian Bliss was delivered.
+In April 2018, we redeemed $135.0 million principal amount of the $700.0 million aggregate principal amount of outstanding 4.75% Senior Notes due 2021.
+As of December 31, 2018, the Sponsors no longer own any NCLH ordinary shares.
+Executive Overview Total revenue increased 12.2% to $6.1 billion for the year ended December 31, 2018 compared to $5.4 billion for the year ended December 31, 2017.
+Gross Yield increased 3.4%.
+Net Revenue for the year ended December 31, 2018 increased 12.6% to $4.7 billion from $4.2 billion in the same period in 2017 with an improvement in Net Yield of 3.7% and an increase in Capacity Days of 8.5%.
+For the year ended December 31, 2018, we had net income and diluted EPS of $954.8 million and $4.25, respectively.
+For the year ended December 31, 2017, we had net income and diluted EPS of $759.9 million and $3.31, respectively.
+Operating income increased 16.2% to $1.2 billion for the year ended December 31, 2018 from $1.0 billion for the year ended December 31, 2017.
+We had Adjusted Net Income and Adjusted EPS of $1.1 billion and $4.92, respectively, for the year ended December 31, 2018, including $150.1 million of adjustments primarily consisting of expenses related to non-cash share-based compensation, amortization of intangible assets, losses on the extinguishment of debt and certain other adjustments, compared to Adjusted Net Income and Adjusted EPS of $907.7 million and $3.96, respectively, for the year ended December 31, 2017.
+A 14.5% improvement in Adjusted EBITDA was achieved for the same period, primarily due to the increase in net income and EBITDA.
+We refer you to our “Results of Operations” below for a calculation of Net Revenue, Net Yield, Adjusted Net Income, Adjusted EPS and Adjusted EBITDA.
+40 Table of Contents Results of Operations We reported total revenue, total cruise operating expense, operating income and net income as follows (in thousands, except per share data): Year Ended December 31, 2018 2017 2016 Total revenue $6,055,126 $5,396,175 $4,874,340 Total cruise operating expense $3,377,076 $3,063,644 $2,850,225 Operating income $1,219,061 $1,048,819 $925,464 Net income $954,843 $759,872 $633,085 EPS: 
+ 
+ Basic $4.28 $3.33 $2.79 Diluted $4.25 $3.31 $2.78 The following table sets forth operating data as a percentage of total revenue: Year Ended December 31, 2018 2017 2016 Revenue 
+ 
+ Passenger ticket 70.4% 69.5% 69.5% Onboard and other 29.6% 30.5% 30.5% Total revenue 100.0% 100.0% 100.0% Cruise operating expense 
+ 
+ Commissions, transportation and other 16.5% 16.6% 16.7% Onboard and other 5.8% 5.9% 6.1% Payroll and related 14.6% 14.9% 15.3% Fuel 6.5% 6.7% 6.9% Food 3.5% 3.7% 4.1% Other 8.9% 9.0% 9.4% Total cruise operating expense 55.8% 56.8% 58.5% Other operating expense 
+ 
+ Marketing, general and administrative 14.8% 14.3% 13.7% Depreciation and amortization 9.3% 9.5% 8.9% Total other operating expense 24.1% 23.8% 22.6% Operating income 20.1% 19.4% 18.9% Non-operating income (expense) 
+ 
+ Interest expense, net (4.4)% (4.9)% (5.7)% Other income (expense), net 0.3% (0.2)% (0.1)% Total non-operating income (expense) (4.1)% (5.1)% (5.8)% Net income before income taxes 16.0% 14.3% 13.1% Income tax expense (0.2)% (0.2)% (0.1)% Net income 15.8% 14.1% 13.0% 41 Table of Contents The following table sets forth selected statistical information: Year Ended December 31, 2018 2017 2016 Passengers carried 2,795,101 2,519,324 2,337,311 Passenger Cruise Days 20,276,568 18,523,030 17,588,707 Capacity Days 18,841,678 17,363,422 16,376,063 Occupancy Percentage 107.6% 106.7% 107.4% Net Revenue, Adjusted Net Revenue, Gross Yield, Net Yield and Adjusted Net Yield were calculated as follows (in thousands, except Capacity Days and Yield data): Year Ended December 31, 2018 2018 Constant Currency 2017 2017 Constant Currency 2016 Passenger ticket revenue $4,259,815 $4,244,494 $3,750,030 $3,760,886 $3,388,954 Onboard and other revenue 1,795,311 1,795,311 1,646,145 1,646,145 1,485,386 Total revenue 6,055,126 6,039,805 5,396,175 5,407,031 4,874,340 Less: 
+ 
+ 
+ 
+ Commissions, transportation and other expense 998,948 995,097 894,406 896,985 813,559 Onboard and other expense 348,656 348,656 319,293 319,293 298,886 Net Revenue 4,707,522 4,696,052 4,182,476 4,190,753 3,761,895 Non-GAAP Adjustment: 
+ 
+ 
+ 
+ Deferred revenue (1) — — — — 1,057 Adjusted Net Revenue $4,707,522 $4,696,052 $4,182,476 $4,190,753 $3,762,952 Capacity Days 18,841,678 18,841,678 17,363,422 17,363,422 16,376,063 Gross Yield $321.37 $320.56 $310.78 $311.40 $297.65 Net Yield $249.85 $249.24 $240.88 $241.36 $229.72 Adjusted Net Yield $249.85 $249.24 $240.88 $241.36 $229.78 (1) Reflects deferred revenue fair value adjustments related to the Acquisition of Prestige that were made pursuant to business combination accounting rules.
+Gross Cruise Cost, Net Cruise Cost, Net Cruise Cost Excluding Fuel and Adjusted Net Cruise Cost Excluding Fuel were calculated as follows (in thousands, except Capacity Days and per Capacity Day data): Year Ended December 31, 2018 2017 2018 Constant Currency 2017 Constant Currency 2016 Total cruise operating expense $3,377,076 $3,365,030 $3,063,644 $3,064,892 $2,850,225 Marketing, general and administrative expense 897,929 897,438 773,755 773,028 666,156 Gross Cruise Cost 4,275,005 4,262,468 3,837,399 3,837,920 3,516,381 Less: 
+ 
+ 
+ 
+ Commissions, transportation and other expense 998,948 995,097 894,406 896,985 813,559 Onboard and other expense 348,656 348,656 319,293 319,293 298,886 Net Cruise Cost 2,927,401 2,918,715 2,623,700 2,621,642 2,403,936 Less: Fuel expense 392,685 392,685 361,032 361,032 335,174 Net Cruise Cost Excluding Fuel 2,534,716 2,526,030 2,262,668 2,260,610 2,068,762 Less Non-GAAP Adjustments: 
+ 
+ 
+ 
+ Non-cash deferred compensation expenses (1) 2,167 2,167 3,292 3,292 3,167 Non-cash share-based compensation expenses (2) 115,983 115,983 87,039 87,039 66,414 Secondary Equity Offering expenses (3) 883 883 949 949 — Severance payments and other fees (4) — — 2,912 2,912 8,223 Acquisition of Prestige expenses (5) — — 500 500 6,395 Contract renegotiation and termination expenses (6) — — — — 1,000 Other (7) (1,412) (1,412) 3,886 3,886 217 Adjusted Net Cruise Cost Excluding Fuel $2,417,095 $2,408,409 $2,164,090 $2,162,032 $1,983,346 Capacity Days 18,841,678 18,841,678 17,363,422 17,363,422 16,376,063 Gross Cruise Cost per Capacity Day $226.89 $226.23 $221.00 $221.03 $214.73 Net Cruise Cost per Capacity Day $155.37 $154.91 $151.11 $150.99 $146.80 Net Cruise Cost Excluding Fuel per Capacity Day $134.53 $134.07 $130.31 $130.19 $126.33 Adjusted Net Cruise Cost Excluding Fuel per Capacity Day $128.28 $127.82 $124.63 $124.52 $121.11 (1) Non-cash deferred compensation expenses related to the crew pension plan and other crew expenses, which are included in payroll and related expense.
+42 Table of Contents (2) Non-cash share-based compensation expense related to equity awards, which are included in marketing, general and administrative expense and payroll and related expense.
+(3) Secondary Equity Offering expenses are included in marketing, general and administrative expense.
+(4) Severance payments and other fees related to restructuring costs and other severance arrangements are included in marketing, general and administrative expense.
+(5) Acquisition of Prestige expenses are included in marketing, general and administrative expense.
+(6) Contract renegotiation and termination expenses, net related to the Acquisition of Prestige are included in other cruise operating expense and marketing, general and administrative expense.
+(7) Other primarily related to expenses and reimbursements for certain legal costs included in marketing, general and administrative expense.
+Adjusted Net Income and Adjusted EPS were calculated as follows (in thousands, except share and per share data): Year Ended December 31, 2018 2017 2016 Net income $954,843 $759,872 $633,085 Non-GAAP Adjustments: 
+ 
+ Non-cash deferred compensation expenses (1) 3,453 3,292 3,167 Non-cash share-based compensation expenses (2) 115,983 87,039 66,414 Secondary Equity Offering expenses (3) 883 949 — Severance payments and other fees (4) — 2,912 8,223 Acquisition of Prestige expenses (5) — 500 6,395 Deferred revenue (6) — — 1,057 Amortization of intangible assets (7) 24,890 30,273 21,069 Extinguishment of debt (8) 6,346 23,859 27,962 Derivative adjustment (9) — — (1,185) Contract renegotiation and termination expenses (10) — — 2,502 Deferred financing fees and other (11) — — 11,156 Impairment on assets held for sale (12) — 2,935 — Tax benefit (13) — (7,802) (3,594) Other (14) (1,412) 3,886 — Adjusted Net Income $1,104,986 $907,715 $776,251 Diluted weighted-average shares outstanding-Net income and Adjusted Net Income 224,419,205 229,418,326 227,850,286 Diluted EPS $4.25 $3.31 $2.78 Adjusted EPS $4.92 $3.96 $3.41 (1) Non-cash deferred compensation expenses related to the crew pension plan and other crew expenses are included in payroll and related expense and other income (expense), net.
+(2) Non-cash share-based compensation expenses related to equity awards are included in marketing, general and administrative expense and payroll and related expense.
+(3) Secondary Equity Offering expenses are included in marketing, general and administrative expense.
+(4) Severance payments and other fees related to restructuring costs and other severance arrangements are included in marketing, general and administrative expense.
+(5) Acquisition of Prestige expenses are included in marketing, general and administrative expense.
+(6) Deferred revenue fair value adjustments related to the Acquisition of Prestige that were made pursuant to business combination accounting rules are primarily included in passenger ticket revenue.
+(7) Amortization of intangible assets related to the Acquisition of Prestige are included in depreciation and amortization expense.
+(8) Losses on extinguishments of debt are included in interest expense, net, and legal expenses related to the extinguishments are included in marketing, general and administrative expense.
+(9) Losses and net gains for the fair value adjustment of a foreign exchange collar, which did not receive hedge accounting treatment and losses due to the dedesignation of certain fuel swaps, are included in other income (expense), net.
+(10) Contract renegotiation and termination expenses, net related to the Acquisition of Prestige are included in other cruise operating expense, marketing, general and administrative expense and depreciation and amortization expense.
+(11) Expenses related to the write-off of deferred financing fees and other fees related to the refinancing of certain credit facilities, including a tax benefit adjustment are included in interest expense, net.
+(12) Impairment charge related to Hawaii land-based operations, which is included in depreciation and amortization expense.
+(13) Tax benefits primarily due to reversal of tax contingency reserves in 2017 and reversal of a valuation allowance in 2016.
+(14) Other primarily related to expense and reimbursements for certain legal costs included in marketing, general and administrative expense.
+43 Table of Contents EBITDA and Adjusted EBITDA were calculated as follows (in thousands): Year Ended December 31, 2018 2017 2016 Net income $954,843 $759,872 $633,085 Interest expense, net 270,404 267,804 276,859 Income tax expense 14,467 10,742 7,218 Depreciation and amortization expense 561,060 509,957 432,495 EBITDA 1,800,774 1,548,375 1,349,657 Other (income) expense, net (1) (20,653) 10,401 8,302 Non-GAAP Adjustments: 
+ 
+ Non-cash deferred compensation expenses (2) 2,167 3,292 3,167 Non-cash share-based compensation expenses (3) 115,983 87,039 66,414 Secondary Equity Offering expenses (4) 883 949 — Severance payments and other expenses (5) — 2,912 8,223 Acquisition of Prestige expenses (6) — 500 6,395 Deferred revenue (7) — — 1,057 Contract renegotiation and termination expenses (8) — — 1,000 Other (9) (1,412) 3,886 217 Adjusted EBITDA $1,897,742 $1,657,354 $1,444,432 (1) Primarily consists of gains and losses, net for forward currency exchanges.
+(2) Non-cash deferred compensation expenses related to the crew pension plan and other crew expenses are included in payroll and related expense.
+(3) Non-cash share-based compensation expense related to equity awards are included in marketing, general and administrative expense and payroll and related expense.
+(4) Secondary Equity Offering expenses are included in marketing, general and administrative expense.
+(5) Severance payments and other fees related to restructuring costs and other severance arrangements are included in marketing, general and administrative expense.
+(6) Acquisition of Prestige expenses are included in marketing, general and administrative expense.
+(7) Deferred revenue fair value adjustments related to the Acquisition of Prestige that were made pursuant to business combination accounting rules are primarily included in passenger ticket revenue.
+(8) Contract renegotiation and termination expenses, net related to the Acquisition of Prestige are included in other cruise operating expense and marketing, general and administrative expense.
+(9) Other primarily related to expenses and reimbursement for certain legal costs included in marketing, general and administrative expense.
+Year Ended December 31, 2018 (“2018”) Compared to Year Ended December 31, 2017 (“2017”) Revenue Total revenue increased 12.2% to $6.1 billion in 2018 compared to $5.4 billion in 2017 primarily due to an increase in Capacity Days and improved pricing.
+Gross Yield increased 3.4%.
+Net Revenue increased 12.6% to $4.7 billion in 2018, from $4.2 billion in 2017, due to an increase in Capacity Days of 8.5% and an increase in Net Yield of 3.7%.
+The increase in Capacity Days was primarily due to Norwegian Joy and Norwegian Bliss joining our fleet in the second quarter of 2017 and 2018, respectively.
+The increase in Gross Yield and Net Yield was primarily due to an increase in passenger ticket revenue and Occupancy Percentage.
+On a Constant Currency basis, Net Yield increased 3.5%.
+Expense Total cruise operating expense increased 10.2% in 2018 compared to 2017, primarily due to the increase in Capacity Days.
+Gross Cruise Cost increased 11.4% in 2018 compared to 2017, due to higher total cruise operating expense and, to a lesser extent, higher marketing, general and administrative expenses.
+Total other operating expense increased 13.7% in 2018 compared to 2017.
+Marketing, general and administrative expenses increased primarily due to higher incentive compensation expense and higher advertising expenses.
+Depreciation and amortization expense increased primarily due to the additions of Norwegian Joy and Norwegian Bliss and ship improvement projects.
+Net Cruise Cost per Capacity Day increased 2.8% (2.5% on a Constant Currency basis) due to higher marketing, general and administrative expenses, higher commissions and transportation fees, and, to a lesser extent, higher maintenance and repairs, including fuel and Dry-dock expenses.
+Adjusted Net Cruise Cost Excluding Fuel per Capacity Day increased 2.9% (2.6% on a Constant Currency basis).
+We refer you to the “Results of Operations” above for a reconciliation of total cruise operating expense to Adjusted Net Cruise Cost Excluding Fuel.
+44 Table of Contents Interest expense, net was $270.4 million in 2018 compared to $267.8 million in 2017.
+The increase in interest expense primarily reflects additional debt incurred in connection with the delivery of Norwegian Joy and Norwegian Bliss in the second quarter of 2017 and 2018, respectively, Project Leonardo financing, and higher interest rates due to an increase in LIBOR.
+The increase in interest expense was partially offset by the benefit from the October 2017 full redemption of our 4.625% Senior Notes due 2020 and the benefit from the April 2018 partial $135.0 million redemption of our 4.75% Senior Notes due 2021.
+2018 included $6.3 million of redemption premium and write-off of fees in connection with the partial redemption.
+2017 included losses on extinguishment of debt and debt modification costs of $23.9 million.
+Other income (expense), net was income of $20.7 million in 2018 compared to expense of $10.4 million in 2017.
+Other income in 2018 was primarily due to gains on foreign currency exchange.
+Other expense in 2017 was primarily due to losses on foreign currency exchange.
+Income tax expense was $14.5 million in 2018 compared to $10.7 million in 2017.
+The expense in 2017 had benefits of $7.7 million from the impact on our net deferred tax liabilities of a change in both U.S. and U.K. tax rates due to tax reform and a reversal of prior years’ contingency reserves of $11.6 million.
+Year Ended December 31, 2017 (“2017”) Compared to Year Ended December 31, 2016 (“2016”) Revenue Total revenue increased 10.7% to $5.4 billion in 2017 compared to $4.9 billion in 2016 primarily due to an increase in Capacity Days and improved pricing.
+Gross Yield increased 4.4%.
+Net Revenue in 2017 increased 11.2% to $4.2 billion from $3.8 billion in 2016 due to an increase in Capacity Days of 6.0% and an increase in Net Yield of 4.9%.
+The increase in Capacity Days was primarily due to the delivery of Norwegian Joy in April 2017, the delivery of Seven Seas Explorer in June 2016 and Sirena joining our fleet in April 2016.
+The increase in Net Yield was primarily due to improved pricing.
+Adjusted Net Revenue includes a deferred revenue fair value adjustment of $1.0 million in 2016 related to the Acquisition of Prestige.
+On a Constant Currency basis, Net Yield and Adjusted Net Yield increased 5.1% and 5.0%, respectively, in 2017 compared to 2016.
+Expense Total cruise operating expense increased 7.5% in 2017 compared to 2016 primarily due to the increase in Capacity Days as discussed above and an increase in marketing, general and administrative expenses.
+Gross Cruise Cost increased 9.1% in 2017 compared to 2016 due to an increase in marketing, general and administrative expenses and total cruise operating expense.
+Total other operating expense increased 16.8% in 2017 compared to 2016 primarily due to an increase in depreciation and amortization expense and marketing, general and administrative expenses.
+Depreciation and amortization expense increased primarily due to the ship additions and ship improvement projects.
+The increase in marketing, general and administrative expense was primarily due to pay for performance incentive expenses.
+On a Capacity Day basis, Net Cruise Cost increased 2.9% on an actual and a Constant Currency basis, due to the increases in expenses discussed above.
+Adjusted Net Cruise Cost Excluding Fuel per Capacity Day increased 2.9% primarily due to the expenses discussed above (2.8% on a Constant Currency basis).
+We refer you to the “Results of Operations” above for a reconciliation of total cruise operating expense to Adjusted Net Cruise Cost Excluding Fuel.
+Interest expense, net was $267.8 million in 2017 compared to $276.9 million in 2016.
+Interest expense for 2017 reflects higher interest rates due to an increase in LIBOR, as well as an increase in average debt balances outstanding primarily associated with the delivery of new ships and newbuild installments.
+In connection with the redemption of senior notes and refinancing of certain of our credit facilities, interest expense, net included losses on extinguishment of debt and debt modification costs of $23.9 million in 2017 and $39.2 million in 2016.
+Other income (expense), net was an expense of $10.4 million in 2017 compared to an expense of $8.3 million in 2016.
+In 2017, the expense was primarily related to losses on foreign currency exchange.
+In 2016, the expense was primarily related to $16.1 million of unrealized and realized losses on fuel swap derivative hedge contracts partially offset by $4.5 million of gains on foreign currency exchange and $3.9 million of gains on foreign currency exchange derivative hedge contracts.
+In 2017, we had an income tax expense of $10.7 million compared to $7.2 million in 2016.
+The expense in 2017 had benefits of $7.7 million from the impact on our net deferred tax liabilities of a change in both U.S. and U.K. tax rates due to tax reform and a reversal of prior years’ contingency reserves of $11.6 million.
+The expense in 2016 had a benefit due to the reversal of a valuation allowance of $3.6 million.
+45 Table of Contents Liquidity and Capital Resources General As of December 31, 2018, our liquidity was $908.9 million consisting of $163.9 million in cash and cash equivalents and $745.0 million available under our Revolving Loan Facility.
+Our primary ongoing liquidity requirements are to finance working capital, capital expenditures and debt service.
+As of December 31, 2018, we had a working capital deficit of $2.6 billion.
+This deficit included $1.6 billion of advance ticket sales, which represents the total revenue we collect in advance of sailing dates and accordingly are substantially more like deferred revenue balances rather than actual current cash liabilities.
+Our business model, along with our Revolving Loan Facility, allows us to operate with a working capital deficit and still meet our operating, investing and financing needs.
+We evaluate potential sources of additional liquidity, including the capital markets, in the ordinary course of business.
+We will continue to evaluate opportunities to optimize our capital structure, taking into consideration our current and expected capital requirements, our assessment of prevailing market conditions and expectations regarding future conditions, and the contractual and other restrictions to which we are subject.
+Our existing debt agreements restrict, and any of our future debt arrangements may restrict, among other things, the ability of our subsidiaries to make distributions and/or to pay dividends to NCLC and NCLH’s ability to pay cash dividends to its shareholders.
+NCLH is a holding company and depends upon its subsidiaries for their ability to pay distributions to NCLH to finance any dividend or pay any other obligations of NCLH.
+However, we do not believe that these restrictions have had or are expected to have an impact on our ability to meet any cash obligations.
+In January 2019, we (a) reduced the pricing of our existing $875.0 million Revolving Loan Facility, (b) reduced the pricing and increased the approximately $1.3 billion principal amount outstanding under the term loan A facility to $1.6 billion, and (c) extended the maturity dates for our Revolving Loan Facility and our term loan A facility to 2024, subject to certain conditions.
+We used the proceeds from the increase in our term loan A facility to prepay all of the then outstanding amounts under the term loan B facility.
+Sources and Uses of Cash In this section, references to 2018 refer to the year ended December 31, 2018, references to 2017 refer to the year ended December 31, 2017 and references to 2016 refer to the year ended December 31, 2016.
+Net cash provided by operating activities was $2.1 billion in 2018 compared to $1.6 billion in 2017 and $1.3 billion in 2016.
+The net cash provided by operating activities in 2018 included net income of $954.8 million, an increase in advance ticket sales of $262.6 million and timing differences in cash receipts and payments relating to various operating assets and liabilities.
+Without the adoption of Topic 606, advance ticket sales would have increased by $250.6 million in 2018.
+We refer you to Note 3— “Revenue and Expense from Contracts with Customers” in the notes to consolidated financial statements for a discussion of the effects of the adoption of Topic 606.
+The change in net cash provided by operating activities in 2017 includes net income of $759.9 million compared to net income of $633.1 million in 2016, as well as timing differences in cash receipts and payments relating to various operating assets and liabilities, including advance ticket sales of $154.0 million in 2017 and $135.0 million in 2016.
+Net cash used in investing activities was $1.5 billion in 2018, primarily related to payments for the delivery of Norwegian Bliss, ships under construction, ship improvement projects, and shoreside projects.
+Net cash used in investing activities was $1.4 billion in 2017, primarily related to payments for the delivery of Norwegian Joy, ship improvements, ships under construction and shoreside projects.
+Net cash used in investing activities was $1.1 billion in 2016, primarily related to payments for the delivery of Seven Seas Explorer, ship improvements, ships under construction and shoreside projects.
+Net cash used in financing activities was $584.8 million in 2018, reflecting the net repayment of our Revolving Loan Facility, repayments on other loan facilities, the repurchase of NCLH’s ordinary shares and deferred financing fees and other, partially offset by the proceeds from borrowings on newbuild loan facilities.
+Net cash used in financing activities was $148.5 million in 2017, reflecting the repayment of our 4.625% senior unsecured notes, our net repayment of our Revolving Loan Facility, repayments on other loan facilities and deferred financing fees and other, partially offset by the proceeds from our Breakaway four loan facility.
+Net cash used in financing activities was $122.8 million in 2016, reflecting the repayments of our 5.25% senior unsecured notes, net repayments of our then existing revolving loan facility, repayments on other loan facilities, the repurchase of NLCH’s ordinary shares and deferred financing fees and other, partially offset by issuance of our $700.0 million 4.750% senior unsecured notes.
+46 Table of Contents Future Capital Commitments Future capital commitments consist of contracted commitments, including ship construction contracts, and future expected capital expenditures necessary for operations as well as our ship refurbishment projects.
+As of December 31, 2018, anticipated capital expenditures were $1.6 billion, $1.2 billion and $0.7 billion for the years ending December 31, 2019, 2020 and 2021, respectively.
+We have export credit financing in place for the anticipated expenditures related to ship construction contracts of $0.6 billion, $0.5 billion and $0.2 billion for the years ending December 31, 2019, 2020 and 2021, respectively.
+These future expected capital expenditures will significantly increase our depreciation and amortization expense as we take delivery of the ships.
+Project Leonardo will introduce an additional six ships, each approximately 140,000 Gross Tons with approximately 3,300 Berths, with expected delivery dates from 2022 through 2027, subject to certain conditions.
+We have a Breakaway Plus Class Ship, Norwegian Encore, with approximately 168,000 Gross Tons with 4,000 Berths, on order for delivery in the fall of 2019.
+For the Regent brand, we have orders for two Explorer Class Ships, Seven Seas Splendor and an additional ship, to be delivered in 2020 and 2023, respectively.
+Each of the Explorer Class Ships will be approximately 55,000 Gross Tons and 750 Berths.
+For the Oceania Cruises brand, we have orders for two Allura Class Ships to be delivered in 2022 and 2025.
+Each of the Allura Class Ships will be approximately 67,000 Gross Tons and 1,200 Berths.
+The combined contract prices of the 11 ships on order for delivery was approximately €7.9 billion, or $9.1 billion based on the euro/U.S.
+dollar exchange rate as of December 31, 2018.
+We have obtained export credit financing which is expected to fund approximately 80% of the contract price of each ship, subject to certain conditions.
+We do not anticipate any contractual breaches or cancellations to occur.
+However, if any such events were to occur, it could result in, among other things, the forfeiture of prior deposits or payments made by us and potential claims and impairment losses which may materially impact our business, financial condition and results of operations.
+Capitalized interest for the years ended December 31, 2018, 2017 and 2016 was $30.4 million, $29.0 million and $33.7 million, respectively, primarily associated with the construction of our newbuild ships.
+Off-Balance Sheet Transactions None.
+Contractual Obligations As of December 31, 2018, our contractual obligations with initial or remaining terms in excess of one year, including interest payments on long-term debt obligations, were as follows (in thousands): Total Less than 1 year 1-3 years 3-5 years More than 5 years Long-term debt (1) $6,609,866 $681,218 $3,232,177 $929,088 $1,767,383 Operating leases (2) 128,550 16,651 31,420 27,853 52,626 Ship construction contracts (3) 5,141,441 912,858 662,687 1,976,223 1,589,673 Port facilities (4) 1,738,036 62,388 151,682 157,330 1,366,636 Interest (5) 974,444 222,427 404,380 165,172 182,465 Other (6) 1,381,518 248,107 433,161 354,454 345,796 Total (7) $15,973,855 $2,143,649 $4,915,507 $3,610,120 $5,304,579 (1) Long-term debt includes discount and premiums aggregating $0.4 million and capital leases.
+Long-term debt excludes deferred financing fees which are a direct deduction from the carrying value of the related debt liability in the consolidated balance sheets.
+(2) Operating leases are primarily for offices, motor vehicles and office equipment.
+(3) Ship construction contracts are for our newbuild ships based on the euro/U.S.
+dollar exchange rate as of December 31, 2018.
+Export credit financing is in place from syndicates of banks.
+The amount does not include the two Project Leonardo ships, one Explorer Class Ship and two Allura Class Ships which were still subject to financing and certain Italian government approvals as of December 31, 2018.
+We refer you to Note 17— “Subsequent Events” in the notes to consolidated financial statements for details regarding the financing for certain ships.
+(4) Port facilities are for our usage of certain port facilities.
+(5) Interest includes fixed and variable rates with LIBOR held constant as of December 31, 2018.
+(6) Other includes future commitments for service, maintenance and other Business Enhancement Capital Expenditure contracts.
+(7) Total excludes $0.5 million of unrecognized tax benefits as of December 31, 2018, because an estimate of the timing of future tax settlements cannot be reasonably determined.
+47 Table of Contents Other Certain service providers may require collateral in the normal course of our business.
+The amount of collateral may change based on certain terms and conditions.
+As a routine part of our business, depending on market conditions, exchange rates, pricing and our strategy for growth, we regularly consider opportunities to enter into contracts for the building of additional ships.
+We may also consider the sale of ships, potential acquisitions and strategic alliances.
+If any of these transactions were to occur, they may be financed through the incurrence of additional permitted indebtedness, through cash flows from operations, or through the issuance of debt, equity or equity-related securities.
+Funding Sources Certain of our debt agreements contain covenants that, among other things, require us to maintain a minimum level of liquidity, as well as limit our net funded debt-to-capital ratio, and maintain certain other ratios and restrict our ability to pay dividends.
+Substantially all of our ships and other property and equipment are pledged as collateral for certain of our debt.
+We believe we were in compliance with these covenants as of December 31, 2018.
+In addition, our existing debt agreements restrict, and any of our future debt arrangements may restrict, among other things, the ability of our subsidiaries, including NCLC, to make distributions and/or pay dividends to NCLH and NCLH’s ability to pay cash dividends to its shareholders.
+NCLH is a holding company and depends upon its subsidiaries for their ability to pay distributions to it to finance any dividend or pay any other obligations of NCLH.
+However, we do not believe that these restrictions have had or are expected to have an impact on our ability to meet any cash obligations.
+The impact of changes in world economies and especially the global credit markets can create a challenging environment and may reduce future consumer demand for cruises and adversely affect our counterparty credit risks.
+In the event this environment deteriorates, our business, financial condition and results of operations could be adversely impacted.
+We believe our cash on hand, expected future operating cash inflows, additional available borrowings under our Revolving Loan Facility and our ability to issue debt securities or additional equity securities, will be sufficient to fund operations, debt payment requirements, capital expenditures and maintain compliance with covenants under our debt agreements over the next 12-month period.
+There is no assurance that cash flows from operations and additional financings will be available in the future to fund our future obligations.
+Item 7A.
+Quantitative and Qualitative Disclosures about Market Risk General We are exposed to market risk attributable to changes in interest rates, foreign currency exchange rates and fuel prices.
+We attempt to minimize these risks through a combination of our normal operating and financing activities and through the use of derivatives.
+The financial impacts of these derivative instruments are primarily offset by corresponding changes in the underlying exposures being hedged.
+We achieve this by closely matching the notional, term and conditions of the derivatives with the underlying risk being hedged.
+We do not hold or issue derivatives for trading or other speculative purposes.
+Derivative positions are monitored using techniques including market valuations and sensitivity analyses.
+Interest Rate Risk As of December 31, 2018, we had interest rate swap agreements to manage our interest expense by hedging the interest rate risks associated with variable rates on our outstanding borrowings.
+As of December 31, 2018, 72% of our debt was fixed and 28% was variable, which includes the effects of the interest rate swaps.
+The notional amount of our outstanding debt associated with the interest rate swap agreements was $1.0 billion as of December 31, 2018.
+As of December 31, 2017, 54% of our debt was fixed and 46% was variable, which includes the effects of the interest rate swaps.
+The notional amount of outstanding debt associated with the interest rate swap agreements was $218.6 million as of December 31, 2017.
+The change from December 31, 2017 to December 31, 2018 was due to additional interest rate swaps executed and the repayment of variable rate debt.
+Based on our December 31, 2018 outstanding variable rate debt balance, a one percentage point increase in annual LIBOR interest rates would increase our annual interest expense by approximately $18.4 million excluding the effects of capitalization of interest.
+48 Table of Contents Foreign Currency Exchange Rate Risk As of December 31, 2018, we had foreign currency derivatives to hedge the exposure to volatility in foreign currency exchange rates related to our ship construction contracts denominated in euros.
+These derivatives hedge the foreign currency exchange rate risk on a portion of the payments on our ship construction contracts.
+The payments not hedged aggregate €2.2 billion, or $2.5 billion based on the euro/U.S.
+dollar exchange rate as of December 31, 2018.
+As of December 31, 2017, the payments not hedged aggregated €3.3 billion, or $4.0 billion, based on the euro/U.S.
+dollar exchange rate as of December 31, 2017.
+The change from December 31, 2017 to December 31, 2018 was due to the delivery of a ship in April 2018 and additional foreign exchange derivatives executed.
+We estimate that a 10% change in the euro as of December 31, 2018 would result in a $0.3 billion change in the U.S. dollar value of the foreign currency denominated remaining payments.
+Fuel Price Risk Our exposure to market risk for changes in fuel prices relates to the forecasted purchases of fuel on our ships.
+Fuel expense, as a percentage of our total cruise operating expense, was 11.6% for the year ended December 31, 2018 and 11.8% for each of the years ended December 31, 2017 and 2016.
+We use fuel derivative agreements to mitigate the financial impact of fluctuations in fuel prices and as of December 31, 2018, we had hedged approximately 57%, 53% and 33% of our 2019, 2020 and 2021 projected metric tons of fuel purchases, respectively.
+As of December 31, 2017, we had hedged approximately 65%, 48% and 26% of our 2018, 2019 and 2020 projected metric tons of fuel purchases, respectively.
+The change in fuel price risk from December 31, 2017 to December 31, 2018 was due to additional fuel hedges executed.
+We estimate that a 10% increase in our weighted-average fuel price would increase our anticipated 2019 fuel expense by $40.5 million.
+This increase would be partially offset by an increase in the fair value of our fuel swap agreements of $20.1 million.
+Fair value of our derivative contracts is derived using valuation models that utilize the income valuation approach.
+These valuation models take into account the contract terms such as maturity, as well as other inputs such as fuel types, fuel curves, creditworthiness of the counterparty and the Company, as well as other data points.
+Item 8.
+Financial Statements and Supplementary Data Our Consolidated Financial Statements and Quarterly Selected Financial Data are included beginning on page F-1 of this report.
+Item 9.
+Changes In and Disagreements With Accountants on Accounting and Financial Disclosure None.
+49 Table of Contents Item 9A.
+Controls and Procedures Evaluation of Disclosure Controls and Procedures Our management has evaluated, with the participation of our Chief Executive Officer and Chief Financial Officer, the effectiveness of our disclosure controls and procedures, as such term is defined in Exchange Act Rule 13a-15(e), as of December 31, 2018.
+There are inherent limitations to the effectiveness of any system of disclosure controls and procedures, including the possibility of human error and the circumvention or overriding of the controls and procedures.
+Accordingly, even effective disclosure controls and procedures can only provide reasonable assurance of achieving their control objectives.
+Based upon management’s evaluation, our Chief Executive Officer and Chief Financial Officer concluded that our disclosure controls and procedures were effective as of December 31, 2018, to provide reasonable assurance that the information required to be disclosed by us in the reports we file or submit under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the rules and forms of the SEC, and that it is accumulated and communicated to our management, including our Chief Executive Officer and Chief Financial Officer, as appropriate to allow timely decisions regarding required disclosure.
+Management’s Annual Report on Internal Control over Financial Reporting Our management is responsible for establishing and maintaining adequate internal control over financial reporting, as such term is defined in Exchange Act Rule 13a-15(f).
+Under the supervision and with the participation of our management, including our Chief Executive Officer and Chief Financial Officer, we conducted an evaluation of the effectiveness of our internal control over financial reporting based on the 2013 Internal Control-Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (“COSO Framework”).
+Based on this evaluation under the COSO Framework, management concluded that our internal control over financial reporting was effective as of December 31, 2018.
+The effectiveness of the Company’s internal control over financial reporting as of December 31, 2018 has been audited by PricewaterhouseCoopers LLP, an independent registered public accounting firm, as stated in their report, which is included on page F-1.
+Changes in Internal Control Over Financial Reporting There have been no changes in our internal control over financial reporting during the quarter ended December 31, 2018 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+Limitations on the Effectiveness of Controls It should be noted that any system of controls, however well designed and operated, can provide only reasonable, and not absolute, assurance that the objectives of the system will be met.
+In addition, the design of any control system is based in part upon certain assumptions about the likelihood of future events.
+Because of these and other inherent limitations of control systems, there is only the reasonable assurance that our controls will succeed in achieving their goals under all potential future conditions.
+Item 9B.
+Other Information None.
+50 Table of Contents PART III Item 10.
+Directors, Executive Officers and Corporate Governance Except for information concerning executive officers (called for by Item 401(b) of Regulation S-K), which is included in Part I of this Annual Report and except as disclosed below with respect to our Code of Ethical Business Conduct, the information required under Item 10 is incorporated herein by reference to our definitive proxy statement to be filed with the SEC within 120 days after the end of our fiscal year ended December 31, 2018 in connection with our 2019 Annual General Meeting of Shareholders.
+Code of Ethical Business Conduct We have adopted a Code of Ethical Business Conduct that applies to all of our employees, including our principal executive officer, principal financial officer, principal accounting officer or controller and persons performing similar functions, and our directors.
+This document is posted on our website at www.nclhltdinvestor.com.
+We intend to disclose waivers from, and amendments to, our Code of Ethical Business Conduct that apply to our directors and executive officers, including our principal executive officer, principal financial officer, principal accounting officers or controller and persons performing similar functions, by posting such information on our website www.nclhltdinvestor.com to the extent required by applicable rules of the SEC and the NYSE.
+None of the websites referenced in this Annual Report or the information contained therein is incorporated herein by reference.
+Item 11.
+Executive Compensation The information required under Item 11 is incorporated herein by reference to our definitive proxy statement to be filed with the SEC within 120 days after the end of our fiscal year ended December 31, 2018 in connection with our 2019 Annual General Meeting of Shareholders.
+Item 12.
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters The information required under Item 12 is incorporated herein by reference to our definitive proxy statement to be filed with the SEC within 120 days after the end of our fiscal year ended December 31, 2018 in connection with our 2019 Annual General Meeting of Shareholders.
+Item 13.
+Certain Relationships and Related Transactions, and Director Independence The information required under Item 13 is incorporated herein by reference to our definitive proxy statement to be filed with the SEC within 120 days after the end of our fiscal year ended December 31, 2018 in connection with our 2019 Annual General Meeting of Shareholders.
+Item 14.
+Principal Accounting Fees and Services The information required under Item 14 is incorporated herein by reference to our definitive proxy statement to be filed with the SEC within 120 days after the end of our fiscal year ended December 31, 2018 in connection with our 2019 Annual General Meeting of Shareholders.
+51 Table of Contents PART IV Item 15.
+Exhibits, Financial Statement Schedules (1) Financial Statements Our Consolidated Financial Statements have been prepared in accordance with

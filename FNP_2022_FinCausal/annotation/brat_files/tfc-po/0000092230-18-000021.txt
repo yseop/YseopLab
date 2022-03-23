@@ -1,0 +1,942 @@
+ITEM 7.MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS Executive Overview Overview of Significant Events and Financial Results Net income available to common shareholders totaled $2.2 billion for 2017, a 1.7% decrease from the prior year.
+On a diluted per common share basis, earnings for 2017 were $2.74, compared to $2.77 for 2016.
+BB&T’s results of operations for 2017 produced a return on average assets of 1.09% and a return on average common shareholders’ equity of 8.25% compared to prior year ratios of 1.12% and 8.57%, respectively.
+These results include merger-related and restructuring charges of $115 million for 2017 compared to $171 million for 2016.
+Net interest income was up primarily due to an 11 basis point increase in the yield on earning assets, and a $2.3 billion increase in average outstanding loans.
+Noninterest income was up due to increased business activity for the majority of revenue sources, as well as higher income from SBIC and other investments.
+Noninterest expense was up due to a loss on the early extinguishment of higher-cost FHLB advances of $392 million ($246 million after tax), and $136 million ($86 million after tax) in one-time expenses incurred in connection with tax reform legislation.
+The current period provision for income taxes includes a net tax benefit of $43 million due to the passage of tax reform legislation.BB&T’s revenue for 2017 was $11.3 billion.
+On a TE basis, revenue was $11.5 billion, which represents an increase of $523 million compared to 2016.
+Net interest income on a TE basis was up $214 million compared to the prior year, which reflects a $308 million increase in interest income and a $94 million increase in interest expense.
+Noninterest income increased $310 million for the year, driven by improvements in FDIC loss share income, higher other income primarily due to income from SBIC investment and income related to assets for certain post-employment benefits, and higher insurance income primarily from the acquisition of Swett and Crawford in 2016.
+The increase in noninterest income was partially offset by lower mortgage banking income primarily resulting from a decline in the net mortgage servicing rights valuation.
+NIM was 3.46% for 2017, compared to 3.39% for the prior year.
+Average earning assets increased $2.3 billion or 1.2%, while average interest-bearing liabilities decreased $1.2 billion, or 0.9%.
+The annualized TE yield on the total loan portfolio for 2017 was 4.41%, up 11 basis points compared to the prior year.
+The annualized TE yield on the average securities portfolio was 2.45%, up 12 basis points compared to the prior year.The provision for credit losses was $547 million, compared to $572 million for the prior year.
+This decrease was primarily driven by improvement in the commercial and industrial portfolio.
+NPAs decreased $186 million compared to 2016.
+This included a $166 million decrease in NPLs primarily within commercial and industrial lending and residential mortgage, and a $20 million decrease in foreclosed real estate and other property.
+Net charge-offs for 2017 were $537 million, compared to $532 million for the prior year.
+The ratio of the ALLL to net charge-offs was 2.78x for 2017, compared to 2.80x in 2016.
+Noninterest expense increased $723 million primarily due to higher losses from the early extinguishment of debt and expenses incurred in connection with tax reform legislation.
+The actions taken associated with tax reform include a $100 million contribution to the Company's philanthropic fund and $36 million for a one-time bonus paid to associates who do not generally receive incentives.
+Additionally, noninterest expense increased due to higher incentive costs as a result of improved performance.
+The effective tax rate was 27.4% for 2017, compared to 30.2% for the prior year.
+The current period provision includes a net tax benefit related to tax reform legislation and excess tax benefits from equity-based compensation plans.BB&T’s total assets at December 31, 2017 were $221.6 billion, an increase of $2.4 billion compared to December 31, 2016.
+This includes a $4.0 billion increase in the total securities portfolio.
+The fair value of AFS securities totaled $24.5 billion at December 31, 2017, compared to $26.9 billion at December 31, 2016.
+The amortized cost of HTM securities was $23.0 billion at December 31, 2017 compared to $16.7 billion in the prior year.
+Total deposits at December 31, 2017 were $157.4 billion, a decrease of $2.9 billion from the prior year.
+Noninterest-bearing deposits increased $3.1 billion, interest checking decreased $2.6 billion and money market and savings decreased $2.1 billion.
+Time deposits declined $1.2 billion.
+The overall growth in lower-cost deposits is primarily due to increases in commercial and public funds balances.
+The average cost of interest-bearing deposits for 2017 was 0.32%, up 9 basis points compared to the prior year.
+29Table of ContentsTotal shareholders’ equity was $29.7 billion at December 31, 2017, down slightly compared to the prior year.
+Net income in excess of dividends totaling $1.2 billion was offset by $1.6 billion of share repurchases.
+BB&T’s Tier 1 risk-based capital and total risk-based capital ratios at December 31, 2017 were 11.9% and 13.9%, respectively, compared to 12.0% and 14.1% at December 31, 2016, respectively.
+The CET1 ratio was 10.2% at December 31, 2017 compared to 10.2% at December 31, 2016.Current Regulatory EnvironmentOver the past several years, BB&T has made substantial investments and incurred significant costs related to personnel, infrastructure and other items in response to increased regulations.
+While the impact of any relief is uncertain, the current U.S. administration has stated its intention to potentially alleviate part of the regulatory burden on financial institutions.Key Challenges BB&T’s business is dynamic and complex.
+Consequently, management annually evaluates and, as necessary, adjusts the Company’s business strategy in the context of the current operating environment.
+During this process, management considers the current financial condition and performance of the Company and its expectations for future economic activity from both a national and local market perspective.
+The achievement of key strategic objectives and established long-term financial goals is subject to many uncertainties and challenges.
+In the opinion of management, the challenges that are most relevant and likely to have a near term impact on performance are presented below: •Intense competition within the financial services industry given the challenge in growing assets.•New technologies and evolving consumer preferences will put pressure on market share and customer loyalty.•Global economic and geopolitical risk, including potential financial system instability and ramifications of sovereign debt issues.•Cost and risk associated with regulatory initiatives and IT projects.In addition, certain other challenges and unforeseen events could have a near term impact on BB&T’s financial condition and results of operations.
+See the sections titled "Forward-Looking Statements" and "Risk Factors" for additional examples of such challenges.Analysis of Results of OperationsNet Interest Income and NIM Net interest income is BB&T’s primary source of revenue.
+Net interest income is influenced by a number of factors, including the volume, mix and maturity of interest-earning assets and interest-bearing liabilities and the interest rates earned and paid thereon.
+The difference between rates earned on interest-earning assets and the cost of funds (with a TE adjustment made to tax-exempt items to provide comparability with taxable items) is measured by the NIM.2017 compared to 2016 For 2017, net interest income on a TE basis totaled $6.7 billion, an increase of $213 million or 3.3% compared to the prior year.
+The increase reflects higher interest income due to rate increases and higher outstanding loans primarily due to organic loan growth.
+This was partially offset by runoff in PCI and residential mortgage loans.
+Interest expense increased $94 million, reflecting higher funding costs due to rate increases.
+The NIM is the primary measure used in evaluating the gross profit margin from the portfolios of earning assets.
+The NIM was 3.46% in 2017 compared with 3.39% in 2016.
+The increase in the NIM reflects higher yields on loans and securities, partially offset by higher funding costs.
+The average annualized TE yield for total loans and leases was 4.41% for 2017, compared to 4.30% for the prior year.
+The increase was primarily due to rate increases, partially offset by runoff in PCI loans.
+The TE yield on the total securities portfolio was 2.45% for the year ended December 31, 2017, compared to 2.33% for the prior year.
+The average rate paid on interest-bearing deposits for 2017 increased to 0.32%, from 0.23% in 2016.
+This primarily reflects the impact of rate increases.
+30Table of ContentsThe average rate on short-term borrowings was 0.94% in 2017, compared to 0.35% in 2016.
+The increase in the rate on short-term borrowings reflects the federal funds target rate increases.
+The average rate on long-term debt was 2.10% during 2017, compared to 2.13% in the prior year.
+The decline in the average rate on long-term debt reflects the impact of the early extinguishment of $2.9 billion of higher cost FHLB advances in the first quarter, partially offset by new issuances.
+At December 31, 2017, the targeted Federal funds rate was a range of 1.25% to 1.50%.
+2016 compared to 2015 For 2016, net interest income on a TE basis totaled $6.5 billion, an increase of $743 million or 12.9% compared to the prior year.
+The increase reflects higher interest income due to acquisitions and organic loan growth, partially offset by lower yields on new loans and securities and runoff in the loan portfolio acquired from the FDIC.
+Interest expense increased slightly, reflecting higher balances from acquisitions, partially offset by improvement in the mix of funding sources.
+The NIM is the primary measure used in evaluating the gross profit margin from the portfolios of earning assets.
+The NIM was 3.39% in 2016 compared with 3.32% in 2015.
+The increase in the NIM reflects higher yields on loans and improved funding mix, partially offset by lower yields on securities.
+The average annualized TE yield for total loans and leases was 4.30% for 2016, compared to 4.26% for the prior year.
+The increase was primarily due to acquisitions, partially offset by lower yields on new loan originations and the runoff of higher yielding loans acquired from the FDIC.
+The TE yield on the total securities portfolio was 2.33% for the year ended December 31, 2016, compared to 2.36% for the prior year.
+The average rate paid on interest-bearing deposits for 2016 dropped to 0.23%, from 0.24% in 2015.
+This improvement was driven by changes in mix, with time deposits representing a lower percentage of interest-bearing deposits at December 31, 2016.
+The rate paid on average short-term borrowings was 0.35% in 2016, compared to 0.15% in 2015.
+The increase in the rate on short-term borrowings reflects the federal funds target rate increase from December 2015.
+The average rate on long-term debt was 2.13% during 2016, flat compared to the prior year.
+At December 31, 2016, the targeted Federal funds rate range was 0.50% to 0.75%.31Table of ContentsTable 5TE Net Interest Income and Rate / Volume Analysis (1)Year Ended December 31, 2017, 2016 and 2015 2017 vs. 2016 2016 vs. 2015 Average Balances (6) Yield/Rate Income/Expense Incr.
+Change due to Incr.
+Change due to(Dollars in millions) 2017 2016 2015 2017 2016 2015 2017 2016 2015 (Decr.)
+Rate Vol.
+(Decr.)
+Rate Vol.Assets
+
+
+
+
+Total securities, at amortized cost: (2)
+
+
+
+
+U.S. Treasury $4,179 $3,061 $2,650 1.71% 1.67% 1.58% $72 $51 $42 $21 $1 $20 $9 $2 $7GSE 2,385 3,601 5,338 2.22 2.13 2.13 53 77 113 (24) 3 (27) (36) — (36)Agency MBS 37,250 36,658 30,683 2.26 2.05 1.98 841 750 605 91 79 12 145 22 123States and political subdivisions 1,748 2,361 2,204 4.77 5.20 5.65 83 123 125 (40) (10) (30) (2) (11) 9Non-agency MBS 411 534 751 18.80 14.56 13.51 77 78 102 (1) 19 (20) (24) 7 (31)Other 56 64 477 2.17 1.87 1.31 1 — 7 1 1 — (7) 1 (8)Total securities 46,029 46,279 42,103 2.45 2.33 2.36 1,127 1,079 994 48 93 (45) 85 21 64Other earning assets (3) 3,484 3,202 2,768 1.53 1.64 1.39 53 53 38 — (4) 4 15 8 7Loans and leases, net of unearned income: (4)(5)
+
+
+
+
+Commercial:
+
+
+
+
+Commercial and industrial 57,994 56,227 49,518 3.59 3.40 3.25 2,080 1,914 1,612 166 106 60 302 77 225CRE 20,497 19,407 15,840 4.08 3.75 3.67 837 727 581 110 67 43 146 13 133Lease financing 1,726 1,524 1,183 2.82 3.01 2.82 49 45 33 4 (3) 7 12 2 10Retail:
+
+
+
+
+Residential mortgage 29,140 30,184 30,252 4.02 4.05 4.15 1,170 1,224 1,255 (54) (10) (44) (31) (28) (3)Direct 11,968 11,796 9,375 4.60 4.27 4.07 550 503 381 47 40 7 122 20 102Indirect 17,840 17,072 16,443 6.89 6.94 6.86 1,230 1,186 1,127 44 (9) 53 59 13 46Revolving credit 2,662 2,521 2,406 8.88 8.77 8.76 236 221 211 15 3 12 10 — 10PCI 784 1,063 1,083 18.86 19.55 16.57 148 208 179 (60) (7) (53) 29 32 (3)Total loans and leases HFI 142,611 139,794 126,100 4.42 4.31 4.27 6,300 6,028 5,379 272 187 85 649 129 520LHFS 1,464 1,965 1,702 3.62 3.34 3.63 53 66 62 (13) 5 (18) 4 (5) 9Total loans and leases 144,075 141,759 127,802 4.41 4.30 4.26 6,353 6,094 5,441 259 192 67 653 124 529Total earning assets 193,588 191,240 172,673 3.89 3.78 3.75 7,533 7,226 6,473 307 281 26 753 153 600Nonearning assets 27,477 27,705 24,674
+
+
+
+Total assets $221,065 $218,945 $197,347
+
+
+
+Liabilities and Shareholders’ Equity
+
+
+
+
+Interest-bearing deposits:
+
+
+
+
+Interest checking $28,033 $27,595 $22,092 0.25 0.14 0.08 $70 $39 $18 $31 $30 $1 $21 $16 $5Money market and savings 63,061 62,966 56,592 0.30 0.20 0.19 190 123 107 67 67 — 16 5 11Time deposits 14,133 16,619 16,405 0.51 0.51 0.66 72 85 107 (13) — (13) (22) (23) 1Foreign office deposits - interest-bearing 1,142 1,034 593 1.05 0.38 0.12 12 4 1 8 8 — 3 2 1Total interest-bearing deposits 106,369 108,214 95,682 0.32 0.23 0.24 344 251 233 93 105 (12) 18 — 18Short-term borrowings 4,311 2,554 3,221 0.94 0.35 0.15 41 9 4 32 23 9 5 6 (1)Long-term debt 21,660 22,791 23,343 2.10 2.13 2.13 454 485 498 (31) (7) (24) (13) — (13)Total interest-bearing liabilities 132,340 133,559 122,246 0.63 0.56 0.60 839 745 735 94 121 (27) 10 6 4Noninterest-bearing deposits 52,872 49,255 42,816
+
+
+
+Other liabilities 5,852 6,776 6,414
+
+
+
+Shareholders’ equity 30,001 29,355 25,871
+
+
+
+Total liabilities and shareholders’ equity $221,065 $218,945 $197,347
+
+
+
+Average interest rate spread
+ 3.26% 3.22% 3.15%
+
+
+NIM / net interest income
+ 3.46% 3.39% 3.32% $6,694 $6,481 $5,738 $213 $160 $53 $743 $147 $596TE adjustment
+
+ $159 $160 $146
+
+(1)Yields are stated on a TE basis utilizing the marginal income tax rates for the periods presented.
+The change in interest not solely due to changes in yield/rate or volume has been allocated on a pro-rata basis based on the absolute dollar amount of each.
+(2)Total securities include AFS and HTM securities.
+(3)Includes cash equivalents, interest-bearing deposits with banks, trading securities, FHLB stock and other earning assets.
+(4)Loan fees, which are not material for any of the periods shown, are included for rate calculation purposes.
+(5)NPLs are included in the average balances.
+(6)Excludes basis adjustments for fair value hedges.
+32Table of ContentsProvision for Credit Losses 2017 compared to 2016 The provision for credit losses was $547 million in 2017, compared to $572 million in the prior year.
+The decrease in the provision for credit losses was primarily driven by improvement in the commercial and industrial portfolio, which reflects lower net charge-offs and nonaccrual loans compared to the prior year.
+The ratio of the ALLL to net charge-offs was 2.78x for 2017, compared to 2.80x for 2016.
+Net charge-offs were $537 million for 2017 compared to $532 million in 2016.
+The ratio of net charge-offs to average loans and leases held for investment was 0.38% for both 2017 and 2016.
+Net charge-offs increased by $31 million in the indirect lending portfolio, driven by an increase in loss severity associated with used car values.
+Commercial and industrial net charge-offs decreased $40 million, primarily due to losses in the energy portfolio during 2016.
+2016 compared to 2015 The provision for credit losses was $572 million in 2016, compared to $428 million in the prior year.
+The increase in the provision for credit losses was driven by indirect lending and commercial and industrial portfolios, which reflects higher net charge-offs in these portfolios.
+The ratio of the ALLL to net charge-offs was 2.80x for 2016, compared to 3.36x for 2015.
+Net charge-offs were 0.38% of average loans and leases held for investment for 2016, compared to 0.35% of average loans and leases held for investment during 2015.
+Net charge-offs were $532 million for 2016 compared to $436 million in 2015.
+Commercial and industrial net charge-offs increased $50 million, primarily due to the energy portfolio.
+Net charge-offs increased by $49 million in the indirect lending portfolio, driven by an increase in loss severity associated with used car values and loan growth.
+Noninterest Income Noninterest income is a significant contributor to BB&T’s financial results.
+Management focuses on diversifying its sources of revenue to further reduce BB&T’s reliance on traditional spread-based interest income, as certain fee-based activities are a relatively stable revenue source during periods of changing interest rates.Table 6Noninterest Income
+ Year Ended December 31, % Change 2017 vs. 2016 2016 vs. 2015(Dollars in millions) 2017 2016 2015 Insurance income $1,754 $1,713 $1,596 2.4 % 7.3 %Service charges on deposits 706 664 631 6.3 5.2Mortgage banking income 415 463 455 (10.4) 1.8Investment banking and brokerage fees and commissions 410 408 398 0.5 2.5Trust and investment advisory revenues 278 266 240 4.5 10.8Bankcard fees and merchant discounts 271 237 218 14.3 8.7Checkcard fees 214 195 174 9.7 12.1Operating lease income 146 137 124 6.6 10.5Income from bank-owned life insurance 122 123 113 (0.8) 8.8FDIC loss share income, net — (142) (253) (100.0) (43.9)Securities gains (losses), net (1) 46 (3) (102.2) NMOther income 467 362 326 29.0 11.0Total noninterest income $4,782 $4,472 $4,019 6.9 11.3 2017 compared to 2016 Noninterest income was a record $4.8 billion for 2017, an increase of $310 million compared to 2016.
+The increase was broad based across almost all major categories of noninterest income.
+Income from BB&T’s insurance agency/brokerage operations was the largest source of noninterest income in 2017.
+Insurance income totaled $1.8 billion for 2017, an increase of $41 million compared to 2016.
+The increase was largely due to the acquisition of Swett and Crawford on April 1, 2016.
+In addition, organic commissions and fees were higher, which was offset by lower performance based commissions.33Table of ContentsService charges on deposits were $706 million for 2017, an increase of $42 million compared to 2016.
+The increase was due to changes in client behavior, pricing increases and the acquisition of National Penn on April 1, 2016.Mortgage banking income declined $48 million primarily due to a decline of $39 million in the net mortgage servicing rights valuation.Bankcard fees and merchant discounts increased $34 million due to higher volumes and a reduction in the accrual for rewards.FDIC loss share income improved by $142 million due to the termination of the loss sharing agreements during the third quarter of 2016.
+Other income totaled $467 million for 2017, an increase of $105 million from 2016, primarily due to a $34 million increase in income from SBIC investments and a $50 million increase driven by income related to assets for certain post-employment benefits.
+2016 compared to 2015 Noninterest income was $4.5 billion for 2016, an increase of $453 million compared to 2015.
+This increase was across all categories and primarily reflects the impact from acquisitions.
+Income from BB&T’s insurance agency/brokerage operations was the largest source of noninterest income in 2016.
+Insurance income totaled $1.7 billion for 2016, an increase of $117 million compared to 2015.
+The increase was largely the result of the acquisition of Swett and Crawford, which was partially offset by the impact from selling American Coastal in 2015.FDIC loss share income improved by $111 million, primarily due to the termination of the loss sharing agreements during the third quarter of 2016.
+Other income totaled $362 million for 2016, an increase of $36 million from 2015.
+This increase is primarily due to the $26 million loss on sale of American Coastal during the second quarter of 2015, $19 million for client derivatives revenues and $10 million of trading gains.
+These increases were partially offset by lower partnerships and other investment income, which was the result of an opportunistic sale that resulted in a $28 million gain during the third quarter of 2015.
+Noninterest Expense The following table provides a breakdown of BB&T’s noninterest expense:Table 7Noninterest Expense
+ Year Ended December 31, % Change 2017 vs. 2016 2016 vs. 2015(Dollars in millions) 2017 2016 2015 Personnel expense $4,121 $3,964 $3,469 4.0 % 14.3 %Occupancy and equipment expense 784 786 708 (0.3) 11.0Software expense 242 224 192 8.0 16.7Outside IT services 160 186 135 (14.0) 37.8Regulatory charges 153 145 101 5.5 43.6Amortization of intangibles 142 150 105 (5.3) 42.9Loan-related expense 130 95 150 36.8 (36.7)Professional services 123 102 130 20.6 (21.5)Merger-related and restructuring charges, net 115 171 165 (32.7) 3.6Loss (gain) on early extinguishment of debt 392 (1) 172 NM (100.6)Other expense 1,082 899 939 20.4 (4.3)Total noninterest expense $7,444 $6,721 $6,266 10.8 7.3 2017 compared to 2016 Noninterest expense totaled $7.4 billion for 2017, an increase of $723 million from 2016.
+The increase includes actions taken in the fourth quarter of 2017 in connection with the passage of tax reform legislation.
+This included a contribution of $100 million to BB&T's philanthropic fund and $36 million for a one-time bonus paid to associates who do not generally receive incentives or commissions.
+The increase also includes a $392 million charge in 2017 for the early extinguishment of $2.9 billion of higher cost FHLB advances.
+34Table of ContentsPersonnel expense is the largest component of noninterest expense and includes salaries and incentives, as well as pension and other employee benefit costs.
+Personnel expense totaled $4.1 billion, a $157 million increase compared to 2016.
+Salaries and incentives increased $120 million compared to the prior year, primarily due to higher incentives as a result of improved performance and the one-time bonus previously mentioned.
+Equity based compensation increased $14 million and benefit costs increased $23 million.
+The increase in benefit costs was primarily the result of an increase of $43 million for post-employment benefits that is primarily offset in other income.
+This was partially offset by a decline of $26 million for pension expense.
+Software expense was higher $18 million compared to 2016, primarily reflecting higher depreciation on recent investments.Outside IT services expense decreased $26 million compared to the prior year, while professional services expense increased $21 million.
+These fluctuations are due to the volume of project related work in the current year compared to the prior year.
+Loan-related expense totaled $130 million for 2017, an increase of $35 million compared to the prior year.
+This increase is largely the result of a release of $31 million in reserves during the fourth quarter of 2016, which was primarily driven by lower anticipated loan repurchase requests.Merger-related and restructuring expense decreased $56 million compared to 2016.
+This includes a decrease in merger-related charges, partially offset by branch closures and other restructuring initiatives.Other expense increased $183 million primarily due to higher operating charge-offs and charitable contributions.
+Operating charge-offs increased $108 million due to a net benefit of $73 million recorded in 2016 related to the settlement of matters involving the origination of certain legacy mortgage loans insured by the FHA.
+Charitable contributions increased $44 million as the company made a $100 million contribution to its philanthropic fund in 2017 as noted above, compared to $50 million made in the third quarter of 2016.2016 compared to 2015 Noninterest expense totaled $6.7 billion for 2016, an increase of $455 million from 2015.
+This increase was primarily driven by higher personnel expense.
+Personnel expense is the largest component of noninterest expense and includes salaries, wages and incentives, as well as pension and other employee benefit costs.
+Personnel expense totaled $4.0 billion, a $495 million increase compared to 2015.
+This increase was driven by a $284 million increase in salaries, which was primarily due to additional headcount from acquisitions.
+Incentives expense was higher $110 million due to performance against targets and acquisitions.
+Personnel expense also increased due to a $48 million increase in pension expense that reflects higher amortization, service and interest costs.
+Additionally, personnel expense reflects a $26 million increase in payroll taxes as a result of higher salaries and incentives.
+Loss on early extinguishment of debt was down $173 million for 2016, as the prior year included a loss of $172 million, compared to a small gain for 2016.Occupancy and equipment expense totaled $786 million for 2016, compared to $708 million for 2015.
+The increase reflects the acquisition activity.
+Software expense was higher $32 million compared to 2015, primarily reflecting higher depreciation on recent investments.Outside IT services expense totaled $186 million for 2016, compared to $135 million in the prior year.
+This increase was due to higher costs related to projects.
+Loan-related expense totaled $95 million for 2016, a decrease of $55 million compared to the prior year.
+This decrease is largely the result of a release of $31 million in reserves during the fourth quarter of 2016, which was primarily driven by lower anticipated loan repurchase requests.Regulatory charges totaled $145 million for 2016, an increase of $44 million compared to the prior year.
+This increase reflects the impact from acquisitions and the surcharge assessed to large banks, which was implemented in the third quarter of 2016.Other expense decreased $40 million primarily due to a net benefit of $73 million in the third quarter related to the settlement of certain legacy mortgage matters involving the origination of mortgage loans insured by the FHA.
+In addition, business referral expense decreased $16 million primarily due to the sale of American Coastal in the prior year.
+Partially offsetting these decreases was a $50 million charitable contribution that was also made in the third quarter.
+35Table of ContentsMerger-Related and Restructuring Charges BB&T has incurred certain merger-related and restructuring charges, which include: •severance and personnel-related costs or credits, which typically occur in corporate support and data processing functions;•occupancy and equipment charges or credits, which relate to costs or gains associated with lease terminations, obsolete equipment write-offs and the sale of duplicate facilities and equipment;•professional services, which relate to investment banking advisory fees and other consulting services pertaining to the transaction;•systems conversion and related charges, which represent costs to integrate the acquired entity’s information technology systems; and•other merger-related and restructuring charges or credits, which include expenses necessary to convert and combine the acquired branches and operations of merged companies, direct media advertising related to the acquisitions, asset and supply inventory write-offs, and other similar charges.Merger-related and restructuring accruals are established when the costs are incurred or once all requirements for a plan to dispose of certain business functions have been approved by management.
+In general, a major portion of accrued costs are utilized in conjunction with or immediately following the systems conversion, when most of the duplicate positions are eliminated and the terminated employees begin to receive severance.
+Other accruals are utilized over time based on the sale, closing or disposal of duplicate facilities or equipment or the expiration of lease contracts.
+Merger and restructuring accruals are re-evaluated periodically and adjusted as necessary.
+The remaining accruals at December 31, 2017 are generally expected to be utilized within one year, unless they relate to specific contracts that expire later.
+The following table presents a summary of merger-related and restructuring charges and the related accruals:Table 8Merger-related and Restructuring Accrual Activity
+
+ Year Ended December 31, 2017 Year Ended December 31, 2016(Dollars in millions) Beginning Balance Expense Utilized Ending Balance Beginning Balance Expense Utilized Ending BalanceSeverance and personnel-related $25 $40 $(51) $14 $26 $51 $(52) $25Occupancy and equipment (1) 21 43 (44) 20 11 49 (39) 21Professional services 1 2 (3) — 13 14 (26) 1Systems conversion and related costs (1) 1 26 (27) — — 27 (26) 1Other adjustments 1 4 (5) — 2 30 (31) 1Total $49 $115 $(130) $34 $52 $171 $(174) $49 (1) Includes asset impairment charges.The 2017 costs primarily reflect branch closures and other restructuring initiatives, while the 2016 costs primarily reflect the acquisitions of National Penn and Swett & Crawford.
+Provision for Income Taxes BB&T’s provision for income taxes totaled $911 million, $1.1 billion and $794 million for 2017, 2016 and 2015, respectively.
+BB&T’s effective tax rates for the years ended 2017, 2016 and 2015 were 27.4%, 30.2% and 27.2%, respectively.
+BB&T has extended credit to and invested in the obligations of states and municipalities and their agencies and has made other investments and loans that produce tax-exempt income.
+The income generated from these investments, together with certain other transactions that have favorable tax treatment, have reduced BB&T’s overall effective tax rate from the statutory rate in all periods presented.
+The lower effective tax rate for 2017 was due to a net tax benefit of $43 million related to the impact of tax reform.
+The lower effective tax rate for 2015 was primarily due to adjustments for uncertain tax positions.
+Refer to the "Note 11.
+Income Taxes" for a reconciliation of the effective tax rate to the statutory tax rate and a discussion of uncertain tax positions and other tax matters.Segment Results See "Note 19.
+Operating Segments" for additional disclosures related to BB&T’s operating segments, the internal accounting and reporting practices used to manage these segments and financial disclosures for these segments.36Table of ContentsFluctuations in noninterest income and noninterest expense incurred directly by the segments are more fully discussed in the "Noninterest Income" and "Noninterest Expense" sections above.
+The operating results for Susquehanna and National Penn were included in OT&C prior to their systems conversions in mid-November 2015 and mid-July 2016, respectively.
+Post-conversion results are included in the segments that received the various lines of business, with the majority going to CB-Retail and CB-Commercial.
+In 2017, BB&T restructured its segments to reflect a change in the way management reviews performance and makes decisions as discussed in "Note 19.
+Operating Segments."
+In addition, a change was made in the method for allocation of capital to the operating segments impacting both the allocated balances and funding credit.
+Results for prior periods have been revised to reflect the new allocations.2017 compared to 2016 Community Banking Retail and Consumer Finance CB-Retail had 2,049 banking offices at December 31, 2017, a decrease of 147 offices compared to the prior year.
+The decrease in offices was primarily driven by the consolidation of nearby financial centers and the closure of certain lower volume branches.CB-Retail net income was $1.1 billion in 2017, a decrease of $37 million, or 3.3%, compared to 2016.Segment net interest income increased $159 million, primarily due to the National Penn acquisition, deposit growth and higher funding spreads on deposits, partially offset by lower credit spreads on loans.
+Noninterest income increased $50 million, primarily due to higher bankcard and merchant discounts, service charges on deposits, and checkcard fees, partially offset by a decline in mortgage banking income due to a decrease in net MSR income.The allocated provision for credit losses increased $26 million, primarily due to higher net charge-offs, partially offset by a decline in loss estimates.
+Noninterest expense increased $256 million, driven by a net benefit of $73 million in 2016 related to the settlement of certain legacy mortgage matters involving the origination of mortgage loans insured by the FHA, the release of $31 million in mortgage repurchase reserves in 2016, and increases in personnel expense, allocated corporate expenses, and occupancy and equipment expense.CB-Retail average loans and leases HFI increased $413 million, or 0.6% compared to the prior year.
+Average indirect loans increased $768 million, or 4.5%, and average direct loans increased $391 million, or 3.4%.
+Partially offsetting these increases was average residential mortgage loans, which decreased $761 million, or 2.5%.Community Banking Commercial CB-Commercial net income was $834 million in 2017, an increase of $99 million, or 13.5%, compared to 2016.Segment net interest income increased $111 million, primarily due to the National Penn acquisition, loan and deposit growth and higher funding spreads on deposits, partially offset by lower credit spreads on loans.
+Noninterest income increased $31 million, primarily due to higher service charges on deposits.The allocated provision for credit losses increased $109 million, primarily due to a decline in the rate of improvement in credit trends and loan growth.
+Noninterest expense decreased $104 million, primarily due to lower personnel expense driven by a change in the allocation approach for capitalized loan origination costs in the current year as well as a decline in salaries expense and employee benefits expense.
+Additionally, there was a decline in allocated corporate expenses.CB-Commercial average loans and leases HFI increased $2.4 billion, or 4.9%, partially driven by acquisition activity.
+Financial Services and Commercial Finance FS&CF net income was $491 million in 2017, an increase of $115 million, or 30.6%, compared to 2016.Segment net interest income increased $57 million, primarily driven by higher funding spreads on deposits and average loan growth, partially offset by a decline in credit spreads on loans.
+Noninterest income increased $33 million, primarily driven by higher trust and investment advisory revenues, operating lease income, commercial loan fees, investment banking and brokerage fees and commissions, and service charges on deposits, partially offset by lower commercial mortgage banking income.
+37Table of ContentsThe allocated provision for credit losses decreased $143 million, primarily due to a decrease in reserves in the current period related to energy lending exposures, a decline in loss estimates and lower net charge-offs.
+Noninterest expense increased $49 million, primarily due to higher allocated corporate expenses and personnel expense, partially offset by a decline in merger-related and restructuring charges.FS&CF continues to generate solid loan growth through expanded lending strategies, with Corporate Banking’s average loans HFI increasing $743 million, or 5.3%, compared to 2016, while BB&T Wealth’s average loans HFI increased $205 million, or 13.8%.
+Corporate Banking’s average transaction account deposits fell $112 million, or 5.4%, while BB&T Wealth grew transaction account balances by $760 million, or 19.8%.
+Client invested assets totaled $160.3 billion as of December 31, 2017, an increase of $16.6 billion, or 11.6%, compared to 2016.
+Average loans HFI at Grandbridge increased $200 million, or 15.6%, compared to 2016 and increased 15.5% and 9.1%, respectively, for Equipment Finance and Governmental Finance.Insurance Holdings and Premium Finance IH&PF net income was $161 million in 2017, a decrease of $5 million, or 3.0%, compared to 2016.Noninterest income increased $46 million, which reflects the acquisition of Swett and Crawford in April 2016 and higher property and casualty insurance commissions, as well as higher life insurance commissions and employee benefit commissions.
+Noninterest expense increased $65 million, primarily driven by higher personnel expense and allocated corporate expenses, both of which are primarily attributable to the Swett and Crawford acquisition.Other, Treasury and Corporate OT&C net loss was $163 million in 2017, compared to net income of $36 million in 2016.Segment net interest income decreased $123 million, primarily due to the inclusion of National Penn results for a portion of the earlier period, a decline in average PCI loans and an increase in short-term borrowings, partially offset by an increase in average securities.Noninterest income increased $150 million, primarily driven by a $142 million improvement in FDIC loss share income as a result of terminating the loss share agreements in the third quarter of 2016.
+Also, there were increases in income related to assets for certain post-employment benefits and income from SBIC private equity investments, partially offset by securities gains recognized in the earlier period.The allocated provision for credit losses decreased $18 million, primarily due to credit losses for PCI loans.
+Noninterest expense increased $457 million, primarily due to the first quarter 2017 loss of $392 million on the early extinguishment of higher-cost FHLB advances, as well as higher personnel expense driven by a change in allocation approach for capitalized loan origination costs and higher expense related to assets for certain post-employment benefits.
+Additionally, 2017 included a $100 million charitable contribution made to BB&T’s philanthropic fund compared to a $50 million charitable contribution in 2016.
+Other increases to noninterest expense include professional services and software expense, partially offset by an increase in allocated corporate expenses that were allocated to other operating segments, lower merger-related and restructuring charges, and a decline in outside IT services.
+The benefit for income taxes increased $213 million as the first quarter of 2017 included $35 million of excess tax benefits from equity-based compensation plans and the fourth quarter of 2017 included a net tax benefit of $43 million due to the impact of tax reform.2016 compared to 2015 Community Banking Retail and Consumer Finance CB-Retail had 2,196 banking offices at the end of 2016, an increase of 57 offices compared to December 31, 2015.
+The increase in offices was primarily driven by the acquisition of 126 branches with the acquisition of National Penn, partially offset by the consolidation of nearby financial centers and the closure of certain lower volume branches.CB-Retail net income was $1.1 billion in 2016, an increase of $181 million, or 19.1%, compared to 2015, primarily driven by the National Penn and Susquehanna acquisitions.Segment net interest income increased $489 million, primarily driven by acquisition activity, average deposit and loan growth and higher funding spreads on deposits, partially offset by lower credit spreads on loans.
+Noninterest income increased $12 million, primarily due to higher service charges on deposits, checkcard fees and bankcard and merchant discounts, partially offset by a decline in mortgage banking income.38Table of ContentsThe allocated provision for credit losses increased $110 million, primarily due to a decline in the rate of improvement in credit trends, higher net charge-offs and loan growth.
+Noninterest expense increased $112 million, primarily driven by higher personnel expense, allocated corporate expenses, occupancy and equipment expense, and amortization of intangibles, all of which increased primarily due to acquisition activity.
+The increases were partially offset by a decline in operating charge-offs due to a net benefit of $73 million in 2016 related to the settlement of certain legacy mortgage matters involving the origination of mortgage loans insured by the FHA, a decline in loan-related expense due to a $31 million release of mortgage repurchase reserves in 2016, and lower professional services.
+CB-Retail average loans and leases HFI increased $4.7 billion, or 8.0%, compared to the prior year primarily due to acquisition activity.
+Average residential mortgage loans increased $62 million, or 0.2%, average indirect loans grew $1.1 billion, or 6.7%, and average direct loans increased $2.7 billion, or 30.5%, primarily due to acquisitions.Community Banking CommercialCB-Commercial net income was $735 million in 2016, an increase of $154 million, or 26.5%, compared to 2015, primarily driven by acquisitions.Segment net interest income increased $339 million, primarily driven by acquisition activity, average loan and deposit growth and higher funding spreads on deposits, partially offset by lower credit spreads on loans.The allocated provision for credit losses decreased $41 million, primarily due to lower net charge-offs and an improvement in credit trends.
+Noninterest expense increased $149 million, primarily driven by higher personnel expense, allocated corporate expenses and amortization of intangibles, all of which increased primarily due to acquisition activity.CB-Commercial average loans and leases HFI increased $8.0 billion, or 19.6%, primarily driven by acquisition activity.
+Financial Services and Commercial Finance FS&CF net income was $376 million in 2016, an increase of $15 million, or 4.2%, compared to 2015.Segment net interest income increased $100 million, primarily driven by higher loan and deposit balances and higher funding spreads on deposits, partially offset by lower credit spreads on loans.
+Noninterest income increased $102 million, primarily driven by higher trust and investment advisory revenues, commercial mortgage banking income, client and derivative income, operating lease income and investment banking and brokerage fees and commissions.The allocated provision for credit losses increased $61 million, primarily driven by higher net charge-offs within the energy sector for the Corporate Banking loan portfolio.
+Noninterest expense increased $121 million, primarily due to higher personnel expense, depreciation on property held under operating leases, allocated corporate expenses and merger-related and restructuring charges.FS&CF generated strong loan growth, with Corporate Banking’s average loans HFI increasing $2.1 billion, or 17.6%, compared to 2015, while BB&T Wealth’s average loans HFI increased $213 million, or 14.3%.
+Corporate Banking’s average transaction account deposits grew $495 million, or 31.3%, while BB&T Wealth grew transaction account balances by $743 million, or 19.9%, and money market and savings balances by $808 million, or 10.5%, compared to 2015, partially attributable to the ongoing identification and servicing of wealth clients in CB-Retail.
+Client invested assets totaled $143.7 billion as of December 31, 2016, an increase of $13.1 billion, or 10.0%, compared to 2015.
+Average loans HFI at Grandbridge increased $448 million, or 53.5%, compared to 2015 and increased 12.9% and 5.0%, respectively, for Equipment Finance and Governmental Finance.Insurance Holdings and Premium Finance IH&PF net income was $166 million in 2016, a decrease of $28 million, or 14.4%, compared to 2015.Noninterest income increased $120 million, which primarily reflects the acquisition of Swett and Crawford and higher property and casualty insurance commissions, employee benefit commissions and life insurance commissions, partially offset by the sale of American Coastal in the second quarter of 2015.Noninterest expense increased $154 million, primarily due to higher personnel expense and amortization of intangibles, which were driven by the Swett and Crawford acquisition.
+In addition, allocated corporate expenses increased.
+These increases were partially offset by lower business referral and insurance claims expense driven by the sale of American Coastal.
+39Table of ContentsOther, Treasury and CorporateOT&C net income was $36 million in 2016, a decrease of $3 million, or 7.7%, compared to 2015.Segment net interest income decreased $203 million, primarily due to the inclusion of Susquehanna for a portion of the prior year and higher funding spreads credited to segments with deposits, partially offset by growth in the securities portfolio and the inclusion of National Penn for part of 2016.Noninterest income increased $217 million, which reflects improved FDIC loss share income primarily due to the early termination in the third quarter of 2016, securities gains on the investment portfolio in 2016, the 2015 loss on sale of American Coastal and higher bank-owned life insurance income, partially offset by lower income from SBIC private equity investments.Noninterest expense decreased $81 million, primarily due to a $172 million loss on early extinguishment of debt in 2015, the inclusion of Susquehanna for a portion of 2015, and an increase in allocated corporate expenses that were allocated to the operating segments.
+These declines were partially offset by higher personnel expense, occupancy and equipment expense, outside IT services and software expense, as well as higher regulatory charges and donations and contributions driven by the $50 million charitable contribution made in 2016.
+The benefit for income taxes fell $83 million, primarily driven by a $107 million tax benefit in 2015 as a result of a decision by the U.S. Court of Appeals related to previously disallowed deductions in connection with a financing transaction.
+Analysis of Financial Condition Investment Activities BB&T’s board-approved investment policy is carried out by the MRLCC, which meets regularly to review the economic environment and establish investment strategies.
+The MRLCC also has much broader responsibilities, which are discussed in the "Market Risk Management" section in "Management’s Discussion and Analysis of Financial Condition and Results of Operations."
+Investment strategies are reviewed by the MRLCC based on the interest rate environment, balance sheet mix, actual and anticipated loan demand, funding opportunities and the overall interest rate sensitivity of the Company.
+In general, the goals of the investment portfolio are: (i) to provide a sufficient margin of liquid assets to meet unanticipated deposit and loan fluctuations and overall funds management objectives; (ii) to provide eligible securities to secure public funds, trust deposits as prescribed by law and other borrowings; and (iii) to earn an optimal return on funds invested commensurate with meeting the requirements of (i) and (ii) and consistent with our risk appetite.
+Branch Bank invests in securities allowable under bank regulations.
+These securities may include obligations of the U.S. Treasury, U.S. government agencies, GSEs (including MBS), bank eligible obligations of any state or political subdivision, non-agency MBS, structured notes, bank eligible corporate obligations (including corporate debentures), commercial paper, negotiable CDs, bankers acceptances, mutual funds and limited types of equity securities.
+Branch Bank also may deal in securities subject to the provisions of the Gramm-Leach-Bliley Act.
+BB&T’s full-service brokerage and investment banking subsidiary engages in the underwriting, trading and sales of equity and debt securities subject to the risk management policies of the Company.40Table of ContentsThe following table provides information regarding the composition of the securities portfolio for the years presented:Table 9Composition of Securities Portfolio
+ December 31,(Dollars in millions) 2017 2016 2015AFS securities (at fair value):
+U.S. Treasury $2,291 $2,587 $1,832GSE 179 180 51Agency MBS 20,101 21,264 20,046States and political subdivisions 1,392 2,205 2,375Non-agency MBS 576 679 989Other 8 11 4Total AFS securities 24,54726,92625,297HTM securities (at amortized cost):
+U.S. Treasury 1,098 1,098 1,097GSE 2,198 2,197 5,045Agency MBS 19,660 13,225 12,267States and political subdivisions 28 110 63Other 43 50 58Total HTM securities 23,02716,68018,530Total securities $47,574$43,606$43,827The securities portfolio totaled $47.6 billion at December 31, 2017, compared to $43.6 billion at December 31, 2016.
+The increase in the overall portfolio was due to new purchases and reinvestments in the HTM portfolio.
+A change in the mix between AFS and HTM also contributed to the increase in HTM securities.
+As of December 31, 2017, approximately 5.8% of the securities portfolio was variable rate, compared to 7.5% as of December 31, 2016.
+The effective duration of the securities portfolio was 4.7 years at December 31, 2017, compared to 4.8 years at the end of 2016.
+The duration of the securities portfolio excludes equity securities and certain non-agency MBS acquired from the FDIC.
+Agency MBS represented 83.6% of the total securities portfolio at year-end 2017, compared to 79.1% as of prior year end.
+Refer to "Note 2.
+Securities" for additional disclosures related to the evaluation of securities for OTTI.
+41Table of ContentsThe following table presents the securities portfolio at December 31, 2017, segregated by major category with ranges of maturities and average yields disclosed:Table 10Securities Yields By Major Category and Maturity
+ December 31, 2017 AFS HTM(Dollars in millions) Fair Value Effective Yield (1) Amortized Cost Effective Yield (1)U.S. Treasury:
+ Within one year $307 1.21% $— —%One to five years 246 1.53 1,098 2.30Five to ten years 1,738 1.52 — —Total 2,291 1.48 1,098 2.30GSE:
+ One to five years 26 1.45 1,136 2.35Five to ten years 141 1.55 1,062 2.21After ten years 12 2.69 — —Total 179 1.61 2,198 2.29Agency MBS: (2)
+ One to five years 1 2.09 — —Five to ten years 16 2.64 31 2.09After ten years 20,084 2.23 19,629 2.56Total 20,101 2.23 19,660 2.56States and political subdivisions: (3)
+ Within one year 20 4.96 — —One to five years 223 5.05 2 1.72Five to ten years 446 4.45 18 1.28After ten years 703 6.03 8 1.59Total 1,392 5.35 28 1.40Non-agency MBS: (2)
+ After ten years 576 18.96 — —Total 576 18.96 — —Other:
+ Within one year 8 1.09 — —One to five years — — 1 2.03After ten years — — 42 2.79Total 8 1.09 43 2.78Total securities $24,547 2.73 $23,027 2.52(1)Yields represent interest computed using the effective interest method on a TE basis using marginal income tax rates and the amortized cost of the securities.
+(2)For purposes of the maturity table, MBS, which are not due at a single maturity date, have been included in maturity groupings based on the contractual maturity.
+The expected life of MBS will differ from contractual maturities because borrowers may have the right to call or prepay the underlying mortgage loans.
+(3)Weighted-average yield excludes the effect of pay-fixed swaps hedging municipal securities.Lending Activities The primary goal of the BB&T lending function is to help clients achieve their financial goals by providing quality loan products that are fair to the client and profitable to the Company.
+Management believes that this purpose can best be accomplished by building strong, profitable client relationships over time, with BB&T becoming an important contributor to the prosperity and well-being of its clients.
+In addition to the importance placed on client knowledge and continuous involvement with clients, BB&T’s lending process incorporates the standards of a consistent company-wide credit culture and an in-depth local market knowledge.
+Furthermore, the Company employs strict underwriting criteria governing the degree of assumed risk and the diversity of the loan portfolio in terms of type, industry and geographical concentration.
+In this context, BB&T strives to meet the credit needs of clients in its markets while pursuing a balanced strategy of loan profitability, loan growth and loan quality.During 2017, the classification of certain loans, primarily those previously categorized as other lending subsidiaries, was revised to better reflect the nature of the underlying loans.
+Prior period amounts were reclassified to conform to the current presentation.
+42Table of ContentsTable 11Quarterly Average Balances of Loans and Leases
+ For the Three Months Ended(Dollars in millions) 12/31/2017 9/30/2017 6/30/2017 3/31/2017 12/31/2016Commercial:
+
+Commercial and industrial $58,478 $58,211 $58,150 $57,125 $57,226CRE 20,998 20,776 20,304 19,892 19,830Lease financing 1,851 1,732 1,664 1,653 1,570Retail:
+
+Residential mortgage 28,559 28,924 29,392 29,701 30,044Direct 11,901 11,960 12,000 12,014 12,046Indirect 17,426 17,678 18,127 18,137 18,041Revolving credit 2,759 2,668 2,612 2,607 2,608PCI 689 742 825 883 974Total loans and leases HFI 142,661 142,691 143,074 142,012 142,339LHFS 1,428 1,490 1,253 1,686 2,230Total loans and leases $144,089 $144,181 $144,327 $143,698 $144,569 Average loans held for investment for the fourth quarter of 2017 were $142.7 billion, down $30 million, or 0.1 percent annualized compared to the third quarter of 2017.Average commercial and industrial loans increased $267 million, while average CRE increased $222 million.
+Average lease financing increased $119 million due to strong production from our leasing businesses.
+Average revolving credit increased $91 million, primarily due to seasonal spending.Average residential mortgage loans decreased $365 million as the majority of conforming loans continue to be sold in the secondary market.
+In addition, average indirect loans decreased $252 million, primarily due to strategic optimization and directing investments toward higher-yielding assets.
+The following table presents loans with variable interest rates:Table 12Variable Rate Loans (Excluding PCI and LHFS)
+ December 31, 2017 Outstanding Balance Wtd.
+Avg.
+Contractual Rate Wtd.
+Avg.
+Remaining Term (1)(Dollars in millions) Commercial:
+ Commercial and industrial $38,562 3.13% 4.1yrsCRE 16,046 3.94 4.0 Lease financing 133 3.22 5.6 Retail:
+ Residential mortgage 5,148 3.62 24.4 Direct 9,777 4.43 8.0 Indirect 20 4.06 NM Revolving credit 2,552 10.86 NM (1)Commercial and industrial loans and direct loans totaling $1.7 billion and $100 million, respectively, have been excluded from the weighted average remaining term because they are callable on demand.
+As of December 31, 2017, approximately $126 million of variable rate residential mortgage loans are currently in an interest-only phase.
+Approximately 95.0% of these balances will begin amortizing within the next three years.
+Variable rate residential mortgage loans typically reset every 12 months beginning after a 3 to 10 year fixed period, with an annual cap on rate changes ranging from 2.0% to 6.0%.
+As of December 31, 2017, the direct lending portfolio includes $8.5 billion of variable rate home equity lines, $1.0 billion of variable rate other lines of credit and $255 million of variable rate loans.
+Approximately $6.5 billion of the variable rate home equity lines is currently in the interest-only phase and approximately 9.4% of these balances will begin amortizing within the next three years.
+Approximately $911 million of the outstanding balance of variable rate other lines of credit is in the interest-only phase and 17.0% of these balances will begin amortizing within the next three years.
+Variable rate home equity lines and other lines of credit typically reset on a monthly basis.
+43Table of ContentsBB&T monitors the performance of its home equity loans and lines secured by second liens similarly to other consumer loans and utilizes assumptions specific to these loans in determining the necessary ALLL.
+BB&T also receives notification when the first lien holder, whether BB&T or another financial institution, has initiated foreclosure proceedings against the borrower.
+When notified that the first lien is in the process of foreclosure, BB&T obtains valuations to determine if any additional charge-offs or reserves are warranted.
+These valuations are updated at least annually thereafter.
+BB&T has limited ability to monitor the delinquency status of the first lien, unless the first lien is held or serviced by BB&T.
+As a result, using migration assumptions that are based on historical experience and adjusted for current trends, BB&T estimates the volume of second lien positions where the first lien is delinquent and adjusts the ALLL to reflect the increased risk of loss on these credits.
+Finally, BB&T also provides additional reserves to second lien positions when the estimated combined current loan to value ratio for the credit exceeds 100%.
+As of December 31, 2017, BB&T held or serviced the first lien on 30.4% of its second lien positions.
+BB&T lends to a diverse customer base that is substantially located within the Company’s primary market area.
+At the same time, the loan portfolio is geographically dispersed throughout BB&T’s branch network to mitigate concentration risk arising from local and regional economic downturns.
+Refer to the "Risk Management" section for a discussion of each of the loan portfolios and the credit risk management policies used to manage the portfolios.The following table summarizes the loan portfolio:Table 13Composition of Loan and Lease Portfolio
+ December 31,(Dollars in millions) 2017 2016 2015 2014 2013Commercial:
+
+Commercial and industrial $59,153 $57,739 $53,746 $46,110 $42,954CRE 21,263 19,764 18,312 14,128 13,042Lease financing 1,911 1,677 1,535 1,119 1,125Retail:
+
+Residential mortgage (1) 28,725 29,921 30,533 31,090 24,648Direct (1) 11,891 12,092 11,140 8,146 15,869Indirect 17,235 18,564 17,053 15,616 13,841Revolving credit 2,872 2,655 2,510 2,460 2,403PCI 651 910 1,122 1,215 2,035Total loans and leases HFI 143,701143,322135,951119,884115,917LHFS 1,099 1,716 1,035 1,423 1,222Total loans and leases $144,800$145,038$136,986$121,307$117,139(1) During the first quarter of 2014, $8.3 billion of loans were transferred from direct lending to residential mortgage.Loans and leases HFI were $143.7 billion at December 31, 2017, an increase of $379 million compared to the prior year.Commercial and industrial loans were up $1.4 billion and CRE loans were up $1.5 billion.
+Residential mortgage loans declined $1.2 billion as the majority of conforming loan production continues to be sold in the secondary market.
+Indirect loans were down $1.3 billion, primarily due to strategic optimization and directing investments into higher yielding assets.
+The PCI loan portfolio, which totaled $651 million at December 31, 2017, continued to run off during the year.The majority of loans are with clients in domestic market areas, which are primarily concentrated in the Southeastern United States.
+International loans were immaterial as of December 31, 2017 and 2016.Scheduled repayments are reported in the maturity category in which the payment is due.
+Determinations of maturities are based on contract terms.
+BB&T’s credit policy typically does not permit automatic renewal of loans.
+At the scheduled maturity date (including balloon payment date), the customer generally must request a new loan to replace the matured loan and execute either a new note or note modification with rate, terms and conditions negotiated at that time.
+44Table of ContentsTable 14Commercial Loan Maturities and Interest Sensitivity December 31, 2017(Dollars in millions) 1 Year or Less Over 1 to 5 Years After 5 Years TotalFixed rate:
+ Commercial and industrial $3,325 $7,833 $9,433 $20,591CRE 442 2,783 1,992 5,217Lease financing 73 1,203 502 1,778Total fixed rate 3,840 11,81911,92727,586Variable rate:
+ Commercial and industrial 9,295 19,716 9,551 38,562CRE 2,305 9,013 4,728 16,046Lease financing — 56 77 133Total variable rate 11,600 28,78514,35654,741Total commercial loans and leases $15,440 $40,604$26,283$82,327 Asset QualityPotential problem loans include loans on nonaccrual status or past due as disclosed in Table 16.
+In addition, for the commercial portfolio segment, loans that are rated special mention or substandard performing are closely monitored by management as potential problem loans.
+Refer to "Note 3.
+Loans and ACL" for additional disclosures related to these potential problem loans.
+TDRs generally occur when a borrower is experiencing, or is expected to experience, financial difficulties in the near-term.
+As a result, BB&T will work with the borrower to prevent further difficulties, and ultimately to improve the likelihood of recovery on the loan.
+To facilitate this process, a concessionary modification that would not otherwise be considered may be granted, resulting in classification of the loan as a TDR.
+Refer to "Note 1.
+Summary of Significant Accounting Policies" for additional policy information regarding TDRs.
+The following table presents activity related to NPAs.
+Foreclosed real estate acquired from the FDIC is excluded for periods prior to the loss share termination: Table 15Rollforward of NPAs
+ Year Ended December 31,(Dollars in millions) 2017 2016Balance at beginning of year $813 $686New NPAs 1,297 1,716Advances and principal increases 328 253Disposals of foreclosed assets (1) (520) (516)Disposals of NPLs (2) (212) (302)Charge-offs and losses (251) (279)Payments (660) (586)Transfers to performing status (164) (179)Foreclosed real estate, included as a result of loss share termination — 17Other, net (4) 3Balance at end of year $627 $813(1)Includes charge-offs and losses recorded upon sale of $236 million and $210 million for the year ended December 31, 2017 and 2016, respectively.
+(2)Includes charge-offs and losses recorded upon sale of $33 million and $30 million for the year ended December 31, 2017 and 2016, respectively.
+NPAs, which include foreclosed real estate, repossessions and NPLs, totaled $627 million at December 31, 2017 compared to $813 million at December 31, 2016.
+This decrease consisted of a $166 million decrease in NPLs and a $20 million decrease in foreclosed real estate and other property.The decrease in NPLs is primarily due to a $110 million decline in commercial and industrial NPLs primarily resulting from payoffs, sales and writedowns.
+In addition, residential mortgage NPLs were down $43 million largely due to sales.
+45Table of ContentsNPAs as a percentage of loans and leases plus foreclosed property were 0.44% at December 31, 2017 compared with 0.57% at December 31, 2016.The following tables summarize asset quality information for the past five years:Table 16Asset Quality
+ December 31,(Dollars in millions) 2017 2016 2015 2014 2013Nonaccrual loans and leases:
+
+Commercial and industrial (1) $259 $369 $242 $243 $364CRE 45 57 51 100 164Lease financing 1 4 1 — —Residential mortgage (2) 129 172 173 166 243Direct 64 63 43 48 109Indirect 72 71 66 59 55Total nonaccrual loans and leases (1)(2) 570736 576 616935Foreclosed real estate 32 50 108 143 192Other foreclosed property 25 27 28 23 47Total NPAs (1)(2) $627$813 $712 $782$1,174
+
+ Performing TDRs:
+
+Commercial and industrial $50 $57 $50 $65 $78CRE 16 25 29 57 89Residential mortgage (3)(4) 605 769 604 621 1,161Direct (4) 62 67 72 84 187Indirect 281 240 194 182 142Revolving credit 29 29 33 41 48Total performing TDRs (3)(4) $1,043 $1,187 $982 $1,050 $1,705
+
+ Loans 90 days or more past due and still accruing:
+
+Commercial and industrial $1 $— $— $— $5CRE 1 — — — —Residential mortgage 465 522 541 731 876Direct 6 6 7 12 33Indirect 6 6 5 5 5Revolving credit 12 12 10 9 10PCI 57 90 114 188 304Total loans 90 days or more past due and still accruing $548 $636 $677 $945$1,233
+
+ Loans 30-89 days past due and still accruing:
+
+Commercial and industrial $41 $44 $53 $37 $50CRE 8 8 22 5 10Lease financing 4 4 1 — —Residential mortgage 472 525 475 474 546Direct 65 60 58 41 132Indirect 412 377 358 285 262Revolving credit 23 23 22 23 23PCI 27 36 42 33 88Total loans 30-89 days past due and still accruing $1,052$1,077$1,031$898$1,111(1)During 2016, approximately $191 million of nonaccrual energy-related loans were sold.
+(2)During 2017 and 2014, approximately $61 million and $121 million, respectively, of nonaccrual residential mortgage loans were sold.
+(3)During 2017 and 2014, approximately $331 million and $540 million, respectively, of performing residential mortgage TDRs were sold.
+(4)During 2014, approximately $94 million of performing TDRs were transferred from direct lending to residential mortgage.Asset quality continued to improve in 2017 with declines across almost all loan categories.
+NPAs declined $186 million driven by commercial and industrial loans and its reduction in the energy-related portfolio.
+Performing TDRs declined $144 million driven by the sale of $199 million of performing residential mortgage TDRs.
+Delinquent loans still accruing interest declined $113 million driven by residential mortgage loans, which reflects general improvements in credit quality within that portfolio.46Table of ContentsTable 17Asset Quality Ratios As Of / For The Year Ended December 31, 2017 2016 2015 2014 2013Asset Quality Ratios:
+ Loans 30-89 days past due and still accruing as a percentage of loans and leases HFI0.73% 0.75% 0.76% 0.75% 0.96%Loans 90 days or more past due and still accruing as a percentage of loans and leases HFI0.38 0.44 0.50 0.79 1.06NPLs as a percentage of loans and leases HFI0.40 0.51 0.42 0.51 0.81NPAs as a percentage of:
+ Total assets0.28 0.37 0.34 0.42 0.64Loans and leases HFI plus foreclosed property0.44 0.57 0.52 0.65 1.01Net charge-offs as a percentage of average loans and leases HFI0.38 0.38 0.35 0.46 0.69ALLL as a percentage of loans and leases HFI1.04 1.04 1.07 1.23 1.49Ratio of ALLL to:
+ Net charge-offs2.78 x 2.80 x 3.36 x 2.74 x 2.19 xNPLs2.62 2.03 2.53 2.39 1.85
+
+Asset Quality Ratios (Excluding Government Guaranteed and PCI): (1)
+ Loans 90 days or more past due and still accruing as a percentage of loans and leases HFI0.05% 0.07% 0.06% 0.09% 0.11%(1)These asset quality ratios have been adjusted to remove the impact of government guaranteed and PCI assets.
+Appropriate adjustments to the numerator and denominator have been reflected in the calculation of these ratios.The following table provides a summary of performing TDR activity: Table 18Rollforward of Performing TDRs
+ Year Ended December 31,(Dollars in millions) 2017 2016Balance at beginning of year $1,187 $982Inflows 635 699Payments and payoffs (253) (217)Charge-offs (55) (41)Transfers to nonperforming TDRs, net (78) (68)Removal due to the passage of time (46) (54)Non-concessionary re-modifications (3) —Sold and transferred to LHFS (344) (114)Balance at end of year $1,043 $1,187 Payments and payoffs include scheduled principal payments, prepayments and payoffs of amounts outstanding.
+Transfers to nonperforming TDRs represent loans that no longer meet the requirements necessary to reflect the loan in accruing status.
+TDRs may be removed due to the passage of time if they: (1) did not include a forgiveness of principal or interest, (2) have performed in accordance with the modified terms (generally a minimum of six months), (3) were reported as a TDR over a year end reporting period, and (4) reflected an interest rate on the modified loan that was no less than a market rate at the date of modification.
+These loans were previously considered TDRs as a result of structural concessions such as extended interest-only terms or an amortization period that did not otherwise conform to normal underwriting guidelines.
+In addition, certain loans may be removed from classification as a TDR as a result of a subsequent non-concessionary re-modification.
+Non-concessionary re-modifications represent TDRs that did not contain concessionary terms at the date of a subsequent renewal/modification and there was a reasonable expectation that the borrower would continue to comply with the terms of the loan subsequent to the date of the re-modification.
+A re-modification may be considered for such a re-classification if the loan has not had a forgiveness of principal or interest and the modified terms qualify as more than minor such that the re-modified loan is considered a new loan.
+Alternatively, such loans may be considered for reclassification in years subsequent to the date of the re-modification based on the passage of time as described in the preceding paragraph.
+47Table of ContentsIn connection with consumer loan TDRs, a NPL will be returned to accruing status when current as to principal and interest and upon a sustained historical repayment performance (generally a minimum of six months).Table 19Payment Status of TDRs
+ December 31, 2017(Dollars in millions) Current Past Due 30-89 Days Past Due 90 Days Or More TotalPerforming TDRs (1):
+
+ Commercial:
+
+ Commercial and industrial $50 100.0% $— —% $— —% $50CRE 16 100.0 — — — — 16Retail:
+ —Residential mortgage 315 52.1 111 18.3 179 29.6 605Direct 58 93.5 4 6.5 — — 62Indirect 229 81.5 52 18.5 — — 281Revolving credit 24 82.8 4 13.8 1 3.4 29Total performing TDRs 692 66.3 171 16.4 180 17.3 1,043Nonperforming TDRs (2) 88 46.6 29 15.3 72 38.1 189Total TDRs $780 63.3 $200 16.2 $252 20.5 $1,232(1)Past due performing TDRs are included in past due disclosures.
+(2)Nonperforming TDRs are included in NPL disclosures.48Table of ContentsACL Information related to the ACL is presented in the following table:Table 20Analysis of ACL
+ Year Ended December 31,(Dollars in millions) 2017 2016 2015 2014 2013Beginning balance $1,599 $1,550 $1,534 $1,821 $2,048Provision for credit losses (excluding PCI) 562 574 430 280 587Provision for PCI loans (15) (2) (2) (29) 5Charge-offs:
+
+Commercial and industrial (95) (143) (90) (143) (257)CRE (10) (9) (24) (42) (132)Lease financing (5) (6) — — —Residential mortgage (1) (47) (40) (46) (84) (81)Direct (1) (61) (53) (54) (69) (148)Indirect (402) (366) (303) (280) (269)Revolving credit (76) (69) (70) (71) (85)PCI (1) (15) (1) (21) (19)Total charge-offs (697)(701)(588)(710)(991)Recoveries:
+
+Commercial and industrial 36 44 38 45 49CRE 16 19 18 33 51Lease financing 2 2 — — 1Residential mortgage (1) 2 3 3 7 3Direct (1) 25 26 29 29 38Indirect 60 55 44 39 40Revolving credit 19 20 20 19 17Total recoveries 160169152172199Net charge-offs (537) (532) (436) (538) (792)Other changes, net — 9 24 — (27)Ending balance $1,609$1,599$1,550$1,534$1,821
+
+ ALLL (excluding PCI loans) $1,462 $1,445 $1,399 $1,410 $1,618Allowance for PCI loans 28 44 61 64 114RUFC 119 110 90 60 89Total ACL $1,609$1,599$1,550$1,534$1,821(1)During the first quarter of 2014, $8.3 billion of loans were transferred from direct lending to residential mortgage.
+Charge-offs and recoveries have been reflected in these line items based upon the date the loans were transferred.
+The ACL consists of the ALLL, which is presented separately on the Consolidated Balance Sheets, and the RUFC, which is included in other liabilities on the Consolidated Balance Sheets.
+The ACL totaled $1.6 billion at December 31, 2017, an increase of $10 million compared to the prior year.The ALLL amounted to 1.04% of loans and leases held for investment at December 31, 2017 and 2016.
+The ratio of the ALLL to NPLs held for investment was 2.62x at December 31, 2017 compared to 2.03x at December 31, 2016.Net charge-offs totaled $537 million for 2017, compared to $532 million in 2016.
+Net charge-offs as a percentage of average loans and leases HFI were 0.38% for 2017, flat compared to 2016.
+Refer to "Note 3.
+Loans and ACL" for additional disclosures.
+The following table presents an allocation of the ALLL at the end of each of the last five years.
+This allocation of the ALLL is calculated on an approximate basis and is not necessarily indicative of future losses or allocations.
+The entire amount of the allowance is available to absorb losses occurring in any category of loans and leases.
+During 2013, the balance in the unallocated ALLL was incorporated into the loan portfolio segments.49Table of ContentsTable 21Allocation of ALLL by Category
+ December 31, 2017 2016 2015 2014 2013(Dollars in millions) Amount % Loans in each category Amount % Loans in each category Amount % Loans in each category Amount % Loans in each category Amount % Loans in each categoryBalances at end of period applicable to:
+
+
+ Commercial and industrial $522 41.1% $530 40.3% $488 39.6% $445 38.5% $475 37.0%CRE 160 14.8 145 13.8 175 13.5 212 11.8 227 11.3Lease financing 9 1.3 7 1.2 5 1.1 4 0.9 7 1.0Residential mortgage (1) 209 20.0 227 20.8 217 22.4 253 25.9 331 21.3Direct (1) 106 8.3 103 8.4 105 8.2 110 6.8 209 13.7Indirect 348 12.0 327 13.0 305 12.6 276 13.0 254 11.9Revolving credit 108 2.0 106 1.9 104 1.8 110 2.1 115 2.1PCI 28 0.5 44 0.6 61 0.8 64 1.0 114 1.7Total ALLL 1,490 100.0% 1,489 100.0% 1,460 100.0% 1,474 100.0% 1,732 100.0%RUFC 119 110 90 60 89 Total ACL $1,609$1,599$1,550$1,534$1,821 (1) During the first quarter of 2014, $8.3 billion in loans were transferred from direct to residential mortgage.
+FDIC Loss Share Receivable/Payable and Assets Acquired from the FDIC In connection with the Colonial acquisition, Branch Bank entered into loss sharing agreements with the FDIC that outlined the terms and conditions under which the FDIC would reimburse Branch Bank for a portion of the losses incurred on certain loans, investment securities and other assets.
+During 2016, Branch Bank entered into an early termination agreement with the FDIC that terminated the loss share agreements.
+Branch Bank made a payment of approximately $230 million to the FDIC as consideration for the early termination of the loss share agreements.
+The early termination eliminated the FDIC loss share receivable/payable associated with the indemnification by the FDIC.
+As a result of the settlement, no future loss sharing or gain sharing will occur related to the Colonial acquisition.
+Funding Activities Deposits are the primary source of funds for lending and investing activities.
+Scheduled payments, as well as prepayments, and maturities from portfolios of loans and investment securities also provide a stable source of funds.
+FHLB advances, other secured borrowings, Federal funds purchased and other short-term borrowed funds, as well as long-term debt issued through the capital markets, all provide supplemental liquidity sources.
+Funding activities are monitored and governed through BB&T’s overall asset/liability management process, which is further discussed in the "Market Risk Management" section in "Management’s Discussion and Analysis of Financial Condition and Results of Operations."
+The following section provides a brief description of the various sources of funds.
+Deposits Deposits are attracted principally from clients within BB&T’s branch network through the offering of a broad selection of deposit instruments to individuals and businesses, including noninterest-bearing checking accounts, interest-bearing checking accounts, savings accounts, money market deposit accounts, CDs and IRAs.
+Deposit account terms vary with respect to the minimum balance required, the time period the funds must remain on deposit and service charge schedules.
+Interest rates paid on specific deposit types are determined based on (i) the interest rates offered by competitors, (ii) the anticipated amount and timing of funding needs, (iii) the availability and cost of alternative sources of funding, and (iv) anticipated future economic conditions and interest rates.
+Deposits are attractive sources of funding because of their stability and relative cost.
+Total deposits were $157.4 billion at December 31, 2017, a decrease of $2.9 billion compared to year-end 2016.
+Noninterest-bearing deposits totaled $53.8 billion at December 31, 2017, an increase of $3.1 billion from December 31, 2016.
+The majority of the increase in noninterest-bearing deposits was attributable to personal and business deposits, which grew $1.7 billion (12.7%) and $1.4 billion (4.1%), respectively.
+Interest checking decreased $2.6 billion and money market and savings decreased $2.1 billion during 2017 driven by business deposits, while time deposits decreased $1.2 billion during 2017 primarily in personal accounts.
+50Table of ContentsFor the year ended December 31, 2017, total deposits averaged $159.2 billion, an increase of $1.8 billion compared to 2016, primarily due to the National Penn acquisition in 2016.
+The cost of interest-bearing deposits was 0.32% for 2017, compared to 0.23% for 2016.
+The following table presents the composition of average deposits for the last five quarters:Table 22Quarterly Composition of Average Deposits
+ For the Three Months Ended(Dollars in millions) 12/31/2017 9/30/2017 6/30/2017 3/31/2017 12/31/2016Noninterest-bearing deposits $54,288 $53,489 $52,573 $51,095 $51,421Interest checking 26,746 27,000 28,849 29,578 28,634Money market and savings 61,693 61,450 64,294 64,857 63,884Time deposits 13,744 13,794 14,088 14,924 15,693Foreign office deposits - interest-bearing 1,488 1,681 459 929 486Total average deposits $157,959$157,414$160,263$161,383$160,118 Average deposits for the fourth quarter of 2017 were $158.0 billion, up $545 million compared to the prior quarter.Average noninterest-bearing deposits increased $799 million, primarily due to increases in commercial, public funds and personal balances.Interest checking decreased $254 million, primarily due to decreases in public funds, personal and commercial balances.Money market and savings increased $243 million primarily due to commercial balances partially offset by decreased personal and public funds balances.Average time deposits decreased $50 million as decreases in personal balances and IRAs were partially offset by higher commercial balances.Average foreign office deposits decreased $193 million due to lower overall funding needs.Noninterest-bearing deposits represented 34.4% of total average deposits for the fourth quarter, compared to 34.0% for the prior quarter and 32.1% a year ago.
+The cost of interest-bearing deposits was 0.40% for the fourth quarter, up five basis points compared to the prior quarter.Table 23Scheduled Maturities of Time Deposits $100,000 and Greater (Dollars in millions)December 31, 2017Three months or less$1,647Over three through six months865Over six through twelve months1,289Over twelve months1,525Total$5,326Short-Term Borrowings BB&T also uses various types of short-term borrowings to meet funding needs.
+While deposits remain the primary source for funding loan originations, management uses short-term borrowings as a supplementary funding source for loan growth and other balance sheet management purposes.
+Short-term borrowings were 2.0% of total funding on average in 2017 as compared to 1.2% in 2016.
+The types of short-term borrowings that have been, or may be, used by the Company include Federal funds purchased, securities sold under repurchase agreements, master notes, commercial paper, short-term bank notes and short-term FHLB advances.
+Short-term borrowings at the end of 2017 were $4.9 billion, compared to $1.4 billion at year-end 2016.
+Average short-term borrowings totaled $4.3 billion during 2017 compared to $2.6 billion last year.
+The increase in the average balance of short-term borrowings during 2017 primarily reflects a decrease in deposits as a funding source.
+51Table of ContentsThe following table summarizes certain information for the past three years with respect to short-term borrowings:Table 24Short-Term Borrowings
+ As Of / For The Year Ended December 31,(Dollars in millions) 2017 2016 2015Securities Sold Under Agreements to Repurchase:
+Maximum outstanding at any month-end during the year $1,923 $2,265 $1,327Balance outstanding at end of year 483 970 617Average outstanding during the year 1,449 1,600 901Average interest rate during the year 0.70% 0.37% 0.23%Average interest rate at end of year 0.43 0.52 0.70
+ Federal Funds Purchased and Short-Term Borrowed Funds:
+Maximum outstanding at any month-end during the year $6,859 $3,003 $4,041Balance outstanding at end of year 4,455 436 2,976Average outstanding during the year 2,862 954 2,320Average interest rate during the year 1.06% 0.30% 0.11%Average interest rate at end of year 1.34 0.71 0.32 Long-Term Debt Long-term debt provides funding and, to a lesser extent, regulatory capital.
+At December 31, 2017, long-term debt totaled $23.6 billion, an increase of $1.7 billion compared to year-end 2016.
+The increase in long-term debt reflects new senior debt issuances of $7.3 billion and $1.5 billion in new FHLB advances, partially offset by the early extinguishment of $2.9 billion of FHLB advances and other repayments totaling $4.2 billion of long-term debt.
+The average cost of long-term debt was 2.10% in 2017, down 3 basis points compared to 2016.
+See "Note 8.
+Long-Term Debt" for additional disclosures.FHLB advances represented 10.5% of total outstanding long-term debt at December 31, 2017, compared to 18.7% at December 31, 2016.
+The remainder of long-term debt is primarily issuances of senior and subordinated notes by BB&T and Branch Bank.Shareholders’ Equity Shareholders’ equity totaled $29.7 billion at December 31, 2017, a decrease of $231 million, or 0.8%, from year-end 2016.
+Book value per common share at December 31, 2017 was $34.01, compared to $33.14 at December 31, 2016.
+The change in shareholders' equity reflects $1.6 billion of share repurchases and common and preferred dividends totaling $1.2 billion, partially offset by net income of $2.4 billion.
+Tangible book value per common share, which is a non-GAAP measure, at December 31, 2017 was $20.80 compared to $20.18 at December 31, 2016.
+Refer to the section titled "Capital" for a discussion of how BB&T calculates and uses these measures in the evaluation of the Company.
+Risk Management BB&T has a strong and consistent risk culture, based on established risk values, which promotes predictable and consistent performance within an environment of open communication and effective challenge.
+The strong culture influences all associates in the organization daily and helps them evaluate whether risks are acceptable or unacceptable while making decisions that balance quality, profitability and growth appropriately.
+BB&T’s effective risk management framework establishes an environment which enables it to achieve superior performance relative to peers, ensures that BB&T is viewed among the safest of banks and assures the operational freedom to act on opportunities.
+BB&T ensures that there is an appropriate return for the amount of risk taken, and that the expected return is in line with its strategic objectives and business plan.
+Risk-taking activities are evaluated and prioritized to identify those that present attractive risk-adjusted returns while preserving asset value.
+BB&T only undertakes risks that are understood and can be managed effectively.
+By managing risk well, BB&T ensures sufficient capital is available to maintain and grow core business operations in a safe and sound manner.
+52Table of ContentsRegardless of financial gain or loss to the Company, associates are held accountable if they do not follow the established risk management policies and procedures.
+Compensation decisions take into account an associate’s adherence to, and successful implementation of, BB&T’s risk values.
+The compensation structure supports the Company’s core values and sound risk management practices in an effort to promote judicious risk-taking behavior.
+BB&T’s risk culture encourages transparency and open dialogue between all levels in the performance of organizational functions, such as the development, marketing and implementation of a product or service.
+BB&T has established a risk management framework based on a "three lines of defense" model: •First Line of Defense: Risk management begins with the BUs, the point at which risk is originated and where risks must be managed.
+Business unit managers in the first line identify, assess, control and report their group’s risk profile compared to its approved risk limits.•Second Line of Defense: The RMO provides independent oversight and guidance of risk-taking across the enterprise.
+The RMO aggregates, integrates, and correlates risk information into a holistic picture of the corporation’s risk profile and concentrations.
+The RMO establishes policies and limits and reports sources and amounts of risk to Executive Management and the Board of Directors.•Third Line of Defense: Audit Services (BB&T’s internal audit function) evaluates the design and effectiveness of the risk management framework and its results.
+Results are reported to Executive Management and the Board of Directors according to Audit Services Policy.The following chart depicts the three lines of defense model:Risk CommitteesBoard of DirectorsExecutive Management 1st Line of Defense2nd Line of Defense3rd Line of DefenseBusiness UnitsRisk FunctionsAudit Services Chief Risk Officer The CRO leads the RMO, which designs, organizes and manages BB&T’s risk management framework.
+The RMO is responsible for ensuring effective risk management oversight, measurement, monitoring, reporting and consistency.
+The CRO has direct access to the Board of Directors and Executive Management.
+The CRO is responsible for identifying and communicating in a timely manner to the CEO and the Board of Directors meaningful risks and significant instances when the RMO’s assessment of risk differs from that of a BU, significant instances when a BU is not adhering to the risk governance framework, and BB&T’s risk profile in relation to its risk appetite on at least a quarterly basis.
+In the event that the CRO and CEO’s assessment of risk were to differ or if the CEO were to not adhere to the risk management framework, the CRO would have the responsibility to report such matters to the Board of Directors.
+The Executive Management-led enterprise risk committees provide oversight of the first and second lines of defense and communicate risk appetite and values to the RMO.
+The CRO and the enterprise risk committees approve policies, set risk limits and tolerances and monitor results.
+The RMC, CRMC, ORMC, CROC and the MRLCC are the enterprise risk committees and provide oversight of the risks as described in the common risk language.
+There is Executive Management representation in all five committees.
+The risk management framework is composed of specialized risk functions focused on specific types of risk.
+The MRLCC, CRMC, CROC and ORMC provide oversight of market, liquidity, capital, credit, compliance, and operational risk while RMC provides a fully integrated view of all material risks across the company.
+The RMC provides oversight of all risks and its purpose is to review BB&T’s aggregate risk exposure, evaluate risk appetite, and evaluate risks not reviewed by other risk committees.
+The RMC is responsible for taking a broad view of risk, incorporating information from all risk functions.
+This combination of broad and specific focus provides the most effective framework for the management of risk.
+The RMC is chaired by the CRO and its membership includes all members of Executive Management, the General Auditor (ex officio) and senior leaders from Financial Management, the RMO and other areas.The principal types of inherent risk include compliance, credit, liquidity, market, operational, reputation and strategic risks.53Table of ContentsCompliance risk Compliance risk is the risk to current or anticipated earnings or capital arising from violations of laws, rules or regulations, or from non-conformance with prescribed practices, internal policies and procedures or ethical standards.
+This risk exposes BB&T to fines, civil money penalties, payment of damages and the voiding of contracts.
+Compliance risk can result in diminished reputation, reduced franchise or enterprise value, limited business opportunities and lessened expansion potential.
+Credit risk Credit risk is the risk to current or anticipated earnings or capital arising from the default, inability or unwillingness of a borrower, obligor, or counterparty to meet the terms of any financial obligation with BB&T or otherwise perform as agreed.
+Credit risk exists in all activities where success depends on the performance of a borrower, obligor, or counterparty.
+Credit risk arises when BB&T funds are extended, committed, invested, or otherwise exposed through actual or implied contractual agreements, whether on or off balance sheet.
+Credit risk also occurs when the credit quality of an issuer whose securities or other instruments the bank holds deteriorates.BB&T has established the following general practices to manage credit risk: •limiting the amount of credit that individual lenders may extend to a borrower;•establishing a process for credit approval accountability;•careful initial underwriting and analysis of borrower, transaction, market and collateral risks;•ongoing servicing and monitoring of individual loans and lending relationships;•continuous monitoring of the portfolio, market dynamics and the economy; and•periodically reevaluating the bank’s strategy and overall exposure as economic, market and other relevant conditions change.The following discussion presents the principal types of lending conducted by BB&T and describes the underwriting procedures and overall risk management of BB&T’s lending function.
+Underwriting Approach The loan portfolio is a primary source of profitability and risk; therefore, proper loan underwriting is critical to BB&T’s long-term financial success.
+BB&T’s underwriting approach is designed to define acceptable combinations of specific risk-mitigating features that ensure credit relationships conform to BB&T’s risk philosophy.
+Provided below is a summary of the most significant underwriting criteria used to evaluate new loans and loan renewals: •Cash flow and debt service coverage—cash flow adequacy is a necessary condition of creditworthiness, meaning that loans must either be clearly supported by a borrower’s cash flow or, if not, must be justified by secondary repayment sources.•Secondary sources of repayment—alternative repayment funds are a significant risk-mitigating factor as long as they are liquid, can be easily accessed and provide adequate resources to supplement the primary cash flow source.•Value of any underlying collateral—loans are generally secured by the asset being financed.
+Because an analysis of the primary and secondary sources of repayment is the most important factor, collateral, unless it is liquid, does not justify loans that cannot be serviced by the borrower’s normal cash flows.•Overall creditworthiness of the customer, taking into account the customer’s relationships, both past and current, with BB&T and other lenders—BB&T’s success depends on building lasting and mutually beneficial relationships with clients, which involves assessing their financial position and background.•Level of equity invested in the transaction—in general, borrowers are required to contribute or invest a portion of their own funds prior to any loan advances.54Table of ContentsCommercial Loan and Lease Portfolio The commercial loan and lease portfolio represents the largest category of the Company’s total loan portfolio.
+BB&T’s commercial lending program is generally targeted to serve small-to-middle market businesses with sales of $250 million or less.
+In addition, BB&T’s Corporate Banking Group provides lending solutions to large corporate clients.
+Traditionally, lending to small and mid-sized businesses has been among BB&T’s strongest market segments.
+The commercial loan and lease portfolio consists of dealer-based financing of equipment for small businesses, commercial equipment leasing and finance, and full-service commercial mortgage banking.
+BB&T offers these services to bank clients as well as nonbank clients within and outside BB&T’s primary geographic market area.
+In accordance with the Company’s lending policy, each loan undergoes a detailed underwriting process, which incorporates BB&T’s underwriting approach, procedures and evaluations described above.
+Commercial loans are typically priced with an interest rate tied to market indices, such as the prime rate or LIBOR.
+Commercial loans are individually monitored and reviewed for any possible deterioration in the ability of the client to repay the loan.
+Approximately 86.8% of BB&T’s commercial loans are secured by real estate, business equipment, inventories and other types of collateral.Residential Mortgage Loan Portfolio Branch Bank offers various types of fixed and adjustable-rate loans for the purpose of constructing, purchasing or refinancing residential properties.
+BB&T primarily originates conforming mortgage loans and higher quality jumbo and construction-to-permanent loans for owner-occupied properties.
+Conforming loans are loans that are underwritten in accordance with the underwriting standards set forth by FNMA and FHLMC.
+They are generally collateralized by one-to-four-family residential real estate, typically have loan-to-collateral value ratios of 80% or less at origination, and are made to borrowers in good credit standing.
+Risks associated with the mortgage lending function include interest rate risk, which is mitigated through the sale of a substantial portion of conforming fixed-rate loans in the secondary mortgage market, and an effective MSR hedging process.
+Borrower risk is lessened through rigorous underwriting procedures and mortgage insurance.
+The right to service the loans and receive servicing income is generally retained when conforming loans are sold.
+Management believes that the retention of mortgage servicing is a relationship driver in retail banking and a part of management’s strategy to establish profitable long-term customer relationships and offer high quality client service.
+BB&T also purchases residential mortgage loans from correspondent originators.
+The loans purchased from third-party originators are subject to the same underwriting and risk-management criteria as loans originated internally.Direct Loan Portfolio The direct loan portfolio primarily consists of a wide variety of loan products offered through BB&T’s branch network.
+Various types of secured and unsecured loans are marketed to qualifying existing clients and to other creditworthy candidates in BB&T’s market area.
+The vast majority of direct loans are revolving home equity lines of credit secured by first or second liens on residential real estate.
+Direct loans are subject to the same rigorous lending policies and procedures as described above for commercial loans and are underwritten with note amounts and credit limits that ensure consistency with the Company’s risk philosophy.
+Indirect Loan Portfolio The indirect portfolio primarily includes secured indirect installment loans to consumers for the purchase of new and used automobiles, boats and recreational vehicles.
+The indirect portfolio also includes nonprime automobile finance.
+Such loans are originated through approved franchised and independent dealers throughout the BB&T market area.
+These loans are relatively homogeneous and no single loan is individually significant in terms of its size and potential risk of loss.
+Indirect loans are subject to the same rigorous lending policies and procedures as described above for commercial loans and are underwritten with note amounts and credit limits that ensure consistency with the Company’s risk philosophy.
+In addition to its normal underwriting due diligence, BB&T uses application systems and "scoring systems" to help underwrite and manage the credit risk in its indirect portfolio.
+Revolving Credit Loan Portfolio The revolving credit portfolio consists of the outstanding balances on credit cards and BB&T’s checking account overdraft protection product, Constant Credit.
+BB&T markets credit cards to its existing banking client base and does not solicit cardholders through nationwide programs or other forms of mass marketing.
+Such balances are generally unsecured and actively managed.55Table of ContentsPCI The PCI balance includes loans acquired with credit deterioration subsequent to origination as well as loans that were formerly covered by loss sharing agreements.
+Refer to "Note 3.
+Loans and ACL" for additional information.
+Liquidity risk Liquidity risk is the risk to current or anticipated earnings or capital that BB&T will be unable to meet its obligations as they come due because of an inability to liquidate assets or obtain adequate funding (funding liquidity risk), or that it cannot easily unwind or offset specific exposures without significantly lowering market prices because of inadequate market depth or market disruptions (market liquidity risk).
+Market risk Market risk is the risk to current or anticipated earnings or capital arising from changes in the market value of portfolios, securities, or other financial instruments.
+Market risk results from changes in the level, volatility or correlations among financial market rates or prices, including interest rates, foreign exchange rates, equity prices, commodity prices or other relevant rates or prices.
+Interest rate risk results from differences between the timing of rate changes and the timing of cash flows (re-pricing risk); from changing rate relationships among different yield curves affecting bank activities (basis risk); from changing rate relationships across the spectrum of maturities (yield curve risk); and from interest-related options embedded in bank products (options risk).
+For additional information concerning BB&T’s management of market risk, see the "Market Risk Management" section of "Management’s Discussion and Analysis of Financial Condition and Results of Operations."
+Operational risk Operational risk is the risk to current or anticipated earnings or capital arising from inadequate or failed internal processes, people and systems or from external events.
+This definition includes legal risk, which is the risk of loss arising from defective transactions, litigation or claims made, or the failure to adequately protect company-owned assets.
+Cybersecurity In recent years, cybersecurity has gained prominence within the financial services industry due to increases in the quantity and sophistication of cyber attacks, which include significant distributed denial-of-service and credential validation attacks, malicious code and viruses and attempts to breach the security of systems, which, in certain instances, have resulted in unauthorized access to customer account data.
+BB&T has a number of complex information systems used for a variety of functions by customers, employees and vendors.
+In addition, third parties with which BB&T does business or that facilitate business activities (e.g., vendors, exchanges, clearing houses, central depositories and financial intermediaries) could also be sources of cybersecurity risk to BB&T, including with respect to breakdowns or failures of their systems, misconduct by the employees of such parties, or cyber attacks which could affect their ability to deliver a product or service to BB&T.
+As a FHC, BB&T must adhere to the security requirements and expectations of the applicable regulatory agencies, which include requirements related to data privacy, systems availability and business continuity planning, among others.
+The regulatory agencies have established guidelines for the responsibilities of the Board of Directors and senior management, which include establishing policy, appointing and training personnel, implementing review and testing functions and ensuring an appropriate frequency of updates.The Risk Committee of the Board of Directors is responsible for the management of cybersecurity risk.
+The DTSSRC and its subcommittees are responsible for cybersecurity strategy, and monitoring and reporting on cybersecurity risks.
+Corporate Information Security is responsible for day-to-day cybersecurity operations.
+Various reports on cybersecurity are provided to Executive Management and a quarterly update is provided to the Risk Committee or the full Board of Directors on a rotating basis.
+Additionally, Corporate Information Security provides an Information Security Annual Report, which includes cybersecurity risk assessments, to the Board of Directors.
+As a complement to the overall cybersecurity infrastructure, BB&T utilizes a number of internal training methods, both formally through mandatory courses and informally through written communications and other updates.
+Internal policies and procedures have been implemented to encourage the reporting of potential phishing attacks or other security risks.
+BB&T also uses third party services as part of its cybersecurity framework, and any such third parties are required to comply with BB&T’s policies regarding information security and confidentiality.
+BB&T also uses third party groups to assess and supplement the Company’s cybersecurity needs.56Table of Contents These cyber attacks have not, to date, resulted in any material disruption to BB&T’s operations or harm to its customers and have not had a material adverse effect on BB&T’s results of operations; however, there can be no assurance that a sophisticated cyber attack can be detected or thwarted.Model Risk Management Model risk is the risk to current or anticipated earnings or capital from decisions based on incorrect or misused model outputs.
+BB&T uses models for many purposes, including the valuation of financial positions and the measurement of risk.
+Valuation models are used to value certain financial instruments for which quoted prices may not be readily available.
+Valuation models are also used as inputs for VaR, regulatory capital, stress testing and the ACL.
+Models are owned by the applicable BUs, who are responsible for the development, implementation and use of their models.
+Oversight of these functions is performed by the MRM, which is a component of the RMO.
+Once models have been approved, model owners are responsible for the maintenance of an appropriate operating environment and must monitor and evaluate the performance of the models on a recurring basis.
+Models are updated in response to changes in portfolio composition, industry and economic conditions, technological capabilities and other developments.
+The MRM utilizes internal validation analysts and managers with skill sets in predictive modeling to perform detailed reviews of model development, implementation and conceptual soundness.
+On certain occasions, the MRM will also engage external parties to assist with validation efforts.
+The MRM maintains documented quality assurance procedures that are used to confirm that validation analysts have completed the necessary field work in an auditable and complete fashion.
+The MRM tracks issues that have been identified by validation analysts and engages with model owners to ensure their timely remediation.
+MRM presents model limitations and risks to management and the Board of Directors via model validation reports and regular meetings with the ORMC.
+Reputation risk Reputation risk is the risk to current or anticipated earnings, capital, enterprise value, the BB&T brand, and public confidence arising from negative publicity or public opinion, whether real or perceived, regarding BB&T’s business practices, products, services, transactions, or other activities undertaken by BB&T, its representatives, or its partners.
+A negative reputation may impair BB&T’s relationship with clients, associates, communities or shareholders, and it is often a residual risk that arises when other risks are not managed properly.
+Strategic risk Strategic risk is the risk to current or anticipated earnings, capital, enterprise value and the achievement of BB&T’s vision, mission, purpose and business objectives consistent with its values that arises from BB&T’s business strategy or potentially adverse business decisions, improper or ineffective implementation of business decisions or lack of responsiveness to changes in the banking industry and operating environment.
+Strategic risk is a function of BB&T’s strategic goals, business strategies, resources and quality of implementation.
+The responsibility for managing this risk rests with the Board of Directors, Executive Management and the Senior Leadership Team.
+Market Risk Management The effective management of market risk is essential to achieving BB&T’s strategic financial objectives.
+As a financial institution, BB&T’s most significant market risk exposure is interest rate risk in its balance sheet; however, market risk also includes product liquidity risk, price risk and volatility risk in BB&T’s BUs.
+The primary objectives of market risk management are to minimize any adverse effect that changes in market risk factors may have on net interest income, net income and capital and to offset the risk of price changes for certain assets recorded at fair value.
+At BB&T, market risk management also includes the enterprise-wide IPV function.
+Interest Rate Market Risk (Other than Trading) BB&T actively manages market risk associated with asset and liability portfolios with a focus on the strategic pricing of asset and liability accounts and management of appropriate maturity mixes of assets and liabilities.
+The goal of these activities is the development of appropriate maturity and repricing opportunities in BB&T’s portfolios of assets and liabilities that will produce reasonably consistent net interest income during periods of changing interest rates.
+These portfolios are analyzed for proper fixed-rate and variable-rate mixes under various interest rate scenarios.
+57Table of ContentsThe asset/liability management process is designed to achieve relatively stable NIM and assure liquidity by coordinating the volumes, maturities or repricing opportunities of earning assets, deposits and borrowed funds.
+Among other things, this process gives consideration to prepayment trends related to securities, loans and leases and certain deposits that have no stated maturity.
+Prepayment assumptions are developed using a combination of market data and internal historical prepayment experience for residential mortgage-related loans and securities, and internal historical prepayment experience for client deposits with no stated maturity and loans that are not residential mortgage related.
+These assumptions are subject to monthly review and adjustment, and are modified as deemed necessary to reflect changes in interest rates relative to the reference rate of the underlying assets or liabilities.
+On a monthly basis, BB&T evaluates the accuracy of its Simulation model, which includes an evaluation of its prepayment assumptions, to ensure that all significant assumptions inherent in the model appropriately reflect changes in the interest rate environment and related trends in prepayment activity.
+It is the responsibility of the MRLCC to determine and achieve the most appropriate volume and mix of earning assets and interest-bearing liabilities, as well as to ensure an adequate level of liquidity and capital, within the context of corporate performance goals.
+The MRLCC also sets policy guidelines and establishes long-term strategies with respect to interest rate risk exposure and liquidity.
+The MRLCC meets regularly to review BB&T’s interest rate risk and liquidity positions in relation to present and prospective market and business conditions, and adopts funding and balance sheet management strategies that are intended to ensure that the potential impacts on earnings and liquidity as a result of fluctuations in interest rates are within acceptable tolerance guidelines.
+BB&T uses derivatives primarily to manage economic risk related to securities, commercial loans, MSRs and mortgage banking operations, long-term debt and other funding sources.
+BB&T also uses derivatives to facilitate transactions on behalf of its clients.
+As of December 31, 2017, BB&T had derivative financial instruments outstanding with notional amounts totaling $75.2 billion, with a net fair value loss of $271 million.
+See "Note 17.
+Derivative Financial Instruments" for additional disclosures.
+The majority of BB&T’s assets and liabilities are monetary in nature and, therefore, differ greatly from most commercial and industrial companies that have significant investments in fixed assets or inventories.
+Fluctuations in interest rates and actions of the FRB to regulate the availability and cost of credit have a greater effect on a financial institution’s profitability than do the effects of higher costs for goods and services.
+Through its balance sheet management function, which is monitored by the MRLCC, management believes that BB&T is positioned to respond to changing needs for liquidity, changes in interest rates and inflationary trends.
+Management uses the Simulation to measure the sensitivity of projected earnings to changes in interest rates.
+The Simulation projects net interest income and interest rate risk for a rolling two-year period of time.
+The Simulation takes into account the current contractual agreements that BB&T has made with its customers on deposits, borrowings, loans, investments and commitments to enter into those transactions.
+Furthermore, the Simulation considers the impact of expected customer behavior.
+Management monitors BB&T’s interest sensitivity by means of a model that incorporates the current volumes, average rates earned and paid, and scheduled maturities and payments of asset and liability portfolios, together with multiple scenarios that include projected prepayments, repricing opportunities and anticipated volume growth.
+Using this information, the model projects earnings based on projected portfolio balances under multiple interest rate scenarios.
+This level of detail is needed to simulate the effect that changes in interest rates and portfolio balances may have on the earnings of BB&T.
+This method is subject to the accuracy of the assumptions that underlie the process, but management believes that it provides a better illustration of the sensitivity of earnings to changes in interest rates than other analyses such as static or dynamic gap.
+In addition to the Simulation, BB&T uses EVE analysis to focus on projected changes in assets and liabilities given potential changes in interest rates.
+This measure also allows BB&T to analyze interest rate risk that falls outside the analysis window contained in the Simulation.
+The EVE model is a discounted cash flow of the portfolio of assets, liabilities, and derivative instruments.
+The difference in the present value of assets minus the present value of liabilities is defined as the economic value of equity.
+The asset/liability management process requires a number of key assumptions.
+Management determines the most likely outlook for the economy and interest rates by analyzing external factors, including published economic projections and data, the effects of likely monetary and fiscal policies, as well as any enacted or prospective regulatory changes.
+BB&T’s current and prospective liquidity position, current balance sheet volumes and projected growth, accessibility of funds for short-term needs and capital maintenance are also considered.
+This data is combined with various interest rate scenarios to provide management with the information necessary to analyze interest sensitivity and to aid in the development of strategies to reach performance goals.The following table shows the effect that the indicated changes in interest rates would have on net interest income as projected for the next twelve months assuming a gradual change in interest rates as described below.
+Key assumptions in the preparation of the table include prepayment speeds of mortgage-related and other assets, cash flows and maturities of derivative financial instruments, loan volumes and pricing, deposit sensitivity, customer preferences and capital plans.
+The resulting change in net interest income reflects the level of interest rate sensitivity that income has in relation to the investment, loan and deposit portfolios.58Table of ContentsTable 25Interest Sensitivity Simulation Analysis Interest Rate Scenario Annualized Hypothetical Percentage Change in Net Interest Income Prime Rate Linear Change in Prime Rate December 31, December 31, 2017 2016 2017 2016Up 200 bps 6.50% 5.75% 3.09 % 3.13 %Up 100 5.50 4.75 2.07 2.14No Change 4.50 3.75 — —Down 25 4.25 3.50 (1.06) (0.93)Down 100 3.50 2.75 (6.62) NA The MRLCC has established parameters related to interest sensitivity that prescribe a maximum negative impact on net interest income under different interest rate scenarios.
+In the event the results of the Simulation model fall outside the established parameters, management will make recommendations to the MRLCC on the most appropriate response given the current economic forecast.
+The following parameters and interest rate scenarios are considered BB&T’s primary measures of interest rate risk: •Maximum negative impact on net interest income of 2% for the next 12 months assuming a 25 basis point change in interest rates each month for four months followed by a flat interest rate scenario for the remaining eight month period.•Maximum negative impact on net interest income of 4% for the next 12 months assuming a 25 basis point change in interest rates each month for eight months followed by a flat interest rate scenario for the remaining four month period.If a parallel rate change of 200 basis points cannot be modeled due to a low level of rates, a proportional limit applies, and the maximum negative impact on net interest income is adjusted on a proportional basis.
+Regardless of the proportional limit, the negative risk exposure limit will be the greater of the 4% or the proportional limit.
+Management has also established a maximum negative impact on net interest income of 4% for an immediate 100 basis points parallel change in rates and 8% for an immediate 200 basis points parallel change in rates.
+Management currently only models up to a negative 100 basis point decline, and the maximum negative impact on net interest income is adjusted on a proportional basis.
+Regardless of the proportional limit, the negative risk exposure limit will be the greater of 4% or the proportional limit.
+These "interest rate shock" limits are designed to create an outer band of acceptable risk based upon a significant and immediate change in rates.Management has temporarily suspended its interest rate exposure limits to declining interest rates.
+As the Federal Reserve has started to raise rates, competitive pressure on deposit rates has not materialized.
+As a result, asset repricing in excess of liability repricing is causing the measured exposure to declining rates to increase.
+Management evaluates its interest rate risk position each month.
+Management must also consider how the balance sheet and interest rate risk position could be impacted by changes in balance sheet mix.
+Liquidity in the banking industry has been very strong during the current economic cycle.
+Much of this liquidity increase has been due to a significant increase in noninterest-bearing demand deposits.
+Consistent with the industry, Branch Bank has seen a significant increase in this funding source.
+The behavior of these deposits is one of the most important assumptions used in determining the interest rate risk position of BB&T.
+A loss of these deposits in the future would reduce the asset sensitivity of BB&T’s balance sheet as the Company increases interest-bearing funds to offset the loss of this advantageous funding source.Beta represents the correlation between overall market interest rates and the rates paid by BB&T on interest-bearing deposits.
+BB&T applies an average beta of approximately 50% to its non-maturity interest bearing deposit accounts for determining its interest rate sensitivity.
+Non-maturity interest bearing deposit accounts include interest checking accounts, savings accounts, and money market accounts that do not have a contractual maturity.
+Due to current market conditions the actual deposit beta on non-maturity interest bearing deposits has been less than 15%; however, BB&T expects the beta to increase as rates continue to rise.
+BB&T regularly conducts sensitivity on other key variables to determine the impact they could have on the interest rate risk position.
+This allows BB&T to evaluate the likely impact on its balance sheet management strategies due to a more extreme variation in a key assumption than expected.
+59Table of ContentsThe following table shows the effect that the loss of demand deposits and an associated increase in managed rate deposits would have on BB&T’s interest-rate sensitivity position.
+For purposes of this analysis, BB&T modeled the incremental beta for the replacement of the lost demand deposits at 100%.Table 26Deposit Mix Sensitivity Analysis
+ Increase in Rates Base Scenario at December 31, 2017 (1) Results Assuming a Decrease in Noninterest-Bearing Demand Deposits $1 Billion $5 BillionUp 200 bps 3.09% 2.88% 2.04%Up 100 2.07 1.94 1.42(1) The base scenario is equal to the annualized hypothetical percentage change in net interest income at December 31, 2017 as presented in the preceding table.If rates increased 200 basis points, BB&T could absorb the loss of $14.8 billion, or 27.5%, of noninterest-bearing demand deposits and replace them with managed rate deposits with a beta of 100% before becoming neutral to interest rate changes.
+The following table shows the effect that the indicated changes in interest rates would have on EVE.
+Key assumptions in the preparation of the table include prepayment speeds of mortgage-related and other assets, cash flows and maturities of derivative financial instruments, loan volumes and pricing and deposit sensitivity.Table 27EVE Simulation Analysis
+ EVE/Assets Hypothetical Percentage Change in EVE December 31, December 31,Change in Rates 2017 2016 2017 2016Up 200 bps 11.4% 11.6% (5.1)% 1.3 %Up 100 11.9 11.7 (0.9) 1.8No Change 12.0 11.5 — —Down 25 11.9 11.3 (0.7) (1.1)Down 100 11.1 NA (7.7) NA Market Risk from Trading Activities BB&T also manages market risk from trading activities which consists of acting as a financial intermediary to provide its customers access to derivatives, foreign exchange and securities markets.
+Trading market risk is managed through the use of statistical and non-statistical risk measures and limits.
+BB&T utilizes a historical VaR methodology to measure and aggregate risks across its covered trading BUs.
+This methodology uses two years of historical data to estimate economic outcomes for a one-day time horizon at a 99% confidence level.
+The average 99% one-day VaR and the maximum daily VaR for the years ended December 31, 2017 and 2016 were each less than $1 million.
+Market risk disclosures under Basel II.5 are available in the Additional Disclosures section of the Investor Relations site on BBT.com.Liquidity Liquidity represents the continuing ability to meet funding needs, including deposit withdrawals, timely repayment of borrowings and other liabilities, and funding of loan commitments.
+In addition to the level of liquid assets, such as cash, cash equivalents and AFS securities, many other factors affect the ability to meet liquidity needs, including access to a variety of funding sources, maintaining borrowing capacity in national money markets, growing core deposits, the repayment of loans and the ability to securitize or package loans for sale.BB&T monitors the ability to meet customer demand for funds under both normal and stressed market conditions.
+In considering its liquidity position, management evaluates BB&T’s funding mix based on client core funding, client rate-sensitive funding and national markets funding.
+In addition, management also evaluates exposure to rate-sensitive funding sources that mature in one year or less.
+Management also measures liquidity needs against 30 days of stressed cash outflows for Branch Bank and BB&T.
+To ensure a strong liquidity position, management maintains a liquid asset buffer of cash on hand and highly liquid unpledged securities.
+BB&T follows the FRB's enhanced prudential standards for purposes of determining the liquid asset buffer.
+BB&T’s policy is to use the greater of 5% or a range of projected net cash outflows over a 30 day period.
+As of December 31, 2017 and 2016, BB&T’s liquid asset buffer was 14.3% and 12.6%, respectively, of total assets.
+60Table of ContentsBB&T is considered to be a "modified LCR" holding company.
+BB&T would be subject to full LCR requirements if its assets were to increase above $250 billion or if it were to be considered internationally active.
+BB&T produces LCR calculations to effectively manage the position of High-Quality Liquid Assets and the balance sheet deposit mix to optimize BB&T's liquidity position.
+BB&T's LCR was approximately 138% at December 31, 2017, compared to the regulatory minimum for such entities of 100%, which puts BB&T in full compliance with the rule.
+The LCR can experience volatility due to issues like maturing debt rolling into the 30 day measurement period, or client inflows and outflows.
+The daily change in BB&T’s LCR can be positive or negative, with negative changes representing a reduction in measured liquidity.
+The negative changes averaged less than 2% during 2017 with a maximum change of approximately 11%.As noted above, BB&T is currently subject to the modified LCR requirement.
+BB&T routinely evaluates the impact of becoming subject to the full LCR requirement.
+This includes an evaluation of the changes to the balance sheet and investment strategy that would be necessary to comply with the requirement.
+Management does not currently expect the required changes to have a material impact on BB&T’s financial condition or results of operations.On April 27, 2016, the OCC, the FRB and the FDIC released a notice of proposed rulemaking for the US version of the net stable funding ratio.
+Under the proposal, BB&T will be a "modified NSFR" holding company.
+BB&T would be subject to full NSFR requirements if it has $250 billion or more in assets or $10 billion or more in total on-balance sheet foreign exposure.
+BB&T is evaluating the information in the proposal but does not currently expect a material impact on its results of operations or financial condition.
+Parent Company The purpose of the Parent Company is to serve as the primary source of capital for the operating subsidiaries, with assets primarily consisting of cash on deposit with Branch Bank, equity investments in subsidiaries, advances to subsidiaries, accounts receivable from subsidiaries, and other miscellaneous assets.
+The principal obligations of the Parent Company are payments on long-term debt.
+The main sources of funds for the Parent Company are dividends and management fees from subsidiary, repayments of advances to subsidiaries, and proceeds from the issuance of equity and long-term debt.
+The primary uses of funds by the Parent Company are for investments in subsidiaries, advances to subsidiaries, dividend payments to common and preferred shareholders, retirement of common stock and payments on long-term debt.
+The primary source of funds used for Parent Company cash requirements was dividends received from subsidiaries.
+See "Note 15.
+Parent Company Financial Statements" for additional information regarding dividends from subsidiaries and debt transactions.
+Liquidity at the Parent Company is more susceptible to market disruptions.
+BB&T prudently manages cash levels at the Parent Company to cover a minimum of one year of projected contractual cash outflows which includes unfunded external commitments, debt service, preferred dividends and scheduled debt maturities without the benefit of any new cash infusions.
+Generally, BB&T maintains a significant buffer above the projected one year of contractual cash outflows.
+In determining the buffer, BB&T considers cash requirements for common and preferred dividends, unfunded commitments to affiliates, being a source of strength to its banking subsidiaries and being able to withstand sustained market disruptions that could limit access to the capital markets.
+As of December 31, 2017 and 2016, the Parent Company had 29 months and 25 months, respectively, of cash on hand to satisfy projected contractual cash outflows and 23 months and 19 months, respectively, taking into account common stock dividends.
+Branch Bank BB&T carefully manages liquidity risk at Branch Bank.
+Branch Bank’s primary source of funding is customer deposits.
+Continued access to customer deposits is highly dependent on the confidence the public has in the stability of the bank and its ability to return funds to the client when requested.
+BB&T maintains a strong focus on its reputation in the market to ensure continued access to client deposits.
+BB&T integrates its risk appetite into its overall risk management framework to ensure the bank does not exceed its risk tolerance through its lending and other risk taking functions and thus risk becoming undercapitalized.
+BB&T believes that sufficient capital is paramount to maintaining the confidence of its depositors and other funds providers.
+BB&T has extensive capital management processes in place to ensure it maintains sufficient capital to absorb losses and maintain a highly capitalized position that will instill confidence in the bank and allow continued access to deposits and other funding sources.
+Branch Bank monitors many liquidity metrics at the bank including funding concentrations, diversification, maturity distribution, contingent funding needs and ability to meet liquidity requirements under times of stress.Branch Bank has several major sources of funding to meet its liquidity requirements, including access to capital markets through issuance of senior or subordinated bank notes and institutional CDs, access to the FHLB system, dealer repurchase agreements and repurchase agreements with commercial clients, access to the overnight and term Federal funds markets, use of a Cayman branch facility, access to retail brokered CDs and a borrower in custody program with the FRB for the discount window.
+As of December 31, 2017, BB&T has approximately $80.9 billion of secured borrowing capacity, which represents approximately 8.8 times the amount of one year wholesale funding maturities.61Table of Contents The ability to raise funding at competitive prices is affected by the rating agencies’ views of the Parent Company’s and Branch Bank’s credit quality, liquidity, capital and earnings.
+Management meets with the rating agencies on a regular basis to discuss current outlooks.
+The ratings for BB&T and Branch Bank by the major rating agencies are detailed in the table below:Table 28Credit Ratings of BB&T Corporation and Branch BankDecember 31, 2017
+ S&P Moody's Fitch DBRSBB&T Corporation:
+ Commercial PaperA-2 N/A F1 R-1(low)IssuerA- A2 A+ A(high)LT/Senior debtA- A2 A+ A(high)Subordinated debtBBB+ A2 A APreferred stockBBB- Baa1(hyb) BBB- BBB(high)
+ Branch Bank:
+ Long term depositsN/A Aa1 AA- AA(low)LT/Senior unsecured bank notesA A1 A+ AA(low)Other long term senior obligationsA N/A A+ AA(low)Other short term senior obligationsA-1 N/A F1 R-1(middle)Short term bank notesA-1 P-1 F1 R-1(middle)Short term depositsN/A P-1 F1+ R-1(middle)Subordinated bank notesA- A2 A A(high)
+ Ratings Outlook:
+ Credit TrendStable Stable Stable Stable BB&T and Branch Bank have Contingency Funding Plans designed to ensure that liquidity sources are sufficient to meet their ongoing obligations and commitments, particularly in the event of a liquidity contraction.
+These plans are designed to examine and quantify the organization’s liquidity under various "stress" scenarios.
+Additionally, the plans provide a framework for management and other critical personnel to follow in the event of a liquidity contraction or in anticipation of such an event.
+The plans address authority for activation and decision making, liquidity options and the responsibilities of key departments in the event of a liquidity contraction.
+The liquidity options available to management could include seeking secured funding, asset sales, and under the most extreme scenarios, curtailing new loan originations.
+Management believes current sources of liquidity are adequate to meet BB&T’s current requirements and plans for continued growth.
+See "Note 4.
+Premises and Equipment," "Note 8.
+Long-Term Debt" and "Note 13.
+Commitments and Contingencies" for additional information regarding outstanding balances of sources of liquidity and contractual commitments and obligations.
+Contractual Obligations, Commitments, Contingent Liabilities, Off-Balance Sheet Arrangements and Related Party Transactions The following table presents, as of December 31, 2017, BB&T’s contractual obligations by payment date.
+The payment amounts represent those amounts contractually due to the recipient.
+The table excludes liabilities recorded where management cannot reasonably estimate the timing of any payments that may be required in connection with these liabilities.
+Further discussion of the nature of each obligation is included in "Note 13.
+Commitments and Contingencies.
+"62Table of ContentsTable 29Contractual Obligations and Other CommitmentsDecember 31, 2017
+
+ (Dollars in millions) Total Less than 1 Year 1 to 3 Years 3 to 5 Years After 5 YearsLong-term debt and capital leases $23,559 $2,446 $10,845 $6,107 $4,161Operating leases 1,511 255 427 320 509Commitments to fund affordable housing investments 928 536 349 20 23Private equity and other investments commitments (1) 143 39 69 28 7Time deposits 13,170 8,379 3,804 970 17Contractual interest payments (2) 3,004 751 1,113 560 580Purchase obligations (3) 1,335 608 544 160 23Nonqualified benefit plan obligations (4) 1,020 15 31 33 941Total contractual cash obligations $44,670 $13,029 $17,182 $8,198 $6,261(1)Based on estimated payment dates.
+(2)Includes accrued interest, future contractual interest obligations and the impact of hedges in a loss position.
+Other derivatives are excluded.
+Variable rate payments are based upon the rate in effect at December 31, 2017.
+(3)Represents obligations to purchase goods or services that are enforceable and legally binding.
+Many of the purchase obligations have terms that are not fixed and determinable and are included in the table above based upon the estimated timing and amount of payment.
+In addition, certain of the purchase agreements contain clauses that would allow BB&T to cancel the agreement with specified notice; however, that impact is not included in the table above.
+(4)Although technically unfunded plans, Rabbi Trusts and insurance policies on the lives of certain of the covered employees are available to finance future benefit plan payments.
+BB&T’s commitments include investments in affordable housing projects throughout its market area and private equity funds.
+Refer to "Note 1.
+Summary of Significant Accounting Policies" and "Note 13.
+Commitments and Contingencies" for further discussion of these commitments.
+In addition, BB&T enters into derivative contracts to manage various financial risks.
+A derivative is a financial instrument that derives its cash flows, and therefore its value, by reference to an underlying instrument, index or referenced interest rate.
+Derivative contracts are carried at fair value on the Consolidated Balance Sheets with the fair value representing the net present value of expected future cash receipts or payments based on market interest rates as of the balance sheet date.
+Derivative contracts are written in amounts referred to as notional amounts, which only provide the basis for calculating payments between counterparties and are not a measure of financial risk.
+Therefore, the derivative liabilities recorded on the balance sheet as of December 31, 2017 do not represent the amounts that may ultimately be paid under these contracts.
+Further discussion of derivative instruments is included in "Note 1.
+Summary of Significant Accounting Policies" and "Note 17.
+Derivative Financial Instruments."
+In the ordinary course of business, BB&T indemnifies its officers and directors to the fullest extent permitted by law against liabilities arising from litigation.
+BB&T also issues standard representation and warranties in underwriting agreements, merger and acquisition agreements, loan sales, brokerage activities and other similar arrangements.
+Counterparties in many of these indemnifications provide similar indemnifications to BB&T.
+Although these agreements often do not specify limitations, BB&T does not believe that any payments related to these guarantees would materially change the financial condition or results of operations of BB&T.
+BB&T holds public funds in certain states that do not require 100% collateralization on public fund bank deposits.
+In these states, should the failure of another public fund depository institution result in a loss for the public entity, the resulting uncollateralized deposit shortfall would have to be absorbed on a pro-rata basis (based upon the public deposits held by each bank within the respective state) by the remaining financial institutions holding public funds in that state.
+BB&T monitors deposits levels relative to the total public deposits held by all depository institutions within these states.
+As a member of the FHLB, BB&T is required to maintain a minimum investment in capital stock.
+The board of directors of the FHLB can increase the minimum investment requirements in the event it has concluded that additional capital is required to allow it to meet its own regulatory capital requirements.
+Any increase in the minimum investment requirements outside of specified ranges requires the approval of the Federal Housing Finance Agency.
+Because the extent of any obligation to increase BB&T’s investment in the FHLB depends entirely upon the occurrence of a future event, potential future payments to the FHLB are not determinable.In the normal course of business, BB&T is also a party to financial instruments to meet the financing needs of clients and to mitigate exposure to certain risks.
+Such financial instruments include commitments to extend credit and certain contractual agreements, including standby letters of credit and financial guarantee arrangements.
+Further discussion of BB&T’s commitments is included in "Note 13.
+Commitments and Contingencies" and "Note 16.
+Fair Value Disclosures.
+"63Table of ContentsTable 30Mortgage Indemnification, Recourse and Repurchase Reserves Activity (1)
+ Year Ended December 31,(Dollars in millions) 2017 2016 2015Balance, at beginning of period $40 $79 $94Payments — (2) (5)Expense (3) (37) (15)Acquisitions — — 5Balance, at end of period $37 $40 $79(1)Excludes the FHA-insured mortgage loan reserve of $85 million established during 2014 and settled in 2016.
+Related Party Transactions The Company may transact with its officers, directors and other related parties in the ordinary course of business.
+These transactions include substantially the same terms as comparable third-party arrangements and are in compliance with applicable banking regulations.
+Capital The maintenance of appropriate levels of capital is a management priority and is monitored on a regular basis.
+BB&T’s principal goals related to the maintenance of capital are to provide adequate capital to support BB&T’s risk profile consistent with the Board-approved risk appetite, provide financial flexibility to support future growth and client needs, comply with relevant laws, regulations, and supervisory guidance, achieve optimal credit ratings for BB&T and its subsidiaries and provide a competitive return to shareholders.
+Management regularly monitors the capital position of BB&T on both a consolidated and bank level basis.
+In this regard, management’s overriding policy is to maintain capital at levels that are in excess of the capital targets, which are above the regulatory "well capitalized" levels.
+Management has implemented stressed capital ratio minimum targets to evaluate whether capital ratios calculated with planned capital actions are likely to remain above minimums specified by the FRB for the annual CCAR.
+Breaches of stressed minimum targets prompt a review of the planned capital actions included in BB&T’s capital plan.Table 31BB&T's Capital Targets
+ Operating StressedCET1 to risk-weighted assets 8.5% 6.0%Tier 1 capital to risk-weighted assets 10.0 7.5Total capital to risk-weighted assets 12.0 9.5Leverage ratio 8.0 5.5Tangible common equity ratio 6.0 4.0Table 32Capital Requirements Under Basel III
+
+ Minimum Capital Well-Capitalized Minimum Capital Plus Capital Conservation Buffer BB&T Target
+2017 2018 2019 (1) CET1 to risk-weighted assets 4.5% 6.5% 5.750% 6.375% 7.000% 8.5%Tier 1 capital to risk-weighted assets 6.0 8.0 7.250 7.875 8.500 10.0Total capital to risk-weighted assets 8.0 10.0 9.250 9.875 10.500 12.0Leverage ratio 4.0 5.0 N/A N/A N/A 8.0(1) BB&T's goal is to maintain capital levels above the 2019 requirements.Payments of cash dividends and repurchases of common shares are the methods used to manage any excess capital generated.
+In addition, management closely monitors the Parent Company’s double leverage ratio (investments in subsidiaries as a percentage of shareholders’ equity).
+The active management of the subsidiaries’ equity capital, as described above, is the process used to manage this important driver of Parent Company liquidity and is a key element in the management of BB&T’s capital position.64Table of ContentsManagement intends to maintain capital at Branch Bank at levels that will result in classification as "well-capitalized" for regulatory purposes.
+Secondarily, it is management’s intent to maintain Branch Bank’s capital at levels that result in regulatory risk-based capital ratios that are generally comparable with peers of similar size, complexity and risk profile.
+If the capital levels of Branch Bank increase above these guidelines, excess capital may be transferred to the Parent Company in the form of special dividend payments, subject to regulatory and other operating considerations.
+While nonrecurring events or management decisions may result in the Company temporarily falling below its operating minimum guidelines for one or more of these ratios, it is management’s intent through capital planning to return to these targeted operating minimums within a reasonable period of time.
+Such temporary decreases below the operating minimums shown above are not considered an infringement of BB&T’s overall capital policy, provided a return above the minimums is forecast to occur within a reasonable time period.
+BB&T regularly performs stress testing on its capital levels and is required to periodically submit the company’s capital plans to the banking regulators.
+The FRB did not object to the Company’s 2017 capital plan, and the 2018 capital plan is expected to be submitted during April 2018.
+Management’s capital deployment plan in order of preference is to focus on 1) organic growth, 2) dividends and 3) acquisitions and/or share repurchases depending on opportunities in the marketplace and our interest and ability to proceed with acquisitions.
+Risk-based capital ratios, which include Tier 1 Capital, Total Capital and Tier 1 Common Equity, are calculated based on regulatory guidance related to the measurement of capital and risk-weighted assets.
+Branch Bank's capital ratios are presented in the following table:Table 33Capital Ratios - Branch Bank December 31, 2017 2016CET1 to risk-weighted assets 11.3% 11.5%Tier 1 capital to risk-weighted assets 11.3 11.5Total capital to risk-weighted assets 13.3 13.6Leverage ratio 9.4 9.6BB&T's capital ratios are presented in the following table:Table 34Capital Ratios - BB&T Corporation
+ December 31,(Dollars in millions, except per share data, shares in thousands) 2017 2016Risk-based:
+CET1 10.2% 10.2%Tier 1 11.9 12.0Total 13.9 14.1Leverage capital 9.9 10.0
+ Non-GAAP capital measures (1):
+Tangible common equity per common share $20.80 $20.18
+ Calculations of tangible common equity (1):
+Total shareholders' equity $29,695 $29,926Less:
+Preferred stock 3,053 3,053Noncontrolling interests 47 45Intangible assets 10,329 10,492Tangible common equity $16,266 $16,336
+ Risk-weighted assets $177,217 $176,138Common shares outstanding at end of period 782,006 809,475(1)Tangible common equity and related ratios are non-GAAP measures.
+Management uses these measures to assess the quality of capital and believes that investors may find them useful in their analysis of the Company.
+These capital measures are not necessarily comparable to similar capital measures that may be presented by other companies.65Table of ContentsDuring 2017, BB&T completed $1.6 billion of stock repurchases and paid $1.0 billion in common stock dividends, which resulted in a total payout ratio of 117.9% for the year.
+Effective December 31, 2017, BB&T adopted new accounting guidance related to tax reform legislation passed in 2017, and reclassified deferred income taxes from AOCI and increased retained earnings $247 million, which also increased regulatory capital and the related ratios.During July 2017, BB&T's Board of Directors approved a $0.03 increase in the quarterly dividend, which increased the amount of the quarterly dividend to $0.33 per share.
+As of December 31, 2017, the remaining stock repurchases authorized by the Board of Directors totaled $640 million.
+During the first quarter of 2018, the Company repurchased approximately 5.9 million shares of common stock totaling $320 million.
+Table 35Quarterly Financial Summary – Unaudited
+ 2017 2016(Dollars in millions, except per share data) Fourth Quarter Third Quarter Second Quarter First Quarter Fourth Quarter Third Quarter Second Quarter First QuarterConsolidated Summary of Operations:
+
+
+Interest income $1,898 $1,877 $1,824 $1,775 $1,745 $1,795 $1,805 $1,721Interest expense 254 230 189 166 180 185 188 192Provision for credit losses 138 126 135 148 129 148 111 184Noninterest income 1,225 1,166 1,220 1,171 1,162 1,164 1,130 1,016Noninterest expense 1,855 1,745 1,742 2,102 1,668 1,711 1,797 1,545Provision for income taxes 209 294 304 104 287 273 252 246Net income 667648 674 426 643 642 587 570Noncontrolling interest 9 8 (1) 5 7 — 3 6Preferred stock dividends 44 43 44 43 44 43 43 37Net income available to common shareholders $614 $597 $631 $378 $592 $599 $541 $527Basic EPS $0.78 $0.75 $0.78 $0.47 $0.73 $0.74 $0.67 $0.67Diluted EPS $0.77 $0.74 $0.77 $0.46 $0.72 $0.73 $0.66 $0.67
+
+
+ Selected Average Balances:
+
+
+Assets $222,525 $220,732 $221,018 $219,961 $220,165 $222,065 $223,399 $210,102Securities, at amortized cost 48,093 45,968 45,410 44,607 44,881 47,152 48,510 44,580Loans and leases (1) 144,089 144,181 144,327 143,698 144,569 143,689 143,097 135,628Total earning assets 195,305 193,073 193,386 192,564 192,574 193,909 194,822 183,612Deposits 157,959 157,414 160,263 161,383 160,118 159,503 160,338 149,867Short-term borrowings 6,342 5,983 2,748 2,105 2,373 2,128 2,951 2,771Long-term debt 22,639 21,459 21,767 20,757 21,563 23,428 23,272 22,907Total interest-bearing liabilities 132,652 131,367 132,205 133,150 132,633 134,500 137,760 129,342Shareholders' equity 29,853 29,948 30,302 29,903 30,054 29,916 29,610 27,826(1)Loans and leases are net of unearned income and include LHFS.
+Fourth Quarter Results Consolidated net income available to common shareholders for the fourth quarter of 2017 totaling $614 million was up 3.7% compared to $592 million earned during the same period in 2016.
+On a diluted per common share basis, earnings for the fourth quarter of 2017 were $0.77, up 6.9% compared to $0.72 for the same period in 2016.
+BB&T’s results of operations for the fourth quarter of 2017 produced an annualized return on average assets of 1.19% and an annualized return on average common shareholders’ equity of 9.10%, compared to prior year ratios of 1.16% and 8.75%, respectively.
+Total TE revenues were $2.9 billion for the fourth quarter of 2017, an increase of $139 million compared to the earlier quarter.
+This reflects an increase of $76 million in taxable-equivalent net interest income and an increase of $63 million in noninterest income.66Table of ContentsNet interest margin was 3.43%, up 11 basis points compared to the earlier quarter.
+Average earning assets increased $2.7 billion.
+The increase in average earnings assets reflects a $3.2 billion increase in average securities, partially offset by a $480 million decrease in average total loans and leases.
+Average interest-bearing liabilities were essentially flat compared to the earlier quarter, as the growth in earning assets was funded by noninterest-bearing deposits, which increased $2.9 billion compared to the earlier quarter.
+Average interest-bearing deposits decreased $5.0 billion, which was offset by increases of $1.1 billion in average long-term debt and $4.0 billion in average short-term borrowings.
+The annualized yield on the total loan portfolio for the fourth quarter of 2017 was 4.50 percent, up 26 basis points compared to the earlier quarter.
+The annualized taxable-equivalent yield on the average securities portfolio was 2.42 percent, up 29 basis points compared to the earlier period.The average annualized cost of interest-bearing deposits was 0.40%, up 18 basis points compared to the earlier quarter.
+The average annualized rate on long-term debt was 2.36%, up 20 basis points compared to the earlier quarter.
+The average annualized rate on short-term borrowings was 1.13%, up 79 basis points compared to the earlier quarter.
+The higher rates on interest-bearing liabilities reflect the impact of rate increases.
+The provision for credit losses was $138 million compared to $129 million in the earlier quarter.
+Net charge-offs for the fourth quarter of 2017 totaled $130 million compared to $151 million for the earlier quarter.
+The earlier quarter included $15 million of charge-offs for PCI loans.
+Noninterest income was $1.2 billion, an increase of $63 million from the earlier quarter.
+This increase was due to higher fees from the majority of our noninterest revenue sources as a result of higher business activity, as well as higher income from SBIC and other investments.Noninterest expense for the fourth quarter of 2017 was $1.9 billion, up $187 million compared to the earlier quarter.
+This increase was driven by the previously mentioned tax reform actions, as well as higher loan-related expenses as the fourth quarter of 2016 included a $31 million release of mortgage repurchase reserves.
+The provision for income taxes was $209 million for the fourth quarter of 2017, compared to $287 million for the earlier quarter.
+This produced an effective tax rate for the fourth quarter of 2017 of 23.9%, compared to 30.9% for the earlier quarter.
+The provision for income taxes for the current quarter includes a net tax benefit of $43 million related to the impact of tax reform.
+Reclassifications The Consolidated Statement of Cash Flows for the years ended December 31, 2016 and 2015 have been revised to correct errors in the classification of certain transactions related to other assets and other liabilities and were not material to prior consolidated financial statements.
+Certain other amounts reported in prior periods’ consolidated financial statements have been reclassified to conform to the current presentation.
+Critical Accounting Policies The accounting and reporting policies of BB&T are in accordance with GAAP and conform to the accounting and reporting guidelines prescribed by bank regulatory authorities.
+The financial position and results of operations are affected by management’s application of accounting policies, including estimates, assumptions and judgments made to arrive at the carrying value of assets and liabilities and amounts reported for revenues and expenses.
+Different assumptions in the application of these policies could result in material changes in the consolidated financial position and/or consolidated results of operations and related disclosures.
+Understanding BB&T’s accounting policies is fundamental to understanding the consolidated financial position and consolidated results of operations.
+Accordingly, BB&T’s significant accounting policies and changes in accounting principles and effects of new accounting pronouncements are discussed in detail in "Note 1.
+Summary of Significant Accounting Policies."
+The following is a summary of BB&T’s critical accounting policies that are highly dependent on estimates, assumptions and judgments.
+These critical accounting policies are reviewed with the Audit Committee of the Board of Directors on a periodic basis.
+67Table of ContentsACL BB&T’s policy is to maintain an ALLL and a RUFC that represent management’s best estimate of probable credit losses inherent in the loan and lease portfolios and off-balance sheet lending commitments at the balance sheet date.
+Estimates for loan and lease losses are determined by analyzing historical loan and lease losses, historical loan and lease migration to charge-off experience, current trends in delinquencies and charge-offs, expected cash flows on purchased loans, current assessment of impaired loans and leases, the results of regulatory examinations and changes in the size, composition and risk assessment of the loan and lease portfolio.
+As part of this process, BB&T develops a series of loss estimate factors, which are modeled projections of the frequency, timing and severity of losses.
+These loss estimate factors are based on historical loss experience, economic and political environmental considerations and any other data that management believes will provide evidence about the collectability of outstanding loan and lease amounts.
+The following table summarizes the loss estimate factors used to determine the ALLL:Loss Estimate Factor DescriptionLoss Frequency Indicates the likelihood of a borrower defaulting on a loanLoss Severity Indicates the amount of estimated loss at the time of defaultFor collectively evaluated loans, the ALLL is determined by multiplying the loan exposure estimated at the time of default by the loss frequency and loss severity factors.
+For individually evaluated loans, the ALLL is determined through review of data specific to the borrower.
+For TDRs, default expectations and estimated slower prepayment speeds that are specific to each of the restructured loan populations are incorporated in the determination of the ALLL.
+Also included in management’s estimates for loan and lease losses are considerations with respect to the impact of current economic events, the outcomes of which are uncertain.
+These events may include, but are not limited to, fluctuations in overall interest rates, political conditions, legislation that may directly or indirectly affect the banking industry and economic conditions affecting specific geographical areas and industries in which BB&T conducts business.
+The methodology used to determine an estimate for the RUFC is inherently similar to the methodology used in calculating the ALLL adjusted for factors specific to binding commitments, including the probability of funding and exposure at the time of funding.
+A detailed discussion of the methodology used in determining the ALLL and the RUFC is included in "Note 1.
+Summary of Significant Accounting Policies."
+Fair Value of Financial Instruments The vast majority of assets and liabilities carried at fair value are based on either quoted market prices or market prices for similar instruments.
+See "Note 16.
+Fair Value Disclosures" for additional disclosures regarding the fair value of financial instruments.
+Securities BB&T generally utilizes a third-party pricing service in determining the fair value of its AFS and trading securities.
+Fair value measurements are derived from market-based pricing matrices that were developed using observable inputs that include benchmark yields, benchmark securities, reported trades, offers, bids, issuer spreads and broker quotes.
+Management performs procedures to evaluate the accuracy of the fair values provided by the third-party service provider.
+These procedures, which are performed independent of the responsible BU, include comparison of pricing information received from the third party pricing service to other third party pricing sources, review of additional information provided by the third party pricing service and other third party sources for selected securities and back-testing to compare the price realized on security sales to the daily pricing information received from the third party pricing service.
+The IPV committee, which provides oversight to BB&T’s enterprise-wide IPV function, is responsible for oversight of the comparison of pricing information received from the third party pricing service to other third party pricing sources, approving tolerance limits determined by IPV for price comparison exceptions, reviewing significant changes to pricing and valuation policies and reviewing and approving the pricing decisions made on any illiquid and hard-to-price securities.
+When market observable data is not available, which generally occurs due to the lack of liquidity for certain securities, the valuation of the security is subjective and may involve substantial judgment by management.
+BB&T periodically reviews AFS securities with an unrealized loss.
+An unrealized loss exists when the current fair value of an individual security is less than its amortized cost basis.
+The purpose of the review is to consider the length of time and the extent to which the market value of a security has been below its amortized cost.
+The primary factors BB&T considers in determining whether an impairment is other-than-temporary are long-term expectations and recent experience regarding principal and interest payments and BB&T’s intent to sell and whether it is more likely than not that the Company would be required to sell those securities before the anticipated recovery of the amortized cost basis.
+68Table of ContentsMSRs BB&T has two primary classes of MSRs for which it separately manages the economic risks: residential and commercial.
+Both classes of MSRs are recorded on the Consolidated Balance Sheets primarily at fair value with changes in fair value recorded as a component of mortgage banking income.
+Derivative instruments are used to mitigate the income statement effect of changes in fair value due to changes in valuation inputs and assumptions of the MSRs.
+MSRs do not trade in an active, open market with readily observable prices.
+While sales of MSRs do occur, the precise terms and conditions typically are not readily available.
+Accordingly, BB&T estimates the fair value of residential MSRs using a stochastic OAS valuation model to project MSR cash flows over multiple interest rate scenarios, which are then discounted at risk-adjusted rates.
+The OAS model considers portfolio characteristics, contractually specified servicing fees, prepayment assumptions, delinquency rates, late charges, other ancillary revenue, costs to service and other economic factors.
+BB&T reassesses and periodically adjusts the underlying inputs and assumptions in the OAS model to reflect market conditions and assumptions that a market participant would consider in valuing the MSR asset.Fair value estimates and assumptions are compared to industry surveys, recent market activity, actual portfolio experience and, when available, observable market data.
+Due to the nature of the valuation inputs, MSRs are classified within Level 3 of the valuation hierarchy.
+The value of residential MSRs is significantly affected by mortgage interest rates available in the marketplace, which influence mortgage loan prepayment speeds.
+In general, during periods of declining interest rates, the value of MSRs declines due to increasing prepayments attributable to increased mortgage-refinance activity.
+Conversely, during periods of rising interest rates, the value of MSRs generally increases due to reduced refinance activity.
+BB&T typically hedges against market value changes in the MSRs.
+Refer to "Note 6.
+Loan Servicing" for quantitative disclosures reflecting the effect that changes in management’s assumptions would have on the fair value of MSRs.
+Commercial MSRs are valued using a cash flow valuation model that calculates the present value of estimated future net servicing cash flows.
+BB&T considers actual and expected loan prepayment rates, discount rates, servicing costs and other economic factors that are determined based on current market conditions.
+Compared to residential MSRs, commercial MSR prepayments tend to be significantly lower, subject to the level of prevailing commercial mortgage rates.
+Commercial loans tend to have prepayment penalty clauses, and some of the loans may be defeased or assumable.
+As a result, unlike for residential MSRs, BB&T does not employ a stochastic interest rate model for valuation of commercial MSRs.LHFSBB&T originates certain mortgage loans for sale to investors that are carried at fair value.
+The fair value is primarily based on quoted market prices for securities backed by similar types of loans.
+Changes in the fair value are recorded as a component of mortgage banking income, while the related origination costs are recognized in noninterest expense when incurred.
+The changes in fair value are largely driven by changes in interest rates subsequent to loan funding and changes in the fair value of servicing associated with the LHFS.
+BB&T uses various derivative instruments to mitigate the economic effect of changes in fair value of the underlying loans.Derivative Assets and Liabilities BB&T uses derivatives to manage various financial risks.
+BB&T mitigates the credit risk by subjecting counterparties to credit reviews and approvals similar to those used in making loans and other extensions of credit.
+In addition, certain counterparties are required to provide collateral to BB&T when their unsecured loss positions exceed certain negotiated limits.
+The fair values of derivative financial instruments are determined based on quoted market prices and internal pricing models that use market observable data.
+The fair value of interest rate lock commitments, which are related to mortgage loan commitments, is based on quoted market prices adjusted for commitments that BB&T does not expect to fund and includes the value attributable to the net servicing fee.
+Intangible Assets The acquisition method of accounting requires that acquired assets and liabilities are recorded at their fair values.
+This often involves estimates based on third party valuations or internal valuations based on discounted cash flow analyses or other valuation techniques, which are inherently subjective.
+The amortization of identified intangible assets is based upon the estimated economic benefits to be received, which is also subjective.
+Acquisitions typically result in goodwill, which is subject to ongoing periodic impairment tests based on the fair values of the reporting units to which the acquired goodwill relates.
+Refer to "Note 1.
+Summary of Significant Accounting Policies" for a description of the impairment testing process.
+Management considers the sensitivity of the significant assumptions in its impairment analysis including consideration of a 10% change in estimated future cash flows or the discount rate for each reporting unit.69Table of ContentsPension and Postretirement Benefit Obligations BB&T offers various pension plans and postretirement benefit plans to employees.
+Calculation of the obligations and related expenses under these plans requires the use of actuarial valuation methods and assumptions, which are subject to management judgment and may differ significantly if different assumptions are used.
+The discount rate assumption used to measure the postretirement benefit obligations is set by reference to a high-quality (AA-rated or higher) corporate bond yield curve and the individual characteristics of the plans such as projected cash flow patterns and payment durations.
+Management evaluated the sensitivity changes that the expected return on plan assets and the discount rate would have on pension expense.
+A decrease of 25 basis points in the discount rate would result in additional pension expense of approximately $36 million for 2018, while a decrease of 100 basis points in the expected return on plan assets would result in an increase of approximately $63 million in pension expense for 2018.
+Refer to "Note 12.
+Benefit Plans" for disclosures related to the benefit plans.
+Income Taxes The calculation of BB&T’s income tax provision is complex and requires the use of estimates and judgments.
+As part of the Company’s analysis and implementation of business strategies, consideration is given to the tax laws and regulations that apply to the specific facts and circumstances for any tax position under evaluation.
+For tax positions that are uncertain in nature, management determines whether the tax position is more likely than not to be sustained upon examination.
+For tax positions that meet this threshold, management then estimates the amount of the tax benefit to recognize in the financial statements.
+Management closely monitors tax developments in order to evaluate the effect they may have on the Company’s overall tax position and the estimates and judgments used in determining the income tax provision and records adjustments as necessary.70Table of ContentsITEM 9A.
+CONTROLS AND PROCEDURES Management’s Report on Internal Control over Financial Reporting and Evaluation of Disclosure Controls and Procedures Management of BB&T is responsible for establishing and maintaining adequate internal control over financial reporting as defined in Rule 13a-15(f) of the Exchange Act.
+The Company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with GAAP.
+BB&T’s internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records, that in reasonable detail, accurately and fairly reflect the transactions and disposition of the Company’s assets; (2) provide reasonable assurance that transactions are recorded as necessary to permit the preparation of the financial statements in accordance with GAAP and that receipts and expenditures of the Company are being made only in accordance with the authorizations of BB&T’s management and directors; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use or disposition of the Company’s assets that could have a material impact on the financial statements.
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements.
+Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate due to changes in conditions, or that the degree of compliance with the policies and procedures may deteriorate.
+Under the supervision and with the participation of management, including the Chief Executive Officer and the Chief Financial Officer, the Company conducted an evaluation of the effectiveness of the internal control over financial reporting based on the framework in "Internal Control—Integrated Framework (2013)" promulgated by the Committee of Sponsoring Organizations of the Treadway Commission, commonly referred to as the "COSO" criteria.
+Based on this evaluation under the COSO criteria, management concluded that the internal control over financial reporting was effective as of December 31, 2017.
+As of the end of the period covered by this report, the management of the Company, under the supervision and with the participation of the Company’s Chief Executive Officer and Chief Financial Officer, carried out an evaluation of the Company’s disclosure controls and procedures as defined in Rule 13a-15(e) of the Exchange Act.
+Based on that evaluation, the Chief Executive Officer and Chief Financial Officer concluded that the Company’s disclosure controls and procedures are effective.
+There was no change in the Company’s internal control over financial reporting that occurred during the fourth quarter of 2017 that has materially affected, or is likely to materially affect, the Company’s internal control over financial reporting.
+The effectiveness of the Company’s internal control over financial reporting as of December 31, 2017 has been audited by PricewaterhouseCoopers LLP, an independent registered public accounting firm, as stated in their accompanying report, which expresses an unqualified opinion on the effectiveness of the Company’s internal control over financial reporting as of December 31, 2017.71Table of Contents
