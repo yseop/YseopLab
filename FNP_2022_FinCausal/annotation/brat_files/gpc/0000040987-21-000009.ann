@@ -1,0 +1,129 @@
+T1	Remove 5366 5385	17Table of Contents
+T2	Fact 7938 8043	In accordance with our 2019 Cost Savings Plan, we recognized permanent expense reductions of $150 million
+T3	Fact 8054 8147	transformative reductions in payroll and facility costs for the year ended December 31, 2020.
+T4	Fact 10359 10449	net sales for the year ended December 31, 2020 totaled $16.5 billion, down 5.6% from 2019.
+T5	Fact 10450 10625	The decline in net sales is due to a 5.6% comparable sales decrease attributable primarily to decreased demand caused by COVID-19 and a 3.3% negative impact from divestitures.
+R1	Cause Cause:T5 Effect:T4	
+T6	Remove 10072 10358	202020192018Net sales$16,537,433 $17,522,234 $16,831,605 Gross margin$5,654,841 $5,859,683 $5,519,755 Net income from continuing operations$163,395 $646,475 $749,534 Diluted net income from continuing operations per common share$1.13 $4.42 $5.09 18Table of ContentsNet SalesConsolidated
+T7	Fact 11691 11811	Automotive GroupNet sales for the Automotive Group (“Automotive”) were $10.9 billion in 2020, a 1.2% decrease from 2019.
+T8	Fact 11812 11941	The decrease in sales consists of an approximate 4.4% decrease in comparable sales and a slight decrease related to divestitures.
+R2	Cause Cause:T8 Effect:T7	
+T9	Fact 13147 13236	Net sales for the Automotive Group were $11.0 billion in 2019, a 4.4% increase from 2018.
+T10	Fact 13237 13491	The increase in sales consists of an approximate 5.0% contribution from acquisitions, a 2.3% comparable sales increase and a 2.3% negative impact of currency translation associated with our automotive businesses in Canada, Australasia, Europe and Mexico.
+R3	Cause Cause:T10 Effect:T9	
+T11	Fact 13737 13863	Industrial Parts GroupNet sales for the Industrial Parts Group (“Industrial”) were $5.7 billion in 2020, down 13.0% from 2019.
+T12	Fact 13864 14104	The decrease in sales reflects an 8.4% decrease in comparable sales and an approximate 8.5% decrease in net sales related to the sale of EIS, a non-core component of the industrial business due to its slower-growth and lower-margin profile.
+R4	Cause Cause:T12 Effect:T11	
+T13	Fact 15191 15277	Net sales for the Industrial Parts Group were $6.5 billion in 2019, up 3.6% from 2018.
+T14	Fact 15278 15480	The increase in sales reflects an approximate 5.2% contribution from acquisitions and a 1.7% increase in comparable sales, offset by an approximate 3.1% decrease in net sales related to the sale of EIS.
+R5	Cause Cause:T14 Effect:T13	
+T15	Fact 15671 15844	Industrial revenues were up approximately 5.7% in the first quarter of 2019, up 4.9% in the second quarter, up 9.9% in the third quarter and down 5.9% in the fourth quarter.
+T16	Fact 15845 16135	These quarterly results reflect the impact of several factors, including the slowing trend in the industrial economy throughout the course of the year, as evidenced by weakening economic indicators such as Manufacturing Industrial Production and the Purchasing Managers Index, among others.
+R6	Cause Cause:T16 Effect:T15	
+T17	Remove 16402 16421	19Table of Contents
+T18	Fact 16801 16912	As a percentage of net sales, cost of goods sold was 65.8% in 2020, decreasing from 66.6% of net sales in 2019.
+T19	Fact 16913 17170	The decrease in cost of goods sold in 2020 reflects the favorable impact of business unit sales and product mix shifts, strategic category management initiatives in areas such as pricing and global sourcing, and the benefit of acquisitions and divestitures.
+R7	Cause Cause:T19 Effect:T18	
+T20	Fact 17261 17370	During the quarter ended December 31, 2020, the Company recorded a $40 million increase to cost of goods sold
+T21	Fact 17378 17497	the correction of an immaterial error related to the accounting in prior years for consideration received from vendors.
+R8	Cause Cause:T21 Effect:T20	
+T22	Fact 17630 17719	Cost of goods sold was $11.7 billion in 2019, a 3.1% increase from $11.3 billion in 2018.
+T23	Fact 17720 18028	The increase in cost of goods sold in 2019 compares to a 4.1% total sales increase and is a positive reflection of our global supply chain initiatives, the lower cost of goods sold models at certain acquired companies such as PartsPoint and Motion Asia Pacific, and the sale of the lower margin EIS business.
+R9	Cause Cause:T23 Effect:T22	
+T24	Fact 18752 18827	The increase in SG&A expenses as a percent of net sales from the prior year
+T25	Fact 18837 19011	loss of leverage due to lower sales volume as a result of the COVID-19 pandemic, as well as the sale of EIS, which had a lower level of SG&A expenses relative to total sales.
+R10	Cause Cause:T25 Effect:T24	
+T26	Fact 19420 19605	In accordance with our $100 million cost savings plan announced in late 2019, we achieved permanent expense reductions of approximately $150 million for the year ended December 31, 2020
+T27	Fact 19616 19672	transformative reductions in payroll and facility costs.
+R11	Cause Cause:T27 Effect:T26	
+T28	Fact 19959 20046	SG&A of $4.6 billion in 2019 increased by $0.3 billion or approximately 7.9% from 2018.
+T29	Fact 20130 20268	The increase in SG&A expenses from the prior year reflects a combination of factors, including the impact of increased sales for the year.
+R12	Cause Cause:T29 Effect:T28	
+T30	Fact 20846 20939	The increase in SG&A expenses as a percentage of net sales in 2019 relative to the prior year
+T31	Fact 20949 21081	the cost increases described above as well as the loss of leverage associated with the 2.1% comparable sales growth for the Company.
+R13	Cause Cause:T31 Effect:T30	
+T32	Fact 21082 21211	Depreciation and amortization expense was $272.8 million in 2020, an increase of approximately $15.6 million, or 6.1%, from 2019,
+T33	Fact 21229 21323	an increase in fixed assets acquired at the end of 2019 that began fully depreciating in 2020.
+R14	Cause Cause:T33 Effect:T32	
+T34	Fact 21324 21420	The provision for doubtful accounts was $23.6 million in 2020, a $9.7 million increase from 2019
+T35	Fact 21439 21505	higher collectability risks associated with the COVID-19 pandemic.
+R15	Cause Cause:T35 Effect:T34	
+T36	Fact 21606 21735	Depreciation and amortization expense was $257.3 million in 2019, an increase of approximately $29.7 million, or 13.0%, from 2018
+T37	Fact 21754 21849	the impact of acquisitions and the increase in capital expenditures relative to the prior year.
+R16	Cause Cause:T37 Effect:T36	
+T38	Remove 22573 22592	20Table of Contents
+T39	Fact 23170 23327	Non-Operating Expenses and IncomeNon-operating expenses included interest expense of $93.7 million in 2020, $95.6 million in 2019 and $101.8 million in 2018.
+T40	Fact 23328 23531	The decreases in interest expense of $1.9 million in 2020 and $6.2 million in 2019 reflect the combination of the repayment of debt and lower interest rates on certain variable interest debt instruments.
+R17	Cause Cause:T40 Effect:T39	
+T41	Fact 23532 23604	In 2019, the Company recorded $42.8 million in special termination costs
+T42	Fact 23616 23802	benefits provided through the Company's defined benefit plans to employees that accepted the voluntary retirement program ("VRP") package as part of the Company's 2019 Cost Savings Plan.
+R18	Cause Cause:T42 Effect:T41	
+T43	Fact 23917 24148	In “Other”, the net benefit of interest income, equity method investment income, investment dividends, noncontrolling interests and pension income in 2020 was $58.1 million, an approximate $28.6 million decrease from the prior year
+T44	Fact 24169 24243	an immaterial loss on investment and changes in retirement plan valuation.
+R19	Cause Cause:T44 Effect:T43	
+T45	Fact 24244 24299	In 2019, the $25.3 million increase in income from 2018
+T46	Fact 24324 24360	changes in retirement plan valuation
+R20	Cause Cause:T46 Effect:T45	
+T47	Fact 24858 25006	Automotive GroupAutomotive's segment profit increased 4.3% in 2020 from 2019 and segment profit margin was 8.0% in 2020 as compared to 7.6% in 2019.
+T48	Fact 25007 25230	The increase in segment profit margin reflects the strong operating results in North America and Australasia, driven by the positive impact of cost actions, which offset the 4.4% decrease in comparable sales for Automotive.
+R21	Cause Cause:T48 Effect:T47	
+T49	Fact 25590 25715	Automotive's segment profit decreased 2.8% in 2019 from 2018 and segment margin was 7.6% in 2019 as compared to 8.1% in 2018.
+T50	Fact 25716 25843	The decrease in segment margin reflects the loss of expense leverage due to the 2.3% growth in comparable sales for Automotive.
+R22	Cause Cause:T50 Effect:T49	
+T51	Fact 25955 26098	Industrial GroupIndustrial’s segment profit decreased 7.7% in 2020 from 2019 and segment profit margin was 8.5%, an increase from 8.0% in 2019.
+T52	Fact 26099 26287	The improvement in segment profit margin for this group primarily reflects the benefits of an improved gross margin, despite the reduced demand from the COVID-19 pandemic, and lower costs.
+R23	Cause Cause:T52 Effect:T51	
+T53	Fact 26543 26663	Industrial’s segment profit increased 7.1% in 2019 from 2018 and segment margin was 8.0%, an increase from 7.7% in 2018.
+T54	Fact 26664 26851	The improvement in segment margin for this group primarily reflects the benefit of improved gross margins, despite the slowing sales trend during the year and 1.7% comparable sales growth
+R24	Cause Cause:T54 Effect:T53	
+T55	Fact 26974 27062	Income TaxesThe effective income tax rate of 56.9% in 2020 increased from 24.8% in 2019.
+T56	Fact 27063 27198	The increase in rate is primarily due to a non-deductible goodwill impairment charge and other one-time costs incurred during the year.
+R25	Cause Cause:T56 Effect:T55	
+T57	Fact 27199 27275	The effective income tax rate of 24.8% in 2019 increased from 24.6% in 2018.
+T58	Fact 27276 27520	The increase in rate is primarily due to geographic income tax rate mix shifts and the impact of one-time transaction and other costs, as well as changes in the realizability of future tax benefit adjustments recorded in the comparable periods.
+R26	Cause Cause:T58 Effect:T57	
+T59	Remove 27792 27811	21Table of Contents
+T60	Fact 28270 28427	During the years ended December 31, 2020, 2019 and 2018, the Company incurred $634.5 million, $170.1 million and $34.9 million, respectively, of adjustments.
+T61	Fact 28428 28647	In 2020, these adjustments include a goodwill impairment charge related to our European reporting unit, restructuring costs, an inventory adjustment, realized currency losses, and transaction and other costs and income.
+R27	Cause Cause:T61 Effect:T60	
+T62	Fact 34982 35039	COVID-19 related costs include incremental costs incurred
+T63	Fact 35052 35154	fees to cancel marketing events and increased cleaning and sanitization materials, among other things.
+R28	Cause Cause:T63 Effect:T62	
+T64	Remove 35681 35700	23Table of Contents
+T65	Fact 36000 36078	Accounts receivable decreased $883.3 million, or 36.2%, from December 31, 2019
+T66	Fact 36096 36134	entering into the A/R Sales Agreement.
+R29	Cause Cause:T66 Effect:T65	
+T67	Fact 36262 36335	Accounts payable increased $180.1 million, or 4.6% from December 31, 2019
+T68	Fact 36350 36396	extended payment terms with certain suppliers.
+R30	Cause Cause:T68 Effect:T67	
+T69	Fact 36397 36501	Total debt of $2.7 billion at December 31, 2020 decreased $0.7 billion, or 21.9%, from December 31, 2019
+T70	Fact 36519 36565	the extinguishment of the term loan A facility
+R31	Cause Cause:T70 Effect:T69	
+T71	Fact 40670 40832	The Company continues to generate cash, and in 2020 net cash provided by operating activities totaled $2.0 billion, a $1.2 billion, or 142.0%, increase from 2019.
+T72	Remove 40202 40659	20202019$ Change% ChangeOperating activities$2,014,522 $832,519 $1,182,003 142.0 %Investing activities$182,768 $(543,595)$726,363 (133.6)%Financing activities$(1,513,765)$(385,962)$(1,127,803)292.2 % Year Ended December 31,(In thousands)20192018$ Change% ChangeOperating activities$832,519 $1,056,722 $(224,203)(21.2)%Investing activities$(543,595)$(469,938)$(73,657)15.7 %Financing activities$(385,962)$(608,830)$222,868 (36.6)%24Table of ContentsOperating
+T73	Fact 40833 41086	The increase in cash provided by operating activities was primarily driven by the effective management of working capital, including the entry into an A/R Sales Agreement to sell receivables that provided an $800 million benefit to operating cash flows.
+R32	Cause Cause:T73 Effect:T71	
+T74	Fact 41087 41203	In 2019 net cash provided by operating activities totaled $0.8 billion, a $0.2 billion, or 21.2%, decrease from 2018
+T75	Fact 41205 41417	The decrease in cash provided by operating activities was primarily due to the change in working capital in 2019 as compared to 2018, as the Company's increase in accounts payable was less than in the prior year.
+R33	Cause Cause:T75 Effect:T74	
+T76	Fact 41598 41672	In 2020, net cash provided by investing activities included $387.4 million
+T77	Fact 41690 41814	the divestiture of the Business Products Group and $18.1 million in proceeds from the sale of property, plant and equipment.
+R34	Cause Cause:T77 Effect:T76	
+T78	Fact 43042 43240	Financing Activities Net cash used in financing activities in 2020 totaled $1.5 billion, an increase of $1.1 billion, or 292.2%, from the $386.0 million in cash used in financing activities in 2019.
+T79	Fact 43241 43332	The increase is primarily driven by the extinguishment of the term loan A facility in 2020.
+R35	Cause Cause:T79 Effect:T78	
+T80	Fact 43940 44119	Net cash used in financing activities in 2019 totaled $386.0 million, a decrease of $222.9 million, or 36.6%, from the $608.8 million in cash used in financing activities in 2018.
+T81	Fact 44120 44242	Primarily, the decrease reflects the net proceeds from debt issued in 2019 as compared to the net payments on debt in 2018
+R36	Cause Cause:T81 Effect:T80	
+T82	Remove 46599 46618	25Table of Contents
+T83	Remove 51943 51962	26Table of Contents
+T84	Remove 51051 51306	TotalLess Than 1 Year1-3 Years3-5 YearsOver 5 YearsCredit facilities$2,690,863 $162,429 $251,573 $395,906 $1,880,955 Operating leases1,132,539 295,841 440,660 209,903 186,135 Total material cash requirements$3,823,402 $458,270 $692,233 $605,809 $2,067,090
+T85	Remove 57404 57423	27Table of Contents
+T86	Remove 59432 59618	(47% S&P 500 Index, 5% Russell Mid Cap Index, 7% Russell 2000 Index, 5% MSCI EAFE Index, 5% DJ Global Moderate Index, 3% MSCI Emerging Market Net, and 28% Barclays U.S. Long Govt/Credit)
+T87	Fact 61314 61499	Net periodic benefit income for our defined benefit pension plans was $18.0 million, $16.2 million, and $15.8 million for the years ended December 31, 2020, 2019 and 2018, respectively.
+T88	Fact 61500 61602	The income associated with the pension plans in 2020, 2019 and 2018 reflects the impact of the freeze.
+R37	Cause Cause:T88 Effect:T87	
+T89	Remove 63418 63437	28Table of Contents
+T90	Remove 68706 68725	29Table of Contents
+T91	Remove 70288 70307	30Table of Contents
+T92	Verified 0 7	ITEM 7.

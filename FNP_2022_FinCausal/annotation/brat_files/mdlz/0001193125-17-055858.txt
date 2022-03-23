@@ -1,0 +1,876 @@
+Item 7.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+The following discussion and analysis contains forward-looking statements.
+It should be read in conjunction with the other sections of this Annual Report on Form 10-K, including the consolidated financial statements and related notes contained in Item 8, “Forward-Looking Statements” and “Risk Factors” contained in Item 1A.
+Description of the Company We manufacture and market primarily snack food products, including biscuits (cookies, crackers and salted snacks), chocolate, gum & candy and various cheese & grocery products, as well as powdered beverage products.
+We have operations in more than 80 countries and sell our products in approximately 165 countries.
+We aim to deliver strong, profitable long-term growth by accelerating our core snacks business and expanding the reach of our Power Brands globally.
+Leveraging our Power brands and our innovation platforms, we plan to innovate boldly and connect with our consumers wherever they are, including new markets around the world, using both traditional and digital channels.
+As consumer consumption patterns change to more accessible, frequent and better-for-you snacking, we are enhancing the goodness of many of our brands (including providing simpler and wholesome ingredient-focused snacks), expanding the well-being offerings in our portfolio and inspiring consumers to snack mindfully by providing clear and simple nutrition information.
+As shopping expands further online, we are also working to grow our e-commerce platform and on-line presence with consumers.
+To fuel these investments, we have been working to optimize our cost structure.
+These efforts include reinventing our supply chain, including adding and upgrading to more efficient production lines, while reducing the complexity of our product offerings, ingredients and number of suppliers.
+We also continue to aggressively manage our overhead costs.
+We have embraced and embedded zero-based budgeting practices across the organization to identify potential areas of cost reductions and capture and sustain savings within our ongoing operating budgets.
+Through these actions, we’re leveraging our brands, platforms and capabilities to drive long-term value and return on investment for our shareholders.
+Coffee Business Transactions JDE Coffee Business Transactions: On July 2, 2015, we completed transactions to combine our wholly owned coffee businesses with those of DEMB to create a new company, JDE.
+At that time, our equity interest in JDE was 43.5% with the remaining 56.5% held by a subsidiary of Acorn Holdings B.V. (“AHBV,” owner of DEMB prior to July 2, 2015).
+In connection with these transactions, in 2015, we recorded a final pre-tax gain of $6.8 billion ($6.6 billion after-tax) from the deconsolidation of our legacy coffee businesses.
+We also recorded approximately $1.0 billion of cumulative pre-tax net gains ($436 million in 2015 and $628 million in 2014) and cash related to currency hedging in connection with the expected cash consideration to be received in euros.
+We received €3.8 billion of cash ($4.2 billion) as of July 2, 2015 and with the cash from hedging currency, we effectively received $5.2 billion of cash.
+On July 5, 2016, we also received from JDE an expected $275 million cash payment to settle a receivable for tax formation costs that were part of the initial sales price.
+As part of our final sales price negotiations, we also retained the right to collect future cash payments if certain estimated pension liabilities are realized over an agreed amount in the future.
+As such, we may recognize additional income related to this negotiated term in the future.
+As further described below, following the March 2016 exchange of JDE shares for an investment in Keurig and stock-based compensation activity at JDE during 2016, as of December 31, 2016, our equity interest in JDE was 26.4%.
+We recorded equity earnings of $100 million in 2016 and equity losses of $58 million in 2015 related to our investment in JDE.
+On June 30, 2016, we entered into agreements with AHBV and its affiliates to establish a new stock-based compensation arrangement tied to the issuance of JDE equity compensation awards to JDE employees.
+This arrangement replaced a temporary equity compensation program tied to the issuance of AHBV equity compensation to JDE employees.
+New Class C, D and E JDE shares were authorized and issued for investments made by JDE employees and to issue shares when JDE awards vest.
+As new shares of JDE are issued, the Class A and B ownership interests of JDE decrease.
+Under these arrangements, dilution of the JDE shares is limited to 2%.
+Based on estimated award achievement, we do not expect our JDE ownership interest to decrease below 26.27%.
+Following these stock-based compensation issuances, our ownership interest in JDE was 26.4% as of December 31, 2016.
+See Note 2, Divestitures and Acquisitions, for additional details on the JDE coffee business transactions.
+22 Table of Contents Keurig Transaction: On March 3, 2016, a subsidiary of AHBV completed a $13.9 billion acquisition of all of the outstanding common stock of Keurig through a merger transaction.
+On March 7, 2016, we exchanged with a subsidiary of AHBV a portion of our equity interest in JDE with a carrying value of €1.7 billion (approximately $2.0 billion as of March 7, 2016) for an interest in Keurig with a fair value of $2.0 billion based on the merger consideration per share for Keurig.
+We recorded the difference between the fair value of Keurig and our basis in JDE shares as a $43 million gain on the equity method investment exchange.
+Following the exchange, our ownership interest in JDE became 26.5% and we owned a 24.2% interest in Keurig.
+Both AHBV and we hold our investments in Keurig through a combination of equity and shareholder loan interests, with the same pro-rata ownership of each.
+Our initial $2.0 billion investment in Keurig includes a $1.6 billion Keurig equity interest and a $0.4 billion shareholder loan receivable, which are reported on a combined basis within equity method investments on our consolidated balance sheet as of December 31, 2016.
+The shareholder loan has a 5.5% interest rate and is payable at the end of a seven-year term on February 27, 2023.
+Within equity earnings, we recorded equity earnings of $77 million and interest income from the shareholder loan of $20 million in 2016.
+Additionally, we received $14 million of interest payments on the shareholder loan and $4 million in dividends on our investment in Keurig in 2016.
+See Note 2, Divestitures and Acquisitions, for additional details on the Keurig transaction.
+Coffee Business Equity Earnings: We have reflected the results of our historical coffee businesses and equity earnings from JDE, Keurig and Dongsuh Foods Corporation (“DSF”) in our results from continuing operations as the coffee category continues to be a significant part of our net earnings and business strategy going forward.
+Historically, our coffee businesses and the income from equity method investments were recorded within our operating income as these businesses were part of our base business.
+While we retain an ongoing interest in coffee through equity method investments including JDE, Keurig and DSF, and we have significant influence with our equity method investments, we do not control these operations directly.
+As such, in the third quarter of 2015, we began to recognize equity method investment earnings, consisting primarily of investments in coffee businesses, outside of operating income.
+For periods prior to the third quarter of 2015, our historical coffee business and equity method investment earnings were included within our operating income.
+See Note 2, Divestitures and Acquisitions, for more information.
+Venezuela Deconsolidation Effective as of the close of the 2015 fiscal year, we concluded that we no longer met the accounting criteria for consolidation of our Venezuelan subsidiaries due to a loss of control over our Venezuelan operations and an other-than-temporary lack of currency exchangeability.
+At that time, we deconsolidated and changed to the cost method of accounting for our Venezuelan operations.
+We recorded a $778 million pre-tax loss on December 31, 2015 as we reduced the value of our cost method investment in Venezuela and all Venezuelan receivables held by our other subsidiaries to realizable fair value, resulting in full impairment.
+The recorded loss also included historical cumulative translation adjustments related to our Venezuelan operations that had previously been recorded in accumulated other comprehensive losses within equity.
+As of the start of 2016, we no longer include net revenues, earnings or net assets of our Venezuelan subsidiaries within our consolidated financial statements in our reported GAAP results (we exclude Venezuela in our non-GAAP results for all historical periods presented).
+Under the cost method of accounting, earnings are only recognized to the extent cash is received and we have not received any distributed cash from our Venezuela operations in 2016.
+Given the current and ongoing difficult economic, regulatory and business environment in Venezuela, there continues to be significant uncertainty related to our operations in Venezuela, and we expect these conditions will continue for the foreseeable future.
+We monitor the extent of our ability to control our Venezuelan operations and the liquidity and availability of cash and U.S. dollars needed to operate in Venezuela, as our current situation in Venezuela may change over time and lead to consolidation at a future date.
+See Discussion and Analysis of Historical Results – Items Affecting Comparability of Financial Results below, and Note 1, Summary of Significant Accounting Policies – Currency Translation and Highly Inflationary Accounting: Venezuela, for more information on our historical Venezuelan operating results, including the remeasurement losses and loss on deconsolidation.
+Summary of Results • Net revenues decreased 12.5% to $25.9 billion in 2016 and decreased 13.5% to $29.6 billion in 2015.
+Net revenues in 2016 were significantly affected by the deconsolidation of our historical coffee business, unfavorable currency translation as the U.S. dollar strengthened against most currencies in which we operate compared to exchange rates in the prior year, the deconsolidation of our historical Venezuelan operations and the year-over-year impact of the accounting calendar change in 2015.
+23 Table of Contents • Organic Net Revenue increased 1.3% to $27.1 billion in 2016 and increased 1.4% to $30.1 billion in 2015 after recasting prior years to exclude the historical Venezuela deconsolidated operating results and historical operating results from a small 2016 divestiture in the Latin America region.
+Organic Net Revenue also excludes the impact of our historical global coffee business which was deconsolidated in the JDE coffee business transactions in July 2015.
+Organic Net Revenue is a non-GAAP financial measure and is on a constant currency basis.
+We use Organic Net Revenue as it provides improved year-over-year comparability of our underlying results (see the definition of Organic Net Revenue and our reconciliation with net revenues within Non-GAAP Financial Measures appearing later in this section).
+• Diluted EPS attributable to Mondelēz International decreased 76.4% to $1.05 in 2016 and increased 246.9% to $4.44 in 2015.
+The gain on the coffee business deconsolidation and other significant items affected the comparability of our reported results, as further described in the Discussion and Analysis of Historical Results appearing later in this section and in the notes to the consolidated financial statements.
+• Adjusted EPS increased 19.8% to $1.94 in 2016 and decreased 6.4% to $1.62 in 2015 after recasting prior years to exclude the historical Venezuela deconsolidated operating results, historical operating results from a small 2016 divestiture in the Latin America region and historical mark-to-market impacts.
+On a constant currency basis, Adjusted EPS increased 24.1% to $2.01 in 2016 and increased 9.8% to $1.90 in 2015.
+Adjusted EPS and Adjusted EPS on a constant currency basis are non-GAAP financial measures.
+We use these measures as they provide improved year-over-year comparability of our underlying results (see the definition of Adjusted EPS and our reconciliation with diluted EPS within Non-GAAP Financial Measures appearing later in this section).
+Financial Outlook We seek to achieve profitable, long-term growth and manage our business to attain this goal using our key operating metrics: Organic Net Revenue, Adjusted Operating Income and Adjusted EPS.
+We use these non-GAAP financial metrics and related computations such as margins internally to evaluate and manage our business and to plan and make near- and long-term operating and strategic decisions.
+As such, we believe these metrics are useful to investors as they provide supplemental information in addition to our U.S. GAAP financial results.
+We believe providing investors with the same financial information that we use internally ensures that investors have the same data to make comparisons of our historical operating results, identify trends in our underlying operating results and gain additional insight and transparency on how we evaluate our business.
+We believe our non-GAAP financial measures should always be considered in relation to our GAAP results and we have provided reconciliations between our GAAP and non-GAAP financial measures in Non-GAAP Financial Measures which appears later in this section.
+In addition to monitoring our key operating metrics, we monitor a number of developments or trends that could impact our revenue and profitability objectives.
+Long-Term Demographics and Consumer Trends – Snack food consumption is highly correlated to GDP growth, urbanization of the population and rising discretionary income levels associated with a growing middle class, particularly in emerging markets.
+Over the long-term, we expect these trends to continue leading to growth in consumer behaviors such as migration to more frequent, smaller meals and snacks and greater use of convenience foods.
+In the near term, low GDP growth, economic recessionary pressures, weak consumer confidence, a strong U.S. dollar and changing consumer trends have slowed category and our net revenue growth.
+We recognize these factors and the changing consumer trends such as the increasing emphasis on well-being, time compression, growing income disparity, digital revolution and an evolving retail landscape, and we are investing in our well-being snacks portfolio, product and marketing innovation and new routes to market including e-commerce to position ourselves for future growth.
+Demand – We monitor consumer spending and our market share within the food and beverage categories in which we sell our products.
+Growth in these global categories (excluding Venezuela) decreased from approximately 3.4% in 2015 to 2.4% in 2016.
+Over the long-term, we expect category growth to improve when the macroeconomic environment improves.
+We continue to make investments in our brand portfolio and build strong routes to market to address the needs of consumers in emerging and developed markets.
+In doing so, we anticipate driving demand in our categories and growing our position in these markets.
+Volatility of Global Markets – Our growth strategy depends in part on our ability to expand our operations, particularly in emerging markets.
+Some of these markets have greater political and economic volatility, vulnerability to infrastructure and labor disruptions and sensitivity to world oil and energy prices, as we noted this past year in markets including Brazil, Russia, India, China, Ukraine, the Middle East and Nigeria.
+Volatility in these markets affects demand for and the costs of our products and requires frequent changes in how we operate our business.
+We expect continued volatility across our markets, particularly emerging markets.
+As such, we are focused on investing in our global Power Brands and routes to market while we protect our margins through the management of costs and pricing.
+24 Table of Contents Competition – We operate in highly competitive markets that include global, regional and local competitors.
+Our advantaged geographic footprint, operating scale and portfolio of brands have all significantly contributed to building our market-leading positions across most of the product categories in which we sell.
+To grow and maintain our market positions, we focus on meeting consumer needs and preferences through new product innovations and product quality.
+We also continue to optimize our manufacturing and other operations and invest in our brands through ongoing research and development, advertising, marketing and consumer promotions.
+Pricing – We adjust our product prices based on a number of variables including demand, the competitive environment and changes in our product input costs.
+Our net revenue growth and profitability may be affected as we adjust prices to address new conditions.
+In 2015 and 2016, we generally increased prices in response to higher commodity costs, currency and other market factors.
+In 2017, we anticipate that we will adjust our prices in response to changing market conditions.
+Price competition or delayed price increases by competitors or customers may continue to affect net revenues or market share in the near term as the market adjusts to the changes in input costs and other market conditions.
+Operating Costs – Our operating costs include raw materials, labor, selling, general and administrative expenses, taxes, currency impacts and financing costs.
+We manage these costs through cost saving and productivity initiatives, sourcing and hedging programs, pricing actions, refinancing and tax planning.
+We also continue to work on programs to expand our profitability and margins, such as our 2014-2018 Restructuring Program, which is designed to bring about significant reductions in our operating cost structure in both our supply chain and overhead costs.
+We also integrated our EEMEA business into our Europe and Asia Pacific segments effective October 1, 2016.
+We expect this change to have a favorable impact on our operating performance prospectively due to greater leverage of our European and AMEA regional businesses and resulting cost structure.
+We also began to re-negotiate collective bargaining agreements covering eight U.S. facilities that expired in February 2016.
+We continue to work toward reaching a new agreement and have plans to ensure business continuity during the re-negotiations.
+Currency – As a global company with 75.6% of our net revenues generated outside the United States, we are exposed to changes in global economic conditions and currency movements.
+In the last three years, the U.S. dollar has generally strengthened relative to other currencies in which we operate, and several countries experienced significant declines in or devaluations of their currency.
+These currency movements had a significant negative effect on our reported results of operations.
+Our 2016 net revenues were $25.9 billion, down 12.5% from 2015, including a negative 4.6 percentage point impact from currency translation.
+Our 2015 net revenues were $29.6 billion, down 13.5% from 2014, including a negative 12.6 percentage point impact from currency translation (and a 12.0 percentage point impact excluding currency impacts related to Venezuela).
+Our 2014 net revenues were $34.2 billion, down 3.0% from 2013, including a negative 5.2 percentage point impact from currency translation (and a 3.9 percentage point impact excluding currency impacts related to Venezuela).
+We have historically been exposed to currency devaluation risks impacting earnings particularly, but not only, in connection with our Venezuela operations that were deconsolidated at the close of the 2015 fiscal year.
+In the months following Brexit, there was significant volatility in the global stock markets and currency exchange rates, affecting the markets in which we conduct business.
+The value of the British pound sterling relative to the U.S. dollar declined significantly with further volatility in the exchange rate expected over the Brexit transition period.
+The devaluation of the British pound sterling negatively affected our translated results reported in U.S. dollars.
+To partially offset the translation of certain of our overseas operations, including the United Kingdom, we have net investment hedges in the form of local currency denominated debt.
+We generally do not hedge against currency translation and primarily seek to hedge against economic losses on cross-currency transactions.
+Due to limited markets for hedging currency transactions and other factors, we may not be able to effectively hedge all of our cross-currency transaction risks.
+The local economies, monetary policies and currency hedging availability can affect our ability to hedge against currency-related economic losses.
+While we work to mitigate our exposure to these currency risks, factors such as continued global and local market volatility, actions by foreign governments, political uncertainty, limited hedging opportunities and other factors could lead to further unfavorable currency impacts in the future.
+While we continue to monitor and work to safeguard our business, Brexit could adversely affect future demand for our products, our financial results and operations, and our relationships with customers, suppliers and employees in the short or long-term.
+We may not be able to fully offset the increased risks related to Brexit, which could impact profitability in the near-term or longer should these conditions continue.
+See Note 1, Summary of Significant Accounting Policies – Currency Translation and Highly Inflationary Accounting: Venezuela and United Kingdom, for related information.
+Financing Costs – We regularly evaluate our variable and fixed-rate debt.
+We continue to use lower-cost, short- and long-term debt to finance our ongoing working capital, capital expenditures and other investments, dividends and share repurchases.
+During 2016, we retired $6.2 billion of our long-term debt and related costs and issued lower-cost, long-term euro, Swiss franc and U.S. dollar-denominated debt.
+Our weighted-average interest rate on our total debt as of December 31, 2016 was 2.2%, down from 3.7% as of December 31, 2015 and down from 4.3% as of December 31, 2014.
+Refer to Note 7, Debt and Borrowing Arrangements, for additional debt activity in 2017.
+25 Table of Contents Discussion and Analysis of Historical Results Items Affecting Comparability of Financial Results The following table includes significant income or (expense) items that affected the comparability of our pre-tax results of operations and our effective tax rates.
+Please refer to the notes to the consolidated financial statements indicated below for more information.
+Refer also to the Consolidated Results of Operations – Net Earnings and Earnings per Share Attributable to Mondelēz International table for the after-tax per share impacts of these items.
+For the Years Ended December 31, See Note 2016 2015 2014 (in millions, except percentages) JDE coffee business transactions: Note 2 Gain on contribution $ – $ 6,809 $ – Incremental costs for readyingthe businesses – (278 ) (77 ) Currency-related hedging net gains (1) – 436 628 Gain on Keurig equity method investment exchange (2) 43 – – Venezuela: Note 1 Historical operating income (3) – 266 181 Remeasurement of net monetary assets: Q1 2014: 6.30 to 10.70 bolivarsto the U.S. dollar – – (142 ) SICAD I remeasurements through December 31, 2014 – – (25 ) Q1 2015: 11.50 to 12.00 bolivarsto the U.S. dollar – (11 ) – Loss on deconsolidation – (778 ) – 2014-2018 Restructuring Program: Note 6 Restructuring charges (714 ) (711 ) (274 ) Implementation charges (372 ) (291 ) (107 ) 2012-2014 Restructuring Program: Note 6 Restructuring charges – 4 (360 ) Implementation charges – – (99 ) Loss on debt extinguishment andrelated expenses Note 7 (427 ) (753 ) (495 ) Loss related to interest rate swaps Note 7 & 8 (97 ) (34 ) – Intangible asset impairment charges Note 5 (137 ) (71 ) (57 ) Divestitures, acquisitions andsales of property Note 2 Gain on sale of trademarks 15 – – Gain on divestiture 9 13 – Divestiture-related costs (86 ) – – Acquisition-related costs (1 ) (8 ) (2 ) Other acquisition integration costs (7 ) (9 ) (4 ) Gains on sales of property 46 – 7 Mark-to-market (losses) / gains from derivatives (4) Note 16 (94 ) 56 (73 ) Spin-Off Costs Note 2 – – (35 ) Effective tax rate Note 14 8.9% 7.5% 13.8% (1) To lock in an expected U.S. dollar value of the cash to be received in euros upon closing of the JDE coffee business transactions, we entered into currency exchange forward contracts beginning in May 2014, when the transaction was announced.
+We recognized related currency hedging net gains of $436 million in 2015 and $628 million in 2014.
+See Note 2, Divestitures and Acquisitions, for more information on the JDE coffee business transactions and related hedging transactions.
+(2) The gain on equity method investment exchange is recorded outside of pre-tax operating results on the consolidated statement of earnings as it relates to our after-tax equity method investments.
+(3) Excludes the impact of remeasurement losses and 2014-2018 Restructuring Program charges that are shown separately.
+(4) Unrealized gains or losses on commodity and forecasted currency transaction derivatives.
+2015 and 2014 amounts exclude coffee commodity and currency derivative impacts that are included within the coffee operating results throughout the following sections.
+26 Table of Contents Consolidated Results of Operations The following discussion compares our consolidated results of operations for 2016 with 2015 and 2015 with 2014.
+2016 compared with 2015 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ For the Years EndedDecember 31, 2016 2015 $ change % change (in millions, except per share data) Net revenues $ 25,923 $ 29,636 $ (3,713) (12.5)% Operating income 2,569 8,897 (6,328) (71.1)% Earnings from continuing operations 1,669 7,291 (5,622) (77.1)% Net earnings attributable toMondelēz International 1,659 7,267 (5,608) (77.2)% Diluted earnings per share attributable to Mondelēz International 1.05 4.44 (3.39) (76.4)% Net Revenues – Net revenues decreased $3,713 million (12.5%) to $25,923 million in 2016, and Organic Net Revenue (1) increased $360 million (1.3%) to $27,067 million.
+Power Brands net revenues decreased 11.8%, primarily due to the deconsolidation of our historical coffee business, unfavorable currency and the deconsolidation of our historical Venezuelan operations, and Power Brands Organic Net Revenue increased 2.8%.
+Emerging markets net revenues decreased 19.1%, primarily due to the deconsolidation of our historical Venezuelan operations, unfavorable currency and the deconsolidation of our historical coffee business, and emerging markets Organic Net Revenue increased 2.7%.
+The underlying changes in net revenues and Organic Net Revenue are detailed below: 
+
+
+ 2016 Change in net revenues (by percentage point) Total change in net revenues (12.5)% Add back the following items affecting comparability: Historical coffee business (1) 5.6pp Unfavorable currency 4.6pp Historical Venezuelan operations (2) 3.7pp Impact of accounting calendar change 0.2pp Impact of divestitures – Impact of acquisitions (0.3)pp Total change in Organic Net Revenue (3) 1.3% Higher net pricing 1.6pp Unfavorable volume/mix (0.3)pp (1) Includes our historical global coffee business prior to the July 2, 2015 JDE coffee business transactions.
+Refer to Note 2, Divestitures and Acquisitions, and Non-GAAP Financial Measures appearing later in this section for more information.
+(2) Includes the historical results of our Venezuelan subsidiaries (including Venezuela currency impacts) prior to the December 31, 2015 deconsolidation.
+Refer to Note 1, Summary of Significant Accounting Policies – Currency Translation and Highly Inflationary Accounting: Venezuela, for more information.
+(3) Please see the Non-GAAP Financial Measures section at the end of this item.
+27 Table of Contents Net revenue decline of 12.5% was driven by the impact of the deconsolidation of our historical coffee business, unfavorable currency, the deconsolidation of our historical Venezuelan operations and the year-over-year impact of the 2015 accounting calendar change, partially offset by our underlying Organic Net Revenue growth of 1.3% and the impact of acquisitions.
+The adjustment for deconsolidating our historical coffee business resulted in a year-over-year decrease in net revenues of $1,627 million for 2016.
+Unfavorable currency impacts decreased net revenues by $1,244 million, due primarily to the strength of the U.S. dollar relative to several currencies, including the Argentinean peso, British pound sterling, Mexican peso, Brazilian real, Chinese yuan and Russian ruble.
+The deconsolidation of our historical Venezuelan operations resulted in a year-over-year decrease in net revenues of $1,217 million for 2016.
+The North America segment accounting calendar change in 2015 resulted in a year-over-year decrease in net revenues of $76 million for 2016.
+Our underlying Organic Net Revenue growth was driven by higher net pricing, partially offset by unfavorable volume / mix.
+Net pricing was up, which includes the benefit of carryover pricing from 2015 as well as the effects of input cost-driven pricing actions taken during 2016.
+Higher net pricing was reflected in Latin America and AMEA, partially offset by lower net pricing in Europe and North America.
+Unfavorable volume / mix was reflected in Latin America and AMEA, mostly offset by favorable volume / mix in Europe and North America.
+Unfavorable volume / mix in Latin America and AMEA was largely due to price elasticity as well as strategic decisions to exit certain low-margin product lines.
+The impact of acquisitions primarily includes the July 15, 2015 acquisition of a biscuit operation in Vietnam, which added $71 million of incremental net revenues for 2016, and the November 2, 2016 purchase of a license to manufacture, market and sell Cadbury-branded biscuits in additional key markets, which added $16 million of incremental net revenues for 2016.
+28 Table of Contents Operating Income – Operating income decreased $6,328 million (71.1%) to $2,569 million in 2016, Adjusted Operating Income (1) increased $463 million (13.3%) to $3,953 million and Adjusted Operating Income on a constant currency basis (1) increased $639 million (18.3%) to $4,129 million due to the following: 
+
+
+ 
+
+
+ Operating Income Change (in millions) (percentage point) Operating Income for the Year Ended December 31, 2015 $ 8,897 2012-2014 Restructuring Program costs (2) (4 ) (0.1)pp 2014-2018 Restructuring Program costs (2) 1,002 32.2pp Operating income from Venezuelan subsidiaries (3) (281 ) (9.8)pp Remeasurement of net monetary assets in Venezuela (3) 11 0.3pp Loss on deconsolidation of Venezuela (3) 778 33.4pp Costs associated with the JDE coffee business transactions (4) 278 13.3pp Gain on the JDE coffee business transactions (4) (6,809 ) (94.1)pp Reclassification of historical coffee business operating income (5) (342 ) (15.3)pp Reclassification of equity method investment earnings (6) (51 ) (2.7)pp Operating income from divestiture (7) (8 ) (0.4)pp Gain on divestiture (7) (13 ) (0.4)pp Intangible asset impairment charges (8) 71 2.1pp Acquisition integration costs (9) 9 0.3pp Acquisition-related costs (9) 8 0.3pp Mark-to-market gains from derivatives (10) (56 ) (1.7)pp Adjusted Operating Income (1) for the Year Ended December 31, 2015 $ 3,490 Higher net pricing 415 12.0pp Higher input costs (126 ) (3.6)pp Unfavorable volume/mix (9 ) (0.3)pp Lower selling, general and administrative expenses 322 9.3pp Gains on sales of property (9) 46 1.3pp Higher VAT-related settlements 24 0.7pp Impact from acquisitions (9) 4 0.1pp Impact of accounting calendar change (11) (36 ) (1.2)pp Other (1 ) – Total change in Adjusted Operating Income (constant currency) (1) 639 18.3% Unfavorable currency - translation (176 ) (5.0)pp Total change in Adjusted Operating Income (1) 463 13.3% Adjusted Operating Income (1) for the Year Ended December 31, 2016 $ 3,953 2014-2018 Restructuring Program costs (2) (1,086 ) (33.3)pp Divestiture-related costs (12) (86 ) (2.5)pp Operating income from divestiture (7) 2 0.1pp Gain on divestiture (7) 9 0.3pp Gain on sale of intangible assets (9) 15 0.4pp Intangible asset impairment charges (8) (137 ) (3.8)pp Acquisition integration costs (9) (7 ) (0.2)pp Acquisition-related costs (9) (1 ) (0.1)pp Mark-to-market losses from derivatives (10) (94 ) (2.7)pp Other / rounding 1 – Operating Income for the Year Ended December 31, 2016 $ 2,569 (71.1)% (1) Refer to the Non-GAAP Financial Measures section at the end of this item.
+(2) Refer to Note 6, Restructuring Programs, for information on our 2014-2018 Restructuring Program and 2012-2014 Restructuring Program.
+(3) Includes the historical results of our Venezuelan subsidiaries prior to the December 31, 2015 deconsolidation.
+Refer to Note 1, Summary of Significant Accounting Policies – Currency Translation and Highly Inflationary Accounting: Venezuela, for more information on the deconsolidation and remeasurement loss in 2015.
+(4) Refer to Note 2, Divestitures and Acquisitions, for more information on the JDE coffee business transactions.
+(5) Includes our historical global coffee business prior to the July 2, 2015 deconsolidation.
+We reclassified the results of our historical coffee business from Adjusted Operating Income and included them with equity method investment earnings in Adjusted EPS to facilitate comparisons of past and future coffee operating results.
+Refer to Note 2, Divestitures and Acquisitions, and Non-GAAP Financial Measures appearing later in this section for more information.
+29 Table of Contents (6) Historically, we recorded income from equity method investments within our operating income as these investments operated as extensions of our base business.
+Beginning in the third quarter of 2015, to align with the accounting for JDE earnings, we began to record the earnings from our equity method investments in equity method investment earnings outside of operating income.
+In periods prior to July 2, 2015, we have reclassified the equity method earnings from Adjusted Operating Income to evaluate our operating results on a consistent basis.
+(7) Refer to Note 2, Divestitures and Acquisitions, for more information on the April 23, 2015 divestiture of Ajinomoto General Foods (“AGF”) and the December 1, 2016 sale of a confectionery business in Costa Rica.
+The divestiture of AGF generated a pre-tax gain of $13 million and after-tax loss of $9 million in 2015.
+The sale of the confectionery business in Costa Rica generated a pre-tax and after-tax gain of $9 million in 2016.
+(8) Refer to Note 2, Divestitures and Acquisitions, and Note 5, Goodwill and Intangible Assets, for more information on the impairment charges recorded in 2016 and 2015 related to trademarks.
+(9) Refer to Note 2, Divestitures and Acquisitions, for more information on the 2016 purchase of a license to manufacture, market and sell Cadbury-branded biscuits in additional key markets, 2016 intangible asset sale in Finland, 2015 acquisitions of a biscuit operation in Vietnam and Enjoy Life Foods and other property sales in 2016.
+(10) Refer to Note 8, Financial Instruments, Note 16, Segment Reporting, and Non-GAAP Financial Measures appearing later in this section for more information on these unrealized gains and losses on commodity and forecasted currency transaction derivatives.
+(11) Refer to Note 1, Summary of Significant Accounting Policies – Accounting Calendar Change, for more information on the accounting calendar change in 2015.
+(12) Includes costs incurred and accrued related to the planned sale of a confectionery business in France.
+Refer to Note 2, Divestitures and Acquisitions, for more information.
+During 2016, we realized higher net pricing while input costs increased modestly.
+Higher net pricing, which included the carryover impact of pricing actions taken in 2015, was reflected in Latin America and AMEA, partially offset by lower net pricing in Europe and North America.
+The increase in input costs was driven by higher raw material costs, in part due to higher currency exchange transaction costs on imported materials, which were partially offset by lower manufacturing costs due to productivity.
+Unfavorable volume / mix was driven by Latin America and AMEA, which was mostly offset by favorable volume / mix in Europe and North America.
+Total selling, general and administrative expenses decreased $1,037 million from 2015, due to a number of factors noted in the table above, including in part, the deconsolidation of our historical coffee business, a favorable currency impact, lower costs associated with the JDE coffee business transactions, the deconsolidation of our Venezuelan operations, gains on the sales of property, VAT-related settlements and the absence of devaluation charges related to our net monetary assets in Venezuela in 2016.
+The decreases were partially offset by increases from divestiture-related costs associated with the planned sale of a confectionery business in France, the reclassification of equity method investment earnings, higher implementation costs incurred for the 2014-2018 Restructuring Program and the impact of acquisitions.
+Excluding the factors noted above, selling, general and administrative expenses decreased $322 million from 2015.
+The decrease was driven primarily by lower overhead costs due to continued cost reduction efforts.
+We recorded a benefit of $54 million in 2016 from VAT-related settlements in Latin America as compared to $30 million in 2015.
+Unfavorable currency impacts decreased operating income by $176 million due primarily to the strength of the U.S. dollar relative to most currencies, including the British pound sterling, Argentinean peso and Mexican peso.
+Excluding the portion related to deconsolidating our historical coffee business, the change in mark-to-market gains / (losses) from derivatives decreased operating income by $150 million in 2016.
+In 2016, the net unrealized losses on commodity and forecasted currency transaction derivatives were $94 million, as compared to net unrealized gains of $56 million ($96 million including coffee related activity) in 2015.
+Operating income margin decreased from 30.0% in 2015, to 9.9% in 2016.
+The decrease in operating income margin was driven primarily by last year’s pre-tax gain on the JDE coffee business transactions, the deconsolidation of our historical coffee business, the deconsolidation of our Venezuelan operations, the unfavorable year-over-year change in mark-to-market gains / losses from derivatives, higher costs incurred for the 2014-2018 Restructuring Program, divestiture-related costs associated with the planned sale of a confectionery business in France, higher intangible asset impairment charges and the reclassification of equity method earnings.
+The items that decreased our operating income margin were partially offset by the prior-year loss on the Venezuela deconsolidation, an increase in our Adjusted Operating Income margin and the absence of costs associated with the JDE coffee business transactions.
+Adjusted Operating Income margin increased from 13.0% in 2015 to 15.3% in 2016.
+The increase in Adjusted Operating Income margin was driven primarily by lower overheads from cost reduction programs, improved gross margin reflecting productivity efforts, gains on sales of property and VAT-related settlements.
+30 Table of Contents Net Earnings and Earnings per Share Attributable to Mondelēz International – Net earnings attributable to Mondelēz International of $1,659 million decreased by $5,608 million (77.2%) in 2016.
+Diluted EPS attributable to Mondelēz International was $1.05 in 2016, down $3.39 (76.4%) from 2015.
+Adjusted EPS (1) was $1.94 in 2016, up $0.32 (19.8%) from 2015.
+Adjusted EPS on a constant currency basis (1) was $2.01 in 2016, up $0.39 (24.1%) from 2015.
+Diluted EPS Diluted EPS Attributable to Mondelēz International for the Year Ended December 31, 2015 $ 4.44 2012-2014 Restructuring Program costs (2) – 2014-2018 Restructuring Program costs (2) 0.45 Net earnings from Venezuelan subsidiaries (3) (0.10 ) Remeasurement of net monetary assets in Venezuela (3) 0.01 Loss on deconsolidation of Venezuela (3) 0.48 (Income) / costs associated with the JDE coffee business transactions (4) (0.01 ) Gain on the JDE coffee business transactions (4) (4.05 ) Net earnings from divestiture (5) 0.02 Loss on divestiture (5) 0.01 Intangible asset impairment charges (6) 0.03 Acquisition integration costs (7) – Acquisition-related costs (7) – Mark-to-market gains from derivatives (8) (0.03 ) Loss on debt extinguishment and related expenses (9) 0.29 Loss related to interest rate swaps (10) 0.01 Equity method investee acquisition-related and other adjustments (11) 0.07 Adjusted EPS (1) for the Year Ended December 31, 2015 $ 1.62 Increase in operations 0.27 Decrease in operations from historical coffee business,net of increase in equity method investment net earnings (12) (0.05 ) Gains on sales of property (7) 0.02 VAT-related settlements 0.03 Impact of acquisitions (7) – Impact of accounting calendar change (13) (0.01 ) Lower interest and other expense, net (14) – Changes in shares outstanding (15) 0.08 Changes in income taxes (16) 0.05 Adjusted EPS (constant currency) (1) for the Year Ended December 31, 2016 $ 2.01 Unfavorable currency - translation (0.07 ) Adjusted EPS (1) for the Year Ended December 31, 2016 $ 1.94 2014-2018 Restructuring Program costs (2) (0.51 ) Divestiture-related costs (17) (0.05 ) Net earnings from divestiture (5) – Gain on divestiture (5) – Gain on sale of intangible asset (7) 0.01 Intangible asset impairment charges (11) (0.06 ) Acquisition integration costs (7) (0.01 ) Acquisition-related costs (7) – Mark-to-market losses from derivatives (8) (0.05 ) Loss related to interest rate swaps (10) (0.04 ) Loss on debt extinguishment and related expenses (9) (0.17 ) Gain on equity method investment exchange (7) 0.03 Equity method investee acquisition-related and other adjustments (11) (0.04 ) Diluted EPS Attributable to Mondelēz International for the Year Ended December 31, 2016 $ 1.05 (1) Refer to the Non-GAAP Financial Measures section appearing later in this section.
+(2) Refer to Note 6, Restructuring Programs, for more information on our 2014-2018 Restructuring Program and our 2012-2014 Restructuring Program.
+31 Table of Contents (3) Includes the historical results of our Venezuelan subsidiaries prior to the December 31, 2015 deconsolidation.
+Refer to Note 1, Summary of Significant Accounting Policies – Currency Translation and Highly Inflationary Accounting: Venezuela, for more information on the deconsolidation and remeasurement loss in 2015.
+(4) Refer to Note 2, Divestitures and Acquisitions, for more information on the JDE coffee business transactions.
+Net gains of $436 million in the first nine months of 2015 on the currency hedges related to the JDE coffee business transactions were recorded in interest and other expense, net and are included in the (income) / costs associated with the JDE coffee business transactions of $(0.01) in the table above.
+(5) Refer to Note 2, Divestitures and Acquisitions, for more information on the April 23, 2015 divestiture of AGF and the December 1, 2016 sale of a confectionery business in Costa Rica.
+The divestiture of AGF generated a pre-tax gain of $13 million and after-tax loss of $9 million in 2015.
+The sale of the confectionery business in Costa Rica generated a pre-tax and after-tax gain of $9 million in 2016.
+(6) Refer to Note 2, Divestitures and Acquisitions, and Note 5, Goodwill and Intangible Assets, for more information on the impairment charges recorded in 2016 and 2015 related to trademarks.
+(7) Refer to Note 2, Divestitures and Acquisitions, for more information on the 2016 purchase of a license to manufacture, market and sell Cadbury-branded biscuits in additional key markets, 2016 intangible asset sale in Finland, 2015 acquisitions of a biscuit operation in Vietnam and Enjoy Life Foods and other property sales in 2016.
+(8) Refer to Note 8, Financial Instruments, Note 16, Segment Reporting, and Non-GAAP Financial Measures appearing later in this section for more information on these unrealized gains and losses on commodity and forecasted currency transaction derivatives.
+(9) Refer to Note 7, Debt and Borrowing Arrangements, for more information on our loss on debt extinguishment and related expenses in connection with our debt tender offers.
+(10) Refer to Note 8, Financial Instruments, for more information on our interest rate swaps, which we no longer designate as cash flow hedges during the three months ended March 31, 2016 and 2015 due to changes in financing and hedging plans.
+(11) Includes our proportionate share of unusual or infrequent items, such as acquisition and divestiture-related costs and restructuring program costs, recorded by our JDE and Keurig equity method investees.
+(12) Includes our historical global coffee business prior to the July 2, 2015 deconsolidation.
+We reclassified the results of our historical coffee business from Adjusted Operating Income and included them with equity method investment earnings in Adjusted EPS to facilitate comparisons of past and future coffee operating results.
+Refer to Note 2, Divestitures and Acquisitions, and Non-GAAP Financial Measures appearing later in this section for more information.
+(13) Refer to Note 1, Summary of Significant Accounting Policies, for more information on the accounting calendar change in 2015.
+(14) Excludes the favorable currency impact on interest expense related to our non-U.S. dollar-denominated debt which is included in currency translation.
+(15) Refer to Note 10, Stock Plans, for more information on our equity compensation programs, Note 11, Capital Stock, for more information on our share repurchase program and Note 15, Earnings Per Share, for earnings per share weighted-average share information.
+(16) Refer to Note 14, Income Taxes, for more information on the change in our income taxes and effective tax rate.
+(17) Includes costs incurred and accrued related to the planned sale of a confectionery business in France.
+Refer to Note 2, Divestitures and Acquisitions, for more information.
+32 Table of Contents 2015 compared with 2014 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ For the Years EndedDecember 31, 2015 2014 $ change % change (in millions, except per share data) Net revenues $ 29,636 $ 34,244 $ (4,608) (13.5)% Operating income 8,897 3,242 5,655 174.4% Earnings from continuing operations 7,291 2,201 5,090 231.3% Net earnings attributable toMondelēz International 7,267 2,184 5,083 232.7% Diluted earnings per share attributable toMondelēz International 4.44 1.28 3.16 246.9% Net Revenues – Net revenues decreased $4,608 million (13.5%) to $29,636 million in 2015, and Organic Net Revenue (1) increased $407 million (1.4%) to $30,105 million.
+Power Brands net revenues decreased 12.6%, primarily due to unfavorable currency and the deconsolidation of our historical coffee business, and Power Brands Organic Net Revenue increased 3.3%.
+Emerging markets net revenues decreased 10.6%, primarily due to unfavorable currency and the deconsolidation of our historical coffee business, and emerging markets Organic Net Revenue increased 4.8%.
+The underlying changes in net revenues and Organic Net Revenue are detailed below: 
+
+
+ 2015 Change in net revenues (by percentage point) Total change in net revenues (13.5)% Add back of the following items affecting comparability: Unfavorable currency 12.0pp Historical coffee business (1) 5.3pp Historical Venezuelan operations (2) (1.6)pp Impact of acquisitions (0.6)pp Impact of accounting calendar change (0.2)pp Total change in Organic Net Revenue (3) 1.4% Higher net pricing 3.9pp Unfavorable volume/mix (2.5)pp (1) Includes our historical global coffee business prior to the July 2, 2015 coffee business transactions.
+Refer to Note 2, Divestitures and Acquisitions, and Non-GAAP Financial Measures appearing later in this section for more information.
+(2) Includes the historical results of our Venezuelan subsidiaries (including Venezuela currency impacts) prior to the December 31, 2015 deconsolidation.
+Refer to Note 1, Summary of Significant Accounting Policies – Currency Translation and Highly Inflationary Accounting: Venezuela, for more information.
+(3) Please see the Non-GAAP Financial Measures section at the end of this item.
+Net revenue decline of 13.5% was driven by unfavorable currency and the impact of the deconsolidation of our historical coffee business, partially offset by the historical results of our Venezuelan operations, our underlying Organic Net Revenue growth of 1.4%, the impact of acquisitions and the impact of an accounting calendar change.
+Unfavorable currency impacts decreased net revenues by $3,565 million, due primarily to the strength of the U.S. dollar relative to several currencies, including the euro, Brazilian real, Russian ruble, Australian dollar and British pound sterling.
+The adjustment for deconsolidating our historical coffee business resulted in a year-over-year decrease in net revenues of $2,149 million for 2015.
+The historical results of our Venezuelan subsidiaries prior to the December 31, 2015 deconsolidation contributed a year-over year increase in net revenues of $457 million for 2015.
+Organic Net Revenue growth was driven by higher net pricing, partially offset by unfavorable volume / mix.
+Net pricing was up as we realized the effects of input cost-driven pricing actions taken during the year.
+Higher net pricing was reflected across all segments.
+Unfavorable volume / mix was largely due to price elasticity as well as strategic decisions to exit certain low-margin product lines.
+Unfavorable volume / mix was reflected in all segments except North America.
+The July 2015 acquisition of a biscuit operation in Vietnam added $128 million in incremental net revenues (constant currency basis) for the year.
+The February 2015 acquisition of the Enjoy Life Foods snack food business in North America added $37 million in incremental net revenues for the year.
+The North America segment accounting calendar change resulted in a year-over-year increase in net revenues of $78 million for the year.
+33 Table of Contents Operating Income – Operating income increased $5,655 million (174.4%) to $8,897 million in 2015, Adjusted Operating Income (1) decreased $65 million (1.8%) to $3,490 million and Adjusted Operating Income on a constant currency basis (1) increased $388 million (10.9%) to $3,943 million due to the following: 
+
+
+ 
+
+
+ Operating Income Change (in millions) (percentage point) Operating Income for the Year Ended December 31, 2014 $ 3,242 Spin-Off Costs (2) 35 1.3pp 2012-2014 Restructuring Program costs (3) 459 14.5pp 2014-2018 Restructuring Program costs (3) 381 15.2pp Operating income from Venezuelan subsidiaries (4) (175 ) (5.0)pp Remeasurement of net monetary assets in Venezuela (4) 167 7.1pp Costs associated with the coffee business transactions (5) 77 3.1pp Reclassification of historical coffee business operating income (6) (646 ) (22.3)pp Reclassification of equity method investment earnings (7) (104 ) (4.2)pp Operating income from divestiture (8) (9 ) (0.3)pp Intangible asset impairment charges (9) 57 2.1pp Integration Program and other acquisition integration costs (10) (4 ) (0.1)pp Acquisition-related costs (11) 2 0.1pp Mark-to-market losses on derivatives (12) 73 2.8pp Adjusted Operating Income (1) for the Year Ended December 31, 2014 $ 3,555 Higher net pricing 1,146 32.2pp Higher input costs (186 ) (5.2)pp Unfavorable volume/mix (248 ) (7.0)pp Higher selling, general and administrative expenses (321 ) (9.0)pp Impact of accounting calendar change (4) 37 1.1pp Impact from acquisitions (8) 20 0.5pp Lower VAT-related settlements (54 ) (1.5)pp Gain on sale of property in 2014 (7 ) (0.2)pp Other, net 1 – Total change in Adjusted Operating Income (constant currency) (1) 388 10.9% Unfavorable currency - translation (453 ) (12.7)pp Total change in Adjusted Operating Income (1) (65 ) (1.8)% Adjusted Operating Income (1) for the Year Ended December 31, 2015 $ 3,490 2012-2014 Restructuring Program costs (3) 4 0.1pp 2014-2018 Restructuring Program costs (3) (1,002 ) (37.3)pp Operating income from Venezuelan subsidiaries (4) 281 9.1pp Remeasurement of net monetary assets in Venezuela (4) (11 ) (0.3)pp Loss on deconsolidation of Venezuela (4) (778 ) (24.0)pp Costs associated with the coffee business transactions (5) (278 ) (11.7)pp Gain on the coffee business transactions (5) 6,809 210.0pp Reclassification of historical coffee business operating income (6) 342 14.1pp Reclassification of equity method investment earnings (7) 51 2.2pp Operating income from divestiture (8) 8 0.3pp Gain on divestiture (8) 13 0.4pp Intangible asset impairment charges (9) (71 ) (2.3)pp Acquisition integration costs (10) (9 ) (0.3)pp Acquisition-related costs (11) (8 ) (0.3)pp Mark-to-market gains on derivatives (12) 56 1.9pp Operating Income for the Year Ended December 31, 2015 $ 8,897 174.4% (1) Refer to the Non-GAAP Financial Measures section at the end of this item.
+(2) Refer to Note 2, Divestitures and Acquisitions, for more information on Spin-Off Costs incurred in 2014 following the 2012 Kraft Foods Group divestiture.
+(3) Refer to Note 6, Restructuring Programs, for information on our 2014-2018 Restructuring Program and our 2012-2014 Restructuring Program.
+(4) Refer to Note 1, Summary of Significant Accounting Policies, for more information on the loss on deconsolidation of Venezuela in 2015, remeasurements of net monetary assets in Venezuela in 2015 and 2014 and the accounting calendar change in 2015.
+(5) Refer to Note 2, Divestitures and Acquisitions, for more information on the coffee business transactions.
+34 Table of Contents (6) Includes our historical global coffee business prior to the July 2, 2015 divestiture.
+We reclassified the results of our historical coffee business from Adjusted Operating Income and included them with equity method investment earnings in Adjusted EPS to facilitate comparisons of past and future coffee operating results.
+Refer to Note 2, Divestitures and Acquisitions, and Non-GAAP Financial Measures appearing later in this section for more information.
+(7) Historically, we have recorded income from equity method investments within our operating income as these investments operated as extensions of our base business.
+Beginning in the third quarter of 2015, to align with the accounting for JDE earnings, we began to record the earnings from our equity method investments in after-tax equity method investment earnings outside of operating income.
+In periods prior to July 2, 2015, we have reclassified the equity method earnings from Adjusted Operating Income to evaluate our operating results on a consistent basis.
+(8) Refer to Note 2, Divestitures and Acquisitions, for more information on the April 23, 2015 divestiture of AGF and the December 1, 2016 sale of a confectionery business in Costa Rica.
+The divestiture of AGF generated a pre-tax gain of $13 million and after-tax loss of $9 million in 2015.
+The sale of the confectionery business in Costa Rica generated a pre-tax and after-tax gain of $9 million in 2016.
+(9) Refer to Note 5, Goodwill and Intangible Assets, for more information on the impairment charges recorded in 2015 and 2014 related to trademarks.
+(10) Refer to Note 7, Integration Program and Cost Savings Initiatives, to the consolidated financial statements in our Form 10-K for the year ended December 31, 2015 for more information on our integration costs in 2015 and 2014.
+(11) Refer to Note 2, Divestitures and Acquisitions, for more information on the acquisitions of a biscuit operation in Vietnam and Enjoy Life Foods.
+(12) Refer to Note 8, Financial Instruments, Note 16, Segment Reporting, and Non-GAAP Financial Measures appearing later in this section for more information on these unrealized gains and losses on commodity and forecasted currency transaction derivatives.
+During 2015, higher net pricing outpaced increased input costs.
+Higher net pricing, due to input-cost driven pricing actions taken during the year, was reflected across all segments.
+The increase in input costs was driven by higher raw material costs, in part due to higher currency exchange transaction costs on imported materials, partially offset by lower manufacturing costs.
+Unfavorable volume / mix was reflected across all segments.
+Total selling, general and administrative expenses decreased $880 million from 2014, due to a number of factors noted in the table above, including in part, a favorable currency impact, the adjustment for deconsolidating our historical coffee business, lower devaluation charges related to our net monetary assets in Venezuela and the absence of 2012-2014 Restructuring Program costs.
+The decreases were partially offset by increases from higher costs incurred for the 2014-2018 Restructuring Program, costs associated with the coffee business transactions, lower value-added tax (“VAT”)-related settlements, the reclassification of equity method investment earnings, the impact of acquisitions and a gain on a sale of property in 2014.
+Excluding the factors noted above, selling, general and administrative expenses increased $321 million from 2014.
+The increase was driven primarily by higher advertising and consumer promotions support, particularly behind our Power Brands.
+We recorded a benefit of $30 million in 2015 from VAT-related settlements in Latin America as compared to $84 million in 2014.
+Unfavorable currency impacts decreased operating income by $453 million, due primarily to the strength of the U.S. dollar relative to most currencies, including the euro, Brazilian real, British pound sterling, Australian dollar and Russian ruble.
+Excluding the portion related to deconsolidating our historical coffee business, the change in unrealized gains / (losses) increased operating income by $129 million in 2015.
+In 2015, the net unrealized gains on currency and commodity hedging activity were $56 million ($96 million including coffee related activity), as compared to net unrealized losses of $73 million ($112 million including coffee related activity) in 2014 related to currency and commodity hedging activity.
+Operating income margin increased from 9.5% in 2014 to 30.0% in 2015.
+The increase in operating income margin was driven primarily by the pre-tax gain on the coffee business transactions, an increase in our Adjusted Operating Income margin, the absence of 2012-2014 Restructuring Program costs, the favorable year-over-year change in mark-to-market gains / losses from derivatives and lower devaluation charges related to our net monetary assets in Venezuela.
+The items that increased operating income margin were partially offset by the loss on deconsolidation of Venezuela, higher costs incurred for the 2014-2018 Restructuring Program and costs associated with the coffee business transactions.
+Adjusted Operating Income margin increased from 12.0% in 2014 to 13.0% in 2015.
+The increase in Adjusted Operating Income margin was driven primarily by improved gross margin, reflecting productivity efforts, and improved overhead leverage from cost reduction programs, partially offset by increased advertising and consumer promotions support.
+35 Table of Contents Net Earnings and Earnings per Share Attributable to Mondelēz International – Net earnings attributable to Mondelēz International of $7,267 million increased by $5,083 million (232.7%) in 2015.
+Diluted EPS attributable to Mondelēz International was $4.44 in 2015, up $3.16 (246.9%) from 2014.
+Adjusted EPS (1) was $1.62 in 2015, down $0.11 (6.4%) from 2014.
+Adjusted EPS on a constant currency basis (1) was $1.90 in 2015, up $0.17 (9.8%) from 2014.
+Diluted EPS Diluted EPS Attributable to Mondelēz International for the Year Ended December 31, 2014 $ 1.28 Spin-Off Costs (2) 0.01 2012-2014 Restructuring Program costs (3) 0.21 2014-2018 Restructuring Program costs (3) 0.16 Net earnings from Venezuelan subsidiaries (4) (0.05 ) Remeasurement of net monetary assets in Venezuela (4) 0.09 (Income) / costs associated with the coffee business transactions (5) (0.19 ) Net earnings from divestiture (6) (0.01 ) Intangible asset impairment charges (7) 0.02 Integration Program and other acquisition integration costs (8) – Acquisition-related costs (9) – Mark-to-market losses from derivatives (10) 0.03 Loss on debt extinguishment and related expenses (11) 0.18 Adjusted EPS (1) for the Year Ended December 31, 2014 $ 1.73 Increase in operations 0.18 Decrease in operations from historical coffee business,net of increase in equity method investment net earnings (12) (0.08 ) Impact of accounting calendar change (4) 0.01 Impact of acquisitions (10) 0.01 Lower VAT-related settlements (0.03 ) Gain on sale of property in 2014 – Lower interest and other expense, net (13) 0.06 Changes in shares outstanding (14) 0.07 Changes in income taxes (15) (0.05 ) Adjusted EPS (constant currency) (1) for the Year Ended December 31, 2015 $ 1.90 Unfavorable currency - translation (0.28 ) Adjusted EPS (1) for the Year Ended December 31, 2015 $ 1.62 2012-2014 Restructuring Program costs (3) – 2014-2018 Restructuring Program costs (3) (0.45 ) Net earnings from Venezuelan subsidiaries (4) 0.10 Remeasurement of net monetary assets in Venezuela (4) (0.01 ) Loss on deconsolidation of Venezuela (4) (0.48 ) Income / (costs) associated with the coffee business transactions (5) 0.01 Gain on the coffee business transactions (5) 4.05 Net earnings from divestiture (6) (0.02 ) Loss on divestiture (6) (0.01 ) Intangible asset impairment charges (7) (0.03 ) Acquisition integration costs (8) – Acquisition-related costs (9) – Mark-to-market gains from derivatives (10) 0.03 Loss on debt extinguishment and related expenses (11) (0.29 ) Loss related to interest rate swaps (16) (0.01 ) Equity method investee acquisition-related and other adjustments (17) (0.07 ) Diluted EPS Attributable to Mondelēz International for the Year Ended December 31, 2015 $ 4.44 (1) Refer to the Non-GAAP Financial Measures section appearing later in this section.
+(2) Refer to Note 2, Divestitures and Acquisitions, for more information on Spin-Off Costs incurred in 2014 following the 2012 Kraft Foods Group divestiture.
+36 Table of Contents (3) Refer to Note 6, Restructuring Programs, for more information on our 2014-2018 Restructuring Program and our 2012-2014 Restructuring Program.
+(4) Refer to Note 1, Summary of Significant Accounting Policies, for more information on the loss on deconsolidation of Venezuela in 2015, remeasurements of net monetary assets in Venezuela in 2015 and 2014 and the accounting calendar change in 2015.
+(5) Refer to Note 2, Divestitures and Acquisitions, for more information on the coffee business transactions.
+Net gains of $436 million in 2015 and $628 million in 2014 on the currency hedges related to the coffee business transactions were recorded in interest and other expense, net and are included in the income / (costs) associated with the coffee business transactions of $0.01 in 2015 and $(0.19) in 2014 above.
+(6) Includes the divestiture of AGF that closed on April 23, 2015 and the December 1, 2016 sale of a confectionery business in Costa Rica and does not include the deconsolidation of our coffee businesses.
+The divestiture of AGF generated a pre-tax gain of $13 million and after-tax loss of $9 million in 2015.
+The sale of the confectionery business in Costa Rica generated a pre-tax and after-tax gain of $9 million in 2016.
+Refer to Note 2, Divestitures and Acquisitions, and Non-GAAP Financial Measures appearing later in this section for more information.
+(7) Refer to Note 5, Goodwill and Intangible Assets, for more information on the impairment charges recorded in 2015 and 2014 related to trademarks.
+(8) Refer to Note 7, Integration Program and Cost Savings Initiatives, to the consolidated financial statements in our Form 10-K for the year ended December 31, 2015 for more information on our integration costs in 2015 and 2014.
+(9) Refer to Note 2, Divestitures and Acquisitions, for more information on the acquisitions of a biscuit operation in Vietnam and Enjoy Life Foods.
+(10) Refer to Note 8, Financial Instruments, Note 16, Segment Reporting, and Non-GAAP Financial Measures appearing later in this section for more information on these unrealized gains and losses on commodity and forecasted currency transaction derivatives.
+(11) Refer to Note 7, Debt and Borrowing Arrangements, for more information on our loss on debt extinguishment and related expenses in connection with our debt tender offers.
+(12) Includes our historical global coffee business prior to the July 2, 2015 deconsolidation.
+We reclassified the results of our historical coffee business from Adjusted Operating Income and included them with equity method investment earnings in Adjusted EPS to facilitate comparisons of past and future coffee operating results.
+Refer to Note 2, Divestitures and Acquisitions, and Non-GAAP Financial Measures appearing later in this section for more information.
+(13) Excludes the favorable currency impact on interest expense related to our non-U.S. dollar-denominated debt which is included in currency translation.
+(14) Refer to Note 10, Stock Plans, for more information on our equity compensation programs and share repurchase program and Note 15, Earnings Per Share, for earnings per share weighted-average share information.
+(15) Refer to Note 14, Income Taxes, for more information on the change in our income taxes and effective tax rate.
+(16) Refer to Note 8, Financial Instruments, for more information on our interest rate swaps, which we no longer designate as cash flow hedges during the three months ended March 31, 2015 due to a change in financing and hedging plans.
+(17) Includes our proportionate share of unusual or infrequent items, such as acquisition and divestiture-related costs and restructuring program costs, recorded by our JDE equity method investee.
+Results of Operations by Reportable Segment Our operations and management structure are organized into four reportable operating segments: • Latin America • AMEA • Europe • North America On October 1, 2016, we integrated our EEMEA operating segment into our Europe and Asia Pacific operating segments to further leverage and optimize the operating scale built within the Europe and Asia Pacific regions.
+Russia, Ukraine, Turkey, Belarus, Georgia and Kazakhstan were combined within our Europe operating segment, while the remaining Middle East and African countries were combined within our Asia Pacific region to form a new AMEA regional operating segment.
+We have reflected the segment change as if it had occurred in all periods presented.
+We manage our operations by region to leverage regional operating scale, manage different and changing business environments more effectively and pursue growth opportunities as they arise in our key markets.
+Our regional management teams have responsibility for the business, product categories and financial results in the regions.
+Historically, we have recorded income from equity method investments within our operating income as these investments were part of our base business.
+Beginning in the third quarter of 2015, to align with the accounting for our new coffee equity method investment in JDE, we began to record the earnings from our equity method investments in equity method investment earnings outside of segment operating income.
+For the six months ended December 31, 2015, after-tax equity method investment net earnings were less than $1 million on a combined basis.
+Earnings from equity method investments through July 2, 2015 recorded within segment operating income were $52 million in AMEA and $4 million in North America.
+For the year ended December 31, 2014 these earnings were $104 million in AMEA and $9 million in North America.
+See Note 1, Summary of Significant Accounting Policies – Principles of Consolidation, and Note 2, Divestitures and Acquisitions, for additional information.
+37 Table of Contents In 2015, we also began to report stock-based compensation for our corporate employees within general corporate expenses that were reported within our North America region.
+We reclassified $32 million of corporate stock-based compensation expense in 2015 from the North America segment to general corporate expenses.
+We use segment operating income to evaluate segment performance and allocate resources.
+We believe it is appropriate to disclose this measure to help investors analyze segment performance and trends.
+See Note 16, Segment Reporting, for additional information on our segments and Items Affecting Comparability of Financial Results earlier in this section for items affecting our segment operating results.
+Our segment net revenues and earnings, revised to reflect our new segment structure in all periods, were: 
+
+
+ 
+
+
+ 
+
+
+ For the Years Ended December 31, 2016 2015 2014 (in millions) Net revenues: Latin America (1) $ 3,392 $ 4,988 $ 5,153 AMEA (2) 5,816 6,002 6,367 Europe (2) 9,755 11,672 15,788 North America 6,960 6,974 6,936 Net revenues $ 25,923 $ 29,636 $ 34,244 (1) Net revenues of $1,217 million for 2015 and $760 million for 2014 from our Venezuelan subsidiaries are included in our consolidated financial statements.
+Beginning in 2016, we account for our Venezuelan subsidiaries using the cost method of accounting and no longer include net revenues of our Venezuelan subsidiaries within our consolidated financial statements.
+Refer to Note 1, Summary of Significant Accounting Policies – Currency Translation and Highly Inflationary Accounting: Venezuela, for more information.
+(2) On July 2, 2015, we contributed our global coffee businesses primarily from our Europe and AMEA segments.
+Net revenues of our global coffee business were $1,561 million in Europe and $66 million in AMEA for the year ended December 31, 2015.
+Refer to Note 2, Divestitures and Acquisitions – JDE Coffee Business Transactions, for more information.
+For the Years Ended December 31, 2016 2015 2014 (in millions) Earnings before income taxes: Operating income: Latin America $ 271 $ 485 $ 475 AMEA 506 389 530 Europe 1,267 1,350 1,952 North America 1,078 1,105 922 Unrealized (losses) / gains on hedging activities (mark-to-market impacts) (94 ) 96 (112 ) General corporate expenses (291 ) (383 ) (317 ) Amortization of intangibles (176 ) (181 ) (206 ) Gains on divestitures andJDE coffee business transactions 9 6,822 – Loss on deconsolidation of Venezuela – (778 ) – Acquisition-related costs (1 ) (8 ) (2 ) Operating income 2,569 8,897 3,242 Interest and other expense, net (1,115 ) (1,013 ) (688 ) Earnings before income taxes $ 1,454 $ 7,884 $ 2,554 38 Table of Contents Latin America 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ For the Years EndedDecember 31, 2016 2015 $ change % change (in millions) Net revenues $ 3,392 $ 4,988 $ (1,596 ) (32.0)% Segment operating income 271 485 (214 ) (44.1)% For the Years EndedDecember 31, 2015 2014 $ change % change (in millions) Net revenues $ 4,988 $ 5,153 $ (165 ) (3.2)% Segment operating income 485 475 10 2.1% 2016 compared with 2015: Net revenues decreased $1,596 million (32.0%), due to the deconsolidation of our Venezuelan operations (21.9 pp), unfavorable currency (14.8 pp), unfavorable volume / mix (5.3 pp) and the impact of a divestiture (0.1 pp), partially offset by higher net pricing (10.1 pp).
+The deconsolidation of our Venezuelan operations resulted in a year-over-year decrease in net revenues of $1,217 million.
+Unfavorable currency impacts were due primarily to the strength of the U.S. dollar relative to most currencies in the region, including the Argentinean peso and Mexican peso.
+Unfavorable volume / mix, which primarily occurred in Brazil and Argentina, was largely due to the impact of pricing-related elasticity as well as strategic decisions to exit certain low-margin product lines.
+Unfavorable volume / mix was driven by declines in all categories except for cheese & grocery.
+Higher net pricing was reflected across all categories driven primarily by Argentina, Brazil and Mexico.
+Segment operating income decreased $214 million (44.1%), primarily due to higher raw material costs, the deconsolidation of our Venezuelan operations, unfavorable volume / mix and unfavorable currency.
+These unfavorable items were partially offset by higher net pricing, lower other selling, general and administrative expenses (including higher year-over year VAT-related settlements), lower manufacturing costs, lower advertising and consumer promotion costs, lower costs incurred for the 2014-2018 Restructuring Program and the absence of remeasurement losses in 2016 related to our net monetary assets in Venezuela.
+2015 compared with 2014: Net revenues decreased $165 million (3.2%), due to unfavorable currency (21.0 pp), unfavorable volume / mix (5.1 pp) and the adjustment for deconsolidating our historical coffee business (0.1 pp), partially offset by higher net pricing (12.0 pp) and the favorable historical results of our Venezuelan subsidiaries prior to the December 31, 2015 deconsolidation (11.0 pp).
+Unfavorable currency impacts were due primarily to the strength of the U.S. dollar relative to most currencies in the region, including the Brazilian real, Mexican peso and Argentinean peso.
+Unfavorable volume / mix was largely due to the impact of pricing-related elasticity as well as strategic decisions to exit certain low-margin product lines.
+Unfavorable volume / mix was driven by declines in chocolate, refreshment beverages and cheese & grocery, partially offset by gains in biscuits, gum & candy.
+The adjustment for deconsolidating our historical coffee business resulted in a year-over-year decrease in net revenues of $5 million.
+Higher net pricing was reflected across all categories.
+Both the unfavorable volume / mix and higher net pricing were driven primarily by Brazil and Argentina.
+Segment operating income increased $10 million (2.1%), primarily due to higher net pricing, higher remeasurement losses in 2014 related to our net monetary assets in Venezuela, the favorable historical results of our Venezuelan subsidiaries prior to the December 31, 2015 deconsolidation, lower manufacturing costs and the absence of 2012-2014 Restructuring Program costs.
+These favorable items were partially offset by higher raw material costs, unfavorable currency, higher advertising and consumer promotion costs, higher other selling, general and administrative expenses (including lower year-over-year VAT-related settlements), unfavorable volume / mix, higher costs incurred for the 2014-2018 Restructuring Program and an intangible asset impairment charge in 2015 related to a biscuit trademark.
+39 Table of Contents AMEA 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ For the Years EndedDecember 31, 2016 2015 $ change % change (in millions) Net revenues $ 5,816 $ 6,002 $ (186 ) (3.1)% Segment operating income 506 389 117 30.1% For the Years EndedDecember 31, 2015 2014 $ change % change (in millions) Net revenues $ 6,002 $ 6,367 $ (365 ) (5.7)% Segment operating income 389 530 (141 ) (26.6)% 2016 compared with 2015: Net revenues decreased $186 million (3.1%), due to unfavorable currency (3.7 pp), the adjustment for deconsolidating our historical coffee business (1.1 pp) and unfavorable volume / mix (1.0 pp), partially offset by higher net pricing (1.5 pp) and the impact of an acquisition (1.2 pp).
+Unfavorable currency impacts were due primarily to the strength of the U.S. dollar relative to most currencies in the region, including the Chinese yuan, Indian rupee, South African rand, Egyptian pound, Nigerian naira, Australian dollar and Philippine peso, partially offset by the strength of the Japanese yen relative to the U.S. dollar.
+The adjustment for deconsolidating our historical coffee business resulted in a year-over-year decrease in net revenues of $66 million.
+Unfavorable volume / mix, including the unfavorable impact of strategic decisions to exit certain low-margin product lines, was driven by declines in candy, cheese & grocery, refreshment beverages and chocolate, partially offset by gains in biscuits and gum.
+Higher net pricing was driven by chocolate, candy, biscuits and refreshment beverages, partially offset by lower net pricing in cheese & grocery and gum.
+The acquisition of a biscuit operation in Vietnam in July 2015 added net revenues of $71 million (constant currency basis).
+Segment operating income increased $117 million (30.1%), primarily due to lower manufacturing costs, higher net pricing, lower other selling, general and administrative expenses, lower costs incurred for the 2014-2018 Restructuring Program, the absence of costs associated with the coffee business transactions, the impact of the Vietnam acquisition and lower advertising and consumer promotion costs.
+These favorable items were partially offset by higher raw material costs, the reclassification of equity method investment earnings, unfavorable volume / mix, unfavorable currency, the deconsolidation of our historical coffee business, and the impact of divestitures.
+2015 compared with 2014: Net revenues decreased $365 million (5.7%), due to unfavorable currency (8.8 pp), unfavorable volume / mix (2.5 pp) and the adjustment for deconsolidating our historical coffee business (0.6 pp), partially offset by higher net pricing (4.2 pp) and the impact of an acquisition (2.0 pp).
+Unfavorable currency impacts were due primarily to the strength of the U.S. dollar relative to most currencies in the region, including the Australian dollar, South African rand, Indian rupee, Japanese yen, Nigerian naira, Chinese yuan and Egyptian pound.
+Unfavorable volume / mix was due largely to the impact of pricing-related elasticity as well as strategic decisions to exit certain low-margin product lines.
+Unfavorable volume / mix was driven by declines in all categories except biscuits and gum.
+The adjustment for deconsolidating our historical coffee business resulted in a year-over-year decrease in net revenues of $49 million.
+Higher net pricing was reflected across all categories.
+The acquisition of a biscuit operation in Vietnam in July 2015 added net revenues of $128 million (constant currency basis).
+Segment operating income decreased $141 million (26.6%), primarily due to higher raw material costs, higher costs incurred for the 2014-2018 Restructuring Program, higher advertising and consumer promotion costs, unfavorable currency, higher other selling, general and administrative expenses (including a phase-out of a local tax incentive program), the reclassification of equity method investment earnings, unfavorable volume / mix, the adjustment for deconsolidating our historical coffee business, costs associated with the coffee business transactions and higher other acquisition-related integration costs.
+These unfavorable items were partially offset by higher net pricing, lower manufacturing costs, the absence of 2012-2014 Restructuring Program costs, the impact of the Vietnam acquisition and lower intangible asset impairment charges (related to candy and biscuit trademarks in 2015 and a biscuit trademark in 2014).
+40 Table of Contents Europe 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ For the Years EndedDecember 31, 2016 2015 $ change % change (in millions) Net revenues $ 9,755 $ 11,672 $ (1,917 ) (16.4)% Segment operating income 1,267 1,350 (83 ) (6.1)% For the Years EndedDecember 31, 2015 2014 $ change % change (in millions) Net revenues $ 11,672 $ 15,788 $ (4,116 ) (26.1)% Segment operating income 1,350 1,952 (602 ) (30.8)% 2016 compared with 2015: Net revenues decreased $1,917 million (16.4%), due to the adjustment for deconsolidating our historical coffee business (12.9 pp), unfavorable currency (4.3 pp) and lower net pricing (0.4 pp), partially offset by favorable volume / mix (1.1 pp) and the impact of an acquisition (0.1 pp).
+The adjustment for deconsolidating our historical coffee business resulted in a year-over-year decrease in net revenues of $1,561 million.
+Unfavorable currency impacts reflected the strength of the U.S. dollar against most currencies in the region, primarily the British pound sterling.
+Lower net pricing was reflected across most categories except gum and refreshment beverages.
+Favorable volume / mix, including the unfavorable impact of strategic decisions to exit certain low-margin product lines, was driven by biscuits, chocolate and cheese & grocery, partially offset by declines in gum, refreshment beverages and candy.
+The purchase of the license to manufacture, market and sell Cadbury-branded biscuits in November 2016 added net revenues of $16 million (constant currency basis).
+Segment operating income decreased $83 million (6.1%), primarily due to the deconsolidation of our historical coffee business, unfavorable currency, higher raw material costs, divestiture-related costs, higher costs incurred for the 2014-2018 Restructuring Program, lower net pricing and higher intangible asset impairment charges.
+These unfavorable items were partially offset by the absence of costs associated with the JDE coffee business transactions, lower manufacturing costs, lower other selling, general and administrative expenses and favorable volume / mix.
+2015 compared with 2014: Net revenues decreased $4,116 million (26.1%), due to unfavorable currency (16.2 pp), the adjustment for deconsolidating our historical coffee business (9.4 pp) and unfavorable volume / mix (3.3 pp), partially offset by higher net pricing (2.8 pp).
+Unfavorable currency impacts primarily reflected the strength of the U.S. dollar against most currencies in the region, including the euro and British pound sterling.
+The adjustment for deconsolidating our historical coffee business resulted in a year-over-year decrease in net revenues of $2,095 million.
+Unfavorable volume / mix was largely due to the impact of pricing-related elasticity as well as strategic decisions to exit certain low-margin product lines.
+Unfavorable volume / mix was driven by declines in chocolate, gum, refreshment beverages and cheese & grocery, partially offset by gains in biscuits.
+Higher net pricing was driven by chocolate, gum and candy, partially offset by lower net pricing in cheese & grocery and refreshment beverages.
+Segment operating income decreased $602 million (30.8%), primarily due to the adjustment for deconsolidating our historical coffee business, unfavorable currency, higher raw material costs, higher costs incurred for the 2014-2018 Restructuring Program, costs associated with the coffee business transactions, unfavorable volume / mix, higher advertising and consumer promotion costs and higher intangible asset impairment charges related to a candy trademark.
+These unfavorable items were partially offset by higher net pricing, the lower manufacturing costs, absence of 2012-2014 Restructuring Program costs and lower other selling, general and administrative expenses (net of the unfavorable year-over-year impact from the 2014 gain on a sale of property in the United Kingdom).
+41 Table of Contents North America 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ For the Years EndedDecember 31, 2016 2015 $ change % change (in millions) Net revenues $ 6,960 $ 6,974 $ (14 ) (0.2)% Segment operating income 1,078 1,105 (27 ) (2.4)% For the Years EndedDecember 31, 2015 2014 $ change % change (in millions) Net revenues $ 6,974 $ 6,936 $ 38 0.5% Segment operating income 1,105 922 183 19.8% 2016 compared with 2015: Net revenues decreased $14 million (0.2%), due to the impact of an accounting calendar change made in the prior year (1.1 pp), unfavorable currency (0.3 pp) and lower net pricing (0.2 pp), partially offset by favorable volume/mix (1.4 pp).
+The prior-year change in North America’s accounting calendar resulted in a year-over-year decrease in net revenues of $76 million.
+Unfavorable currency impact was due to the strength of the U.S. dollar relative to the Canadian dollar.
+Lower net pricing was reflected in biscuits, partially offset by higher net pricing in chocolate, gum and candy.
+Favorable volume / mix, including the unfavorable impact of strategic decisions to exit certain low-margin product lines, was driven by gains in biscuits and candy, partially offset by declines in gum and chocolate.
+Segment operating income decreased $27 million (2.4%), primarily due to higher costs incurred for the 2014-2018 Restructuring Program, higher advertising and consumer promotion costs, intangible asset impairment charges, the year-over-year impact of the prior-year accounting calendar change, higher raw material costs and lower net pricing.
+These unfavorable items were mostly offset by lower other selling, general and administrative expenses (including the gain on sale of property), lower manufacturing costs, favorable volume/mix and the gain on the sale of an intangible asset.
+2015 compared with 2014: Net revenues increased $38 million (0.5%), due to an accounting calendar change (1.2 pp), an acquisition (0.5 pp), favorable volume / mix (0.5 pp) and higher net pricing (0.3 pp), partially offset by unfavorable currency (2.0 pp).
+The change in North America’s accounting calendar added net revenues of $78 million (constant currency basis).
+The acquisition of the Enjoy Life Foods snack food business in February 2015 added net revenues of $37 million.
+Favorable volume / mix was driven by gains in biscuits and candy, partially offset by declines in gum and chocolate.
+Higher net pricing was reflected in gum and chocolate, partially offset by lower net pricing in biscuits and candy.
+Unfavorable currency impact was due to the strength of the U.S. dollar relative to the Canadian dollar.
+Segment operating income increased $183 million (19.8%), primarily due to the absence of 2012-2014 Restructuring Program costs, lower manufacturing costs, lower other selling, general and administrative expenses (including the reclassification of corporate stock-based compensation), the impact of an accounting calendar change, higher net pricing and lower raw material costs.
+These favorable items were partially offset by higher costs incurred for the 2014-2018 Restructuring Program, unfavorable currency, higher advertising and consumer promotion costs, unfavorable volume / mix and the reclassification of equity method investment earnings.
+42 Table of Contents Critical Accounting Estimates We prepare our consolidated financial statements in conformity with U.S. GAAP.
+The preparation of these financial statements requires the use of estimates, judgments and assumptions that affect the reported amounts of assets and liabilities at the date of the financial statements and reported amounts of revenues and expenses during the periods presented.
+Actual results could differ from those estimates and assumptions.
+Note 1, Summary of Significant Accounting Policies, to the consolidated financial statements includes a summary of the significant accounting policies we used to prepare our consolidated financial statements.
+We have discussed the selection and disclosure of our critical accounting policies and estimates with our Audit Committee.
+The following is a review of our most significant assumptions and estimates.
+Goodwill and Non-Amortizable Intangible Assets: We test goodwill and non-amortizable intangible assets for impairment on an annual basis on October 1.
+We assess goodwill impairment risk throughout the year by performing a qualitative review of entity-specific, industry, market and general economic factors affecting our goodwill reporting units.
+We review our operating segment and reporting unit structure for goodwill testing annually or as significant changes in the organization occur.
+Annually, we may perform qualitative testing, or depending on factors such as prior-year test results, current year developments, current risk evaluations and other practical considerations, we may elect to do quantitative testing instead.
+Quantitative impairment testing consists of a two-step evaluation.
+The first step compares a reporting unit’s estimated fair value with its carrying value.
+We estimate a reporting unit’s fair value using a discounted cash flow method which incorporates planned growth rates, market-based discount rates and estimates of residual value.
+This year, for our Europe and North America reporting units, we used a market-based, weighted-average cost of capital of 6.7% to discount the projected cash flows of those operations.
+For our Latin America and AMEA reporting units, we used a risk-rated discount rate of 9.7%.
+Estimating the fair value of individual reporting units requires us to make assumptions and estimates regarding our future plans and industry and economic conditions, and our actual results and conditions may differ over time.
+If the carrying value of a reporting unit’s net assets exceeds its fair value, we would apply a second step to measure the difference between the carrying value and implied fair value of goodwill.
+If the carrying value of goodwill exceeds its implied fair value, the goodwill is impaired and its carrying value is reduced to the implied fair value of the goodwill.
+On October 1, 2016, we integrated our EEMEA operating segment into our Europe and Asia Pacific operating segments.
+As a result, EEMEA goodwill of $1.3 billion was reallocated to new reporting units based on the relative fair value of the EEMEA component businesses that moved to the Europe and Asia Pacific segments.
+Goodwill by segment as of December 31, 2016 reflects the results of the reallocation and the December 31, 2015 goodwill by segment information was recast to reflect the October 1, 2016 reallocation of goodwill.
+On July 2, 2015, we deconsolidated our global coffee businesses from our Europe and AMEA segments.
+Goodwill was deconsolidated from the impacted reporting units based on relative fair values of the coffee and remaining businesses.
+Intangible assets contributed with the coffee business transactions were specifically identified.
+We deconsolidated total goodwill of $1,664 million and intangible assets of less than $1 million during the third quarter of 2015.
+Refer to Note 2, Divestitures and Acquisitions – JDE Coffee Business Transactions, for more information.
+In 2016, 2015 and 2014, there were no impairments of goodwill.
+In connection with our 2016 annual impairment testing, each of our reporting units had sufficient fair value in excess of carrying value.
+While all reporting units passed our annual impairment testing, if planned business performance expectations are not met or specific valuation factors outside of our control, such as discount rates, change significantly, then the estimated fair values of a reporting unit or reporting units might decline and lead to a goodwill impairment in the future.
+Annually, we assess non-amortizable intangible assets for impairment by performing a qualitative review and assessing events and circumstances that could affect the fair value or carrying value of the indefinite-lived intangible assets.
+If significant potential impairment risk exists for a specific asset, we quantitatively test it for impairment by comparing its estimated fair value with its carrying value.
+We determine estimated fair value using planned growth rates, market-based discount rates and estimates of royalty rates.
+If the carrying value of the asset exceeds its estimated fair value, the asset is impaired and its carrying value is reduced to the estimated fair value.
+43 Table of Contents During our 2016 annual testing of non-amortizable intangible assets, we recorded $98 million of impairment charges related to five trademarks.
+The impairments arose due to lower than expected product growth in part driven by decisions to redirect support from these trademarks to other regional and global brands, as well as slowdowns in local economies.
+We recorded charges related to biscuits, candy and gum trademarks of $41 million in AMEA, $32 million in North America, $22 million in Europe, and $3 million in Latin America.
+The impairment charges were calculated as the excess of the carrying value over the estimated fair value of the intangible assets on a global basis and were recorded within asset impairment and exit costs.
+We primarily use a relief of royalty valuation method, which utilizes estimates of future sales, growth rates, royalty rates and discount rates in determining a brand’s global fair value.
+During our 2016 intangible asset impairment review, we noted nine brands, including the five impaired trademarks, with $630 million of aggregate book value as of December 31, 2016 that each had a fair value in excess of book value of 10% or less.
+While these other four intangible assets passed our annual impairment testing and we believe our current plans for each of these brands will allow them to continue to not be impaired, if planned business performance expectations are not met or specific valuation factors outside of our control, such as discount rates, change significantly, then a brand or brands could become impaired in the future.
+In 2015, we recorded a charge related to candy and biscuit trademarks of $44 million in our AMEA segment, $22 million in Europe and $5 million in Latin America.
+Additionally, in connection with the deconsolidation of our Venezuelan operations on December 31, 2015, we recorded $12 million of impairment charges within the loss on deconsolidation of Venezuela related to a biscuit trademark.
+In 2014, we recorded a $48 million charge related to a biscuit trademark in our AMEA segment and a $9 million charge related to a candy trademark in our Europe segment.
+Refer to Note 5, Goodwill and Intangible Assets, for additional information.
+Trade and marketing programs: We promote our products with advertising, marketing, sales incentives and trade promotions.
+These programs include, but are not limited to, cooperative advertising, in-store displays, consumer promotions, new product introduction fees, discounts, coupons, rebates and volume-based incentives.
+We expense advertising costs either in the period the advertising first takes place or as incurred.
+Sales incentive and trade promotion activities are recorded as a reduction to revenues based on amounts estimated due to customers and consumers at the end of a period.
+We base these estimates principally on historical utilization and redemption rates.
+For interim reporting purposes, advertising expenses and sales incentives are charged to operations as a percentage of volume, based on estimated volume and estimated program spending.
+We do not defer costs on our year-end consolidated balance sheet and all marketing costs are recorded as an expense in the year incurred.
+Employee Benefit Plans: We sponsor various employee benefit plans throughout the world.
+These include primarily pension plans and postretirement healthcare benefits.
+For accounting purposes, we estimate the pension and post-retirement healthcare benefit obligations utilizing assumptions and estimates for discount rates; expected returns on plan assets; expected compensation increases; employee-related factors such as turnover, retirement age and mortality; and health care cost trends.
+We review our actuarial assumptions on an annual basis and make modifications to the assumptions based on current rates and trends when appropriate.
+Our assumptions also reflect our historical experiences and management’s best judgment regarding future expectations.
+These and other assumptions affect the annual expense and obligations recognized for the underlying plans.
+As permitted by U.S. GAAP, we generally amortize the effect of changes in the assumptions over future periods.
+The cost or benefit of plan changes, such as increasing or decreasing benefits for prior employee service (prior service cost), is deferred and included in expense on a straight-line basis over the average remaining service period of the employees expected to receive benefits.
+Since pension and post-retirement liabilities are measured on a discounted basis, the discount rate significantly affects our plan obligations and expenses.
+The expected return on plan assets assumption affects our pension plan expenses, as many of our pension plans are partially funded.
+The assumptions for discount rates and expected rates of return and our process for setting these assumptions are described in Note 9, Benefit Plans, to the consolidated financial statements.
+44 Table of Contents While we do not anticipate further changes in the 2017 assumptions for our U.S. and non-U.S. pension and postretirement health care plans, as a sensitivity measure, a fifty-basis point change in our discount rates or the expected rate of return on plan assets would have the following effects, increase / (decrease), on our annual benefit plan costs: 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ As of December 31, 2016 U.S. Plans Non-U.S. Plans Fifty-Basis-Point Fifty-Basis-Point Increase Decrease Increase Decrease (in millions) Effect of change in discount rate on pension costs $ (14 ) $ 16 $ (63 ) $ 67 Effect of change in expected rate of return on plan assets on pension costs (7 ) 7 (39 ) 39 Effect of change in discount rate on postretirement health care costs (4 ) 4 (1 ) 1 Income Taxes: As a global company, we calculate and provide for income taxes in each tax jurisdiction in which we operate.
+The provision for income taxes includes the amounts payable or refundable for the current year, the effect of deferred taxes and impacts from uncertain tax positions.
+Our provision for income taxes is significantly affected by shifts in the geographic mix of our pre-tax earnings across tax jurisdictions, changes in tax laws and regulations, tax planning opportunities available in each tax jurisdiction and the ultimate outcome of various tax audits.
+Deferred tax assets and liabilities are recognized for the expected future tax consequences of temporary differences between the financial statement and tax bases of our assets and liabilities and for operating losses and tax credit carryforwards.
+Deferred tax assets and liabilities are measured using enacted tax rates that will apply to taxable income in the years in which those differences are expected to be recovered or settled.
+Valuation allowances are established for deferred tax assets when it is more likely than not that a tax benefit will not be realized.
+We believe our tax positions comply with applicable tax laws and that we have properly accounted for uncertain tax positions.
+We recognize tax benefits in our financial statements from uncertain tax positions only if it is more likely than not that the tax position will be sustained on examination by tax authorities based on the technical merits of the position.
+The amount we recognize is measured as the largest benefit that has a greater than 50 percent likelihood of being realized upon settlement.
+We evaluate uncertain tax positions on an ongoing basis and adjust the amount recognized in light of changing facts and circumstances, such as the progress of a tax audit or expiration of a statute of limitations.
+We believe the estimates and assumptions used to support our evaluation of uncertain tax positions are reasonable.
+However, final determination of historical tax liabilities, either by settlement with tax authorities or due to expiration of statutes of limitations, could be materially different from estimates reflected on our consolidated balance sheet and historical income tax provisions.
+The outcome of these final determinations could have a material effect on our provision for income taxes, net earnings or cash flows in the period in which the determination is made.
+No taxes have been provided on undistributed foreign earnings that are planned to be indefinitely reinvested.
+If future events, such as material changes in long-term investment requirements, necessitate that these earnings be distributed, an additional provision for taxes may apply, which could materially affect our provision for income taxes, net earnings or cash flows.
+See Note 14, Income Taxes, for additional information on our effective tax rate, current and deferred taxes, valuation allowances and unrecognized tax benefits.
+Contingencies: See Note 12, Commitments and Contingencies, to the consolidated financial statements.
+New Accounting Guidance: See Note 1, Summary of Significant Accounting Policies, to the consolidated financial statements for a discussion of new accounting standards.
+45 Table of Contents Liquidity and Capital Resources We believe that cash from operations, our $4.5 billion revolving credit facility and our authorized long-term financing will provide sufficient liquidity for our working capital needs, planned capital expenditures, future contractual obligations, share repurchases and payment of our anticipated quarterly dividends.
+We continue to utilize our commercial paper program, international credit lines and long-term debt issuances for regular funding requirements.
+We also use intercompany loans with our international subsidiaries to improve financial flexibility.
+Earnings outside of the United States are considered indefinitely reinvested and no material tax liability has been accrued as of December 31, 2016.
+Overall, we do not expect any negative effects to our funding sources that would have a material effect on our liquidity, including the indefinite reinvestment of our earnings outside of the United States.
+Net Cash Provided by Operating Activities: Operating activities provided net cash of $2,838 million in 2016, $3,728 million in 2015 and $3,562 million in 2014.
+Cash flows from operating activities were lower in 2016 than 2015 due to higher contributions to our pension benefit plans in 2016 and higher working capital cash improvements in 2015 than in 2016.
+Cash flows from operating activities in all years were favorably impacted by working capital improvements, primarily due to continually decreasing our cash conversion cycle (a metric that measures working capital efficiency and utilizes days sales outstanding, days inventory on hand and days payables outstanding) to negative 28 days in 2016, negative 12 days in 2015 and positive 10 days in 2014.
+Cash flows from operating activities were favorable in 2015 relative to 2014 primarily due to higher relative working capital cash improvements than in 2014 and significant tax payments in 2014 related to the $2.6 billion Starbucks arbitration award we received in late 2013, partially offset by higher contributions to our pension benefit plans in 2015.
+Net Cash Provided by / (Used in) Investing Activities: Net cash used in investing activities was $1,029 million in 2016, net cash provided by investing activities was $2,649 million in 2015 and net cash used in investing activities was $1,642 million in 2014.
+The increase in net cash used in investing activities in 2016 relative to 2015 and the increase in net cash provided by investing activities in 2015 relative to 2014 primarily relate to $4.7 billion of proceeds, net of divested cash and transaction costs, from the contribution of our global coffee businesses, the divestiture of AGF and the cash receipt of $1.0 billion due to the settlement of currency exchange forward contracts related to our coffee business transactions in 2015.
+The increase in net cash used in investing activities in 2016 relative to 2015 is partially offset by lower capital expenditures in 2016 of $290 million.
+The increase in net cash provided by investing activities in 2015 relative to 2014 is also driven by lower capital expenditures in 2015 of $128 million, partially offset by the $611 million reduction of cash due to the Venezuela deconsolidation, $501 million of contributed JDE receivables and a $43 million cash payment to fund a capital increase in JDE and $527 million of payments to acquire a biscuit operation in Vietnam and the Enjoy Life Foods snack food business in 2015.
+Capital expenditures were $1,224 million in 2016, $1,514 million in 2015 and $1,642 million in 2014.
+We continue to make capital expenditures primarily to modernize manufacturing facilities and support new product and productivity initiatives.
+We expect 2017 capital expenditures to be up to $1.2 billion, including capital expenditures in connection with our 2014-2018 Restructuring Program.
+We expect to continue to fund these expenditures from operations.
+Net Cash Used in Financing Activities: Net cash used in financing activities was $1,862 million in 2016, $5,883 million in 2015 and $2,688 million in 2014.
+The decrease in net cash used in financing activities in 2016 relative to 2015 was primarily due to higher net short-term debt issuances and $1.0 billion of lower share repurchases following the exceptional year of share repurchases using proceeds from the global coffee business transactions in 2015.
+The increase in net cash used in financing activities in 2015 relative to 2014 was primarily due to higher repayments of long-term debt in 2015 (including the tender offers and euro notes maturities), $1.9 billion of higher share repurchases and higher net short-term debt repayments, partially offset by higher proceeds received from long-term note issuances.
+Debt: From time to time we refinance long-term and short-term debt.
+Refer to Note 7, Debt and Borrowing Arrangements, for details of our tender offers, debt issuances and maturities during 2016, 2015 and 2014.
+The nature and amount of our long-term and short-term debt and the proportionate amount of each varies as a result of current and expected business requirements, market conditions and other factors.
+Due to seasonality, in the first and second quarters of the year, our working capital requirements grow, increasing the need for short-term financing.
+The third and fourth quarters of the year typically generate higher cash flows.
+As such, we may issue commercial paper or secure other forms of financing throughout the year to meet short-term working capital needs.
+46 Table of Contents During 2016, one of our subsidiaries, Mondelez International Holdings Netherlands B.V. (“MIHN”), issued debt totaling $4.5 billion.
+The operations held by MIHN generated approximately 74.1 percent (or $19.2 billion) of the $25.9 billion of consolidated net revenue during fiscal year 2016 and represented approximately 81.7 percent (or $20.6 billion) of the $25.2 billion of net assets as of December 31, 2016.
+On February 3, 2017, our Board of Directors approved a new $5 billion long-term financing authority to replace the prior authority.
+In the next 12 months, we expect $1.4 billion of long-term debt will mature as follows: €750 million ($789 million as of December 31, 2016) in January 2017, fr.175 million Swiss franc notes ($172 million as of December 31, 2016) in March 2017 and $488 million in August 2017.
+We expect to fund these repayments with a combination of cash from operations and the issuance of commercial paper or long-term debt.
+Our total debt was $17.2 billion at December 31, 2016 and $15.4 billion at December 31, 2015.
+Our debt-to-capitalization ratio was 0.41 at December 31, 2016 and 0.35 at December 31, 2015.
+At December 31, 2016, the weighted-average term of our outstanding long-term debt was 6.6 years.
+Our average daily commercial borrowings were $2.2 billion in 2016, $2.2 billion in 2015 and $1.9 billion in 2014.
+We had $2.4 billion of commercial paper borrowings outstanding at December 31, 2016 and none outstanding as of December 31, 2015, as commercial paper interest rates continued to be favorable in late 2016 and we had a bond maturity refinanced with commercial paper in December 2016.
+We expect to continue to use commercial paper borrowings to finance various short or long-term financing needs.
+We expect to continue to use commercial paper to finance various short and long-term financing needs and to comply with our long-term debt covenants.
+Refer to Note 7, Debt and Borrowing Arrangements, for more information on our debt and debt covenants.
+Commodity Trends We regularly monitor worldwide supply, commodity cost and currency trends so we can cost-effectively secure ingredients, packaging and fuel required for production.
+During 2016, the primary drivers of the increase in our aggregate commodity costs were higher currency-related costs on our commodity purchases and increased costs for packaging and other raw materials, partially offset by lower costs for nuts, dairy, energy, sugar, grains and oils and cocoa.
+A number of external factors such as weather conditions, commodity market conditions, currency fluctuations and the effects of governmental agricultural or other programs affect the cost and availability of raw materials and agricultural materials used in our products.
+We address higher commodity costs and currency impacts primarily through hedging, higher pricing and manufacturing and overhead cost control.
+We use hedging techniques to limit the impact of fluctuations in the cost of our principal raw materials; however, we may not be able to fully hedge against commodity cost changes, and our hedging strategies may not protect us from increases in specific raw material costs.
+Due to competitive or market conditions, planned trade or promotional incentives, fluctuations in currency exchange rates or other factors, our pricing actions may also lag commodity cost changes temporarily.
+We expect price volatility and a slightly higher aggregate cost environment to continue in 2017.
+While the costs of our principal raw materials fluctuate, we believe there will continue to be an adequate supply of the raw materials we use and that they will generally remain available from numerous sources.
+47 Table of Contents Off-Balance Sheet Arrangements and Aggregate Contractual Obligations We have no significant off-balance sheet arrangements other than the contractual obligations discussed below.
+Guarantees: As discussed in Note 12, Commitments and Contingencies, we enter into third-party guarantees primarily to cover the long-term obligations of our vendors.
+As part of these transactions, we guarantee that third parties will make contractual payments or achieve performance measures.
+At December 31, 2016, we had no material third-party guarantees recorded on our consolidated balance sheet.
+In addition, at December 31, 2016, we were contingently liable for $758 million of guarantees related to our own performance.
+These include letters of credit, surety bonds and guarantees related to the payment of custom duties and taxes.
+Guarantees do not have, and we do not expect them to have, a material effect on our liquidity.
+Aggregate Contractual Obligations: The following table summarizes our contractual obligations at December 31, 2016.
+Payments Due Total 2017 2018-19 2020-21 2022 andThereafter (in millions) Debt (1) $ 14,732 $ 1,451 $ 3,792 $ 3,916 $ 5,573 Interest expense (2) 3,650 388 656 483 2,123 Capital leases 5 – 2 2 1 Operating leases (3) 921 241 318 205 157 Purchase obligations: (4) Inventory and production costs 5,404 2,123 2,526 336 419 Other 713 628 75 9 1 6,117 2,751 2,601 345 420 Other long-term liabilities (5) 409 21 137 102 149 Total $ 25,834 $ 4,852 $ 7,506 $ 5,053 $ 8,423 (1) Amounts include the expected cash payments of our debt excluding capital leases, which are presented separately in the table above.
+The amounts also exclude $69 million of net unamortized non-cash bond premiums and discounts and mark-to-market adjustments related to our interest rate swaps recorded in total debt.
+(2) Amounts represent the expected cash payments of our interest expense on our long-term debt.
+Interest calculated on our euro, British pound sterling and Swiss franc notes was forecasted using currency exchange rates as of December 31, 2016.
+An insignificant amount of interest expense was excluded from the table for a portion of our other non-U.S. debt obligations due to the complexities involved in forecasting expected interest payments.
+(3) Operating lease payments represent the minimum rental commitments under non-cancelable operating leases.
+(4) Purchase obligations for inventory and production costs (such as raw materials, indirect materials and supplies, packaging, co-manufacturing arrangements, storage and distribution) are commitments for projected needs to be utilized in the normal course of business.
+Other purchase obligations include commitments for marketing, advertising, capital expenditures, information technology and professional services.
+Arrangements are considered purchase obligations if a contract specifies all significant terms, including fixed or minimum quantities to be purchased, a pricing structure and approximate timing of the transaction.
+Most arrangements are cancelable without a significant penalty and with short notice (usually 30 days).
+Any amounts reflected on the consolidated balance sheet as accounts payable and accrued liabilities are excluded from the table above.
+(5) Other long-term liabilities include estimated future benefit payments for our postretirement health care plans through December 31, 2026 of $195 million.
+We are unable to reliably estimate the timing of the payments beyond 2026; as such, they are excluded from the above table.
+There are also another $179 million of various other long-term liabilities that are expected to be paid over the next 5 years.
+In addition, the following long-term liabilities included on the consolidated balance sheet are excluded from the table above: accrued pension costs, income taxes, insurance accruals and other accruals.
+We are unable to reliably estimate the timing of the payments (or contributions beyond 2017, in the case of accrued pension costs) for these items.
+We currently expect to make approximately $468 million in contributions to our pension plans in 2017.
+As of December 31, 2016, our total liability for income taxes, including uncertain tax positions and associated accrued interest and penalties, was $899 million.
+We currently estimate payments of approximately $232 million related to these positions over the next 12 months.
+48 Table of Contents Equity and Dividends Stock Plans: See Note 10, Stock Plans, to the consolidated financial statements for more information on our stock plans and grant activity during 2016, 2015 and 2014.
+Share Repurchases: See Note 11, Capital Stock, to the consolidated financial statements for more information on our share repurchase and accelerated share repurchase programs.
+We intend to continue to use a portion of our cash for share repurchases.
+On July 29, 2015, our Finance Committee, with authorization delegated from our Board of Directors, approved an increase of $6.0 billion in the share repurchase program, raising the authorization to $13.7 billion of Common Stock repurchases, and extended the program through December 31, 2018.
+We repurchased $10.8 billion of shares ($2.6 billion in 2016, $3.6 billion in 2015, $1.9 billion in 2014 and $2.7 billion in 2013) through December 31, 2016.
+The number of shares that we ultimately repurchase under our share repurchase program may vary depending on numerous factors, including share price and other market conditions, our ongoing capital allocation planning, levels of cash and debt balances, other demands for cash, such as acquisition activity, general economic or business conditions and board and management discretion.
+Additionally, our share repurchase activity during any particular period may fluctuate.
+We may accelerate, suspend, delay or discontinue our share repurchase program at any time, without notice.
+Dividends: We paid dividends of $1,094 million in 2016, $1,008 million in 2015 and $964 million in 2014.
+On July 19, 2016, our Board of Directors approved a 12% increase in the quarterly dividend to $0.19 per common share or $0.76 per common share on an annual basis.
+On July 23, 2015, our Board of Directors approved a 13% increase at that time in the quarterly dividend to $0.17 per common share or $0.68 per common share on an annual basis.
+On August 5, 2014, our Audit Committee, with authorization from our Board of Directors, approved a 7% increase at that time in the quarterly dividend to $0.15 per common share or $0.60 per common share on an annual basis.
+The declaration of dividends is subject to the discretion of our Board of Directors and depends on various factors, including our net earnings, financial condition, cash requirements, future prospects and other factors that our Board of Directors deems relevant to its analysis and decision making.
+For U.S. income tax purposes only, the Company has calculated that 100% of the distributions paid to its shareholders in January 2016 are characterized as a qualified dividend paid from U.S. earnings and profits.
+The distributions the Company paid to its shareholders in April, July and October are characterized as a return of capital to each shareholder, up to the extent of the shareholder’s tax basis.
+If a shareholder does not have sufficient tax basis, these distributions could result in taxable gains to the shareholder.
+Shareholders should consult their tax advisors for a full understanding of all of the tax consequences of the receipt of dividends, including distributions in excess of our U.S. earnings and profits.
+49 Table of Contents Non-GAAP Financial Measures We use non-GAAP financial information and believe it is useful to investors as it provides additional information to facilitate comparisons of historical operating results, identify trends in our underlying operating results and provide additional insight and transparency on how we evaluate our business.
+We use non-GAAP financial measures to budget, make operating and strategic decisions and evaluate our performance.
+We have detailed the non-GAAP adjustments that we make in our non-GAAP definitions below.
+The adjustments generally fall within the following categories: acquisition & divestiture activities, gains and losses on intangible asset sales and non-cash impairments, major program restructuring activities, constant currency and related adjustments, major program financing and hedging activities and other major items affecting comparability of operating results.
+We believe the non-GAAP measures should always be considered along with the related U.S. GAAP financial measures.
+We have provided the reconciliations between the GAAP and non-GAAP financial measures below, and we also discuss our underlying GAAP results throughout our Management’s Discussion and Analysis of Financial Condition and Results of Operations in this Form 10-K. Our primary non-GAAP financial measures are listed below and reflect how we evaluate our current and prior-year operating results.
+As new events or circumstances arise, these definitions could change.
+When our definitions change, we provide the updated definitions and present the related non-GAAP historical results on a comparable basis.
+• “Organic Net Revenue” is defined as net revenues excluding the impacts of acquisitions, divestitures (1), our historical global coffee business (2), our historical Venezuelan operations, accounting calendar changes and currency rate fluctuations (3).
+We also evaluate Organic Net Revenue growth from emerging markets and our Power Brands.
+• Our emerging markets include our Latin America region in its entirety; the AMEA region, excluding Australia, New Zealand and Japan; and the following countries from the Europe region: Russia, Ukraine, Turkey, Kazakhstan, Belarus, Georgia, Poland, Czech Republic, Slovak Republic, Hungary, Bulgaria, Romania, the Baltics and the East Adriatic countries.
+• Our Power Brands include some of our largest global and regional brands such as Oreo, Chips Ahoy!, Ritz, TUC / Club Social and belVita biscuits; Cadbury Dairy Milk, Milka and Lacta chocolate; Trident gum; Hall’s candy; and Tang powdered beverages.
+• “Adjusted Operating Income” is defined as operating income excluding the impacts of Spin-Off Costs (4); the 2012-2014 Restructuring Program (5); the 2014-2018 Restructuring Program (5); Venezuela remeasurement and deconsolidation losses and historical operating results; gains or losses (including non-cash impairment charges) on goodwill and intangible assets; divestiture (1) or acquisition gains or losses and related integration and acquisition costs; the JDE coffee business transactions (2) gain and net incremental costs; the operating results of divestitures (1); our historical global coffee business operating results (2); mark-to-market impacts from commodity and forecasted currency transaction derivative contracts (6); and equity method investment earnings historically reported within operating income (7).
+We also present “Adjusted Operating Income margin,” which is subject to the same adjustments as Adjusted Operating Income.
+We also evaluate growth in our Adjusted Operating Income on a constant currency basis (3).
+• “Adjusted EPS” is defined as diluted EPS attributable to Mondelēz International from continuing operations excluding the impacts of Spin-Off Costs (4); the 2012-2014 Restructuring Program (5); the 2014-2018 Restructuring Program (5); Venezuela remeasurement and deconsolidation losses and historical operating results; losses on debt extinguishment and related expenses; gains or losses (including non-cash impairment charges) on goodwill and intangible assets; divestiture (1) or acquisition gains or losses and related integration and acquisition costs; the JDE coffee business transactions (2) gain, transaction hedging gains or losses and net incremental costs; gain on the equity method investment exchange; net earnings from divestitures (1); mark-to-market impacts from commodity and forecasted currency transaction derivative contracts (6); and gains or losses on interest rate swaps no longer designated as accounting cash flow hedges due to changed financing and hedging plans.
+Similarly, within Adjusted EPS, our equity method investment net earnings exclude our proportionate share of our investees’ unusual or infrequent items (8), such as acquisition and divestiture-related costs and restructuring program costs.
+We also evaluate growth in our Adjusted EPS on a constant currency basis (3).
+50 Table of Contents (1) Divestitures include completed sales of businesses and exits of major product lines upon completion of a sale or licensing agreement.
+(2) In connection with the JDE coffee business transactions that closed on July 2, 2015, because we exchanged our coffee interests for similarly-sized coffee interests in JDE at the time of the transaction, we have deconsolidated and not included our historical global coffee business results within divestitures in our non-GAAP financial measures and in the related Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+We continue to have an ongoing interest in the coffee business and as such, we include the earnings of JDE, Keurig and our historical coffee business within continuing results of operations.
+Within Adjusted EPS, we included these earnings with equity method investment earnings and deconsolidated our historical coffee business results from Organic Net Revenue and Adjusted Operating Income to facilitate comparisons of past and future coffee operating results.
+(3) Constant currency operating results are calculated by dividing or multiplying, as appropriate, the current-period local currency operating results by the currency exchange rates used to translate the financial statements in the comparable prior-year period to determine what the current-period U.S. dollar operating results would have been if the currency exchange rate had not changed from the comparable prior-year period.
+(4) Refer to Note 2, Divestitures and Acquisitions – Spin-Off of Kraft Foods Group, to the consolidated financial statements for more information on Spin-Off Costs incurred in connection with the October 1, 2012 spin-off of the Kraft Foods Group grocery business.
+(5) Non-GAAP adjustments related to the 2014-2018 Restructuring Program and the 2012-2014 Restructuring Program reflect costs incurred that relate to the objectives of our program to transform our supply chain network and organizational structure.
+Costs that do not meet the program objectives are not reflected in the non-GAAP adjustments.
+(6) During the third quarter of 2016, we began to exclude unrealized gains and losses (mark-to-market impacts) from outstanding commodity and forecasted currency transaction derivatives from our non-GAAP earnings measures until such time that the related exposures impact our operating results.
+Since we purchase commodity and forecasted currency transaction contracts to mitigate price volatility primarily for inventory requirements in future periods, we made this adjustment to remove the volatility of these future inventory purchases on current operating results to facilitate comparisons of our underlying operating performance across periods.
+We also discontinued designating commodity and forecasted currency transaction derivatives for hedge accounting treatment.
+To facilitate comparisons of our underlying operating results, we have recast all historical non-GAAP earnings measures to exclude the mark-to-market impacts.
+(7) Historically, we have recorded income from equity method investments within our operating income as these investments operated as extensions of our base business.
+Beginning in the third quarter of 2015, we began to record the earnings from our equity method investments in after-tax equity method investment earnings outside of operating income following the deconsolidation of our coffee business.
+See Note 1, Summary of Significant Accounting Policies – Principles of Consolidation, for more information.
+In periods prior to July 2, 2015, we have reclassified the equity method earnings from our Adjusted Operating Income to after-tax equity method investment earnings within Adjusted EPS to be consistent with the deconsolidation of our coffee business results on July 2, 2015 and in order to evaluate our operating results on a consistent basis.
+(8) We have excluded our proportionate share of our equity method investees’ unusual or infrequent items in order to provide investors with a comparable view of our performance across periods.
+Although we have shareholder rights and board representation commensurate with our ownership interests in our equity method investees and review the underlying operating results and unusual or infrequent items with them each reporting period, we do not have direct control over their operations or resulting revenue and expenses.
+Our use of equity method investment net earnings on an adjusted basis is not intended to imply that we have any such control.
+Our GAAP “diluted EPS attributable to Mondelēz International from continuing operations” includes all of the investees’ unusual and infrequent items.
+We believe that the presentation of these non-GAAP financial measures, when considered together with our U.S. GAAP financial measures and the reconciliations to the corresponding U.S. GAAP financial measures, provides you with a more complete understanding of the factors and trends affecting our business than could be obtained absent these disclosures.
+Because non-GAAP financial measures vary among companies, the non-GAAP financial measures presented in this report may not be comparable to similarly titled measures used by other companies.
+Our use of these non-GAAP financial measures is not meant to be considered in isolation or as a substitute for any U.S. GAAP financial measure.
+A limitation of these non-GAAP financial measures is they exclude items detailed below that have an impact on our U.S. GAAP reported results.
+The best way this limitation can be addressed is by evaluating our non-GAAP financial measures in combination with our U.S. GAAP reported results and carefully evaluating the following tables that reconcile U.S. GAAP reported figures to the non-GAAP financial measures in this Form 10-K. 51 Table of Contents Organic Net Revenue: Applying the definition of “Organic Net Revenue”, the adjustments made to “net revenues” (the most comparable U.S. GAAP financial measure) were to exclude the impact of currency, our historical Venezuelan operations, the adjustment for deconsolidating our historical coffee business, an accounting calendar change, acquisitions and divestiture.
+We believe that Organic Net Revenue reflects the underlying growth from the ongoing activities of our business and provides improved comparability of results.
+We also evaluate our Organic Net Revenue growth from emerging markets and Power Brands, and these underlying measures are also reconciled to U.S. GAAP below.
+For the Year Ended December 31, 2016 For the Year Ended December 31, 2015 EmergingMarkets DevelopedMarkets Total EmergingMarkets DevelopedMarkets Total (in millions) (in millions) Net Revenue $ 9,370 $ 16,553 $ 25,923 $ 11,585 $ 18,051 $ 29,636 Impact of currency 896 348 1,244 – – – Historical Venezuelan operations (1) – – – (1,217 ) – (1,217 ) Historical coffee business (2) – – – (442 ) (1,185 ) (1,627 ) Impact of accountingcalendar change – – – – (76 ) (76 ) Impact of acquisitions (71 ) (21 ) (92 ) – – – Impact of divestiture (8 ) – (8 ) (9 ) – (9 ) Organic Net Revenue $ 10,187 $ 16,880 $ 27,067 $ 9,917 $ 16,790 $ 26,707 For the Year Ended December 31, 2016 For the Year Ended December 31, 2015 (3) PowerBrands Non-PowerBrands Total PowerBrands Non-PowerBrands Total (in millions) (in millions) Net Revenue $ 17,951 $ 7,972 $ 25,923 $ 20,350 $ 9,286 $ 29,636 Impact of currency 844 400 1,244 – – – Historical Venezuelan operations (1) – – – (823 ) (394 ) (1,217 ) Historical coffee business (2) – – – (1,179 ) (448 ) (1,627 ) Impact of accountingcalendar change – – – (59 ) (17 ) (76 ) Impact of acquisitions – (92 ) (92 ) – – – Impact of divestiture – (8 ) (8 ) – (9 ) (9 ) Organic Net Revenue $ 18,795 $ 8,272 $ 27,067 $ 18,289 $ 8,418 $ 26,707 For the Year Ended December 31, 2015 For the Year Ended December 31, 2014 EmergingMarkets DevelopedMarkets Total EmergingMarkets DevelopedMarkets Total (in millions) (in millions) Net Revenue $ 11,585 $ 18,051 $ 29,636 $ 12,961 $ 21,283 $ 34,244 Impact of currency 1,826 1,739 3,565 – – – Historical Venezuelan operations (1) (1,217 ) – (1,217 ) (760 ) – (760 ) Historical coffee business (2) (442 ) (1,185 ) (1,627 ) (1,105 ) (2,671 ) (3,776 ) Impact of accountingcalendar change – (78 ) (78 ) – – – Impact of acquisitions (128 ) (37 ) (165 ) – – – Impact of divestiture (9 ) – (9 ) (10 ) – (10 ) Organic Net Revenue $ 11,615 $ 18,490 $ 30,105 $ 11,086 $ 18,612 $ 29,698 52 Table of Contents 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ For the Year Ended December 31, 2015 For the Year Ended December 31, 2014 (3) PowerBrands Non-PowerBrands Total PowerBrands Non-PowerBrands Total (in millions) (in millions) Net Revenue $ 20,350 $ 9,286 $ 29,636 $ 23,282 $ 10,962 $ 34,244 Impact of currency 2,405 1,160 3,565 – – – Historical Venezuelan operations (1) (823 ) (394 ) (1,217 ) (511 ) (249 ) (760 ) Historical coffee business (2) (1,179 ) (448 ) (1,627 ) (2,732 ) (1,044 ) (3,776 ) Impact of accountingcalendar change (60 ) (18 ) (78 ) – – – Impact of acquisitions – (165 ) (165 ) – – – Impact of divestiture – (9 ) (9 ) – (10 ) (10 ) Organic Net Revenue $ 20,693 $ 9,412 $ 30,105 $ 20,039 $ 9,659 $ 29,698 (1) Includes the historical results of our Venezuelan subsidiaries prior to the December 31, 2015 deconsolidation.
+Refer to Note 1, Summary of Significant Accounting Policies – Currency Translation and Highly Inflationary Accounting: Venezuela, for more information.
+(2) Includes our historical global coffee business prior to the July 2, 2015 JDE coffee business transactions.
+Refer to Note 2, Divestitures and Acquisitions, and our non-GAAP definitions appearing earlier in this section for more information.
+(3) Each year we reevaluate our Power Brands and confirm the brands in which we will continue to make disproportionate investments.
+As such, we may make changes in our planned investments in primarily regional Power Brands following our annual review cycles.
+For 2016, we made limited changes to our list of regional Power Brands and as such, we reclassified 2015 and 2014 Power Brand net revenues on a basis consistent with the current list of Power Brands.
+53 Table of Contents Adjusted Operating Income: Applying the definition of “Adjusted Operating Income”, the adjustments made to “operating income” (the most comparable U.S. GAAP financial measure) were to exclude Spin-Off costs, 2012-2014 Restructuring Program costs, 2014-2018 Restructuring Program costs, Venezuela historical operating results and remeasurement and deconsolidation losses, the JDE coffee business transactions gain and net incremental costs, operating income from our historical coffee business, equity method investment earnings reclassified to after-tax earnings in Q3 2015 in connection with the coffee business transactions, operating results of the AGF divestiture, pre-tax gains on the AGF and Costa Rica confectionery business divestitures, divestiture-related costs incurred for the planned sale of a confectionery business in France, gain on sale of an intangible asset, impairment charges related to intangible assets, the Integration Program and other acquisition integration costs, acquisition-related costs and mark-to-market impacts from commodity and forecasted currency transaction derivative contracts.
+We also present “Adjusted Operating Income margin,” which is subject to the same adjustments as Adjusted Operating Income, and evaluate Adjusted Operating Income on a constant currency basis.
+We believe these measures provide improved comparability of underlying operating results.
+For the Years Ended December 31, 2016 2015 $ Change % Change (in millions) Operating Income $ 2,569 $ 8,897 $ (6,328 ) (71.1)% 2012-2014 Restructuring Program costs (1) – (4 ) 4 2014-2018 Restructuring Program costs (1) 1,086 1,002 84 Operating income from Venezuelan subsidiaries (2) – (281 ) 281 Remeasurement of net monetary assets in Venezuela (2) – 11 (11 ) Loss on deconsolidation of Venezuela (2) – 778 (778 ) Costs associated with JDE coffee business transactions (3) – 278 (278 ) Gain on the JDE coffee business transactions (3) – (6,809 ) 6,809 Reclassification of historical coffee business operating income (4) – (342 ) 342 Reclassification of equity method investment earnings (5) – (51 ) 51 Operating income from divestiture (6) (2 ) (8 ) 6 Gain on divestiture (6) (9 ) (13 ) 4 Divestiture-related costs (7) 86 – 86 Gain on sale of intangible asset (8) (15 ) – (15 ) Intangible asset impairment charges (9) 137 71 66 Acquisition integration costs (8) 7 9 (2 ) Acquisition-related costs (8) 1 8 (7 ) Mark-to-market losses / (gains) from derivatives (10) 94 (56 ) 150 Other / rounding (1 ) – (1 ) Adjusted Operating Income $ 3,953 $ 3,490 $ 463 13.3% Impact of unfavorable currency 176 – 176 Adjusted Operating Income (constant currency) $ 4,129 $ 3,490 $ 639 18.3% 54 Table of Contents 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ For the Years Ended December 31, 2015 2014 $ Change % Change (in millions) Operating Income $ 8,897 $ 3,242 $ 5,655 174.4% Spin-Off Costs (11) – 35 (35 ) 2012-2014 Restructuring Program costs (1) (4 ) 459 (463 ) 2014-2018 Restructuring Program costs (1) 1,002 381 621 Operating income from Venezuelan subsidiaries (2) (281 ) (175 ) (106 ) Remeasurement of net monetary assets in Venezuela (2) 11 167 (156 ) Loss on deconsolidation of Venezuela (2) 778 – 778 Costs associated with JDE coffee business transactions (3) 278 77 201 Gain on the JDE coffee business transactions (3) (6,809 ) – (6,809 ) Reclassification of historical coffee business operating income (4) (342 ) (646 ) 304 Reclassification of equity method earnings (5) (51 ) (104 ) 53 Operating income from divestiture (6) (8 ) (9 ) 1 Gain on divestiture (6) (13 ) – (13 ) Intangible asset impairment charges (9) 71 57 14 Integration Program and other acquisition integration costs (8) 9 (4 ) 13 Acquisition-related costs (8) 8 2 6 Mark-to-market (gains) / losses from derivatives (10) (56 ) 73 (129 ) Adjusted Operating Income $ 3,490 $ 3,555 $ (65 ) (1.8)% Impact of unfavorable currency 453 – 453 Adjusted Operating Income (constant currency) $ 3,943 $ 3,555 $ 388 10.9% (1) Refer to Note 6, Restructuring Programs, for more information on our 2014-2018 Restructuring Program and our 2012-2014 Restructuring Program.
+(2) Includes the historical results of our Venezuelan subsidiaries prior to the December 31, 2015 deconsolidation.
+Refer to Note 1, Summary of Significant Accounting Policies – Currency Translation and Highly Inflationary Accounting: Venezuela, for more information on the deconsolidation and remeasurement loss in 2015.
+(3) Refer to Note 2, Divestitures and Acquisitions, for more information on the JDE coffee business transactions.
+(4) Includes our historical global coffee business prior to the July 2, 2015 deconsolidation.
+We reclassified the results of our historical coffee business from Adjusted Operating Income and included them with equity method investment earnings in Adjusted EPS to facilitate comparisons of past and future coffee operating results.
+Refer to Note 2, Divestitures and Acquisitions, and Non-GAAP Financial Measures appearing later in this section for more information.
+(5) Historically, we have recorded income from equity method investments within our operating income as these investments operated as extensions of our base business.
+Beginning in the third quarter of 2015, to align with the accounting for JDE earnings, we began to record the earnings from our equity method investments in equity method investment earnings outside of operating income.
+In periods prior to July 2, 2015, we have reclassified the equity method earnings from Adjusted Operating Income to evaluate our operating results on a consistent basis.
+(6) Refer to Note 2, Divestitures and Acquisitions, for more information on the December 1, 2016 divestiture of a confectionery business in Costa Rica and the April 23, 2015 divestiture of AGF.
+The divestiture of the Costa Rica confectionery business generated a pre-tax gain of $9 million in 2016 and the divestiture of AGF generated a pre-tax gain of $13 million and after-tax loss of $9 million in 2015.
+(7) Includes costs incurred related to the planned sale of a confectionery business in France.
+Refer to Note 2, Divestitures and Acquisitions, for more information.
+(8) Refer to Note 2, Divestitures and Acquisitions, for more information on the 2016 intangible asset sale in Finland, 2015 acquisitions of a biscuit operation in Vietnam and Enjoy Life Foods and other property sales in 2016.
+(9) Refer to Note 2, Divestitures and Acquisitions, and Note 5, Goodwill and Intangible Assets, for more information on the impairment charges recorded in 2016, 2015 and 2014 related to trademarks.
+(10) Refer to Note 8, Financial Instruments, Note 16, Segment Reporting, and Non-GAAP Financial Measures appearing later in this section for more information on these unrealized gains and losses on commodity and forecasted currency transaction derivatives.
+(11) Refer to Note 2, Divestitures and Acquisitions, for more information on Spin-Off Costs incurred in 2014 following the 2012 Kraft Foods Group divestiture.
+55 Table of Contents Adjusted EPS: Applying the definition of “Adjusted EPS” (1), the adjustments made to “diluted EPS attributable to Mondelēz International” (the most comparable U.S. GAAP financial measure) were to exclude Spin-Off Costs, 2012-2014 Restructuring Program costs, 2014-2018 Restructuring Program costs; Venezuela historical operating results and deconsolidation and remeasurement losses; the JDE coffee business transactions gain, hedging gains and incremental costs; net earnings from the AGF divestiture; after-tax gain on the Costa Rica confectionery business divestiture and after-tax loss on the AGF divestiture; divestiture-related costs incurred for the planned sale of a confectionery business in France; gain on sale of intangible asset; impairment charges related to intangible assets; acquisition integration costs; acquisition-related costs; mark-to-market impacts from commodity and forecasted currency transaction derivative contracts; a loss on debt extinguishment and related expenses; losses on interest rate swaps no longer designated as accounting cash flow hedges due to changed financing and hedging plans; gain on the equity method investment exchange; and our proportionate share of unusual or infrequent items recorded by our JDE and Keurig equity method investees.
+We also evaluate Adjusted EPS on a constant currency basis.
+We believe Adjusted EPS provides improved comparability of underlying operating results.
+For the Years Ended December 31, 2016 2015 $ Change % Change Diluted EPS attributable to Mondelēz International $ 1.05 $ 4.44 $ (3.39 ) (76.4)% 2014-2018 Restructuring Program costs 0.51 0.45 0.06 Net earnings from Venezuelan subsidiaries – (0.10 ) 0.10 Loss on deconsolidation of Venezuela – 0.48 (0.48 ) Remeasurement of net monetary assetsin Venezuela – 0.01 (0.01 ) Income / (costs) associated with the JDE coffee business transactions (2) – (0.01 ) 0.01 Gain on the JDE coffee business transactions (2) – (4.05 ) 4.05 Net earnings from divestiture (3) – 0.02 (0.02 ) Gain / loss on divestiture (3) (0.01 ) 0.01 (0.02 ) Divestiture-related costs (4) 0.05 – 0.05 Gain on sale of intangible asset 0.01 – 0.01 Intangible asset impairment charges 0.06 0.03 0.03 Acquisition integration costs (0.01 ) – (0.01 ) Acquisition-related costs 0.01 – 0.01 Mark-to-market losses / (gains) from derivatives 0.05 (0.03 ) 0.08 Loss on debt extinguishment and related expenses 0.17 0.29 (0.12 ) Loss related to interest rate swaps 0.04 0.01 0.03 Gain on equity method investment exchange (5) (0.03 ) – (0.03 ) Equity method investee acquisition-related and other adjustments (6) 0.04 0.07 (0.03 ) Adjusted EPS $ 1.94 $ 1.62 $ 0.32 19.8% Impact of unfavorable currency 0.07 – 0.07 Adjusted EPS (constant currency) $ 2.01 $ 1.62 $ 0.39 24.1% 56 Table of Contents 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ For the Years Ended December 31, 2015 2014 $ Change % Change Diluted EPS attributable to Mondelēz International $ 4.44 $ 1.28 $ 3.16 246.9% Spin-Off Costs – 0.01 (0.01 ) 2012-2014 Restructuring Program costs – 0.21 (0.21 ) 2014-2018 Restructuring Program costs 0.45 0.16 0.29 Net earnings from Venezuelan subsidiaries (0.10 ) (0.05 ) (0.05 ) Loss on deconsolidation of Venezuela 0.48 – 0.48 Remeasurement of net monetary assetsin Venezuela 0.01 0.09 (0.08 ) Income / (costs) associated with the JDE coffee business transactions (2) (0.01 ) (0.19 ) 0.18 Gain on the JDE coffee business transactions (2) (4.05 ) – (4.05 ) Net earnings from divestiture (3) 0.02 (0.01 ) 0.03 Gain / loss on divestiture (3) 0.01 – 0.01 Intangible asset impairment charges 0.03 0.02 0.01 Acquisition integration costs – – – Acquisition-related costs – – – Mark-to-market (gains) / losses from derivatives (0.03 ) 0.03 (0.06 ) Loss on debt extinguishment and related expenses 0.29 0.18 0.11 Loss related to interest rate swaps 0.01 – 0.01 Equity method investee acquisition-related and other adjustments (6) 0.07 – 0.07 Adjusted EPS $ 1.62 $ 1.73 $ (0.11 ) (6.4)% Impact of unfavorable currency 0.28 – 0.28 Adjusted EPS (constant currency) $ 1.90 $ 1.73 $ 0.17 9.8% (1) The tax expense / {benefit) of each of the pre-tax items excluded from our GAAP results was computed based on the facts and tax assumptions associated with each item, and such impacts have also been excluded from Adjusted EPS.
+• For the year ended December 31, 2016, taxes for the: 2014-2018 Restructuring Program costs were $(288) million, intangible asset impairment charges were $(37) million, gain on sale of intangible asset was $3 million, acquisition integration costs were zero, gain on equity method investment exchange was $2 million, divestiture-related costs were $(15) million, loss on debt extinguishment and related costs were $(163) million, loss related to interest rate swaps were $(36) million and mark-to-market gains / (losses) from derivatives were $(11) million.
+• For the year ended December 31, 2015, taxes for the: 2014-2018 Restructuring Program costs were $(262) million, income / costs associated with the JDE coffee business transactions were $145 million, net earnings from Venezuelan subsidiaries were $107 million, gain on the JDE coffee business transactions were $183 million, intangible asset impairment charges were $(13) million, net earnings from divestitures were $33 million, loss on debt extinguishment and related costs were $(275) million, loss related to interest rate swaps were $(13) million and mark-to-market gains / (losses) from derivatives were $15 million.
+• For the year ended December 31, 2014, taxes for the: Spin-Off Costs were $(13) million, 2012-2014 Restructuring Program costs were $(107) million, 2014-2018 Restructuring Program costs were $(101) million, net earnings from Venezuelan subsidiaries were $90 million, remeasurement of net monetary assets in Venezuela was $(16) million, income / costs associated with the JDE coffee business transactions were $219 million, intangible asset impairment charges were $(18) million, loss on debt extinguishment and related costs were $(188) million and mark-to-market gains / (losses) from derivatives were $(23) million.
+(2) Refer to Note 2, Divestitures and Acquisitions, for more information on the JDE coffee business transactions.
+Net gains of $436 million in 2015 and $628 million in 2014 on the currency hedges related to the JDE coffee business transactions were recorded in interest and other expense, net and are included in the income / (costs) associated with the JDE coffee business transactions of $(0.01) in the table above.
+(3) Refer to Note 2, Divestitures and Acquisitions, for more information on the April 23, 2015 divestiture of AGF and the December 1, 2016 sale of a confectionery business in Costa Rica.
+The divestiture of AGF generated a pre-tax gain of $13 million and after-tax loss of $9 million in 2015.
+The sale of the confectionery business in Costa Rica generated a pre-tax and after-tax gain of $9 million in 2016.
+(4) Includes costs incurred related to the planned sale of a confectionery business in France.
+Refer to Note 2, Divestitures and Acquisitions, for more information.
+(5) Refer to Note 2, Divestitures and Acquisitions, for more information on the 2016 acquisition of an interest in Keurig.
+(6) Includes our proportionate share of unusual or infrequent items, such as acquisition and divestiture-related costs and restructuring program costs, recorded by our JDE and Keurig equity method investees.
+57 Table of Contents Item 7A.
+Quantitative and Qualitative Disclosures about Market Risk.
+As we operate globally, we are primarily exposed to currency exchange rate, commodity price and interest rate market risks.
+We monitor and manage these exposures as part of our overall risk management program.
+Our risk management program focuses on the unpredictability of financial markets and seeks to reduce the potentially adverse effects that the volatility of these markets may have on our operating results.
+We principally utilize derivative instruments to reduce significant, unanticipated earnings fluctuations that may arise from volatility in currency exchange rates, commodity prices and interest rates.
+For additional information on our derivative activity and the types of derivative instruments we use to hedge our currency exchange, commodity price and interest rate exposures, see Note 8, Financial Instruments.
+Many of our non-U.S. subsidiaries operate in functional currencies other than the U.S. dollar.
+Fluctuations in currency exchange rates create volatility in our reported results as we translate the balance sheets, operating results and cash flows of these subsidiaries into the U.S. dollar for consolidated reporting purposes.
+The translation of non-U.S. dollar denominated balance sheets and statements of earnings of our subsidiaries into the U.S. dollar for consolidated reporting generally results in a cumulative translation adjustment to other comprehensive income within equity.
+A stronger U.S. dollar relative to other functional currencies adversely affects our consolidated earnings and net assets while a weaker U.S. dollar benefits our consolidated earnings and net assets.
+While we hedge significant forecasted currency exchange transactions as well as certain net assets of non-U.S. operations and other currency impacts, we cannot fully predict or eliminate volatility arising from changes in currency exchange rates on our consolidated financial results.
+See Consolidated Results of Operations and Results of Operations by Reportable Segment under Discussion and Analysis of Historical Results for currency exchange effects on our financial results.
+For additional information on the impact of currency policies, Brexit, recent currency devaluations, the deconsolidation of our Venezuelan operation and the historical remeasurement of our Venezuelan net monetary assets on our financial condition and results of operations, also see Note 1, Summary of Significant Accounting Policies—Currency Translation and Highly Inflationary Accounting.
+We also continually monitor the market for commodities that we use in our products.
+Input costs may fluctuate widely due to international demand, weather conditions, government policy and regulation and unforeseen conditions.
+To manage input cost volatility, we enter into forward purchase agreements and other derivative financial instruments.
+We also pursue productivity and cost saving measures and take pricing actions when necessary to mitigate the impact of higher input costs on earnings.
+We regularly evaluate our variable and fixed-rate debt as well as current and expected interest rates in the markets in which we raise capital.
+Our primary exposures include movements in U.S. Treasury rates, corporate credit spreads, London Interbank Offered Rates (“LIBOR”), Euro Interbank Offered Rate (“EURIBOR”) and commercial paper rates.
+We periodically use interest rate swaps and forward interest rate contracts to achieve a desired proportion of variable versus fixed rate debt based on current and projected market conditions.
+In addition to using interest rate derivatives to manage future interest payments, during 2016, we retired $6.2 billion of our long-term debt and related costs and issued $6.4 billion of lower borrowing cost debt.
+Our weighted-average interest rate on our total debt as of December 31, 2016 was 2.2%, down from 3.7% as of December 31, 2015.
+There were no significant changes in the types of derivative instruments we use to hedge our exposures between December 31, 2015 and December 31, 2016.
+See Note 8, Financial Instruments, for more information on 2016 derivative activity.
+Value at Risk: We use a value at risk (“VAR”) computation to estimate: 1) the potential one-day loss in the fair value of our interest rate-sensitive financial instruments; and 2) the potential one-day loss in pre-tax earnings of our currency and commodity price-sensitive derivative financial instruments.
+The VAR analysis was done separately for our currency exchange, fixed income and commodity risk portfolios as of each quarter end during the periods presented below.
+The instruments included in the VAR computation were currency exchange forwards and options for currency exchange risk, debt and swaps for interest rate risk, and commodity forwards, futures and options for commodity risk.
+Excluded from the computation were anticipated transactions, currency trade payables and receivables, and net investments in non-U.S. subsidiaries, which the above-mentioned instruments are intended to hedge.
+58 Table of Contents The VAR model assumes normal market conditions, a 95% confidence interval and a one-day holding period.
+A parametric delta-gamma approximation technique was used to determine the expected return distribution in interest rates, currencies and commodity prices for the purpose of calculating the fixed income, currency exchange and commodity VAR, respectively.
+The parameters used for estimating the expected return distributions were determined by observing interest rate, currency exchange, and commodity price movements over the prior quarter for the calculation of VAR amounts at December 31, 2016 and 2015, and over each of the four prior quarters for the calculation of average VAR amounts during each year.
+The values of currency and commodity options do not change on a one-to-one basis with the underlying currency or commodity and were valued accordingly in the VAR computation.
+As of December 31, 2016 and December 31, 2015, the estimated potential one-day loss in fair value of our interest rate-sensitive instruments, primarily debt, and the estimated potential one-day loss in pre-tax earnings from our currency and commodity instruments, as calculated in the VAR model, were: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Pre-Tax Earnings Impact Fair Value Impact At 12/31/16 Average High Low At 12/31/16 Average High Low (in millions) Instruments sensitive to: Interest rates $
+62 $
+62 $
+91 $
+45 Foreign currency rates $
+10 $
+18 $
+26 $
+10 Commodity prices 16 12 16 10 Pre-Tax Earnings Impact Fair Value Impact At 12/31/15 Average High Low At 12/31/15 Average High Low (in millions) Instruments sensitive to: Interest rates $
+56 $
+60 $
+78 $
+50 Foreign currency rates $
+16 $
+55 $
+103 $
+16 Commodity prices 15 23 31 15 The impacts in the 2015 tables above have not been recast to reflect the deconsolidation of our legacy coffee business or Venezuela business and the related derivative activity for those businesses as it is impracticable to do so.
+This VAR computation is a risk analysis tool designed to statistically estimate the maximum expected daily loss, under the specified confidence interval and assuming normal market conditions, from adverse movements in interest rates, currency exchange rates and commodity prices.
+The computation does not represent actual losses in fair value or earnings we will incur, nor does it consider the effect of favorable changes in market rates.
+We cannot predict actual future movements in market rates and do not present these VAR results to be indicative of future movements in market rates or to be representative of any actual impact that future changes in market rates may have on our future financial results.
+59 Table of Contents

@@ -1,0 +1,88 @@
+T1	Remove 4035 4055	51 Table of Contents
+T2	Remove 7607 7627	52 Table of Contents
+T3	Remove 12548 12568	53 Table of Contents
+T4	Fact 20345 20421	For example, for the year ended December 31, 2019, we incurred $30.6 million
+T5	Fact 20433 20488	the redeployment of Norwegian Joy from Asia to the U.S.
+R1	Cause Cause:T5 Effect:T4	
+T6	Fact 27472 27723	Since March 2020, we have taken several actions to bolster our financial position while our global cruise voyages are currently suspended, including a series of debt and equity financing transactions completed in May, July, November and December 2020.
+T7	Fact 27724 27941	In May 2020, NCLH and NCLC launched a series of capital markets transactions and raised approximately $2.4 billion, including the full exercise of options to purchase additional ordinary shares and exchangeable notes.
+T8	Fact 27942 28217	In July 2020, NCLH and NCLC launched a series of capital markets transactions and raised approximately $1.5 billion, including the full exercise of the option to purchase additional ordinary shares and partial exercise of the option to purchase additional exchangeable notes.
+R2	Cause Cause:T6 Effect:T7	
+R3	Cause Cause:T6 Effect:T8	
+T9	Fact 29977 30214	Executive OverviewThe ongoing effects of COVID-19 on our operations and global bookings have had a significant adverse effect on our results of operations for the year ended December 31, 2020 compared to the year ended December 31, 2019.
+T10	Fact 30214 30359	Total revenue decreased 80.2% to $1.3 billion for the year ended December 31, 2020 compared to $6.5 billion for the year ended December 31, 2019.
+R4	Cause Cause:T9 Effect:T10	
+T11	Fact 30775 30937	We had Adjusted Net Loss and Adjusted EPS of $(2.2) billion and $(8.64), respectively, for the year ended December 31, 2020, including $1.8 billion of adjustments
+T12	Fact 30982 31221	non-cash share-based compensation, losses on the extinguishment and modification of debt and impairment losses, compared to Adjusted Net Income and Adjusted EPS of $1.1 billion and $5.09, respectively, for the year ended December 31, 2019.
+R5	Cause Cause:T12 Effect:T11	
+T13	Fact 39852 39946	RevenueTotal revenue decreased 80.2% to $1.3 billion in 2020 compared to $6.5 billion in 2019.
+T14	Remove 39698 39852	(6)Impairment loss consists of goodwill and trade name impairments.Year Ended December 31, 2020 (“2020”) Compared to Year Ended December 31, 2019 (“2019”)
+T15	Fact 39947 40136	The adverse impact on revenue was due to the cancellation of the vast majority of sailings in 2020 as a result of the COVID-19 pandemic, which resulted in a 78.6% decrease in Capacity Days.
+R6	Cause Cause:T15 Effect:T13	
+T16	Fact 40137 40216	ExpenseTotal cruise operating expense decreased 53.8% in 2020 compared to 2019.
+T17	Fact 40217 40472	In 2020, our expenses subsequent to the suspension of voyages primarily included the cost of protected commissions and crew costs, including salaries, food and other repatriation costs; fuel; and other ongoing costs such as insurance and ship maintenance.
+R7	Cause Cause:T17 Effect:T16	
+T18	Fact 40948 41006	Gross Cruise Cost decreased 47.4% in 2020 compared to 2019
+T19	Fact 41015 41350	a decrease in total cruise operating expense described above in addition to a 23.5% decrease in marketing, general and administrative expenses primarily due to cost savings initiatives in connection with the COVID-19 pandemic as described under “Update Regarding COVID-19 Pandemic—Financing Transactions and Cost Containment Measures.”
+R8	Cause Cause:T19 Effect:T18	
+T20	Fact 41351 41421	Total other operating expense increased 89.4% in 2020 compared to 2019
+T21	Fact 41439 41517	the impairment of goodwill and trade names triggered by the COVID-19 pandemic.
+R9	Cause Cause:T21 Effect:T20	
+T22	Fact 41518 41570	Depreciation and amortization expense also increased
+T23	Fact 41588 41740	the delivery of Norwegian Encore in the fourth quarter of 2019 and Seven Seas Splendor in the first quarter of 2020 as well as ship improvement projects
+R10	Cause Cause:T23 Effect:T22	
+T24	Remove 41742 41762	62 Table of Contents
+T25	Fact 41762 41846	Interest expense, net was $482.3 million in 2020 compared to $272.9 million in 2019.
+T26	Fact 41847 41966	The increase in 2020 is driven by additional debt outstanding at higher interest rates, partially offset by lower LIBOR
+R11	Cause Cause:T26 Effect:T25	
+T27	Fact 41968 42086	In 2020, interest expense also reflects losses on extinguishment of debt and debt modification costs of $27.8 million.
+R12	Cause Cause:T27 Effect:T25	
+T28	Fact 42179 42287	Other income (expense), net was expense of $33.6 million in 2020 compared to income of $6.2 million in 2019.
+T29	Fact 42288 42510	Other expense in 2020 was primarily due to losses from foreign currency exchange and fuel hedges recognized in earnings as a result of the forecasted transactions no longer being probable or no longer designated as hedges.
+R13	Cause Cause:T29 Effect:T28	
+T30	Fact 42511 42667	Other income in 2019 was primarily due to gains from insurance proceeds and a litigation settlement partially offset by losses on foreign currency exchange.
+R14	Cause Cause:T30 Effect:T28	
+T31	Fact 42667 42783	Income tax benefit (expense) was an expense of $12.5 million in 2020 compared to a benefit of $18.9 million in 2019.
+T32	Fact 42784 42982	In 2020, the tax expense is primarily due to a valuation allowance of $39.6 million recognized in the fourth quarter on certain net operating loss carryforwards partially offset by operating losses.
+R15	Cause Cause:T32 Effect:T31	
+T33	Fact 42983 43198	During 2018, we implemented certain tax restructuring strategies that created our ability to utilize the net operating loss carryforwards of Prestige, for which we had previously provided a full valuation allowance.
+T34	Fact 43199 43343	As a result, we recorded a tax benefit of $35.7 million in connection with the reversal of substantially all of the valuation allowance in 2019.
+R16	Cause Cause:T33 Effect:T34	
+T35	Fact 43343 43520	Liquidity and Capital ResourcesGeneralAs of December 31, 2020, our liquidity was $3.3 billion, consisting of cash and cash equivalents, and our working capital was $1.6 billion.
+T36	Fact 43521 43706	The increase in working capital is a result of the actions described below and is expected to decrease as advance ticket sales increase leading up to when we are able to resume voyages.
+R17	Cause Cause:T36 Effect:T35	
+T37	Fact 44293 44349	The NCLH equity offerings in May, July and November 2020
+T38	Fact 44362 44501	100,984,848 ordinary shares being issued, which does not include any ordinary shares that may be issued pursuant to our exchangeable notes.
+R18	Cause Cause:T37 Effect:T38	
+T39	Fact 44853 45063	In January 2021, we amended our Senior Secured Credit Facility to further defer certain amortization payments prior to June 30, 2022 and to waive certain financial and other covenants through December 31, 2022.
+T40	Fact 45064 45218	In connection with such amendment, our minimum liquidity requirement was increased to $200 million and such requirement applies through December 31, 2022.
+R19	Cause Cause:T39 Effect:T40	
+T41	Fact 47397 47745	The Company's monthly average cash burn for the fourth quarter 2020 was approximately $190 million and included approximately $15 million per month of additional relaunch-related expenses as the Company began preparing vessels for a potential return to service in early 2021, in connection with the CDC Conditional Order, which did not materialize.
+T42	Fact 47746 48051	The incremental relaunch costs were associated with crew re-staffing, re-positioning and provisioning of vessels, implementation of new health and safety protocols and a ramp-up of demand-generating marketing investments which helped further stimulate the strong future demand the Company is experiencing.
+R20	Cause Cause:T42 Effect:T41	
+T43	Fact 48355 48492	The Company has incurred approximately $60 million of one-time debt deferral and modification costs and fees in the first quarter of 2021
+T44	Fact 48508 48711	successful debt deferrals and covenant waivers and suspensions, which combined with newbuild payment extensions, have resulted in approximately $1 billion of additional liquidity over the next 12 months.
+R21	Cause Cause:T44 Effect:T43	
+T45	Fact 55338 55479	Net cash used in operating activities was $2.6 billion in 2020 compared to net cash provided by operating activities of $1.8 billion in 2019.
+T46	Fact 55480 55557	This decrease was due to the suspension of global cruise voyages during 2020.
+R22	Cause Cause:T46 Effect:T45	
+T47	Fact 55558 55750	The net cash used in operating activities in 2020 included net loss of $(4.0) billion, a decrease in advance ticket sales of $811.8 million and timing differences in cash receipts and payments
+T48	Fact 55763 55866	various operating assets and liabilities, which was offset primarily by a $1.6 billion impairment loss.
+R23	Cause Cause:T48 Effect:T47	
+T49	Fact 55867 56028	The change in net cash provided by operating activities in 2019 includes net income of $930.2 million as well as timing differences in cash receipts and payments
+T50	Fact 56041 56147	various operating assets and liabilities, including an increase in advance ticket sales of $347.4 million.
+R24	Cause Cause:T50 Effect:T49	
+T51	Fact 56147 56209	Net cash used in investing activities was $1.0 billion in 2020
+T52	Fact 56232 56357	payments for the delivery of Seven Seas Splendor, ships under construction, ship improvement projects and shoreside projects.
+R25	Cause Cause:T52 Effect:T51	
+T53	Fact 56358 56420	Net cash used in investing activities was $1.7 billion in 2019
+T54	Fact 56443 56557	payments for the delivery of Norwegian Encore, ships under construction, ship improvements and shoreside projects.
+R26	Cause Cause:T54 Effect:T53	
+T55	Fact 56558 56624	Net cash provided by financing activities was $6.6 billion in 2020
+T56	Fact 56643 56763	$6.1 billion in proceeds from the issuance of debt and $1.5 billion in proceeds from issuance of NCLH’s ordinary shares.
+R27	Cause Cause:T56 Effect:T55	
+T57	Remove 63339 63359	67 Table of Contents
+T58	Fact 67581 67664	The change in our fixed rate percentage from December 31, 2019 to December 31, 2020
+T59	Fact 67686 67721	the maturity of interest rate swaps
+R28	Cause Cause:T59 Effect:T58	
+T60	Verified 0 6	Item 7

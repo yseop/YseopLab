@@ -1,0 +1,198 @@
+T1	Fact 1274 1356	Net sales increased $1,596 million, or 12% from the prior year, to $15,108 million
+T2	Fact 1374 1450	sales of acquired businesses, which increased net sales by approximately 10%
+R1	Cause Cause:T2 Effect:T1	
+T3	Fact 2275 2408	Growth occurred in many end-use markets in Asia Pacific, although total sales volumes for the region were nearly level year over year
+T4	Fact 2416 2483	declines stemming from lower marine new-build end-use market demand
+R2	Cause Cause:T4 Effect:T3	
+T5	Fact 2485 2536	Sales volumes in Europe were down 4% year over year
+T6	Fact 2544 2599	weak demand that occurred in the first half of the year
+R3	Cause Cause:T6 Effect:T5	
+T7	Fact 3403 3530	Cost of sales, exclusive of depreciation and amortization, increased $731 million, or 9% from the prior year, to $8,636 million
+T8	Fact 3548 3649	the inclusion of cost of sales from acquired businesses partially offset by lower manufacturing costs
+R4	Cause Cause:T8 Effect:T7	
+T9	Fact 3651 3733	Cost of sales as a percentage of sales in 2013 was 57.2% compared to 58.5% in 2012
+T10	Fact 3735 3828	This decrease is largely due to shifts in sales margin mix related to the businesses acquired
+R5	Cause Cause:T10 Effect:T9	
+T11	Fact 3830 3947	Selling, general and administrative expenses increased by $499 million, or 16% from the prior year, to $3,699 million
+T12	Fact 3971 4169	the inclusion of acquired businesses and overhead cost inflation partly offset by the impact of our continued focus on cost management, including savings from restructuring actions initiated in 2012
+R6	Cause Cause:T12 Effect:T11	
+T13	Fact 4171 4293	As a percent of sales, selling, general and administrative expenses increased slightly to 24.5% in 2013 from 23.7% in 2012
+T14	Fact 4308 4391	to the addition of acquired businesses which have higher distribution related costs
+R7	Cause Cause:T14 Effect:T13	
+T15	Fact 4393 4480	Depreciation expense increased $44 million, or 14% from the prior year, to $356 million
+T16	Fact 4498 4541	the depreciation of the acquired businesses
+R8	Cause Cause:T16 Effect:T15	
+T17	Fact 4543 4582	The restructuring charge of $98 million
+T18	Fact 4594 5091	a restructuring plan approved in the third quarter of 2013 focused on achieving cost synergies, through improved productivity and efficiency, related to the acquired North American architectural coatings business, but also includes smaller targeted actions for PPG's legacy architectural business, as well as other businesses where market conditions remain very challenging, most notably protective and marine coatings and certain European businesses such as architectural coatings and fiber glass
+R9	Cause Cause:T18 Effect:T17	
+T19	Fact 5093 5173	Other charges decreased $34 million, or 15% from the prior year, to $190 million
+T20	Fact 5191 5245	lower legacy environmental remediation charges in 2013
+R10	Cause Cause:T20 Effect:T19	
+T21	Fact 5566 5629	The 2012 other charges included a pretax charge of $159 million
+T22	Fact 5652 5759	the environmental remediation at the former chromium manufacturing plant and associated sites in New Jersey
+R11	Cause Cause:T22 Effect:T21	
+T23	Fact 5761 5838	Other income decreased $8 million, or 6% from the prior year, to $131 million
+T24	Fact 5856 6047	lower equity earnings, primarily from our Asian fiber glass joint ventures as a result of a decline in demand in the personal computer market and lower licensing earnings in the Glass segment
+R12	Cause Cause:T24 Effect:T23	
+T25	Fact 6459 6501	The increase in diluted earnings-per-share
+T26	Fact 6516 6844	higher net income and a reduction in the number of shares outstanding as a result of the 10.8 million PPG shares tendered to the Company in the exchange offer in connection with the separation and merger of the Company's former commodity chemicals business as well as the approximately 5.7 million shares repurchased during 2013
+R13	Cause Cause:T26 Effect:T25	
+T27	Remove 8470 8857	19Table of ContentsIncome before income taxes is reconciled to adjusted income before income taxes below:Years-ended December 3120132012(Millions, except per share amounts)Income before income taxes$1,489$1,057Income before income taxes includes: Charges related to business restructuring98208Charges related to environmental remediation101159Charges related to business acquisitions4211
+T28	Remove 9263 9422	Charges related to environmental remediation101 37 36.6%Charges related to business restructuring98 25 25.5%Charges related to business acquisitions42 14 33.3%
+T29	Remove 8859 9261	Legacy pension settlement costs18 Adjusted income before income taxes$1,748$1,435The effective tax rate from continuing operations is reconciled to the adjusted effective tax rate from continuing operations below:Year-ended December 31, 2013 (Millions, except per share amounts)Income Before Income Taxes Tax Expense Effective Tax RateEffective tax rate, continuing operations$1,489 $333 22.4%Includes:
+T30	Remove 9792 10619	Charges related to business restructuring208 45 21.6%Charges related to environmental remediation159 60 37.7%Charges related to business acquisitions11 4 36.4%Adjusted effective tax rate, continuing operations, excluding certain charges$1,435 $330 23.0% Net income (attributable to PPG) and earnings per share – assuming dilution (attributable to PPG) are reconciled to adjusted net income (attributable to PPG) and adjusted earnings per share – assuming dilution below:Year-ended December 31, 2013 (Millions, except per share amounts)$ EPSNet income from continuing operations (attributable to PPG)$1,034 $7.13Net income from continuing operations (attributable to PPG) includes: Charges related to business restructuring73 0.50Charges related to environmental remediation64 0.44Charges related to business acquisitions28 0.19
+T31	Remove 9467 9790	U.S. tax law changed enacted in 2013 10 Adjusted effective tax rate, continuing operations, excluding certain charges$1,748 $424 24.3%Year-ended December 31, 2012 (Millions, except per share amounts)Income Before Income Taxes Tax Expense Effective Tax RateEffective tax rate, continuing operations$1,057 $221 20.9%Includes:
+T32	Fact 11558 11660	Performance Coatings net sales increased $1,120 million, or 24% from the prior year, to $5,872 million
+T33	Fact 11678 11791	net sales from businesses acquired (25%) and modestly higher pricing partially offset by lower sales volumes (4%)
+R14	Cause Cause:T33 Effect:T32	
+T34	Remove 10661 11557	U.S. tax law change enacted in 2013(10) (0.07)Adjusted net income from continuing operations (attributable to PPG)$1,202 $8.28Year-ended December 31, 2012 (Millions, except per share amounts)$ EPSNet income from continuing operations (attributable to PPG)$726 $4.69Net income from continuing operations (attributable to PPG) includes: Charges related to business restructuring163 1.06Charges related to environmental remediation99 0.64Charges related to business acquisitions7 0.05Adjusted net income from continuing operations (attributable to PPG)$995 $6.44Results of Reportable Business Segments Net sales Segment income(Millions)2013 2012 2013 2012Performance Coatings$5,872 $4,752 $858 $744Industrial Coatings4,845 4,379 724 590Architectural Coatings –EMEA2,062 2,147 184 145Optical and Specialty Materials1,262 1,202 368 348Glass1,067 1,032 56 63 Performance of Reportable Business Segments
+T35	Fact 12163 12275	Offsetting the segment sales volume gains was a decline in volume in the protective and marine coatings business
+T36	Fact 12283 12376	further, notable weakness in the Asian marine new-build market reflecting lower global demand
+R15	Cause Cause:T36 Effect:T35	
+T37	Fact 12701 12755	The lower sales volume in the national account channel
+T38	Fact 12767 12840	a previously disclosed change in products sold to a large retail customer
+R16	Cause Cause:T38 Effect:T37	
+T39	Fact 12842 12947	Segment income was $858 million for 2013, an increase of $114 million, or 15%, compared to the prior year
+T40	Fact 12965 13198	the income from acquired businesses, lower overhead and manufacturing costs stemming from prior restructuring actions and ongoing cost management, offset partially by the negative impact on segment income from the lower sales volumes
+R17	Cause Cause:T40 Effect:T39	
+T41	Fact 14966 15048	Segment income increased $134 million, or 23% from the prior year, to $724 million
+T42	Fact 15066 15223	the impact from the higher sales coupled with ongoing cost management initiatives and the benefits from the Company's restructuring actions initiated in 2012
+R18	Cause Cause:T42 Effect:T41	
+T43	Fact 15662 15769	Architectural Coatings – EMEA net sales decreased $85 million, or 4% from the prior year, to $2,062 million
+T44	Fact 15787 15870	lower sales volumes (7%) as economic conditions worsened in most European countries
+R19	Cause Cause:T44 Effect:T43	
+T45	Fact 16080 16108	the decline in sales volumes
+T46	Fact 16003 16052	Poor weather conditions in the first half of 2013
+R20	Cause Cause:T46 Effect:T45	
+T47	Fact 16235 16373	Despite the year-over-year volume decline, segment income was $184 million in 2013, an increase of $39 million, or 27% from the prior year
+T48	Fact 16392 16636	lower costs, including discretionary cost management coupled with the structural cost improvements stemming from the restructuring actions initiated in 2012, partially offset by the impact of lower net sales on income from continuing operations
+R21	Cause Cause:T48 Effect:T47	
+T49	Fact 17289 17398	Optical and Specialty Materials net sales increased $60 million, or 5% from the prior year, to $1,262 million
+T50	Fact 17416 17473	an increase in sales volumes (3%) and higher pricing (2%)
+R22	Cause Cause:T50 Effect:T49	
+T51	Fact 17475 17496	The increase in sales
+T52	Fact 17511 17688	strong demand at the end of 2013 as volumes were aided by initial customer inventory stocking ahead of the January 2014 North American introduction of Transitions Generation VII
+R23	Cause Cause:T52 Effect:T51	
+T53	Fact 17950 18037	The silicas business achieved higher year over year volumes in both the U.S. and Europe
+T54	Fact 18053 18072	solid demand growth
+R24	Cause Cause:T54 Effect:T53	
+T55	Fact 18074 18160	Segment income was $368 million, an increase of $20 million, or 6% from the prior year
+T56	Fact 18179 18247	an increase in sales and lower full-year selling and marketing costs
+R25	Cause Cause:T56 Effect:T55	
+T57	Fact 18636 18727	Glass segment net sales increased $35 million, or 3% from the prior year, to $1,067 million
+T58	Fact 18745 18777	higher fiber glass sales volumes
+R26	Cause Cause:T58 Effect:T57	
+T59	Fact 18839 18886	higher global demand in various end-use markets
+T60	Fact 18779 18826	Sales volumes in fiber glass increased modestly
+R27	Cause Cause:T59 Effect:T60	
+T61	Fact 18888 18972	Segment income was $56 million, a decrease of $7 million, or 11% from the prior year
+T62	Fact 18991 19176	input cost inflation, including higher natural gas costs, lower licensing income and lower fiber glass equity earnings stemming from weaker personal computer production activity in Asia
+R28	Cause Cause:T62 Effect:T61	
+T63	Fact 26768 26936	Pension and postretirement benefit costs, excluding curtailments and special termination benefits, were $177 million in 2013, down $56 million from $233 million in 2012
+T64	Fact 26938 27115	This decline was due, in part, to a reorganization of certain Company pension plans, which occurred as a part of separation activities of the former commodity chemicals business
+R29	Cause Cause:T64 Effect:T63	
+T65	Fact 29250 29337	Net sales in 2012 increased $359 million, or 3% from the prior year, to $13,512 million
+T66	Fact 29355 29509	higher selling prices (3%), higher sales volumes (1%) and sales from acquired businesses (2%) partially offset by unfavorable foreign currency impact (3%)
+R30	Cause Cause:T66 Effect:T65	
+T67	Fact 29708 29796	every coatings business except aerospace experiencing sluggish end-use market conditions
+T68	Fact 29645 29702	European volumes declined 4% versus the prior year period
+R31	Cause Cause:T67 Effect:T68	
+T69	Fact 29912 29959	In our coatings segments, higher selling prices
+T70	Fact 29980 30028	persistent raw material and other cost inflation
+R32	Cause Cause:T70 Effect:T69	
+T71	Fact 30030 30061	The unfavorable currency impact
+T72	Fact 30086 30162	the U.S. dollar strengthening against the Euro and Latin American currencies
+R33	Cause Cause:T72 Effect:T71	
+T73	Fact 30163 30179	Increased demand
+T74	Fact 30194 30269	stronger industrial production activity, which aided many of our businesses
+R34	Cause Cause:T74 Effect:T73	
+T75	Fact 31564 31602	persistent raw material cost inflation
+T76	Fact 31501 31548	In our coatings segments, prices were increased
+R35	Cause Cause:T75 Effect:T76	
+T77	Fact 31604 31640	The Glass segment's pricing was down
+T78	Fact 31653 31685	weaker global fiber glass demand
+R36	Cause Cause:T78 Effect:T77	
+T79	Fact 31687 31818	Cost of sales, exclusive of depreciation and amortization, increased by $40 million, or 0.5% from the prior year, to $7,905 million
+T80	Fact 31836 31972	the cost of sales of acquired businesses, the cost of sales associated with the sales volume growth and the negative impact of inflation
+R37	Cause Cause:T80 Effect:T79	
+T81	Fact 32162 32279	Selling, general and administrative expenses increased by $78 million, or 2.5% from the prior year, to $3,200 million
+T82	Fact 32298 32491	ncreases from acquired businesses, overhead inflation partially offset by the reduction in costs due to the favorable impact of currency translation and the benefit of our restructuring actions
+R38	Cause Cause:T82 Effect:T81	
+T83	Fact 33053 33128	Other charges increased by $161 million from the prior year to $224 million
+T84	Fact 33144 33347	the $159 million environmental remediation charge recorded in the first quarter of 2012 related primarily to costs at a former chromium manufacturing plant and associated sites in Jersey City, New Jersey
+R39	Cause Cause:T84 Effect:T83	
+T85	Fact 33349 33430	Other income decreased by $13 million, or 9% from the prior year, to $139 million
+T86	Fact 33448 33599	$27 million of lower equity earnings, primarily from our Asian fiber glass joint ventures, reflecting demand decline in the consumer electronics market
+R40	Cause Cause:T86 Effect:T85	
+T87	Fact 34212 34280	he increase in diluted earnings-per-share from continuing operations
+T88	Fact 34305 34475	higher adjusted income before income taxes and a reduction in the shares outstanding as a result of share repurchases in the second half of 2011 and first quarter of 2012
+R41	Cause Cause:T88 Effect:T87	
+T89	Remove 36619 37066	Charges related to business restructuring208 45 21.6%Charges related to environmental remediation159 60 37.7%Charges related to business acquisition costs11 4 36.4%Adjusted effective tax rate, continuing operations, excluding certain charges$1,435 $330 23.0%Year-ended December 31, 2011 (Millions, except per share amounts)Income Before Income Taxes Tax Expense Effective Tax RateEffective tax rate, continuing operations$1,222 $260 21.3%Includes:
+T90	Remove 35963 36617	Year-ended December 31, 2012Income Before Income Taxes(Millions, except per share amounts)Income before income taxes$1,057Income before income taxes includes: Charges related to business restructuring208Charges related to environmental remediation159Charges related to business acquisitions11Adjusted income before income taxes$1,435The effective tax rate from continuing operations is reconciled to the adjusted effective tax rate from continuing operations below:Year-ended December 31, 2012 (Millions, except per share amounts)Income Before Income Taxes Tax Expense Effective Tax RateEffective tax rate, continuing operations$1,057 $221 20.9%Includes:
+T91	Fact 38328 38437	For Performance Coatings, 2012 net sales increased $126 million, or 3% from the prior year, to $4,752 million
+T92	Fact 38455 38581	higher pricing (4%) and sales from acquired businesses (1%), partially offset by unfavorable foreign currency translation (2%)
+R42	Cause Cause:T92 Effect:T91	
+T93	Remove 37068 38325	Benefit from favorable tax audit settlement 12 Adjusted effective tax rate, continuing operations, excluding certain charges$1,222 $272 22.3%242013 PPG ANNUAL REPORT AND FORM 10-KTable of ContentsNet income from continuing operations (attributable to PPG) and earnings per share from continuing operations – assuming dilution (attributable to PPG) are reconciled to adjusted net income from continuing operations (attributable to PPG) and adjusted earnings per share from continuing operations – assuming dilution below:Year-ended December 31, 2012Net Income (Millions, except per share amounts)$ EPSNet income from continuing operations (attributable to PPG)$726 $4.69Net income from continuing operations (attributable to PPG) includes: Charges related to business restructuring163 1.06Charges related to environmental remediation99 0.64Charges related to acquisition-related costs7 0.05Adjusted net income from continuing operations (attributable to PPG)$995 $6.44Results of Reportable Business Segments Net sales Segment income(Millions)2012 2011 2012 2011Performance Coatings$4,752 $4,626 $744 $673Industrial Coatings4,379 4,158 590 438Architectural Coatings –EMEA2,147 2,104 145 123Optical and Specialty Materials1,202 1,204 348 326Glass1,032 1,061 63
+T94	Fact 38583 38647	Higher pricing was achieved by all the businesses in the segment
+T95	Fact 38659 38744	continuing efforts to offset significant inflationary impacts over the past two years
+R43	Cause Cause:T95 Effect:T94	
+T96	Fact 39994 40106	The Industrial Coatings segment’s net sales increased $221 million, or 5% from the prior year, to $4,379 million
+T97	Fact 40124 40280	higher pricing (3%), higher sales volumes (4%) and net sales from acquired businesses (1%) partially offset by unfavorable foreign currency translation (3%)
+R44	Cause Cause:T97 Effect:T96	
+T98	Fact 40282 40319	The segment sales volume growth of 4%
+T99	Fact 40334 40529	automotive OEM coatings growth especially in North America, due in part to the recovery from the 2011 Japanese tsunami as well as continued strength in China, offset by European economic weakness
+R45	Cause Cause:T99 Effect:T98	
+T100	Fact 41236 41410	the impact of higher pricing, sales volume growth and manufacturing cost savings overcame the adverse impact of inflation and higher overhead costs incurred to support growth
+T101	Fact 41150 41231	Segment income of $590 million increased $152 million, or 35% from the prior year
+R46	Cause Cause:T100 Effect:T101	
+T102	Fact 41506 41596	EMEA segment net sales increased $43 million, or 2% from the prior year, to $2,147 million
+T103	Fact 41614 41739	the acquisition of Dyrup in January 2012 (8%) partially offset by the unfavorable impact of foreign currency translation (7%)
+R47	Cause Cause:T103 Effect:T102	
+T104	Fact 41891 41972	Segment income increased $22 million, or 18% from the prior year, to $145 million
+T105	Fact 41990 42140	lower costs stemming from aggressive ongoing cost management and supplemented by the cost benefits from PPG's restructuring actions and higher pricing
+R48	Cause Cause:T105 Effect:T104	
+T106	Fact 42395 42416	a customer bankruptcy
+T107	Fact 42238 42383	In addition, an unfavorable currency translation impact of $13 million was largely offset by the absence of a $9 million charge in the prior year
+R49	Cause Cause:T106 Effect:T107	
+T108	Fact 42651 42696	Optical products achieved sales volume growth
+T109	Fact 42722 42764	higher Transitions lens market penetration
+R50	Cause Cause:T109 Effect:T108	
+T110	Fact 43003 43124	Segment income increased by $22 million, or 7% from the prior year, to $348 million as income improved in both businesses
+T111	Fact 43142 43266	higher sales volumes, overhead and manufacturing cost improvements, including restructuring cost savings, and higher pricing
+R51	Cause Cause:T111 Effect:T110	
+T112	Fact 43353 43449	Glass segment 2012 net sales decreased $29 million, or 3% from the prior year, to $1,032 million
+T113	Fact 43468 43572	ower price (3%) and unfavorable currency translation (1%), partially offset by higher sales volumes (1%)
+R52	Cause Cause:T113 Effect:T112	
+T114	Fact 43268 43294	Segment income was reduced
+T115	Fact 43298 43352	unfavorable foreign currency translation and inflation
+R53	Cause Cause:T115 Effect:T114	
+T116	Fact 43781 43814	Fiber glass volumes have declined
+T117	Fact 43822 43888	weak demand in Europe versus a strong prior year comparable period
+R54	Cause Cause:T117 Effect:T116	
+T118	Fact 43984 44001	net sales decline
+T119	Fact 43890 43973	Lower pricing in both businesses and the unfavorable impact of currency translation
+R55	Cause Cause:T119 Effect:T118	
+T120	Fact 44084 44279	Lower pricing, cost inflation, as well as lower equity earnings, primarily related to our fiber glass joint venture selling to the consumer electronics industry, contributed to the income decline
+T121	Fact 44003 44082	Segment income declined $34 million, or 35% from the prior year, to $63 million
+R56	Cause Cause:T120 Effect:T121	
+T122	Fact 48776 48842	A charge of $145 million was recorded in the first quarter of 2012
+T123	Fact 48858 48991	updated information the Company compiled about the sites that was used to develop a new estimate of the cost to remediate these sites
+R57	Cause Cause:T123 Effect:T122	
+T124	Fact 50408 50439	income from acquired businesses
+T125	Fact 50288 50387	Cash from operations in 2013 compared to 2012 was aided by higher income from continuing operations
+R58	Cause Cause:T124 Effect:T125	
+T126	Fact 55092 55159	In addition, about 10.8 million shares were added to treasury stock
+T127	Fact 55175 55280	the January 2013 exchange transaction that was part of the separation of the commodity chemicals business
+R59	Cause Cause:T127 Effect:T126	
+T128	Remove 59697 60004	Long-term debt$3,346 $1 $816 $774 $1,755 Short-term debt30 30 — — — Capital lease obligations30 2 5 5 18 Operating leases910 216 314 203 177 Interest payments(1)1,432 166 294 222 750 Pension contributions(2)25 25 — — — Unconditional purchase commitments325 163 93 26 43 Total$6,098 $603 $1,522 $1,230 $2,743
+T129	Remove 60054 60139	$825 $485 $21 $91 $228 PPG stock and other278 278 — — — Total$1,103 $763 $21 $91 $228
+T130	Fact 68967 69171	From December 31, 2012 to December 31, 2013, the U.S. dollar strengthened against certain currencies in the countries in which PPG operates, while weakening against others, the most notable being the Euro
+T131	Fact 69173 69286	As a result, consolidated net assets at December 31, 2013 decreased by $44 million, compared to December 31, 2012
+R60	Cause Cause:T130 Effect:T131	
+T132	Fact 69840 69918	A $141 million increase in PPG consolidated net assets and shareholders equity
+T133	Fact 69933 70049	translating PPG’s foreign denominated net assets to U.S. dollars at December 31, 2012, compared to December 31, 2011
+R61	Cause Cause:T133 Effect:T132	
+T134	Fact 70606 70685	A $188 million decrease in PPG consolidated net assets and shareholders' equity
+T135	Fact 70700 70816	translating PPG’s foreign denominated net assets to U.S. dollars at December 31, 2011, compared to December 31, 2010
+R62	Cause Cause:T135 Effect:T134	
+T136	Verified 0 6	Item 7

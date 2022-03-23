@@ -1,0 +1,176 @@
+T1	Fact 3432 3478	2020 ResultsNet sales were positively impacted
+T2	Fact 3482 3529	increased sales volume across our two segments.
+R1	Cause Cause:T2 Effect:T1	
+T3	Fact 3650 3720	Our Plumbing Products segment operating profit was positively impacted
+T4	Fact 3724 3839	cost saving initiatives, including actions taken to mitigate the COVID-19 pandemic impact, and higher sales volume.
+R2	Cause Cause:T4 Effect:T3	
+T5	Fact 4004 4066	Our Decorative Architectural Products segment operating profit
+T6	Fact 4092 4263	higher sales volume mostly due to paints and other coating products, as well as cost savings initiatives, including actions taken to mitigate the COVID-19 pandemic impact.
+R3	Cause Cause:T6 Effect:T5	
+T7	Fact 26286 26427	On September 29, 2020, proceeds from the debt issuances were used to repay and early retire $400 million of our 3.5% Notes due April 1, 2021.
+T8	Fact 26428 26610	In connection with this early retirement, we incurred a loss on debt extinguishment of $6 million, which was recorded as interest expense in our consolidated statement of operations.
+R4	Cause Cause:T8 Effect:T7	
+T9	Fact 26610 26708	On December 19, 2019, we redeemed and retired $201 million of our 7.125% Notes due March 15, 2020.
+T10	Fact 26709 26891	In connection with this early retirement, we incurred a loss on debt extinguishment of $2 million, which was recorded as interest expense in our consolidated statement of operations.
+R5	Cause Cause:T10 Effect:T9	
+T11	Fact 28592 28659	During 2020, we completed the divestiture of our Cabinetry business
+T12	Fact 28664 28711	proceeds of $853 million, net of cash disposed.
+T13	Fact 28711 28849	During 2019, we completed the divestitures of our Milgard Windows and Doors business ("Milgard") and our UK Window Group business ("UKWG")
+T14	Fact 28854 28887	combined proceeds of $722 million
+R6	Cause Cause:T11 Effect:T12	
+R7	Cause Cause:T13 Effect:T14	
+T17	Fact 29389 29608	Our Board of Directors authorized the repurchase, for retirement, of up to $2.0 billion shares of our common stock in open-market transactions or otherwise, effective February 10, 2021, replacing the 2019 authorization.
+T18	Fact 29608 29823	During 2019, we repurchased and retired 20.1 million shares of our common stock (including 0.6 million shares to offset the dilutive impact of long-term stock awards granted in 2019), for approximately $896 million.
+R9	Cause Cause:T17 Effect:T18	
+T15	Fact 28888 29082	Share RepurchasesIn September 2019, our Board of Directors authorized the repurchase, for retirement, of up to $2.0 billion of shares of our common stock in open-market transactions or otherwise
+T16	Fact 29083 29306	During 2020, we repurchased and retired 18.8 million shares of our common stock (including 0.4 million shares to offset the dilutive impact of restricted stock units granted during the year), for approximately $727 million.
+R8	Cause Cause:T15 Effect:T16	
+T19	Fact 34628 34675	Net cash provided by operations of $953 million
+T20	Fact 34699 35004	net income adjusted for certain non-cash items, including depreciation and amortization expense of $133 million and stock-based compensation expense, as well as changes in working capital amounts and employee withholding taxes paid on stock-based compensation, which is classified as a financing activity.
+R10	Cause Cause:T20 Effect:T19	
+T21	Fact 35144 35199	Net cash used for financing activities was $886 million
+T22	Fact 35218 35617	$727 million for the repurchase and retirement of Company common stock (as part of our strategic initiative to drive shareholder value), $400 million for the early retirement of our 3.5% Notes due April 1, 2021, $145 million for the payment of cash dividends, $25 million for employee withholding taxes paid on stock-based compensation and $23 million for dividends paid to noncontrolling interests.
+R11	Cause Cause:T22 Effect:T21	
+T23	Fact 35910 35968	Net cash provided by investing activities was $531 million
+T24	Fact 35990 36064	$870 million of proceeds from the sale of Cabinetry, net of cash disposed.
+R12	Cause Cause:T24 Effect:T23	
+T25	Fact 38929 39034	Sales and OperationsNet sales for 2020 were $7.2 billion, which increased seven percent compared to 2019.
+T26	Fact 39035 39115	Excluding the effect of currency translation, net sales increased seven percent.
+R13	Cause Cause:T25 Effect:T26	
+T27	Fact 39399 39441	Net sales for 2020 increased seven percent
+T28	Fact 39459 39638	higher sales volume of our paints and other coating products, plumbing products, and to a lesser extent, builders' hardware, which, in aggregate, increased sales by eight percent.
+R14	Cause Cause:T28 Effect:T27	
+T29	Fact 39782 39893	Our gross profit margins were 36.0 percent, 35.4 percent and 35.0 percent in 2020, 2019 and 2018, respectively.
+T30	Fact 39894 40068	The 2020 gross profit margin was positively impacted by increased sales volume and cost savings initiatives, including actions taken to mitigate the COVID-19 pandemic impact.
+R15	Cause Cause:T30 Effect:T29	
+T31	Fact 40205 40358	Selling, general and administrative expenses as a percent of sales were 18.0 percent in 2020 compared with 19.0 percent in 2019 and 18.8 percent in 2018.
+T32	Remove 40203 40205	26
+T33	Fact 40359 40648	The decrease in selling, general, and administrative expenses as a percentage of sales in 2020 was primarily driven by cost containment activities including those actions taken to mitigate the COVID-19 pandemic impact and leverage of fixed expenses due primarily to increased sales volume.
+R16	Cause Cause:T33 Effect:T31	
+T34	Fact 41252 41300	Operating profit in 2020 was positively affected
+T35	Fact 41304 41422	increased sales volume and cost savings initiatives, including actions taken to mitigate the COVID-19 pandemic impact.
+R17	Cause Cause:T35 Effect:T34	
+T36	Remove 40905 41252	202020192018Operating profit, as reported$1,295 $1,088 $1,077 Rationalization charges11 13 9 Kichler inventory step up adjustment— — 40 Impairment charge for other intangible assets— 9 — Operating profit, as adjusted$1,306 $1,110 $1,126 Operating profit margins, as reported18.0 %16.2 %16.2 %Operating profit margins, as adjusted18.2 %16.5 %16.9 %
+T37	Fact 42613 42696	Our effective tax rate in 2020 was lower than our normalized tax rate of 25 percent
+T38	Fact 42714 43135	a $5 million income tax benefit from a change in judgment regarding the realizability of certain deferred tax assets in our foreign jurisdictions, an additional $4 million tax benefit from stock-based compensation payments and a $6 million tax benefit due to an anticipated refund claim from the retroactive application of the exclusion of certain high-taxed foreign income from the U.S. tax effects on GILTI back to 2018
+R18	Cause Cause:T38 Effect:T37	
+T39	Fact 43136 43219	Our effective tax rate in 2018 was lower than our normalized tax rate of 25 percent
+T40	Fact 43237 43595	an additional $14 million tax benefit from stock-based compensation payments, partially offset by a $6 million tax expense recognized on GILTI, prior to the retroactive exclusion of certain high-taxed foreign income as allowed under the recently issued IRS guidance in 2020.Refer to Note S to the consolidated financial statements for additional information.
+R19	Cause Cause:T40 Effect:T39	
+T41	Fact 46508 46603	Plumbing ProductsSalesNet sales in the Plumbing Products segment increased four percent in 2020
+T42	Fact 46621 46710	higher sales volume of North American operations, which increased sales by three percent.
+R20	Cause Cause:T42 Effect:T41	
+T43	Fact 46789 46887	Operating ResultsOperating profit in the Plumbing Products segment in 2020 was positively impacted
+T44	Fact 46891 47036	cost savings initiatives, including actions taken to mitigate the COVID-19 pandemic impact, higher sales volume and favorable net selling prices.
+R21	Cause Cause:T44 Effect:T43	
+T45	Fact 47201 47326	Decorative Architectural ProductsSalesNet sales in the Decorative Architectural Products segment increased 12 percent in 2020
+T46	Fact 47342 47451	higher sales volume of paints and other coating products, and to a lesser extent, builders' hardware products
+R22	Cause Cause:T46 Effect:T45	
+T47	Fact 48535 48600	In 2020, 2019 and 2018, we incurred net pre-tax costs and charges
+T48	Fact 48612 48688	these initiatives of $11 million, $13 million, and $9 million, respectively.
+R23	Cause Cause:T48 Effect:T47	
+T49	Fact 48901 49141	During 2020, 2019 and 2018, our Plumbing Products segment incurred costs and charges of $7 million, $13 million and $9 million, respectively and our Decorative Architectural Products segment incurred costs and charges of $4 million in 2020.
+T50	Fact 49142 49248	The 2020 costs primarily related to business and plant consolidation and severance costs in North America.
+R24	Cause Cause:T50 Effect:T49	
+T51	Fact 49670 49766	Operating ResultsOperating profit from North American operations in 2020 was positively affected
+T52	Fact 49770 49927	higher sales volume, cost savings initiatives, including actions taken to mitigate the COVID-19 pandemic impact and favorable sales mix of plumbing products.
+R25	Cause Cause:T52 Effect:T51	
+T53	Fact 49928 49982	Additionally, operating profit was positively impacted
+T54	Fact 49986 50146	the non-recurrence of a 2019 non-cash impairment charge related to an other indefinite-lived intangible asset for a trademark associated with lighting products.
+R26	Cause Cause:T54 Effect:T53	
+T55	Fact 50292 50345	Additionally, operating profit was adversely impacted
+T56	Fact 50349 50478	higher fixed expenses in our lighting business, and an increase in other expenses (such as salaries, legal costs and advertising)
+R27	Cause Cause:T56 Effect:T55	
+T57	Fact 50576 50715	In local currencies (including sales in foreign currencies outside their respective functional currencies), net sales decreased one percent
+T58	Fact 50723 50845	unfavorable sales mix of plumbing products that was partially offset by favorable net selling prices of plumbing products.
+R28	Cause Cause:T58 Effect:T57	
+T59	Fact 50845 50940	Operating ResultsOperating profit from International operations in 2020 was positively impacted
+T60	Fact 50944 51068	cost savings initiatives, including actions taken to mitigate the COVID-19 pandemic impact, and favorable net selling prices
+R29	Cause Cause:T60 Effect:T59	
+T61	Fact 104487 104585	In connection with this acquisition, we recognized $10 million of definite-lived intangible assets
+T62	Fact 104608 104725	technology, which is being amortized on a straight-line basis over a weighted average amortization period of 5 years.
+R30	Cause Cause:T61 Effect:T62	
+T63	Fact 104726 104797	We also recognized $14 million of goodwill, which is not tax deductible
+T64	Fact 104827 104897	the expected synergies from combining the operations into our business
+R31	Cause Cause:T64 Effect:T63	
+T65	Fact 106167 106244	We also recognized $20 million of goodwill, which is generally tax deductible
+T66	Fact 106274 106345	the expected synergies from combining the operations into our business.
+R32	Cause Cause:T66 Effect:T65	
+T67	Fact 107343 107419	We also recognized $7 million of goodwill, which is generally tax deductible
+T68	Fact 107449 107520	the expected synergies from combining the operations into our business.
+R33	Cause Cause:T68 Effect:T67	
+T69	Fact 109557 109613	The goodwill acquired, which is generally tax deductible
+T70	Fact 109639 109789	the operational and financial synergies we expect to derive from combining Kichler's operations into our business, as well as the assembled workforce.
+R34	Cause Cause:T70 Effect:T69	
+T71	Remove 109313 109556	InitialFinalReceivables$101 $100 Inventories173 166 Prepaid expenses and other5 5 Property and equipment33 33 Goodwill46 64 Other intangible assets243 240 Accounts payable(24)(24)Accrued liabilities(25)(30)Other liabilities(4)(5)Total$548 $549
+T72	Fact 109790 109887	The other intangible assets acquired consist of $59 million of indefinite-lived intangible assets
+T73	Fact 109909 109974	trademarks, and $181 million of definite-lived intangible assets.
+R35	Cause Cause:T73 Effect:T72	
+T74	Fact 109975 110035	The definite-lived intangible assets consist of $145 million
+T75	Fact 110047 110279	customer relationships, which is being amortized on a straight-line basis over 20 years, and $36 million of other definite-lived intangible assets, which is being amortized over a weighted average amortization period of three years.
+R36	Cause Cause:T75 Effect:T74	
+T76	Fact 110295 110547	On September 6, 2019, we completed the divestiture of our UK Window Group business ("UKWG"), a manufacturer and distributor of windows and doors, for proceeds of approximately $8 million, of which $2 million net of cash disposed was received upon sale.
+T77	Fact 110682 110892	In connection with the sale, we recognized a loss of $70 million for the year ended December 31, 2019, which is included in income from discontinued operations, net in the consolidated statements of operations.
+R37	Cause Cause:T76 Effect:T77	
+T78	Fact 110892 111114	On November 6, 2019, we completed the divestiture of our Milgard Windows and Doors business ("Milgard"), a manufacturer and distributor of windows and doors for proceeds of approximately $720 million, net of cash disposed.
+T79	Fact 111115 111344	In connection with the sale, we recognized a gain on the divestiture of $368 million for the year ended December 31, 2019, which is included in income from discontinued operations, net in the consolidated statement of operations.
+R38	Cause Cause:T78 Effect:T79	
+T80	Fact 112420 112561	On November 14, 2019, we entered into a definitive agreement to sell Masco Cabinetry LLC ("Cabinetry"), a manufacturer of cabinetry products.
+T81	Fact 112562 112714	We completed the divestiture of Cabinetry on February 18, 2020 for proceeds of approximately $989 million, including $853 million, net of cash disposed.
+R39	Cause Cause:T81 Effect:T80	
+T82	Fact 113009 113036	In connection with the sale
+T83	Fact 113038 113238	we recognized a gain on the divestiture of $585 million for the year ended December 31, 2020, which is included in income from discontinued operations, net in the consolidated statement of operations.
+R40	Cause Cause:T82 Effect:T83	
+T84	Fact 115410 115502	In the first quarter of 2019, we recognized a $7 million non-cash goodwill impairment charge
+T85	Fact 115514 115605	a decline in the long-term outlook of our windows and doors business in the United Kingdom.
+R41	Cause Cause:T85 Effect:T84	
+T86	Fact 118226 118341	We recognized increases to revenue of $7 million, $2 million, and $4 million in 2020, 2019, and 2018, respectively,
+T87	Fact 118380 118432	performance obligations settled in previous periods.
+R42	Cause Cause:T87 Effect:T86	
+T88	Remove 117575 118225	Year Ended December 31, 2020Plumbing ProductsDecorative Architectural ProductsTotalPrimary geographic markets:North America$2,753 $3,052 $5,805 International, principally Europe1,383 — 1,383 Total$4,136 $3,052 $7,188 Year Ended December 31, 2019Plumbing ProductsDecorative Architectural ProductsTotalPrimary geographic markets:North America$2,605 $2,723 $5,328 International, principally Europe1,379 — 1,379 Total$3,984 $2,723 $6,707 Year Ended December 31, 2018Plumbing ProductsDecorative Architectural ProductsTotalPrimary geographic markets:North America$2,552 $2,656 $5,208 International, principally Europe1,446 — 1,446 Total$3,998 $2,656 $6,654
+T89	Fact 124181 124217	As a result of our 2020 acquisitions
+T90	Fact 124219 124313	other indefinite-lived intangible assets increased by $32 million as of the acquisition dates.
+R43	Cause Cause:T89 Effect:T90	
+T91	Fact 124314 124392	During the first quarter of 2019, we recognized a $9 million impairment charge
+T92	Fact 124404 124552	a registered trademark in our Decorative Architectural Products segment due to a change in the long-term net sales projections of lighting products.
+R44	Cause Cause:T92 Effect:T91	
+T93	Fact 125425 125462	As a result of our 2020 acquisitions,
+T94	Fact 125463 125550	definite-lived intangible assets increased by $86 million, as of the acquisition dates.
+R45	Cause Cause:T93 Effect:T94	
+T95	Fact 132648 132789	On September 29, 2020, proceeds from the debt issuances were used to repay and early retire $400 million of our 3.5% Notes due April 1, 2021.
+T96	Fact 132790 132972	In connection with this early retirement, we incurred a loss on debt extinguishment of $6 million, which was recorded as interest expense in our consolidated statement of operations.
+R46	Cause Cause:T95 Effect:T96	
+T97	Fact 132972 133130	On December 19, 2019, proceeds from the UKWG and Milgard divestitures were used to repay and early retire $201 million of our 7.125% Notes due March 15, 2020.
+T98	Fact 133131 133350	In connection with this early retirement, we incurred a loss on debt extinguishment of $2 million for the year ended December 31, 2019, which was recorded as interest expense in our consolidated statement of operations.
+R47	Cause Cause:T97 Effect:T98	
+T99	Fact 141261 141462	At December 31, 2020, 2019 and 2018, there was $6 million, $9 million and $8 million, respectively, of unrecognized compensation expense (using the Black-Scholes option pricing model at the grant date)
+T100	Fact 141474 141644	unvested stock options; such options had a weighted average remaining vesting period of two years at December 31, 2020 and three years at both December 31, 2019 and 2018.
+R48	Cause Cause:T100 Effect:T99	
+T101	Fact 143065 143144	At December 31, 2020, there was $7 million of unrecognized compensation expense
+T102	Fact 143156 143296	unvested restricted stock units; such units had a weighted average remaining vesting period of two years.Performance Restricted Stock Units.
+R49	Cause Cause:T102 Effect:T101	
+T103	Fact 144961 145052	We recognized expense of $4 million in both 2020 and 2019, and income of $1 million in 2018
+T104	Fact 145064 145085	phantom stock awards.
+R50	Cause Cause:T104 Effect:T103	
+T105	Fact 157745 157813	The decrease in the weighted average discount rate from 2019 to 2020
+T106	Fact 157836 157887	lower long-term interest rates in the bond markets.
+R51	Cause Cause:T106 Effect:T105	
+T107	Fact 157888 157956	The decrease in the weighted average discount rate from 2018 to 2019
+T108	Fact 157998 158125	terminate the domestic qualified defined-benefit pension plans, as well as, lower long-term interest rates in the bond markets.
+R52	Cause Cause:T108 Effect:T107	
+T109	Fact 160540 160646	As such, and as a result of the decision to terminate the domestic qualified defined-benefit pension plans
+T110	Fact 160648 160692	we sold most of our alternative investments.
+R53	Cause Cause:T109 Effect:T110	
+T111	Fact 167128 167334	In addition, as of March 31, 2018, we adopted ASU 2018-02, "Income Statement-Reporting Comprehensive Income (Topic 220): Reclassification of Certain Tax Effects from Accumulated Other Comprehensive Income."
+T112	Fact 167335 167542	As a result of the adoption, we reclassified $59 million of the disproportionate tax benefit related to various defined-benefit plans from accumulated other comprehensive loss to retained earnings (deficit).
+R54	Cause Cause:T111 Effect:T112	
+T113	Fact 175125 175225	The deferred portion of the state and local taxes includes a $1 million tax benefit in 2019 and 2018
+T114	Fact 175242 175318	changes in valuation allowances against state and local deferred tax assets.
+R55	Cause Cause:T114 Effect:T113	
+T115	Fact 175319 175444	The deferred portion of the foreign taxes includes a $5 million, $4 million and $2 million tax benefit in 2020, 2019 and 2018
+T116	Fact 175465 175537	a change in the valuation allowances against foreign deferred tax assets
+R56	Cause Cause:T116 Effect:T115	
+T117	Fact 186910 187044	In connection with this acquisition, we currently anticipate recognizing approximately $30 million of definite-lived intangible assets
+T118	Fact 187067 187089	customer relationships
+R57	Cause Cause:T118 Effect:T117	
+T119	Verified 0 7	Item 7.

@@ -1,0 +1,237 @@
+T1	Fact 8005 8043	Revenues increased 17% for fiscal 2021
+T2	Fact 8055 8098	growth in both the NIKE Brand and Converse.
+R1	Cause Cause:T2 Effect:T1	
+T3	Fact 8375 8462	On a currency-neutral basis, NIKE Brand footwear revenues increased 18% for fiscal 2021
+T4	Fact 8474 8553	growth in nearly all key categories, primarily Sportswear and the Jordan Brand.
+R2	Cause Cause:T4 Effect:T3	
+T5	Fact 8554 8749	Unit sales of footwear increased 11%, while higher average selling price (ASP), on a wholesale equivalent basis, per pair contributed approximately 7 percentage points of footwear revenue growth.
+T6	Fact 8750 8947	The increase in ASP was primarily due to higher full-price ASP, in part reflecting lower discounts, as well as higher NIKE Direct ASP and the favorable impact of growth in our NIKE Direct business.
+R3	Cause Cause:T6 Effect:T5	
+T7	Fact 8947 9021	Currency-neutral NIKE Brand apparel revenues increased 15% for fiscal 2021
+T8	Fact 9030 9121	growth in all key categories, primarily Sportswear, Football (Soccer) and the Jordan Brand.
+R4	Cause Cause:T8 Effect:T7	
+T9	Fact 9122 9256	Unit sales of apparel increased 14%, while higher ASP per unit contributed approximately 1 percentage point of apparel revenue growth.
+T10	Fact 9257 9434	The increase in ASP was primarily due to the favorable impact of growth in our NIKE Direct business, as well as higher NIKE Direct ASP, partially offset by lower full-price ASP.
+R5	Cause Cause:T10 Effect:T9	
+T11	Fact 9687 9766	On a currency-neutral basis, NIKE Direct revenues increased 30% for fiscal 2021
+T12	Fact 9778 9890	strong digital commerce sales growth of 60%, comparable store sales growth of 4% and the addition of new stores.
+R6	Cause Cause:T12 Effect:T11	
+T13	Fact 10900 11015	On a currency-neutral basis, fiscal 2021 NIKE Brand Men's and Women's revenues increased 11% and 20%, respectively.
+T14	Fact 11016 11161	Higher NIKE Brand Men's revenues were driven by growth in nearly all key categories, primarily Sportswear, the Jordan Brand and Football (Soccer)
+R7	Cause Cause:T14 Effect:T13	
+T15	Fact 11163 11304	Higher NIKE Brand Women's revenues were driven by growth in all key categories, primarily Sportswear, the Jordan Brand, Training and Running.
+R8	Cause Cause:T15 Effect:T13	
+T16	Fact 11305 11355	Revenues for our NIKE Kids' business increased 15%
+T17	Fact 11364 11422	growth primarily in the Jordan Brand and Football (Soccer)
+R9	Cause Cause:T17 Effect:T16	
+T18	Fact 11505 11628	For fiscal 2021, our consolidated gross profit increased 23% to $19,962 million compared to $16,241 million for fiscal 2020
+T19	Fact 11633 11797	the prior fiscal year was significantly impacted by lower shipments to our wholesale customers and store closures within our NIKE Direct operations due to COVID-19.
+R10	Cause Cause:T19 Effect:T18	
+T20	Remove 11423 11505	2021 FORM 10-K 33 Table of ContentsGROSS MARGINFISCAL 2021 COMPARED TO FISCAL 2020
+T21	Fact 11798 11896	Gross margin increased 140 basis points to 44.8% for fiscal 2021 compared to 43.4% for fiscal 2020
+T22	Fact 11904 12097	the following:*Wholesale equivalentFavorable NIKE Brand full-price product margins across both our wholesale and NIKE Direct businesses primarily reflect higher full-price ASP, net of discounts
+R11	Cause Cause:T22 Effect:T21	
+T23	Fact 13253 13306	Demand creation expense decreased 13% for fiscal 2021
+T24	Fact 13315 13492	lower marketing and advertising expenses for our brand events and retail operations, as well as lower sports marketing expense as sporting events were postponed due to COVID-19.
+R12	Cause Cause:T24 Effect:T23	
+T25	Remove 12645 13253	TOTAL SELLING AND ADMINISTRATIVE EXPENSE(Dollars in millions)FISCAL 2021FISCAL 2020% CHANGEFISCAL 2019% CHANGEDemand creation expense(1)$3,114 $3,592 -13 %$3,753 -4 %Operating overhead expense9,911 9,534 4 %8,949 7 %Total selling and administrative expense$13,025 $13,126 -1 %$12,702 3 %% of revenues29.2 %35.1 %(590) bps32.5 %260 bps(1)Demand creation expense consists of advertising and promotion costs, including costs of endorsement contracts, complimentary product, television, digital and print advertising and media costs, brand events and retail brand presentation.FISCAL 2021 COMPARED TO FISCAL 2020
+T26	Fact 13699 13754	Operating overhead expense increased 4% for fiscal 2021
+T27	Fact 13763 13991	an increase in strategic technology investments, higher NIKE Direct variable costs, and approximately $255 million in restructuring-related costs, partially offset by lower bad debt expense and lower travel and related expenses.
+R13	Cause Cause:T27 Effect:T26	
+T28	Fact 14661 14810	Other (income) expense, net decreased from $139 million of other expense, net in fiscal 2020 to $14 million of other expense, net in the current year
+T29	Fact 14829 15119	the non-recurring impairment charge of $405 million incurred in the prior year associated with our planned, strategic distributor partnership transition within APLA, partially offset by a $241 million net detrimental change in foreign currency conversion gains and losses, including hedges.
+R14	Cause Cause:T29 Effect:T28	
+T30	Fact 15795 15878	Our effective tax rate was 14.0% for fiscal 2021, compared to 12.1% for fiscal 2020
+T31	Fact 15886 16088	a change in the proportion of earnings taxed in the U.S. related to the recovery from the impact of the COVID-19 pandemic and less favorable impacts from discrete items such as stock-based compensation.
+R15	Cause Cause:T31 Effect:T30	
+T32	Fact 23258 23292	NIKE Direct revenues increased 37%
+T33	Fact 23304 23407	strong digital sales growth of 73%, comparable store sales growth of 5% and the addition of new stores.
+R16	Cause Cause:T33 Effect:T32	
+T34	Fact 23407 23466	Footwear revenues increased 25% on a currency-neutral basis
+T35	Fact 23474 23556	higher revenues in several key categories, led by Sportswear and the Jordan Brand.
+R17	Cause Cause:T35 Effect:T34	
+T36	Fact 23557 23694	Unit sales of footwear increased 17%, while higher ASP per pair contributed approximately 8 percentage points of footwear revenue growth.
+T37	Fact 23695 23882	Higher ASP per pair was primarily due to higher NIKE Direct and full-price ASPs, in part reflecting lower-discounts, as well as the favorable impact of growth in our NIKE Direct business.
+R18	Cause Cause:T37 Effect:T36	
+T38	Fact 23882 23956	On a currency-neutral basis, apparel revenues increased 8% for fiscal 2021
+T39	Fact 23967 24015	growth in all key categories, led by Sportswear.
+R19	Cause Cause:T39 Effect:T38	
+T40	Fact 24179 24206	Reported EBIT increased 76%
+T41	Fact 24217 24327	higher revenues, lower selling and administrative expense as a percent of revenues and gross margin expansion.
+R20	Cause Cause:T41 Effect:T40	
+T42	Fact 24328 24381	Gross margin increased approximately 430 basis points
+T43	Fact 24400 24553	lower other costs, higher full-price ASP, reflecting lower discounts, the favorable impact of growth in our NIKE Direct business and lower product costs.
+R21	Cause Cause:T43 Effect:T42	
+T44	Fact 24554 24581	The decrease in other costs
+T45	Fact 24603 24841	annualizing the impacts of COVID-19 from fiscal 2020, including lower factory cancellation charges, lower inventory obsolescence reserves and the favorable rate impact of fixed supply chain costs on a higher volume of wholesale shipments.
+R22	Cause Cause:T45 Effect:T44	
+T46	Fact 24842 24886	Selling and administrative expense decreased
+T47	Fact 24894 24947	lower operating overhead and demand creation expense.
+R23	Cause Cause:T47 Effect:T46	
+T48	Fact 24948 24984	Operating overhead expense decreased
+T49	Fact 25010 25106	lower bad debt and wage-related expenses, partially offset by higher NIKE Direct variable costs.
+R24	Cause Cause:T49 Effect:T48	
+T50	Fact 25107 25146	The decrease in demand creation expense
+T51	Fact 25168 25395	lower advertising and marketing expense for brand events and our retail operations, as well as lower sports marketing expense, partially offset by continued investments in digital marketing to support heightened digital demand.
+R25	Cause Cause:T51 Effect:T50	
+T52	Fact 26072 26139	On a currency-neutral basis, EMEA revenues for fiscal 2021 grew 17%
+T53	Fact 26151 26275	higher revenues across nearly all territories, led by UK & Ireland and Central Europe, which grew 34% and 20%, respectively.
+R26	Cause Cause:T53 Effect:T52	
+T54	Fact 26276 26357	Revenues increased in all key categories, led by Sportswear and the Jordan Brand.
+T55	Fact 26358 26651	NIKE Direct revenues increased 25%, driven by strong digital sales growth of 67%, partially offset by a 10% decline in comparable store sales, primarily due to reduced physical retail traffic, in part resulting from temporary store closures and safety-related measures in response to COVID-19.
+R27	Cause Cause:T55 Effect:T54	
+T56	Fact 26651 26699	Currency-neutral footwear revenues increased 13%
+T57	Fact 26711 26796	higher revenues in nearly all key categories, led by Sportswear and the Jordan Brand.
+R28	Cause Cause:T57 Effect:T56	
+T58	Fact 26797 26902	Unit sales of footwear increased 9% and higher ASP per pair contributed approximately 4 percentage points
+T59	Fact 26919 27004	higher full-price ASP and the favorable impact of growth in our NIKE Direct business.
+R29	Cause Cause:T59 Effect:T58	
+T60	Fact 27004 27051	Currency-neutral apparel revenues increased 25%
+T61	Fact 27059 27129	growth in all key categories, led by Sportswear and Football (Soccer).
+R30	Cause Cause:T61 Effect:T60	
+T62	Fact 27130 27253	Unit sales of apparel increased 26%, while lower ASP per unit reduced apparel revenues by approximately 1 percentage point.
+T63	Fact 27254 27541	Lower ASP per unit was primarily due to a lower mix of NIKE Direct sales, partially offset by higher full-price ASP, in part reflecting lower discounts.Reported EBIT increased 58% as higher revenues and lower selling and administrative expense more than offset a decline in gross margin.
+R31	Cause Cause:T63 Effect:T62	
+T64	Fact 27542 27595	Gross margin decreased approximately 110 basis points
+T65	Fact 27613 27773	lower NIKE Direct margins and unfavorable changes in standard foreign currency exchange rates, which more than offset lower product costs and lower other costs.
+R32	Cause Cause:T65 Effect:T64	
+T66	Fact 28017 28122	Selling and administrative expense decreased due to lower demand creation and operating overhead expense.
+T67	Fact 28123 28260	The decrease in demand creation expense was primarily driven by lower retail brand presentation costs and lower sports marketing expense.
+R33	Cause Cause:T67 Effect:T66	
+T68	Fact 29070 29151	On a currency-neutral basis, Greater China revenues for fiscal 2021 increased 19%
+T69	Fact 29163 29258	higher revenues in all key categories, led by Sportswear, the Jordan Brand and NIKE Basketball.
+R34	Cause Cause:T69 Effect:T68	
+T70	Fact 29259 29293	NIKE Direct revenues increased 26%
+T71	Fact 29305 29402	digital sales growth of 26%, comparable store sales growth of 22% and the addition of new stores.
+R35	Cause Cause:T71 Effect:T70	
+T72	Fact 29402 29450	Currency-neutral footwear revenues increased 19%
+T73	Fact 29462 29548	growth in all key categories, led by Sportswear, the Jordan Brand and NIKE Basketball.
+R36	Cause Cause:T73 Effect:T72	
+T74	Fact 29549 29673	Unit sales of footwear increased 20%, while lower ASP per pair reduced footwear revenues by approximately 1 percentage point
+T75	Fact 29685 29782	an unfavorable full-price mix, partially offset by higher full-price ASP, due to lower discounts.
+R37	Cause Cause:T75 Effect:T74	
+T76	Fact 29782 29828	Currency-neutral apparel revenue growth of 19%
+T77	Fact 29843 29913	higher revenues in nearly all key categories, most notably Sportswear.
+R38	Cause Cause:T77 Effect:T76	
+T78	Fact 29914 30048	Unit sales of apparel increased 18%, while higher ASP per unit contributed approximately 1 percentage point of apparel revenue growth.
+T79	Fact 30049 30229	Higher ASP was driven by higher off-price ASP, partially offset by lower NIKE Direct ASP due to higher levels of promotion to liquidate excess inventory through our factory stores.
+R39	Cause Cause:T79 Effect:T78	
+T80	Fact 30229 30256	Reported EBIT increased 30%
+T81	Fact 30260 30363	higher revenues and lower selling and administrative expense more than offset a decline in gross margin
+R40	Cause Cause:T81 Effect:T80	
+T82	Fact 30365 30418	Gross margin decreased approximately 200 basis points
+T83	Fact 30436 30525	unfavorable changes in standard foreign currency exchange rates and higher product costs.
+R41	Cause Cause:T83 Effect:T82	
+T84	Fact 30526 30570	Selling and administrative expense decreased
+T85	Fact 30578 30663	lower demand creation expense, partially offset by higher operating overhead expense.
+R42	Cause Cause:T85 Effect:T84	
+T86	Fact 30664 30697	Demand creation expense decreased
+T87	Fact 30715 30786	lower advertising and marketing, as well as digital marketing expenses.
+R43	Cause Cause:T87 Effect:T86	
+T88	Fact 30787 30823	Growth in operating overhead expense
+T89	Fact 30838 30891	higher investments within our NIKE Direct operations.
+R44	Cause Cause:T89 Effect:T88	
+T90	Fact 32161 32233	On a currency-neutral basis, APLA revenues increased 8% for fiscal 2021.
+T91	Remove 31990 32161	For more information see Note 20 — Acquisitions and Divestitures within the accompanying Notes to the Consolidated Financial Statements.FISCAL 2021 COMPARED TO FISCAL 2020
+T92	Fact 32234 32488	The increase was due to higher revenues across most territories, led by a 15% increase in Japan, a 37% increase in Pacific, which includes Australia and New Zealand, and a 12% increase in Korea, partially offset by a decline in Latin Distributors of 48%.
+R45	Cause Cause:T92 Effect:T90	
+T93	Fact 32666 32748	Revenues increased in most key categories, led by Sportswear and the Jordan Brand.
+T94	Fact 32749 33018	NIKE Direct revenues increased 22%, primarily fueled by strong digital sales growth of 73%, partially offset by comparable store sales declines of 4%, largely due to reduced physical retail traffic, in part resulting from safety-related measures in response to COVID-19
+R46	Cause Cause:T94 Effect:T93	
+T95	Fact 33019 33082	Currency-neutral footwear revenues increased 8% for fiscal 2021
+T96	Fact 33090 33174	higher revenues in several key categories, primarily the Jordan Brand and Sportswear
+R47	Cause Cause:T96 Effect:T95	
+T97	Fact 33176 33312	Unit sales of footwear decreased 5%, while higher ASP per pair contributed approximately 13 percentage points of footwear revenue growth
+T98	Fact 33324 33545	higher full-price and NIKE Direct ASPs, in part reflecting inflationary conditions in our SOCO territory, which includes Argentina, Chile and Uruguay, as well as the favorable impact of growth in our NIKE Direct business.
+R48	Cause Cause:T98 Effect:T97	
+T99	Fact 33545 33608	Currency-neutral apparel revenues increased 10% for fiscal 2021
+T100	Fact 33616 33674	higher revenues in most key categories, led by Sportswear.
+R49	Cause Cause:T100 Effect:T99	
+T101	Fact 33675 33809	Unit sales of apparel increased 5%, while higher ASP per unit contributed approximately 5 percentage points of apparel revenue growth.
+T102	Fact 33810 33942	Higher ASP per unit was primarily driven by higher full-price ASP, in part reflecting inflationary conditions in our SOCO territory.
+R50	Cause Cause:T102 Effect:T101	
+T103	Fact 33942 33985	Reported EBIT increased 29% for fiscal 2021
+T104	Fact 33996 34081	higher revenues, lower selling and administrative expense and gross margin expansion.
+R51	Cause Cause:T104 Effect:T103	
+T105	Fact 34415 34442	The decrease in other costs
+T106	Fact 34464 34588	annualizing the impacts of COVID-19, including lower factory cancellation charges and lower inventory obsolescence reserves.
+R52	Cause Cause:T106 Effect:T105	
+T107	Fact 34589 34633	Selling and administrative expense decreased
+T108	Fact 34641 34694	lower demand creation and operating overhead expense.
+R53	Cause Cause:T108 Effect:T107	
+T109	Fact 34695 34734	The decrease in demand creation expense
+T110	Fact 34756 34844	lower advertising and marketing expense, as well as a decline in sports marketing costs.
+R54	Cause Cause:T110 Effect:T109	
+T111	Fact 34845 34877	Lower operating overhead expense
+T112	Fact 34899 34998	lower bad debt and travel and related costs, partially offset by higher NIKE Direct variable costs.
+R55	Cause Cause:T112 Effect:T111	
+T113	Fact 35773 35856	Global Brand Divisions' loss before interest and taxes increased 5% for fiscal 2021
+T114	Fact 35864 36008	higher total selling and administrative expense, driven by higher operating overhead expense, partially offset by lower demand creation expense.
+R56	Cause Cause:T114 Effect:T113	
+T115	Remove 35591 35772	Global Brand Divisions revenues include NIKE Brand licensing and other miscellaneous revenues that are not part of a geographic operating segment.FISCAL 2021 COMPARED TO FISCAL 2020
+T116	Fact 36009 36051	The increase in operating overhead expense
+T117	Fact 36073 36174	continued investments in digital capabilities, partially offset by lower travel and related expenses.
+R57	Cause Cause:T117 Effect:T116	
+T118	Fact 36175 36204	Lower demand creation expense
+T119	Fact 36226 36255	lower sports marketing costs.
+R58	Cause Cause:T119 Effect:T118	
+T120	Fact 37210 37287	On a currency-neutral basis, Converse revenues increased 16% for fiscal 2021.
+T121	Fact 37288 37388	The increase in revenues was driven by revenue growth across Western Europe, North America and Asia.
+R59	Cause Cause:T121 Effect:T120	
+T122	Remove 36899 37081;37082 37210	Other revenues consist of territories serviced by third-party licensees who pay royalties to Converse for the use of its registered trademarks and other intellectual property rights. We do not own the Converse trademarks in Japan and accordingly do not earn revenues in Japan.FISCAL 2021 COMPARED TO FISCAL 2020
+T123	Fact 37389 37421	Wholesale revenues increased 13%
+T124	Fact 37443 37535	growth in Western Europe and Asia, in part due to the impacts of COVID-19 in the prior year.
+R60	Cause Cause:T124 Effect:T123	
+T125	Fact 37536 37577	Direct to consumer revenues increased 24%
+T126	Fact 37589 37657	strong digital sales growth across North America and Western Europe.
+R61	Cause Cause:T126 Effect:T125	
+T127	Fact 37658 37767	Combined unit sales within the wholesale and direct to consumer channels increased 9%, while ASP increased 8%
+T128	Fact 37786 37852	growth in full-price sales, including through our digital channel.
+R62	Cause Cause:T128 Effect:T127	
+T129	Fact 37852 37879	Reported EBIT increased 83%
+T130	Fact 37891 37952	higher revenues and lower selling and administrative expense.
+R63	Cause Cause:T130 Effect:T129	
+R64	Cause Cause:T130 Effect:T129	
+T131	Fact 38224 38268	Selling and administrative expense decreased
+T132	Fact 38276 38329	lower operating overhead and demand creation expense.
+R65	Cause Cause:T132 Effect:T131	
+T133	Fact 38330 38366	Operating overhead expense decreased
+T134	Fact 38384 38456	lower bad debt, travel and related costs and other administrative costs.
+R66	Cause Cause:T134 Effect:T133	
+T135	Fact 38457 38490	Demand creation expense decreased
+T136	Fact 38506 38577	lower advertising and marketing, as well as digital marketing expenses.
+R67	Cause Cause:T136 Effect:T135	
+T137	Fact 53708 53858	Net income, adjusted for non-cash items, generated $6,612 million of operating cash inflow for fiscal 2021 compared to $3,730 million for fiscal 2020.
+T138	Fact 53859 53958	The increase primarily reflects the recovery of our business operations from the impact of COVID-19
+R68	Cause Cause:T138 Effect:T137	
+T139	Fact 53960 54026	The net change in working capital and other assets and liabilities
+T140	Fact 54039 54178	an increase to Cash provided (used) by operations of $45 million for fiscal 2021, compared to a decrease of $1,245 million for fiscal 2020.
+R69	Cause Cause:T140 Effect:T139	
+T141	Fact 54179 54269	The net change in working capital was impacted by a $2,361 million decrease in Inventories
+T142	Fact 54281 54401	strong consumer demand as we return to healthy inventory levels across markets closed in the prior year due to COVID-19.
+R70	Cause Cause:T142 Effect:T141	
+T143	Fact 54402 54511	An increase in Accounts Payable and Accrued Liabilities also contributed to the net change in working capital
+T144	Fact 54530 54586	reduced spending in fiscal 2020 as a result of COVID-19.
+R71	Cause Cause:T144 Effect:T143	
+T145	Fact 54587 54698	In addition, the net change in working capital was impacted by a $2,845 million increase in Accounts receivable
+T146	Fact 54725 54778	higher revenues in the fourth quarter of fiscal 2021.
+R72	Cause Cause:T146 Effect:T145	
+T147	Fact 54778 54929	Cash provided (used) by investing activities was an outflow of $3,800 million for fiscal 2021, compared to an outflow of $1,028 million for fiscal 2020
+T148	Fact 54951 54994	higher purchases of short-term investments.
+R73	Cause Cause:T148 Effect:T147	
+T149	Fact 54995 55088	During fiscal 2021, the net change in investments (including sales, maturities and purchases)
+T150	Fact 55101 55190	a cash outflow of $3,276 million compared to a cash inflow of $27 million in fiscal 2020.
+R74	Cause Cause:T149 Effect:T150	
+T151	Fact 55555 55704	Cash provided (used) by financing activities was an outflow of $1,459 million for fiscal 2021 compared to an inflow of $2,491 million for fiscal 2020
+T152	Fact 55706 55903	This change was primarily due to the net proceeds from a $5,942 million corporate bond issuance in the fourth quarter of fiscal 2020, partially offset by lower share repurchases during fiscal 2021.
+R75	Cause Cause:T152 Effect:T151	
+T153	Fact 59734 59840	Liquidity was also provided by our $3 billion commercial paper program, which we decreased from $4 billion
+T154	Fact 59860 59946	the new credit facility agreement, entered into on March 15, 2021, as described above.
+R76	Cause Cause:T154 Effect:T153	
+T155	Fact 60754 60853	As of May 31, 2021, we had cash, cash equivalents and short-term investments totaling $13.5 billion
+T156	Fact 60879 61018	commercial paper, corporate notes, deposits held at major banks, money market funds, U.S. government sponsored enterprise obligations, U.S.
+R77	Cause Cause:T156 Effect:T155	
+T157	Fact 88734 88766	The VaR increased year-over-year
+T158	Fact 88782 88846	an increase in foreign currency volatilities as of May 31, 2021.
+R78	Cause Cause:T158 Effect:T157	
+T159	Verified 0 7	Item 7.

@@ -1,0 +1,80 @@
+T1	Fact 1276 1397	Consolidated revenues for the year ended December 31, 2020 increased 24% as compared to the year ended December 31, 2019.
+T2	Fact 1398 1563	The increase in our consolidated revenues was due to the 24% growth in average paying memberships and a 1% increase in average monthly revenue per paying membership.
+R1	Cause Cause:T2 Effect:T1	
+T3	Fact 1564 1625	The increase in average monthly revenue per paying membership
+T4	Fact 1640 1743	our price changes and plan mix, partially offset by unfavorable fluctuations in foreign exchange rates.
+R2	Cause Cause:T4 Effect:T3	
+T5	Fact 2093 2125	The increase in operating margin
+T6	Fact 2146 2361	increased revenues and decreased marketing costs, coupled with cost of revenues, technology and development, and general and administrative costs growing at a slower rate as compared to the 24% increase in revenues.
+R3	Cause Cause:T6 Effect:T5	
+T7	Fact 9156 9209	Delivery expenses, therefore, include equipment costs
+T8	Fact 9221 9385	Open Connect, payroll and related personnel expenses and all third-party costs, such as cloud computing costs, associated with delivering content over the internet.
+R4	Cause Cause:T8 Effect:T7	
+T9	Fact 9793 9910	The increase in cost of revenues for the year ended December 31, 2020 as compared to the year ended December 31, 2019
+T10	Fact 9932 10074	a $1,591 million increase in content amortization relating to our existing and new content, including more exclusive and original programming.
+R5	Cause Cause:T10 Effect:T9	
+T11	Remove 9628 9793	2020201920182020 vs. 2019 (in thousands, except percentages)Cost of revenues$15,276,319 $12,440,213 $9,967,538 $2,836,106 23 %As a percentage of revenues61 %62 %63 %
+T12	Fact 10075 10177	Expenses associated with the acquisition, licensing and production of content increased $1,101 million
+T13	Fact 10196 10296	expenses related to the COVID-19 pandemic and continued growth in our content production activities.
+R6	Cause Cause:T13 Effect:T12	
+T14	Fact 11013 11132	The decrease in marketing expenses for the year ended December 31, 2020 as compared to the year ended December 31, 2019
+T15	Fact 11154 11268	a $432 million decrease in advertising expenses, partially offset by increased payments to our marketing partners.
+R7	Cause Cause:T15 Effect:T14	
+T16	Remove 10828 11013	Year Ended December 31,Change 2020201920182020 vs. 2019 (in thousands, except percentages)Marketing$2,228,362 $2,652,462 $2,369,469 $(424,100)(16)%As a percentage of revenues9 %13 %15 %
+T17	Fact 11936 12072	The increase in technology and development expenses for the year ended December 31, 2020 as compared to the year ended December 31, 2019
+T18	Fact 12094 12340	a $254 million increase in personnel-related costs, including increases in compensation for existing employees and growth in average headcount to support the increase in our production activity and continued improvements in our streaming service.
+R8	Cause Cause:T18 Effect:T17	
+T19	Remove 11738 11936	Year Ended December 31,Change 2020201920182020 vs. 2019 (in thousands, except percentages)Technology and development$1,829,600 $1,545,149 $1,221,814 $284,451 18 %As a percentage of revenues7 %8 %8 %
+T20	Fact 12767 12903	The increase in general and administrative expenses for the year ended December 31, 2020 as compared to the year ended December 31, 2019
+T21	Fact 12925 13171	a $128 million increase in personnel-related costs, including increases in compensation for existing employees and growth in average headcount to support the increase in our production activity and continued improvements in our streaming service.
+R9	Cause Cause:T21 Effect:T20	
+T22	Remove 12573 12767	Year Ended December 31,Change 2020201920182020 vs. 2019 (in thousands, except percentages)General and administrative$1,076,486 $914,369 $630,294 $162,117 18 %As a percentage of revenues4 %5 %4 %
+T25	Remove 13578 13780	25Table of Contents Year Ended December 31,Change 2020201920182020 vs. 2019 (in thousands, except percentages)Interest expense$767,499 $626,023 $420,493 $141,476 23 %As a percentage of revenues3 %3 %3 %
+T23	Fact 13780 13895	Interest expense for the year ended December 31, 2020 consisted primarily of $749 million of interest on our Notes.
+T24	Fact 13896 14045	The increase in interest expense for the year ended December 31, 2020 as compared to the year ended December 31, 2019 is due to the increase in debt.
+R10	Cause Cause:T24 Effect:T23	
+T26	Fact 14467 14512	Interest and other income (expense) decreased
+T27	Fact 14530 14680	foreign exchange losses of $660 million for the year ended December 31, 2020 as compared to a gain of $7 million for the year ended December 31, 2019.
+R11	Cause Cause:T27 Effect:T26	
+T28	Remove 14263 14467	Year Ended December 31,Change 2020201920182020 vs. 2019 (in thousands, except percentages)Interest and other income (expense)$(618,441)$84,000 $41,725 $(702,441)(836)%As a percentage of revenues(2)%— %— %
+T29	Fact 14681 14742	The foreign exchange loss in the year ended December 31, 2020
+T30	Fact 14767 14985	the non-cash $533 million loss from the remeasurement of our Senior Notes denominated in euros, coupled with the remeasurement of cash and content liability positions in currencies other than the functional currencies.
+R12	Cause Cause:T30 Effect:T29	
+T31	Fact 16274 16397	The increase in our effective tax rate for the year ended December 31, 2020 as compared to the year ended December 31, 2019
+T32	Fact 16418 16578	the establishment of a valuation allowance on the California R&D credit, partially offset by the recognition of excess tax benefits of stock-based compensation.
+R13	Cause Cause:T32 Effect:T31	
+T33	Fact 17156 17259	Cash, cash equivalents and restricted cash increased $3,195 million in the year ended December 31, 2020
+T34	Fact 17277 17339	cash provided by operations coupled with the issuance of debt.
+R14	Cause Cause:T34 Effect:T33	
+T35	Remove 16897 17156	26Table of ContentsLiquidity and Capital Resources Year Ended December 31,Change202020192020 vs. 2019(in thousands)Cash, cash equivalents and restricted cash$8,238,870 $5,043,786 $3,195,084 63 %Short-term and long-term debt16,308,973 14,759,260 1,549,713 10 %
+T36	Fact 17340 17398	Debt, net of debt issuance costs, increased $1,550 million
+T37	Fact 17416 17511	the issuance of debt in April 2020 coupled with the remeasurement of our euro-denominated notes
+R15	Cause Cause:T37 Effect:T36	
+T38	Fact 22112 22271	Net cash provided by operating activities increased $5,314 million from the year ended December 31, 2019 to $2,427 million for the year ended December 31, 2020
+T39	Fact 22292 22397	a $4,840 million or 24% increase in revenues coupled with a decrease in cash payments for content assets.
+R16	Cause Cause:T39 Effect:T38	
+T40	Fact 22638 22718	In addition, we had increased payments associated with higher operating expenses
+T41	Fact 22741 22856	increased headcount to support our continued improvements in our streaming service and our international expansion.
+R17	Cause Cause:T41 Effect:T40	
+T42	Fact 22856 22916	Net cash used in investing activities increased $118 million
+T43	Fact 22935 22986	an increase in purchases of property and equipment.
+R18	Cause Cause:T43 Effect:T42	
+T44	Fact 22986 23052	Net cash provided by financing activities decreased $3,268 million
+T45	Fact 23070 23350	a decrease in the proceeds from the issuance of debt of $3,431 million from $4,433 million in the year ended December 31, 2019 to $1,002 million in the year ended December 31, 2020, partially offset by an increase in the proceeds from the issuance of common stock of $163 million.
+R19	Cause Cause:T45 Effect:T44	
+T46	Fact 23350 23440	Free cash flow was $840 million lower than net income for the year ended December 31, 2020
+T47	Fact 23458 23915	$1,730 million of cash payments for content assets over amortization expense and $308 million in other non-favorable working capital differences, partially offset by $533 million of non-cash remeasurement loss on our euro-denominated debt, $415 million of non-cash stock-based compensation expenses, and a $250 million non-cash valuation allowance for deferred taxes due to recent legislation which imposed an annual cap on research and development credits.
+R20	Cause Cause:T47 Effect:T46	
+T48	Fact 23915 24007	Free cash flow was $5,141 million lower than net income for the year ended December 31, 2019
+T49	Fact 24025 24340	$5,394 million of cash payments for streaming content assets over streaming amortization expense, $46 million non-cash remeasurement gain on our euro-denominated debt, and $106 million in other non-favorable working capital differences, partially offset by $405 million of non-cash stock-based compensation expense.
+R21	Cause Cause:T49 Effect:T48	
+T50	Fact 35712 35767	As of December 31, 2020 the valuation allowance of $250
+T51	Fact 35791 35872	the California research and development credits that we do not expect to realize.
+R22	Cause Cause:T51 Effect:T50	
+T52	Fact 37491 37544	As of December 31, 2020, we had $16.4 billion of debt
+T53	Fact 37560 37632	fixed rate unsecured debt in sixteen tranches due between 2021 and 2030.
+R23	Cause Cause:T53 Effect:T52	
+T54	Fact 39071 39158	In the year ended December 31, 2020, we recognized a $660 million foreign exchange loss
+T55	Fact 39176 39375	the non-cash remeasurement of our Senior Notes denominated in euros, coupled with the remeasurement of cash and content liability positions denominated in currencies other than functional currencies.
+R24	Cause Cause:T55 Effect:T54	
+T56	Verified 0 6	Item 7

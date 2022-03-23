@@ -1,0 +1,448 @@
+Item 7.
+Management's Discussion and Analysis of Financial Condition and Results of Operations Introduction 
+ The following discussion and analysis is provided to increase the understanding of, and should be read in conjunction with, the Consolidated Financial Statements and accompanying Notes.
+For purposes of reviewing this document, "segment profit" is calculated as revenue less cost of revenue and earnings attributable to noncontrolling interests excluding: corporate general and administrative expense; interest expense; interest income; domestic and foreign income taxes; other non-operating income and expense items; and loss from discontinued operations.
+For a reconciliation of total segment profit to earnings from continuing operations before taxes, see Note 17 in the Notes to Consolidated Financial Statements.
+Results of Operations 
+ Consolidated revenue for 2016 was $19.0 billion compared to $18.1 billion for 2015.
+During 2016, revenue growth in the Industrial, Infrastructure & Power, Government and Maintenance, Modification & Asset Integrity segments were partially offset by a revenue decline in the Energy, Chemicals & Mining segment.
+The revenue growth resulted primarily from increased project execution activities for several power projects, as well as revenue contributions from the acquired Stork business.
+Revenue in the Energy, Chemicals & Mining segment decreased due to reduced levels of project execution activities in the mining and metals business line and for certain large chemicals projects that were completed or nearing completion in the prior year.
+Consolidated revenue for 2015 was $18.1 billion compared to $21.5 billion for 2014.
+This decrease was principally due to certain large upstream projects that were completed or nearing completion and a significant decline in project execution activities in the mining and metals business line of the Energy, 34 Table of Contents Chemicals and Mining segment as well as reduced project execution activities in the infrastructure business line of the Industrial, Infrastructure & Power segment.
+Earnings from continuing operations before taxes for 2016 decreased 25 percent to $547 million from $727 million in 2015.
+Earnings from continuing operations before taxes for 2016 were adversely affected by pre-tax charges totaling $265 million related to forecast revisions for estimated cost increases on a petrochemicals project in the Energy, Chemicals & Mining segment, which were partially offset by higher contributions from power projects in the Industrial, Infrastructure & Power segment.
+Earnings from continuing operations before taxes for 2016 were also affected by higher corporate general and administrative expenses.
+Earnings from continuing operations before taxes for 2015 decreased 40 percent to $727 million from $1.2 billion in 2014 primarily due to a pre-tax pension settlement charge of $240 million (discussed below).
+The decrease in earnings from continuing operations before taxes in 2015 also reflected reduced contributions from the power and infrastructure business lines of the Industrial, Infrastructure & Power segment.
+These declines were partially offset by a $68 million pre-tax gain related to the sale of 50 percent of the company's ownership interest in its principal operating subsidiary in Spain to facilitate the formation of an Energy, Chemicals & Mining joint venture.
+During 2015, the company settled the remaining obligations associated with the U.S. defined benefit pension plan (the "U.S. plan").
+Plan participants received vested benefits from the plan assets by electing either a lump-sum distribution, roll-over contribution to other defined contribution or individual retirement plans, or an annuity contract with a third-party provider.
+As a result of the settlement, the company was relieved of any further obligation.
+During 2015, the company recorded a pension settlement charge of $240 million which consisted primarily of unrecognized actuarial losses included in accumulated other comprehensive loss.
+As discussed in Note 2 of the Notes to Consolidated Financial Statements, the company recorded an after-tax loss from discontinued operations of $205 million (net of taxes of $112 million) during 2014 in connection with the reassessment of estimated loss contingencies related to the lead business of St. Joe Minerals Corporation and The Doe Run Company in Herculaneum, Missouri, which the company sold in 1994.
+During 2015, the company recorded an after-tax loss from discontinued operations of $6 million (net of taxes of $3 million) resulting from the settlement of lead exposure cases and the payment of legal fees related to the divested lead business.
+The company has filed suit against the buyer seeking indemnification for all liabilities arising from these lead exposure cases.
+The effective tax rate on earnings from continuing operations was 40.1 percent, 33.8 percent and 29.3 percent for 2016, 2015 and 2014, respectively.
+The 2016 rate was unfavorably impacted by foreign losses without a tax benefit and by an adjustment to deferred tax assets as a result of the issuance of treasury regulations under Internal Revenue Code Section 987 for foreign currency translation gains and losses.
+The unfavorable impact was partially offset by a benefit from the resolution of an IRS audit for tax years 2012 - 2013 and the domestic production activities deduction.
+The 2015 rate was impacted unfavorably by foreign losses without a tax benefit, partially offset by benefits resulting from an IRS settlement for tax years 2004 - 2005 and the conclusion of an IRS audit for tax years 2009 - 2011.
+The 2014 rate was impacted favorably by the release of previously unrecognized tax positions related to the conclusion of an IRS audit for tax years 2006 - 2008, the reversal of certain valuation allowances, and the domestic production activities deduction.
+All periods benefitted from earnings attributable to noncontrolling interests for which income taxes are not typically the responsibility of the company.
+Diluted earnings per share from continuing operations in 2016 were $2.00 which were adversely affected by forecast revisions for estimated cost increases on a petrochemicals project in the United States of $1.20 per diluted share.
+Diluted earnings per share from continuing operations in 2015 were $2.85, including a pension settlement charge of $1.04 per diluted share.
+Diluted earnings per share from continuing operations were $4.48 in 2014.
+In addition to the pension settlement charge, the decrease in 2015 earnings was driven by the lower performance of the segments noted above in the discussion of 35 Table of Contents earnings from continuing operations before taxes.
+The impact of having fewer outstanding shares due to the repurchase of common stock slightly offset the reduction in earnings.
+The company's results reported by foreign subsidiaries with non-U.S. dollar functional currencies are affected by foreign currency volatility.
+When the U.S. dollar appreciates against the non-U.S. dollar functional currencies of these subsidiaries, the company's reported revenue, cost and earnings, after translation into U.S. dollars, are lower than what they would have been had the U.S. dollar depreciated against the same foreign currencies or if there had been no change in the exchange rates.
+The company's margins, in some cases, may be favorably or unfavorably impacted by a change in the mix of work performed or a change in the amount of materials and customer-furnished materials, which are accounted for as pass-through costs.
+Segment profit margins are generally higher during the earlier stages of the project life cycle as project execution activities are more heavily weighted to higher margin engineering activities rather than lower margin construction activities, particularly when there is a significant amount of materials, including customer-furnished materials, recognized during construction.
+During 2015, the Energy, Chemicals & Mining segment experienced higher segment profit margin when compared to 2014 due to a greater mix of engineering activities compared to the prior year.
+This trend is expected to reverse in the near term as some of our larger projects progress into the construction phase of the project life cycle.
+The Energy, Chemicals & Mining segment remains well positioned for new project activity; however, declining commodity prices have affected the timing of new awards and the pace of execution on certain existing projects.
+Consolidated new awards for 2016 were $21.0 billion compared to $21.8 billion in 2015 and $28.8 billion in 2014.
+The Energy, Chemicals & Mining; Industrial, Infrastructure & Power; and Government segments were the significant drivers of new award activity during 2016, including an award for the Tengiz Oil Expansion Project in Kazakhstan that was awarded in the third quarter.
+The Energy, Chemicals & Mining and Industrial, Infrastructure & Power segments were the major contributors to the new award activity during 2015.
+The major contributors of new award activity during 2014 were the Energy, Chemicals & Mining and Government segments.
+Approximately 46 percent of consolidated new awards for 2016 were for projects located outside of the United States compared to 48 percent for 2015.
+Consolidated backlog was $45.0 billion as of December 31, 2016, $44.7 billion as of December 31, 2015, and $42.5 billion as of December 31, 2014.
+The higher backlog at the end of 2016 was due to significant new awards and project adjustments in the Energy, Chemicals & Mining and Industrial, Infrastructure & Power segments, partially offset by an adjustment for a liquefied natural gas project that was suspended in the third quarter.
+The higher backlog at the end of 2015 was primarily due to significant new awards in the Industrial, Infrastructure & Power segment, partially offset by declines in backlog in the mining and metals business line of the Energy, Chemicals & Mining segment and the Government segment.
+As of December 31, 2016, approximately 48 percent of consolidated backlog related to projects located outside of the United States compared to 59 percent as of December 31, 2015.
+On March 1, 2016, the company acquired 100 percent of Stork Holding B.V. ("Stork") for an aggregate purchase price of €695 million (or approximately $756 million), including the assumption of debt and other liabilities.
+Stork, based in the Netherlands, is a global provider of maintenance, modification and asset integrity services associated with large existing industrial facilities in the oil and gas, chemicals, petrochemicals, industrial and power markets.
+The company paid €276 million (or approximately $300 million) in cash consideration.
+The operations of Stork are reported in the Maintenance, Modification & Asset Integrity segment below.
+See Note 18 to the Consolidated Financial Statements for a further discussion of the acquisition.
+In February 2016, the company made an initial cash investment of $350 million in COOEC Fluor Heavy Industries Co., Ltd. ("CFHI"), a joint venture in which the company has a 49% ownership interest and Offshore Oil Engineering Co., Ltd., a subsidiary of China National Offshore Oil Corporation, has 51% ownership interest.
+Through CFHI, the two companies own, operate and manage the Zhuhai Fabrication 36 Table of Contents Yard in China's Guangdong province.
+An additional investment of $62 million was made in September 2016 and another $78 million is expected to be made in September 2017.
+For a more detailed discussion of operating performance of each business segment, corporate general and administrative expense and other items, see "— Segment Operations" and "— Corporate, Tax and Other Matters" below.
+Discussion of Critical Accounting Policies and Estimates 
+ The company's discussion and analysis of its financial condition and results of operations is based upon its Consolidated Financial Statements, which have been prepared in accordance with accounting principles generally accepted in the United States.
+The company's significant accounting policies are described in the Notes to Consolidated Financial Statements.
+The preparation of the Consolidated Financial Statements requires management to make estimates and judgments that affect the reported amounts of assets, liabilities, revenue and expenses, and related disclosure of contingent assets and liabilities.
+Estimates are based on information available through the date of the issuance of the financial statements and, accordingly, actual results in future periods could differ from these estimates.
+Significant judgments and estimates used in the preparation of the Consolidated Financial Statements apply to the following critical accounting policies: 
+ Engineering and Construction Contracts
+Contract revenue is recognized on the percentage-of-completion method based on contract cost incurred to date compared to total estimated contract cost.
+Contracts are generally segmented between types of services, such as engineering and construction, and accordingly, gross margin related to each activity is recognized as those separate services are rendered.
+The percentage-of-completion method of revenue recognition requires the company to prepare estimates of cost to complete for contracts in progress.
+In making such estimates, judgments are required to evaluate contingencies such as potential variances in schedule and the cost of materials, labor cost and productivity, the impact of change orders, liability claims, contract disputes and achievement of contractual performance standards.
+Changes in total estimated contract cost and losses, if any, are recognized in the period they are determined.
+Pre-contract costs are expensed as incurred.
+The majority of the company's engineering and construction contracts provide for reimbursement on a cost-plus, fixed-fee or percentage-fee basis.
+As of December 31, 2016, 73 percent of the company's backlog was cost reimbursable while 27 percent was for fixed-price, lump-sum or guaranteed maximum contracts.
+In certain instances, the company provides guaranteed completion dates and/or achievement of other performance criteria.
+Failure to meet schedule or performance guarantees could result in unrealized incentive fees or liquidated damages.
+In addition, increases in contract cost can result in non-recoverable cost which could exceed revenue realized from the projects.
+The company generally provides limited warranties for work performed under its engineering and construction contracts.
+The warranty periods typically extend for a limited duration following substantial completion of the company's work on a project.
+Historically, warranty claims have not resulted in material costs incurred, and any estimated costs for warranties are included in the individual project cost estimates for purposes of accounting for long-term contracts.
+The company has made claims arising from the performance under its contracts.
+The company recognizes revenue, but not profit, for certain claims (including change orders in dispute and unapproved change orders in regard to both scope and price) when it is determined that recovery of incurred cost is probable and the amounts can be reliably estimated.
+Under claims accounting (ASC 605-35-25), these requirements are satisfied when (a) the contract or other evidence provides a legal basis for the claim, (b) additional costs were caused by circumstances that were unforeseen at the contract date and not the result of deficiencies in the company's performance, (c) claim-related costs are identifiable and considered reasonable in view of the work performed, and (d) evidence supporting the claim is objective and verifiable.
+Cost, but not profit, associated with unapproved change orders is accounted for in revenue when it is probable that the cost will be recovered through a change in the contract price.
+In circumstances where recovery is considered probable, but the revenue cannot be reliably estimated, cost attributable to change orders is deferred pending determination of the impact on contract price.
+If the requirements for recognizing revenue for claims or unapproved change orders are met, revenue is recorded only to the 37 Table of Contents extent that costs associated with the claims or unapproved change orders have been incurred.
+Back charges to suppliers or subcontractors are recognized as a reduction of cost when it is determined that recovery of such cost is probable and the amounts can be reliably estimated.
+Disputed back charges are recognized when the same requirements described above for claims accounting have been satisfied.
+The company periodically evaluates its positions and amounts recognized with respect to all its claims and back charges.
+As of December 31, 2016 and 2015, the company had recorded $61 million and $30 million, respectively, of claim revenue for costs incurred to date and such costs are included in contract work in progress.
+Additional costs, which will increase the claim revenue balance over time, are expected to be incurred in future periods.
+The company had also recorded disputed back charges totaling $41 million as of December 31, 2016.
+The company believes the ultimate recovery of amounts related to these claims and back charges is probable in accordance with ASC 605-35-25.
+Backlog in the engineering and construction industry is a measure of the total dollar value of work to be performed on contracts awarded and in progress.
+Although backlog reflects business that is considered to be firm, cancellations, deferrals or scope adjustments may occur.
+Backlog is adjusted to reflect any known project cancellations, revisions to project scope and cost, and deferrals, as appropriate.
+Engineering and Construction Partnerships and Joint Ventures
+Certain contracts are executed jointly through partnership and joint venture arrangements with unrelated third parties.
+Generally, these arrangements are characterized by a 50 percent or less ownership interest that requires only a small initial investment.
+The arrangements are often formed for the single business purpose of executing a specific project and allow the company to share risks and secure specialty skills required for project execution.
+In accordance with ASC 810, "Consolidation," the company assesses its partnerships and joint ventures at inception to determine if any meet the qualifications of a variable interest entity ("VIE").
+The company considers a partnership or joint venture a VIE if either (a) the total equity investment is not sufficient to permit the entity to finance its activities without additional subordinated financial support, (b) characteristics of a controlling financial interest are missing (either the ability to make decisions through voting or other rights, the obligation to absorb the expected losses of the entity or the right to receive the expected residual returns of the entity), or (c) the voting rights of the equity holders are not proportional to their obligations to absorb the expected losses of the entity and/or their rights to receive the expected residual returns of the entity, and substantially all of the entity's activities either involve or are conducted on behalf of an investor that has disproportionately few voting rights.
+Upon the occurrence of certain events outlined in ASC 810, the company reassesses its initial determination of whether the partnership or joint venture is a VIE.
+The majority of the company's partnerships and joint ventures qualify as VIEs because the total equity investment is typically nominal and not sufficient to permit the entity to finance its activities without additional subordinated financial support.
+The company also evaluates whether it is the primary beneficiary of each VIE and consolidates the VIE if the company has both (a) the power to direct the economically significant activities of the entity and (b) the obligation to absorb losses of, or the right to receive benefits from, the entity that could potentially be significant to the VIE.
+The company considers the contractual agreements that define the ownership structure, distribution of profits and losses, risks, responsibilities, indebtedness, voting rights and board representation of the respective parties in determining whether it qualifies as the primary beneficiary.
+The company also considers all parties that have direct or implicit variable interests when determining whether it is the primary beneficiary.
+In most cases, the company does not qualify as the primary beneficiary.
+When the company is determined to be the primary beneficiary, the VIE is consolidated.
+As required by ASC 810, management's assessment of whether the company is the primary beneficiary of a VIE is continuously performed.
+For partnerships and joint ventures in the construction industry, unless full consolidation is required, the company generally recognizes its proportionate share of revenue, cost and profit in its Consolidated Statement of Earnings and uses the one-line equity method of accounting in the Consolidated Balance Sheet, which is a common application of ASC 810-10-45-14 in the construction industry.
+The most significant application of the proportionate consolidation method is in the Energy, Chemicals & Mining, 38 Table of Contents Industrial, Infrastructure & Power and Government segments.
+The cost and equity methods of accounting are also used, depending on the company's respective ownership interest and amount of influence on the entity, as well as other factors.
+At times, the company also executes projects through collaborative arrangements for which the company recognizes its relative share of revenue and cost.
+Deferred Taxes and Uncertain Tax Positions
+Deferred tax assets and liabilities are recognized for the expected future tax consequences of events that have been recognized in the company's financial statements or tax returns.
+As of December 31, 2016, the company had deferred tax assets of $ 814 million which were partially offset by a valuation allowance of $81 million and further reduced by deferred tax liabilities of $279 million.
+The valuation allowance reduces certain deferred tax assets to amounts that are more likely than not to be realized.
+The valuation allowance for 2016 primarily relates to the deferred tax assets on certain net operating loss carryforwards for U.S. and non-U.S. subsidiaries.
+The company evaluates the realizability of its deferred tax assets by assessing its valuation allowance and by adjusting the amount of such allowance, if necessary.
+The factors used to assess the likelihood of realization are the company's forecast of future taxable income and available tax planning strategies that could be implemented to realize the net deferred tax assets.
+Failure to achieve forecasted taxable income in the applicable taxing jurisdictions could affect the ultimate realization of deferred tax assets and could result in an increase in the company's effective tax rate on future earnings.
+Income tax positions must meet a more-likely-than-not recognition threshold to be recognized.
+Income tax positions that previously failed to meet the more-likely-than-not threshold are recognized in the first subsequent financial reporting period in which that threshold is met.
+Previously recognized tax positions that no longer meet the more-likely-than-not threshold are derecognized in the first subsequent financial reporting period in which that threshold is no longer met.
+The company recognizes potential interest and penalties related to unrecognized tax benefits within its global operations in income tax expense.
+Retirement Benefits
+The company accounts for its defined benefit pension plans in accordance with ASC 715-30, "Defined Benefit Plans — Pension."
+As required by ASC 715-30, the unfunded or overfunded projected benefit obligation is recognized in the company's financial statements.
+Assumptions concerning discount rates, long-term rates of return on plan assets and rates of increase in compensation levels are determined based on the current economic environment in each host country at the end of each respective annual reporting period.
+The company evaluates the funded status of each of its retirement plans using these current assumptions and determines the appropriate funding level considering applicable regulatory requirements, tax deductibility, reporting considerations and other factors.
+Assuming no changes in current assumptions, the company expects to contribute up to $15 million to its defined benefit pension plans in 2017, which is expected to be in excess of the minimum funding required.
+If the discount rates were reduced by 25 basis points, plan liabilities would increase by approximately $51 million.
+Segment Operations 
+ The company provides professional services in the fields of engineering, procurement, construction, fabrication and modularization, commissioning and maintenance, as well as project management services, on a global basis and serves a diverse set of industries worldwide.
+During the first quarter of 2016, the company changed the composition of its reportable segments to better reflect the diverse end markets that the company serves.
+The company now reports its operating results in four reportable segments as follows: Energy, Chemicals & Mining; Industrial, Infrastructure & Power; Government; and Maintenance, Modification & Asset Integrity.
+Segment operating information and assets for 2015 and 2014 have been recast to reflect these changes.
+For more information on the business segments see "Item 1.
+— Business" above.
+39 Table of Contents Energy, Chemicals & Mining 
+ Revenue and segment profit for the Energy, Chemicals & Mining segment are summarized as follows: Year Ended December 31, (in millions) 2016 2015 2014 Revenue $ 9,754.2 $ 11,865.4 $ 14,563.0 Segment profit 401.5 866.6 869.2 
+ Revenue in 2016 decreased by 18 percent compared to 2015 primarily due to a significant decline in volume of the mining and metals business line, as well as a reduced volume of project execution activities for certain large chemicals projects that were completed or nearing completion in the prior year.
+Revenue in 2015 decreased by 19 percent compared to 2014, primarily due to lower project execution activities for certain large upstream projects that were completed or nearing completion in 2014 and volume declines in the mining and metals business line, which were partially offset by an increase in project execution activities for numerous petrochemicals projects on the Gulf Coast of the United States and downstream projects across various regions.
+Segment profit in 2016 significantly decreased compared to 2015.
+Segment profit in 2016 was adversely affected by forecast revisions for estimated cost increases on a petrochemicals project in the United States of $265 million.
+The decrease in segment profit was also driven by reduced contributions from the mining and metals business line and certain upstream projects that were completed or nearing completion in the prior year.
+Segment profit in 2015 was essentially flat as compared to 2014.
+Higher contributions associated with the increase in project execution activities for numerous downstream projects across various regions were offset by reduced contributions from the mining and metals business line and upstream projects that were completed or nearing completion in 2014.
+Segment profit margin was 4.1 percent, 7.3 percent and 6.0 percent for the years ended December 31, 2016, 2015 and 2014, respectively.
+Segment profit margin in 2016 was primarily affected by forecast revisions on the large petrochemicals project discussed above.
+The improvement in segment profit margin in 2015 was largely attributable to the continued shift in the mix of work from lower margin construction activities to higher margin engineering activities and positive contributions from the downstream projects that were completed or nearing completion.
+Segment profit margin in 2015 further benefitted from the company's cost optimization activities when compared to 2014.
+New awards in the Energy, Chemicals & Mining segment were $8.4 billion in 2016, $12.0 billion in 2015 and $20.7 billion in 2014.
+New awards in 2016 included an upstream project for the Tengiz Oil Expansion Project in Kazakhstan and a bauxite mine project in Guinea.
+New awards in 2015 included a refinery project in Kuwait, a large natural gas transmission project in the United States, production and chemicals work in Canada, and additional refinery projects in Europe and the United States.
+New awards in 2014 included a significant amount of the engineering, procurement and construction value of a liquefied natural gas facility in Canada, refinery projects in Kuwait, Malaysia, Mexico and Argentina, an oil sands project in Canada, and a petrochemicals complex on the Gulf Coast of the United States.
+Backlog for the Energy, Chemicals & Mining segment was $21.8 billion as of December 31, 2016, $29.4 billion as of December 31, 2015 and $30.5 billion as of December 31, 2014.
+The reduction in backlog during 2016 resulted primarily from an adjustment for a liquefied natural gas project in Canada that was suspended in the third quarter, as well as new award activity being outpaced by work performed during 2016.
+The continued decline in oil prices since the latter part of 2014 has affected the timing of new awards and pace of execution on certain existing projects.
+The mining and metals business line also continues to experience the deferral of major capital investment decisions by some mining customers as a result of softening commodity demand.
+40 Table of Contents 
+ Total assets in the segment were $2.3 billion as of December 31, 2016 and $1.7 billion as of December 31, 2015.
+The increase in total assets primarily resulted from the company's investment in CFHI and increased working capital in support of project execution activities.
+Industrial, Infrastructure & Power 
+ Revenue and segment profit for the Industrial, Infrastructure & Power segment are summarized as follows: Year Ended December 31, (in millions) 2016 2015 2014 Revenue $ 4,094.5 $ 2,264.0 $ 2,854.8 Segment profit (loss) 135.8 (44.9 ) 147.5 
+ Revenue in 2016 increased 81 percent compared to 2015, primarily due to increased project execution activities in the power business line for several projects, including two nuclear projects and several gas-fired power plants in the southeastern United States.
+Revenue in 2015 decreased 21 percent compared to 2014, primarily due to reduced project execution activities in the infrastructure business line, which was largely attributable to the completion of a domestic transportation project in 2014.
+Segment profit increased significantly in 2016 compared to 2015 primarily due to the higher volume of project execution activities for the power projects mentioned above, as well as the adverse impact in the prior year of a loss of $60 million resulting from forecast revisions on a large gas-fired power plant in Brunswick County, Virginia.
+Segment profit decreased significantly in 2015 compared to 2014.
+Factors contributing to the decline in segment profit during 2015 included the aforementioned loss on the gas-fired power plant in Brunswick County, Virginia, reduced contributions from the infrastructure business line resulting from the completion of a domestic transportation project in 2014 and an increase in NuScale expenses, net of qualified reimbursable expenditures.
+Segment profit margin significantly increased in 2016 compared to the prior year principally driven by the same factors affecting segment profit.
+Segment profit margin in 2015 decreased over 2014 due to the same factors that drove the decrease in segment profit during 2015.
+The Industrial, Infrastructure & Power segment includes the operations of NuScale, which are primarily research and development activities.
+NuScale expenses, net of qualified reimbursable expenditures, included in the determination of segment profit, were $92 million, $80 million and $46 million for 2016, 2015 and 2014, respectively.
+New awards in the Industrial, Infrastructure & Power segment were $6.2 billion during 2016, $7.1 billion during 2015 and $2.3 billion during 2014.
+New awards in 2016 were primarily in the infrastructure business line and included the Purple Line Light Rail Transit Project in Maryland, the Loop 202 South Mountain Freeway Project in Arizona, the Port Access Road Project in South Carolina, an award on a combined-cycle power plant in Greensville County, Virginia and a pharmaceutical manufacturing facility in North Carolina.
+New awards in 2015 included a $5.0 billion award from Westinghouse Electric Company to manage the construction workforce at two Westinghouse nuclear power plant projects in Georgia and South Carolina on a cost-plus, fixed-fee basis, a gas-fired power plant in Florida and a highway project in Texas.
+New awards in 2014 included A9 Holendrecht — Diemen road project in the Netherlands, a gas-fired power plant project in South Carolina and a large manufacturing facility in the United States.
+Backlog in the Industrial, Infrastructure & Power segment was $15.1 billion as of December 31, 2016, $9.7 billion as of December 31, 2015 and $5.0 billion as of December 31, 2014.
+The increases in backlog during 2016 primarily resulted from project adjustments in the power business line for the two Westinghouse nuclear power plant projects discussed above and new awards in the infrastructure business line.
+The increase in backlog during 2015 resulted from new awards in the power business line discussed above.
+41 Table of Contents 
+ Total assets in the Industrial, Infrastructure & Power segment were $750 million as of December 31, 2016 and $544 million as of December 31, 2015.
+The increase in total assets in the Industrial, Infrastructure & Power segment resulted from increased working capital in support of project execution activities.
+Total assets as of December 31, 2016 include accounts receivable and contract work in progress totaling $144 million related to the two Westinghouse nuclear power plant projects.
+Government 
+ Revenue and segment profit for the Government segment are summarized as follows: Year Ended December 31, (in millions) 2016 2015 2014 Revenue $ 2,720.0 $ 2,557.4 $ 2,511.9 Segment profit 85.1 83.1 92.7 
+ Revenue in 2016 increased 6 percent compared to 2015 primarily due to the commencement of project execution activities for the Idaho Cleanup Project Core Contract ("Idaho Core Project") during 2016 and an increase in project execution activities for construction projects within the services business line.
+These increases were largely offset by lower revenue from the Magnox nuclear decommissioning project in the United Kingdom (the "Magnox RSRL Project") and the continued reduction in project execution activities associated with the LOGCAP IV program in Afghanistan.
+Revenue in 2015 increased 2 percent compared to 2014 primarily due to the increased project execution activities for several large multi-year decommissioning and cleanup projects awarded in 2014, largely offset by a reduction in project execution activities associated with LOGCAP IV.
+Segment profit for 2016 increased 2 percent compared to 2015, primarily due to contributions from the commencement of project execution activities for the Idaho Core Project, as well as the favorable effect of the segment's cost optimization efforts.
+These increases were offset by reduced contributions from the Magnox RSRL Project and the LOGCAP IV program.
+Segment profit for 2015 decreased 10 percent compared to 2014, primarily due to the decline in project execution activities for LOGCAP IV.
+This decline was partially offset by increased contributions from project execution activities for several large multi-year decommissioning and cleanup projects, as well as improved contributions from a base operations support services contract.
+Segment profit margin was 3.1 percent, 3.3 percent, and 3.7 percent for the years ended December 31, 2016, 2015 and 2014, respectively.
+Segment profit margins in 2016 and 2015 declined when compared to 2014 due to lower margin contributions from decommissioning and cleanup projects awarded in recent years, as well as the continued decline in project execution activity for the LOGCAP IV program.
+New awards were $4.6 billion during 2016, $1.4 billion during 2015, and $4.7 billion during 2014.
+New awards in 2016 and 2014 included large awards for multi-year decommissioning and cleanup projects in the segment's environmental and nuclear business line.
+Backlog was $5.2 billion as of December 31, 2016, $3.6 billion as of December 31, 2015 and $4.7 billion as of December 31, 2014.
+Total backlog included $2.7 billion, $912 million, and $2.1 billion of unfunded government contracts as of December 31, 2016, 2015, and 2014, respectively.
+The increase in backlog in 2016 resulted primarily from the previously mentioned multi-year decommissioning and cleanup project awards in the environmental and nuclear business line.
+Total assets in the Government segment were $494 million as of December 31, 2016 compared to $495 million as of December 31, 2015.
+42 Table of Contents Maintenance, Modification & Asset Integrity 
+ Revenue and segment profit for the Maintenance, Modification & Asset Integrity segment are summarized as follows: Year Ended December 31, (in millions) 2016 2015 2014 Revenue $ 2,467.8 $ 1,427.2 $ 1,601.9 Segment profit 121.9 127.4 153.0 
+ Revenue in 2016 increased 73 percent compared to 2015, primarily due to the inclusion of ten months of revenue associated with the acquisition of the Stork business, which closed on March 1, 2016.
+The increase in revenue from Stork was partially offset by lower revenues for the equipment business due to the demobilization of projects in Latin America and North America and a lower level of project execution activities in both the continuous site presence and power services business lines.
+Revenue in 2015 decreased 11 percent compared to 2014, primarily due a lower level of project execution activities in the continuous site presence business line's operations in North America and Australia, as well as volume declines in the equipment business line's operations in Mexico, Africa and Afghanistan.
+Segment profit in 2016 declined 4.4 percent compared to the prior year resulting primarily from the lower level of project execution activities in the power services and continuous site presence business lines, which exceeded segment profit contributions from Stork.
+Segment profit in 2015 decreased 17 percent compared to the prior year, principally due to volume declines in the equipment business line's operations in Mexico, Afghanistan and Africa and reduced contributions from the continuous site presence business line.
+Segment profit margin was 4.9 percent, 8.9 percent and 9.6 percent for the years ended December 31, 2016, 2015 and 2014, respectively.
+The decline in segment profit margin in 2016 was principally driven by the inclusion of Stork in 2016.
+The decline in segment profit margin in 2015 was primarily attributable from the reduced volumes of the equipment business line.
+New awards in the Maintenance, Modification & Asset Integrity segment were $1.8 billion in 2016, $1.4 billion in 2015 and $1.1 billion in 2014.
+Backlog was $2.9 billion as of December 31, 2016, $2.1 billion as of December 31, 2015 and $2.3 billion as of December 31, 2014.
+The increase in backlog during 2016 was primarily due to the inclusion of backlog from the Stork acquisition.
+Total assets in the Maintenance, Modification & Asset Integrity segment were $2.0 billion as of December 31, 2016 compared to $924 million as of December 31, 2015.
+The increase in total assets resulted from the company's acquisition of Stork.
+Corporate, Tax and Other Matters 
+ Corporate
+For the three years ended December 31, 2016, 2015 and 2014, corporate general and administrative expenses were $191 million, $168 million and $183 million, respectively.
+The increase in 2016 was primarily attributable to transaction costs and integration activities associated with the Stork acquisition and higher organizational realignment expenses when compared to the prior year, which were partially offset by foreign currency exchange gains.
+The decline in 2015 resulted primarily from reductions in stock price-driven compensation expense and organizational realignment expenses as compared to 2014.
+Net interest expense was $53 million, $28 million and $11 million for the years ended December 31, 2016, 2015 and 2014, respectively.
+The increase in 2016 was primarily due to interest associated with debt assumed in the Stork acquisition and the €500 million of 1.750% Senior Notes issued in March 2016.
+Interest expense increased in 2015 compared to 2014 due to the issuance of $500 million of 3.5% Senior Notes in November 2014.
+43 Table of Contents 
+ Tax
+The effective tax rate on earnings from continuing operations was 40.1 percent, 33.8 percent and 29.3 percent for 2016, 2015 and 2014, respectively.
+Factors affecting the effective tax rates for 2014 - 2016 are discussed above under "— Results of Operations."
+Litigation and Matters in Dispute Resolution 
+ See Note 14 to the Consolidated Financial Statements.
+Liquidity and Financial Condition 
+ Liquidity is provided by available cash and cash equivalents and marketable securities, cash generated from operations, credit facilities and access to capital markets.
+The company has committed and uncommitted lines of credit, which may be used for revolving loans and letters of credit.
+The company believes that for at least the next 12 months, cash generated from operations, along with its unused credit capacity and substantial cash position, is sufficient to support operating requirements.
+However, the company regularly reviews its sources and uses of liquidity and may pursue opportunities to increase its liquidity position.
+The company's financial strategy and consistent performance have earned it strong credit ratings, resulting in competitive advantage and continued access to the capital markets.
+As of December 31, 2016, the company was in compliance with all of the financial covenants related to its debt agreements.
+Cash Flows 
+ Cash and cash equivalents were $1.9 billion as of both December 31, 2016 and 2015.
+Cash and cash equivalents combined with current and noncurrent marketable securities were $2.1 billion and $2.4 billion as of December 31, 2016 and 2015, respectively.
+Cash and cash equivalents are held in numerous accounts throughout the world to fund the company's global project execution activities.
+Non-U.S. cash and cash equivalents amounted to $1.0 billion and $1.3 billion as of December 31, 2016 and 2015, respectively.
+Non-U.S. cash and cash equivalents exclude deposits of U.S. legal entities that are either swept into overnight, offshore accounts or invested in offshore, short-term time deposits, to which there is unrestricted access.
+In evaluating its liquidity needs, the company considers cash and cash equivalents held by its consolidated VIEs (joint ventures and partnerships).
+These amounts (which totaled $440 million and $290 million as of December 31, 2016 and 2015, respectively, as reflected in the Consolidated Balance Sheet) were not necessarily readily available for general purposes.
+In its evaluation, the company also considers the extent to which the current balance of its advance billings on contracts (which totaled $764 million and $754 million as of December 31, 2016 and 2015, respectively, as reflected on the Consolidated Balance Sheet) is likely to be sustained or consumed over the near term for project execution activities and the cash flow requirements of its various foreign operations.
+In some cases, it may not be financially efficient to move cash and cash equivalents between countries due to statutory dividend limitations and/or adverse tax consequences.
+The company did not consider any cash to be permanently reinvested overseas as of December 31, 2016 and 2015 and, as a result, has accrued the U.S. deferred tax liability on foreign earnings, as appropriate.
+Operating Activities 
+ Cash flows from operating activities result primarily from earnings sources and are affected by changes in operating assets and liabilities which consist primarily of working capital balances for projects.
+Working capital levels vary from year to year and are primarily affected by the company's volume of work.
+These levels are also impacted by the mix, stage of completion and commercial terms of engineering and construction projects, as well as the company's execution of its projects within budget.
+Working capital requirements also vary by project and relate to clients in various industries and locations throughout the world.
+Most contracts require payments as the projects progress.
+The company evaluates the counterparty credit risk of third parties as part of its project risk review process.
+The company maintains adequate 44 Table of Contents reserves for potential credit losses and generally such losses have been minimal and within management's estimates.
+Additionally, certain projects receive advance payments from clients.
+A normal trend for these projects is to have higher cash balances during the initial phases of execution which then level out toward the end of the construction phase.
+As a result, the company's cash position is reduced as customer advances are utilized, unless they are replaced by advances on other projects.
+The company maintains cash reserves and borrowing facilities to provide additional working capital in the event that a project's net operating cash outflows exceed its available cash balances.
+During 2016, working capital decreased primarily due to an increase in accounts payable and a decrease in joint venture net working capital partially offset by increases in accounts receivable and contract work in progress.
+Specific factors related to these drivers include: • An increase in accounts payable in the Energy, Chemicals & Mining and Industrial, Infrastructure & Power segments which resulted from normal invoicing activities.
+• A decrease in the net working capital of a project joint venture in the Energy, Chemicals & Mining segment.
+• An increase in accounts receivable, primarily attributable to work performed for an Energy, Chemicals & Mining joint venture project in the United States.
+• An increase in contract work in progress in the Industrial, Infrastructure & Power segment, which resulted primarily from normal project execution activities for two nuclear projects.
+During 2015, working capital decreased primarily due to a decrease in accounts receivable and contract work in progress and an increase in advance billings partially offset by an increase in prepaid income taxes.
+Specific factors related to these drivers include: • A decrease in accounts receivable in the Energy, Chemicals & Mining segment, primarily related to collections for a coal bed methane gas project in Australia.
+• A decrease in contract work in progress in the Energy, Chemicals & Mining segment that resulted primarily from normal project execution activities.
+A significant contributor to the decrease in contract work in progress in the Energy, Chemicals & Mining segment was a major mine replacement project in Canada.
+• An increase in advance billings in the Energy, Chemicals & Mining segment which was the result of normal project execution activities for several projects including an upstream project in Russia.
+During 2014, working capital increased primarily due to an increase in accounts receivable and decreases in accounts payable and advance billings partially offset by a decrease in contract work in progress.
+Significant drivers of these fluctuations were: • An increase in accounts receivable in the Energy, Chemicals & Mining segment.
+The higher accounts receivable balance in 2014 resulted primarily from normal billing activities for various projects and was not indicative of any significant collection or liquidity issues.
+• A decrease in accounts payable in the Energy, Chemicals & Mining segment.
+The lower accounts payable balance in 2014 resulted primarily from normal invoicing and payment activities.
+A significant contributor to the decrease in accounts payable in the Energy, Chemicals & Mining segment was a major mine replacement project in Canada.
+• Decreases in advance billings in both the Industrial, Infrastructure & Power and Government segments which were the result of normal project execution activities for several projects including a gaseous diffusion plant project in Portsmouth, Ohio.
+• A decrease in contract work in progress in the Energy, Chemicals & Mining segment that resulted primarily from normal project execution activities.
+A significant contributor to the decrease in contract work in progress in the Energy, Chemicals & Mining segment was a coal bed methane gas project in Australia.
+45 Table of Contents 
+ Cash provided by operating activities was $706 million, $849 million and $643 million in 2016, 2015 and 2014, respectively.
+The decrease in cash provided by operating activities in 2016 resulted primarily from a decline in net working capital inflows compared to 2015 and a lower level of net earnings in 2016.
+The improvement in cash flows from operating activities in 2015 resulted from favorable year-over-year changes in working capital, partially offset by cash outflows totaling $316 million associated with discontinued operations as discussed below.
+Income tax payments were $165 million, $250 million and $228 million in 2016, 2015 and 2014, respectively.
+Cash from operating activities is used to provide contributions to the company's defined contribution and defined benefit pension plans.
+Contributions into the defined contribution plans during 2016, 2015 and 2014 were $167 million, $146 million and $150 million, respectively.
+The company contributed approximately $15 million, $58 million and $63 million into its defined benefit pension plans during 2016, 2015 and 2014, respectively.
+Company contributions to defined benefit pension plans during 2015 primarily related to additional funding to settle the U.S. plan.
+Company contributions to defined benefit pension plans were higher during 2014 in order to achieve targeted funding levels.
+Assuming no changes in current assumptions, the company expects to contribute up to $15 million in 2017 to its defined benefit pension plans, which is expected to be in excess of the minimum funding required.
+As of December 31, 2016, the accumulated benefit obligation exceeded plan assets for certain defined benefit pension plans in the Netherlands and Germany that the company assumed in the Stork acquisition.
+Plan assets exceeded the accumulated benefit obligation for each of the other non-U.S plans (including the company's legacy plan in the Netherlands) as of December 31, 2016.
+The accumulated benefit obligation exceeded plan assets for the company's legacy plan in the Netherlands as of December 31, 2015.
+Plan assets exceeded the accumulated benefit obligation for each of the other non-U.S plans as of December 31, 2015.
+In May 2014, NuScale entered into a cooperative agreement establishing the terms and conditions of a multi-year funding award totaling $217 million under the DOE's Small Modular Reactor Licensing Technical Support Program.
+NuScale expenses included in the determination of net earnings were $92 million, $80 million and $46 million during 2016, 2015 and 2014, respectively.
+NuScale expenses for 2016, 2015 and 2014 were reported net of qualified reimbursable expenses of $57 million, $65 million and $38 million, respectively.
+For further discussion of the cooperative agreement, see Note 1 to the Consolidated Financial Statements.
+During 2014, the company recorded a loss from discontinued operations in connection with the reassessment of estimated loss contingencies related to the previously divested lead business of St. Joe Minerals Corporation and The Doe Run Company in Herculaneum, Missouri.
+In October 2014, the company entered into a settlement agreement with counsel for a number of plaintiffs, and in January 2015, the company paid $306 million pursuant to the settlement agreement.
+See Note 2 to the Consolidated Financial Statements for further discussion of the matter.
+Investing Activities 
+ Cash utilized by investing activities amounted to $741 million, $67 million and $199 million during 2016, 2015 and 2014, respectively.
+The primary investing activities included purchases, sales and maturities of marketable securities; capital expenditures; disposals of property, plant and equipment; investments in and sales of partnerships and joint ventures; and business acquisitions.
+The company holds cash in bank deposits and marketable securities which are governed by the company's investment policy.
+This policy focuses on, in order of priority, the preservation of capital, maintenance of liquidity and maximization of yield.
+These investments include money market funds which invest in U.S.
+Government-related securities, bank deposits placed with highly-rated financial institutions, repurchase agreements that are fully collateralized by U.S.
+Government-related securities, high-grade commercial paper and high quality short-term and medium-term fixed income securities.
+During 2016, 2015 and 2014, proceeds from sales and maturities of marketable securities exceeded purchases of such securities by $162 million, $25 million and $9 million, respectively.
+The company held combined current 46 Table of Contents and noncurrent marketable securities of $255 million and $418 million as of December 31, 2016 and 2015, respectively.
+Capital expenditures of $236 million, $240 million and $325 million during 2016, 2015 and 2014, respectively, primarily related to construction equipment associated with equipment operations in the Maintenance, Modification & Asset Integrity segment, as well as expenditures for land, facilities and investments in information technology.
+Proceeds from the disposal of property, plant and equipment of $81 million, $94 million and $106 million during 2016, 2015 and 2014, respectively, primarily related to the disposal of construction equipment associated with the equipment operations in the Maintenance, Modification & Asset Integrity segment.
+During 2015, the company sold two office buildings located in California for net proceeds of $82 million and subsequently entered into a twelve year lease with the purchaser.
+The resulting gain on the sale of the property was approximately $58 million, of which $7 million was recognized during the fourth quarter of 2015 and $4 million was recognized during 2016.
+For both years, the gain was included in corporate general and administrative expense in the Consolidated Statement of Earnings.
+The remaining deferred gain of approximately $47 million will be amortized over the remaining life of the lease on a straight-line basis.
+During 2016, the company acquired 100 percent of Stork for an aggregate purchase price of €695 million (or approximately $756 million), including the assumption of debt and other liabilities.
+Stork, based in the Netherlands, is a global provider of maintenance, modification and asset integrity services associated with large existing industrial facilities in the oil and gas, chemicals, petrochemicals, industrial and power markets.
+The company paid €276 million (or approximately $300 million) in cash consideration.
+The company borrowed €200 million (or approximately $217 million) under its $1.7 billion Revolving Loan and Letter of Credit Facility, and paid €76 million (or approximately $83 million) of cash on hand to initially finance the Stork acquisition.
+The €200 million borrowed under the $1.7 billion Revolving Loan and Letter of Credit Facility was subsequently repaid from the net proceeds of the 2016 Notes as discussed in Note 8 to the Consolidated Financial Statements.
+During 2015, the company sold 50% of its ownership of Fluor S.A., its principal Spanish operating subsidiary, to Sacyr Industrial, S.L.U.
+for a cash purchase price of approximately $46 million, subject to certain purchase price adjustments.
+The company deconsolidated the subsidiary and recorded a pre-tax non-operating gain of $68 million during 2015, which was determined based on the proceeds received on the sale and the estimated fair value of the company's retained 50% noncontrolling interests, less the carrying value of the net assets associated with the former subsidiary.
+Investments in unconsolidated partnerships and joint ventures were $518 million, $91 million and $39 million in 2016, 2015 and 2014, respectively.
+Investments during 2016 included cash investments totaling $412 million in COOEC Fluor Heavy Industries Co., Ltd. ("CFHI"), a joint venture in which the company has a 49% ownership interest and Offshore Oil Engineering Co., Ltd., a subsidiary of China National Offshore Oil Corporation, has 51% ownership interest.
+Through CFHI, the two companies own, operate and manage the Zhuhai Fabrication Yard in China's Guangdong province.
+An additional investment of $78 million is expected to be made in September 2017.
+During 2014, the company sold its interest in two joint ventures in the Industrial, Infrastructure & Power segment for $44 million.
+The company had a 10 percent interest in both joint ventures and accounted for these investments using the equity method.
+Financing Activities 
+ Cash utilized by financing activities during 2016, 2015 and 2014 of $10 million, $728 million and $666 million, respectively, included company stock repurchases, company dividend payments to stockholders, proceeds from the issuance of senior notes, repayments of debt, borrowings and repayments under revolving lines of credit, and distributions paid to holders of noncontrolling interests.
+47 Table of Contents 
+ The company has a common stock repurchase program, authorized by the Board of Directors, to purchase shares in open market or privately negotiated transactions at the company's discretion.
+The company repurchased 202,650 shares, 10,104,988 shares and 13,331,402 shares of common stock under its current and previously authorized stock repurchase programs resulting in cash outflows of $10 million, $510 million and $906 million in 2016, 2015 and 2014, respectively.
+As of December 31, 2016, 11,610,219 shares could still be purchased under the existing stock repurchase program.
+Quarterly cash dividends are typically paid during the month following the quarter in which they are declared.
+Therefore, dividends declared in the fourth quarter of 2016 will be paid in the first quarter of 2017.
+Quarterly cash dividends of $0.21 per share were declared in 2016, 2015 and 2014.
+Dividends of $118 million, $125 million and $126 million, were paid during 2016, 2015 and 2014, respectively.
+The payment and level of future cash dividends is subject to the discretion of the company's Board of Directors.
+In March 2016, the company issued €500 million of 1.750% Senior Notes (the "2016 Notes") due March 21, 2023 and received proceeds of €497 million (or approximately $551 million), net of underwriting discounts.
+Interest on the 2016 Notes is payable annually on March 21 of each year, beginning on March 21, 2017.
+Prior to December 21, 2022, the company may redeem the 2016 Notes at a redemption price equal to 100 percent of the principal amount, plus a "make whole" premium described in the indenture.
+On or after December 21, 2022, the company may redeem the 2016 Notes at 100 percent of the principal amount plus accrued and unpaid interest, if any, to the date of redemption.
+Additionally, the company may redeem the 2016 Notes at any time upon the occurrence of certain changes in U.S. tax laws, as described in the indenture, at 100 percent of the principal amount plus accrued and unpaid interest, if any, to the date of redemption.
+In November 2014, the company issued $500 million of 3.5% Senior Notes (the "2014 Notes") due December 15, 2024 and received proceeds of $491 million, net of underwriting discounts.
+Interest on the 2014 Notes is payable semi-annually on June 15 and December 15 of each year, and began on June 15, 2015.
+Prior to September 15, 2024, the company may redeem the 2014 Notes at a redemption price equal to 100 percent of the principal amount, plus a "make whole" premium described in the indenture.
+On or after September 15, 2024, the company may redeem the 2014 Notes at 100 percent of the principal amount plus accrued and unpaid interest, if any, to the date of redemption.
+In September 2011, the company issued $500 million of 3.375% Senior Notes (the "2011 Notes") due September 15, 2021 and received proceeds of $492 million, net of underwriting discounts.
+Interest on the 2011 Notes is payable semi-annually on March 15 and September 15 of each year, and began on March 15, 2012.
+The company may, at any time, redeem the 2011 Notes at a redemption price equal to 100 percent of the principal amount, plus a "make whole" premium described in the indenture.
+For the 2016 Notes, the 2014 Notes and the 2011 Notes, if a change of control triggering event occurs, as defined by the terms of the respective indentures, the company will be required to offer to purchase applicable notes at a purchase price equal to 101 percent of their principal amount, plus accrued and unpaid interest, if any, to the date of redemption.
+The company is generally not limited under the indentures governing the 2016 Notes, the 2014 Notes and the 2011 Notes in its ability to incur additional indebtedness provided the company is in compliance with certain restrictive covenants, including restrictions on liens and restrictions on sale and leaseback transactions.
+In conjunction with the acquisition of Stork on March 1, 2016, the company assumed Stork's outstanding debt obligations, including its 11.0% Super Senior Notes due 2017 (the "Stork Notes"), borrowings under a €110 million Super Senior Revolving Credit Facility, and other debt obligations.
+On March 2, 2016, the company gave notice to all holders of the Stork Notes of the full redemption of the outstanding €273 million (or approximately $296 million) principal amount of Stork Notes plus a redemption premium of €7 million (or approximately $8 million) effective March 17, 2016.
+The redemption of the Stork Notes was initially funded with additional borrowings under the company's $1.7 billion Revolving Loan and Letter of Credit Facility, which borrowings were subsequently repaid from the net proceeds of the 2016 Notes.
+Certain other outstanding debt obligations assumed in the Stork acquisition of €20 million (or approximately $22 million) were settled in March 2016.
+In April 2016, the 48 Table of Contents company repaid and replaced the €110 million Super Senior Revolving Credit Facility with a €125 million Revolving Credit Facility that is available to fund working capital in the ordinary course of business.
+This replacement facility expires in April 2017 and bears interest at EURIBOR plus .75%.
+Outstanding borrowings under this facility amounted to €50 million (or approximately $53 million) as of December 31, 2016.
+In February 2004, the company issued $330 million of 1.5% Convertible Senior Notes (the "2004 Notes") due February 15, 2024 and received proceeds of $323 million, net of underwriting discounts.
+In December 2004, the company irrevocably elected to pay the principal amount of the 2004 Notes in cash.
+During 2014, holders converted less than $0.1 million of the 2004 Notes in exchange for the principal balance owed in cash plus 1,750 shares of the company's common stock.
+During the first half of 2015, holders converted $8 million of the 2004 Notes in exchange for the principal balance owed in cash plus 167,674 shares of the company's common stock at a conversion rate of 37.0997 shares per each $1,000 principal amount of the 2004 Notes.
+On May 7, 2015, the company redeemed the remaining $10 million of outstanding 2004 Notes at a redemption price equal to 100 percent of the principal amount plus accrued and unpaid interest up to (but excluding) May 7, 2015.
+Distributions paid to holders of noncontrolling interests represent cash outflows to partners of consolidated partnerships or joint ventures created primarily for the execution of single contracts or projects.
+Distributions paid were $58 million, $59 million and $138 million in 2016, 2015 and 2014, respectively.
+Distributions in 2016 primarily related to three transportation joint venture projects in the United States.
+Distributions in 2015 primarily related to two transportation joint venture projects in the United States and an iron ore joint venture project in Australia.
+Distributions in 2014 primarily related to two transportation joint venture projects in the United States and a mining joint venture project in Argentina.
+Capital contributions by joint venture partners were $9 million, $5 million and $3 million in 2016, 2015 and 2014, respectively.
+Effect of Exchange Rate Changes on Cash 
+ Unrealized translation gains and losses resulting from changes in functional currency exchange rates are reflected in the cumulative translation component of accumulated other comprehensive loss.
+During 2016, 2015 and 2014, most major foreign currencies weakened against the U.S. dollar resulting in unrealized translation losses of $103 million, $166 million and $197 million, respectively, of which $54 million, $98 million and $68 million, respectively, related to cash held by foreign subsidiaries.
+The cash held in foreign currencies will primarily be used for project-related expenditures in those currencies, and therefore the company's exposure to exchange gains and losses is generally mitigated.
+Off-Balance Sheet Arrangements 
+ As of December 31, 2016, the company had a combination of committed and uncommitted lines of credit that may be used for revolving loans and letters of credit.
+As of December 31, 2016, letters of credit and borrowings totaling $1.7 billion were outstanding under these committed and uncommitted lines of credit.
+The committed lines of credit include a $1.7 billion Revolving Loan and Letter of Credit Facility and a $1.8 billion Revolving Loan and Letter of Credit Facility.
+Both facilities mature in February 2021.
+The company may utilize up to $1.75 billion in the aggregate of the combined $3.5 billion committed lines of credit for revolving loans, which may be used for acquisitions and/or general purposes.
+Each of the credit facilities may be increased up to an additional $500 million subject to certain conditions, and contain customary financial and restrictive covenants, including a maximum ratio of consolidated debt to tangible net worth of one-to-one and a cap on the aggregate amount of debt of the greater of $750 million or €750 million for the company's subsidiaries.
+Borrowings under both facilities, which may be denominated in USD, EUR, GBP or CAD, bear interest at rates based on the Eurodollar Rate or an alternative base rate, plus an applicable borrowing margin.
+In connection with the Stork acquisition, the company assumed a €110 million Super Senior Revolving Credit Facility that bore interest at EURIBOR plus 3.75%.
+In April 2016, the company repaid and 49 Table of Contents replaced the €110 million Super Senior Revolving Credit Facility with a €125 million Revolving Credit Facility which may be used for revolving loans, bank guarantees, letters of credit and to fund working capital in the ordinary course of business.
+This replacement facility expires in April 2017 and bears interest at EURIBOR plus .75%.
+The €125 million Revolving Credit Facility was included in committed lines of credit as of December 31, 2016.
+Outstanding borrowings under this facility amounted to €50 million (or approximately $53 million) as of December 31, 2016. 
+ Letters of credit are provided in the ordinary course of business primarily to indemnify the company's clients if the company fails to perform its obligations under its contracts.
+Surety bonds may be used as an alternative to letters of credit.
+Guarantees, Inflation and Variable Interest Entities Guarantees 
+ In the ordinary course of business, the company enters into various agreements providing performance assurances and guarantees to clients on behalf of certain unconsolidated and consolidated partnerships, joint ventures and other jointly executed contracts.
+These agreements are entered into primarily to support the project execution commitments of these entities.
+The performance guarantees have various expiration dates ranging from mechanical completion of the project being constructed to a period extending beyond contract completion in certain circumstances.
+The maximum potential amount of future payments that the company could be required to make under outstanding performance guarantees, which represents the remaining cost of work to be performed by or on behalf of third parties under engineering and construction contracts, was estimated to be $16 billion as of December 31, 2016.
+Amounts that may be required to be paid in excess of estimated cost to complete contracts in progress are not estimable.
+For cost reimbursable contracts, amounts that may become payable pursuant to guarantee provisions are normally recoverable from the client for work performed under the contract.
+For lump-sum or fixed-price contracts, the performance guarantee amount is the cost to complete the contracted work, less amounts remaining to be billed to the client under the contract.
+Remaining billable amounts could be greater or less than the cost to complete.
+In those cases where costs exceed the remaining amounts payable under the contract, the company may have recourse to third parties, such as owners, co-venturers, subcontractors or vendors for claims.
+The company assessed its performance guarantee obligation as of December 31, 2016 and 2015 in accordance with ASC 460, "Guarantees," and the carrying value of the liability was not material.
+Financial guarantees, made in the ordinary course of business in certain limited circumstances, are entered into with financial institutions and other credit grantors and generally obligate the company to make payment in the event of a default by the borrower.
+These arrangements generally require the borrower to pledge collateral to support the fulfillment of the borrower's obligation.
+Inflation 
+ Although inflation and cost trends affect the company, its engineering and construction operations are generally protected by the ability to fix the company's cost at the time of bidding or to recover cost increases in cost reimbursable contracts.
+The company has taken actions to reduce its dependence on external economic conditions; however, management is unable to predict with certainty the amount and mix of future business.
+Variable Interest Entities 
+ In the normal course of business, the company forms partnerships or joint ventures primarily for the execution of single contracts or projects.
+The company evaluates each partnership and joint venture to determine whether the entity is a VIE.
+If the entity is determined to be a VIE, the company assesses whether it is the primary beneficiary and needs to consolidate the entity.
+For further discussion of the company's VIEs, see "Discussion of Critical Accounting Policies and Estimates" above and Note 16 to the Consolidated Financial Statements.
+50 Table of Contents Contractual Obligations 
+ Contractual obligations as of December 31, 2016 are summarized as follows: Payments Due by Period Contractual Obligations Total 1 year or less 2–3 years 4–5 years Over 5 years (in millions) Debt: 1.750% Senior Notes $ 524 $ — $ — $ — $ 524 3.375% Senior Notes 496 — — 496 — 3.5% Senior Notes 492 — — — 492 Revolving Credit Facility 53 53 — — — Other borrowings 35 29 6 — — Interest on debt obligations(1)
+
+ 277 47 86 81 63 Operating leases(2) 338 81 113 71 73 Capital leases 31 8 3 1 19 Uncertain tax positions(3) 9 — — — 9 Joint venture contributions 119 80 19 12 8 Pension minimum funding(4) 53 10 21 22 — Other post-employment benefits 16 3 5 4 4 Other compensation-related obligations(5) 439 89 108 91 151 Total 2,882 400 361 778 1,343 ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ (1)Interest is based on the borrowings that are presently outstanding and the timing of payments indicated in the above table.
+(2)Operating leases are primarily for engineering and project execution office facilities in Texas, California, the United Kingdom and various other U.S and international locations, equipment used in connection with long-term construction contracts and other personal property.
+(3)Uncertain tax positions taken or expected to be taken on an income tax return may result in additional payments to tax authorities.
+The total amount of the accrual for uncertain tax positions related to the company's effective tax rate is included in the "Over 5 years" column as the company is not able to reasonably estimate the timing of potential future payments.
+If a tax authority agrees with the tax position taken or expected to be taken or the applicable statute of limitations expires, then additional payments would not be necessary.
+(4)The company generally provides funding to its international pension plans to at least the minimum required by applicable regulations.
+In determining the minimum required funding, the company utilizes current actuarial assumptions and exchange rates to forecast estimates of amounts that may be payable for up to five years in the future.
+In management's judgment, minimum funding estimates beyond a five-year time horizon cannot be reliably estimated.
+Where minimum funding as determined for each individual plan would not achieve a funded status to the level of accumulated benefit obligations, additional discretionary funding may be provided from available cash resources.
+(5)Principally deferred executive compensation.
+Item 7A.
+Quantitative and Qualitative Disclosures about Market Risk 
+ Cash and marketable securities are deposited with major banks throughout the world.
+Such deposits are placed with high quality institutions and the amounts invested in any single institution are limited to the extent possible in order to minimize concentration of counterparty credit risk.
+Marketable securities consist of time deposits, registered money market funds, U.S. agency securities, U.S. Treasury securities, commercial paper, international government securities and corporate debt securities.
+The company has not incurred any credit risk losses related to deposits in cash and marketable securities.
+Certain of the company's contracts are subject to foreign currency risk.
+The company limits exposure to foreign currency fluctuations in most of its engineering and construction contracts through provisions that require client payments in currencies corresponding to the currency in which cost is incurred.
+As a result, the company generally does not need to hedge foreign currency cash flows for contract work 51 Table of Contents performed.
+However, in cases where revenue and expenses are not denominated in the same currency, the company may hedge its exposure, if material and if an efficient market exists, as discussed below.
+The company utilizes derivative instruments to mitigate certain financial exposures, including currency and commodity price risk associated with engineering and construction contracts, currency risk associated with monetary assets and liabilities denominated in nonfunctional currencies and risk associated with interest rate volatility.
+As of December 31, 2016, the company had total gross notional amounts of $1 billion of foreign currency contracts of less than three years duration (primarily related to the British Pound, Euro, Kuwaiti Dinar and South Korean Won) and total gross notional amounts of $2 million of commodity contracts of less than one year duration.
+The company's historical gains and losses associated with derivative instruments have typically been immaterial, and have largely mitigated the exposures being hedged.
+The company does not enter into derivative transactions for speculative purposes.
+The company's results reported by foreign subsidiaries with non-U.S. dollar functional currencies are also affected by foreign currency volatility.
+When the U.S. dollar appreciates against the non-U.S. dollar functional currencies of these subsidiaries, the company's reported revenue, cost and earnings, after translation into U.S. dollars, are lower than what they would have been had the U.S. dollar depreciated against the same foreign currencies or if there had been no change in the exchange rates.
+The company's long-term debt obligations typically carry a fixed-rate coupon, and therefore, its exposure to interest rate risk is not material.

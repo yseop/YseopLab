@@ -1,0 +1,74 @@
+T1	Fact 114 191	During the year ended December 31, 2020, the Company's revenues grew by 21.0%
+T2	Fact 200 356	organic growth of 19.0%, acquisitions of 1.8% and favorable foreign currency translation of 0.4%, partially offset by the disposition of a business of 0.2%.
+R1	Cause Cause:T2 Effect:T1	
+T3	Fact 1727 1852	During 2020, the Company recorded goodwill and other asset impairment charges of $462.1, $450.5 within DD and $11.6 within Dx
+T4	Fact 1869 1890	the COVID-19 pandemic
+R2	Cause Cause:T4 Effect:T3	
+T5	Fact 3001 3048	PAMA, which went into effect on January 1, 2018
+T6	Fact 3062 3212	a net reduction of revenue of approximately $72.0 and $107.0 in 2020 and 2019, respectively from all payers affected by the Clinical Lab Fee Schedule.
+R3	Cause Cause:T5 Effect:T6	
+T7	Remove 3608 3847	year ended December 31, 2019.Years ended December 31, 2020 and 2019Revenues Years Ended December 31,20202019ChangeDx$9,253.4 $7,000.1 32.2 %DD4,877.7 4,578.1 6.5 %Intercompany eliminations(152.6)(23.4)552.1 %Total$13,978.5 $11,554.8 21.0 %
+T8	Fact 3847 3965	The 21.0% increase in revenues for the year ended December 31, 2020, as compared with the corresponding period in 2019
+T9	Fact 3987 4143	organic growth of 19.0%, acquisitions of 1.8% and favorable foreign currency translation of 0.4%, partially offset by the disposition of a business of 0.2%.
+R4	Cause Cause:T9 Effect:T8	
+T10	Fact 4455 4603	Dx revenues for the year ended December 31, 2020, were $9,253.4, an increase of 32.2% over revenues of $7,000.1 in the corresponding period in 2019.
+T11	Fact 4604 4689	The increase in revenues was due to organic growth of 30.9% and acquisitions of 1.3%.
+R5	Cause Cause:T11 Effect:T10	
+T12	Fact 4690 4727	The 30.9% increase in organic revenue
+T13	Fact 4739 4896	a 39.8% contribution from COVID-19 Testing, partially offset by an 8.9% decline of the organic Base Business which includes a 1.0% negative impact from PAMA.
+R6	Cause Cause:T13 Effect:T12	
+T14	Fact 5179 5207	Price/mix increased by 24.4%
+T15	Fact 5215 5266	COVID-19 Testing of 18.6% and Base Business of 5.8%
+R7	Cause Cause:T15 Effect:T14	
+T16	Fact 5339 5486	DD revenues for the year ended December 31, 2020, were $4,877.7, an increase of 6.5% over revenues of $4,578.1 in the corresponding period in 2019.
+T17	Fact 5487 5686	The increase in revenues was due to the benefit of acquisitions of 2.6%, favorable foreign currency translation of 0.9% and organic growth of 3.5%, partially offset by a business disposition of 0.5%.
+R8	Cause Cause:T17 Effect:T16	
+T18	Fact 5687 5718	The increase in organic revenue
+T19	Fact 5743 5939	COVID-19 PCR testing through its Central Laboratories unit along with broad based demand including COVID-19 vaccine and therapeutic work, partially offset by the negative impact from the pandemic.
+R9	Cause Cause:T19 Effect:T18	
+T20	Fact 6259 6373	Cost of revenues (primarily laboratory, labor and distribution costs) increased 8.7% in 2020 as compared with 2019
+T21	Fact 6391 6423	organic growth and acquisitions.
+R10	Cause Cause:T21 Effect:T20	
+T22	Fact 6424 6525	Cost of revenues as a percentage of revenues decreased to 64.6% in 2020 as compared to 71.9% in 2019.
+T23	Fact 6526 6779	This decrease was primarily due to the impact of COVID-19 Testing on revenues and LaunchPad savings, partially offset by PAMA and higher personnel costs (primarily driven by merit increases and one additional payroll day that predominantly impacted Dx).
+R11	Cause Cause:T23 Effect:T22	
+T24	Fact 7353 7432	Cost of revenues has increased over the two-year period ended December 31, 2020
+T25	Fact 7451 7588	the impact of acquisitions, overall growth in the Company's volume, including COVID-19 Testing, and increases in merit-based labor costs.
+R12	Cause Cause:T25 Effect:T24	
+T26	Fact 7774 7900	Selling, general and administrative expenses as a percentage of revenues decreased to 12.4% in 2020 compared to 14.1% in 2019.
+T27	Fact 7901 8089	The decrease in selling, general and administrative expenses as a percentage of revenues is primarily due to the contribution of COVID-19 Testing on revenues and less acquisition activity.
+R13	Cause Cause:T27 Effect:T26	
+T28	Remove 7659 7773	20202019ChangeSelling, general and administrative expenses$1,729.3$1,624.56.5 %SG&A as a % of revenues12.4 %14.1 %
+T29	Fact 8556 8702	Excluding these charges, selling, general and administrative expenses as a percentage of revenues were 12.0% for the year ended December 31, 2020.
+T30	Fact 8703 9124	The decrease in selling, general and administrative expenses as a percentage of revenues is primarily due to leveraging the Company's infrastructure on higher revenue, partially offset by a $15.0 initial contribution to establish the Labcorp Charitable Foundation which supports the Company's strategic mission to improve health and improve lives with contributions focused on health and welfare, education and community.
+R14	Cause Cause:T30 Effect:T29	
+T31	Remove 10515 10535	$275.4 $243.2 13.2 %
+T32	Fact 12547 12628	The decrease in income for 2020 as compared with the corresponding period in 2019
+T33	Fact 12650 12760	the impairment of an equity method investment and the decreased profitability of the Company's joint ventures.
+R15	Cause Cause:T33 Effect:T32	
+T34	Remove 13883 14116	$2,634.9$1,086.0142.6 %Dx operating margin28.5 %15.5 %13.0 %DD operating income$37.3 $411.5 (90.9)%DD operating margin0.8 %9.0 %(8.2)%General corporate expenses$(226.8)$(167.3)35.6 %Total operating income$2,445.4$1,330.283.8 %52Index
+T35	Fact 14116 14352	Dx operating income was $2,634.9 for the year ended December 31, 2020, an increase of 142.6% over operating income of $1,086.0 in the corresponding period of 2019 and an increase of 1,300 basis points in operating margin year-over-year.
+T36	Fact 14353 14589	The increase in operating income and margin were primarily due to the increase in COVID-19 Testing and LaunchPad savings, partially offset by a reduction in Base Business (primarily due to the pandemic), higher personnel costs and PAMA.
+R16	Cause Cause:T36 Effect:T35	
+T37	Fact 14747 14970	operating income was $37.3 for the year ended December 31, 2020, a decrease of 90.9% from operating income of $411.5 in the corresponding period of 2019 and a decrease of 820 basis points in operating margin year-over-year.
+T38	Fact 14971 15230	The decrease in operating income and margin were primarily due to the negative impact of COVID-19, specifically goodwill and other asset impairment of $450.5, and higher personnel costs, partially offset by organic demand, acquisitions, and LaunchPad savings.
+R17	Cause Cause:T38 Effect:T37	
+T39	Fact 15545 15705	Corporate expenses were $226.8 for the year ended December 31, 2020, an increase of 35.6% over corporate expenses of $167.3 in the corresponding period of 2019.
+T40	Fact 15706 15906	The increase in corporate expenses in 2020 is primarily due to higher personnel costs, including executive transition costs, COVID-19 related expenses and funding of the Labcorp Charitable Foundation.
+R18	Cause Cause:T40 Effect:T39	
+T41	Fact 17475 17635	Cash Flows from Operating ActivitiesDuring the year ended December 31, 2020, the Company's operations provided $2,135.3 of cash as compared to $1,444.7 in 2019.
+T42	Fact 17636 17851	The $690.6 increase in cash provided from operations in 2020 as compared with the corresponding 2019 period was primarily due to higher cash earnings, partially offset by increased working capital to support growth.
+R19	Cause Cause:T42 Effect:T41	
+T43	Fact 18242 18466	Cash Flows from Investing ActivitiesNet cash used by investing activities for the year ended December 31, 2020 was $643.2 as compared to net cash used by investing activities of $1,283.1 for the year ended December 31, 2019.
+T44	Fact 18467 18653	The $639.9 decrease in net cash used by investing activities for the year ended December 31, 2020, was primarily due to a year over year decrease of $608.4 in cash paid for acquisitions.
+R20	Cause Cause:T44 Effect:T43	
+T45	Fact 18796 18901	Capital expenditures were $381.7 and $400.2 for the years ended December 31, 2020 and 2019, respectively.
+T46	Fact 18902 19126	Capital expenditures in 2020 were 2.7% of revenues, primarily in connection with projects to support growth in the Company's core businesses, projects related to LaunchPad, and further DD acquisition integration initiatives.
+R21	Cause Cause:T46 Effect:T45	
+T47	Fact 19919 20134	Cash Flows from Financing ActivitiesNet cash used in financing activities for the year ended December 31, 2020 was $517.4 compared to cash used in financing activities of $252.7 for the year ended December 31, 2019.
+T48	Fact 20135 20413	This movement in cash within financing activities for 2020, as compared to 2019, was primarily a result of $412.2 net financing payments and $100.0 in share repurchases in 2020 compared to $198.5 in net financing receipts more than offset by $450.0 in share repurchases in 2019.
+R22	Cause Cause:T48 Effect:T47	
+T49	Fact 50133 50200	Net pension cost for 2020 was $11.0 as compared with $13.8 in 2019.
+T50	Fact 50201 50304	The decrease in pension expense was due to market performance partially offset by lower discount rates.
+R23	Cause Cause:T50 Effect:T49	
+T51	Verified 0 7	Item 7.

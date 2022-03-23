@@ -1,0 +1,218 @@
+T1	Fact 12491 12765	The impairment reflected a downward revision of forecasted results due to the impact of the delayed and limited re-opening of schools and offices as a result of the COVID-19 global pandemic, as well as the continued deterioration in sales for slime-related adhesive products
+T2	Fact 12156 12489	In conjunction with the Company's annual impairment testing of goodwill and indefinite-lived intangible assets during the fourth quarter (on December 1), the Company recorded a non-cash impairment charge of $20 million associated with a tradename in the Learning and Development segment, as its carrying value exceeded its fair value
+R1	Cause Cause:T1 Effect:T2	
+T3	Fact 14445 14572	The United States Trade Representative (“USTR”) imposed increased tariffs on some Chinese goods imported into the United States
+T4	Fact 14587 14618	increased costs for the Company
+R2	Cause Cause:T3 Effect:T4	
+T5	Fact 18361 18431	The Company recorded a loss on extinguishment of 28debt of $20 million
+T6	Fact 18447 18473	the partial debt repayment
+R3	Cause Cause:T6 Effect:T5	
+T7	Fact 19322 19353	Net sales for 2020 decreased 3%
+T8	Fact 19362 19448	a decline in sales within Learning and Development and Outdoor and Recreation segments
+R4	Cause Cause:T8 Effect:T7	
+T9	Fact 19724 19857	The net sales decline was partially offset by growth in the Appliances and Cookware, Commercial Solutions and Home Solutions segments
+T10	Fact 19865 19919	an increase in demand, notably through online channels
+R5	Cause Cause:T10 Effect:T9	
+T11	Fact 20129 20153	The gross margin decline
+T12	Fact 20168 20372	higher costs associated with lower sales volume and certain temporary manufacturing closures, primarily during the first half of the year, as well as business unit mix and inflation related to input costs
+R6	Cause Cause:T12 Effect:T11	
+T13	Fact 20374 20401	The decline in gross margin
+T14	Fact 20417 20658	increased costs across most of its business units related to the COVID-19 pandemic, including increased employee costs, such as expanded benefits and frontline incentives, and other costs, such as procurement of personal protective equipment
+R7	Cause Cause:T14 Effect:T13	
+T15	Fact 20660 20775	The gross profit decline was partially offset by the cumulative depreciation expense recorded during the prior year
+T16	Fact 20792 20910	the Company’s decision to retain the Commercial Business, as well as gross productivity and lower product recall costs
+R8	Cause Cause:T16 Effect:T15	
+T17	Fact 23063 23080	facility closures
+T18	Fact 22863 23037	Restructuring-related costs reported in cost of products sold and selling, general and administrative expenses (“SG&A”) for 2020 were $4 million and $19 million, respectively
+R9	Cause Cause:T17 Effect:T18	
+T19	Remove 22473 22855	Years Ended December 31,(in millions)20202019$ ChangeImpairment of goodwill and intangible assets (See Footnote 7)$1,491 $1,213 $278 Restructuring and restructuring related (See Footnote 4) (a)44 82 (38)Held for sale depreciation and amortization catch-up adjustments (See Footnotes 6 and 7)— 57 (57)Product recall costs (See Footnote 18)2 20 (18)Transactions and related costs 4 30
+T20	Fact 23234 23299	accelerated depreciation associated with restructuring activities
+T21	Fact 23082 23194	Restructuring-related costs reported in cost of products sold and SG&A for 2019 were $16 million and $39 million
+R10	Cause Cause:T20 Effect:T21	
+T22	Fact 24096 24377	the Company’s decision to retain the Commercial Business, lower transaction and related costs associated with the completion of the Accelerated Transformation Plan (“ATP”) in the prior year and lower costs associated with a 2019 product recall in the Outdoor and Recreation segment
+T23	Fact 23776 24079	This performance was partially offset by productivity improvement from various initiatives, lower restructuring and restructuring-related charges, lower overhead costs and discretionary spending, including advertising and promotional costs, cumulative depreciation expense recorded during the prior year
+R11	Cause Cause:T22 Effect:T23	
+T24	Fact 24477 24517	Interest expense, net for 2020 decreased
+T25	Fact 24535 24648	lower debt levels, slightly offset by the higher rate as a result of previously disclosed debt ratings downgrades
+R12	Cause Cause:T25 Effect:T24	
+T26	Fact 24839 24940	The loss on the extinguishment of debt of $20 million and $28 million for 2020 and 2019, respectively
+T27	Fact 24957 25035	the Company’s tender offer of certain of its senior notes and debt redemptions
+R13	Cause Cause:T27 Effect:T26	
+T28	Remove 25197 25475	Years Ended December 31,(in millions)20202019Pension settlement and non-service costs, net (See Footnote 11)$53 $1 Foreign exchange losses, net (See Footnote 10)17 13 Fair value equity adjustments (See Footnote 16)— 21 Loss on disposition of businesses, net9 — Other(1)4 $78 $39
+T29	Fact 27108 27262	strong sales growth driven by category growth at stay at home products including cooking appliances, most notably in Latin America, the U.K. and Australia
+T30	Fact 27036 27091	Appliances and Cookware net sales for 2020 increased 1%
+R14	Cause Cause:T29 Effect:T30	
+T31	Remove 26743 27036	Years Ended December 31,(in millions)20202019$ Change% ChangeNet sales$1,706 $1,692 $14 0.8 %Operating loss(217)(535)318 59.4 %Operating margin(12.7)%(31.6)%Notable items impacting operating loss comparability:Impairment of goodwill and other intangible assets (See Footnote 7)$299 $600 $(301)
+T32	Fact 27624 27963	The improvement in operating results is primarily due to lower non-cash impairment charges of goodwill and certain indefinite-lived intangible assets as well as productivity improvements and lower discretionary spending including advertising and promotional costs, partially offset by transactional foreign exchange losses in Latin America
+T33	Fact 27537 27622	Operating loss for 2020 decreased to $217 million as compared to $535 million in 2019
+R15	Cause Cause:T32 Effect:T33	
+T34	Fact 28435 28552	sales growth in the Commercial business, partially offset by decline in the Connected Home and Security business unit
+T35	Fact 28366 28418	Commercial Solutions net sales for 2020 increased 4%
+R16	Cause Cause:T34 Effect:T35	
+T36	Remove 27964 28361	Commercial Solutions Years Ended December 31,(in millions)20202019$ Change% ChangeNet sales$1,859 $1,779 $80 4.5%Operating loss(85)(136)51 37.5%Operating margin(4.6)%(7.6)%Notable items impacting operating loss comparability:Impairment of goodwill and other intangible assets (See Footnote 7)$320 $310 $10 Held for sale depreciation and amortization catch-up adjustment (See Footnotes 6 and 7)— 57
+T37	Fact 28832 28905	The decline in net sales in the Connected Home and Security business unit
+T38	Fact 28928 29091	he ongoing COVID-19 pandemic, which shifted consumer purchasing patterns and caused supply chain constraints, impacting sales to its retail and contractor channels
+R17	Cause Cause:T38 Effect:T37	
+T39	Fact 29260 29472	The improvement in operating results is primarily due to the cumulative depreciation and amortization expense adjustment in the prior year, as a result of the Company’s decision to retain the Commercial Business.
+T40	Fact 29174 29258	Operating loss for 2020 decreased to $85 million as compared to $136 million in 2019
+R18	Cause Cause:T39 Effect:T40	
+T41	Fact 29473 29761	The improvement in the operating results also reflects cost containment initiatives to mitigate the impact of the COVID-19 pandemic while facilities were closed, including employee furloughs, gross productivity and lower discretionary spending, including advertising and promotional costs
+T42	Fact 30406 30582	Home Solutions net sales for 2020 increased 5%, as strong sales performance in the Food business unit was partially offset by sales declines in the Home Fragrance business unit
+T43	Remove 30125 30405	Years Ended December 31,(in millions)20202019$ Change% ChangeNet sales$1,971 $1,875 $96 5.1%Operating loss(12)(17)5 29.4%Operating margin(0.6)%(0.9)%Notable items impacting operating loss comparability:Impairment of goodwill and other intangible assets (See Footnote 7)290 158 132
+T44	Fact 30584 31043	The increase in Food business unit sales reflected increased demand across the vacuum sealing, fresh preserving and Rubbermaid Food Storage categories, as a result of the ongoing COVID-19 pandemic, partially offset by supply chain disruption related to the temporary closure of the since re-opened Sistema manufacturing facility in New Zealand, as well as supply and capacity constraints negatively affecting the fresh preserving and vacuum sealing categories
+R20	Cause Cause:T44 Effect:T42	
+T45	Fact 31045 31081	The decrease in Home Fragrance sales
+T46	Fact 31103 31437	the temporary closure of all of its North American Yankee Candle retail stores, supply chain disruptions resulting from the temporary closure of its key manufacturing facility in Massachusetts and the temporary closure of certain third-party retail stores in the first half of 2020 as a result of the ongoing COVID-19 global pandemic.
+R21	Cause Cause:T46 Effect:T45	
+T47	Fact 31502 31538	The decrease in Home Fragrance sales
+T48	Fact 31554 31688	the exit of 77 underperforming Yankee Candle retail stores as well as the exiting of its fundraising business in third quarter of 2020
+R22	Cause Cause:T48 Effect:T47	
+T49	Fact 31761 31844	Operating loss for 2020 decreased to $12 million as compared to $17 million in 2019
+T50	Fact 31846 32180	The decrease in operating loss reflects higher sales volume in the Food business unit, cost containment initiatives to mitigate the impact while Yankee Candle retail stores and operating facilities were temporarily closed, including employee furloughs, lower discretionary spending, including promotional costs, and gross productivity
+R23	Cause Cause:T50 Effect:T49	
+T51	Fact 32466 32754	Operating loss was also unfavorably impacted by higher costs associated with lower sales volume in the Home Fragrance business unit and the temporary closure of their key manufacturing facility in Massachusetts, during the first half of 2020, and non-cash impairment charges of $8 million
+T52	Fact 32776 32835	operating leases of its Yankee Candle retail store business
+R24	Cause Cause:T52 Effect:T51	
+T53	Fact 33158 33215	Learning and Development net sales for 2020 decreased 13%
+T54	Fact 33233 33521	the shift in consumer purchasing patterns, third-party retail store closures and supply chain disruptions affecting the Writing and Baby and Parenting business units as a result of the ongoing COVID-19 global pandemic, including the impact of the delayed re-opening of schools and offices
+R25	Cause Cause:T54 Effect:T53	
+T55	Remove 32862 33157	Years Ended December 31,(in millions)20202019$ Change% ChangeNet sales$2,557 $2,956 $(399)(13.5)%Operating income362 588 (226)(38.4)%Operating margin14.2 %19.9 %Notable items impacting operating income comparability:Impairment of goodwill and other intangible assets (See Footnote 7)$100 $25 $75
+T56	Fact 33658 33691	n addition, the net sales decline
+T57	Fact 33707 33912	softening trends related to sales of slime-related adhesive products, which is expected to continue in 2021, as well as the exiting of the North American distribution of Uniball® products in the prior year
+R26	Cause Cause:T57 Effect:T56	
+T58	Fact 34172 34577	Operating income was unfavorably impacted by lower sales as mentioned above, higher costs associated with lower sales volume and certain temporary manufacturing closures, higher non-cash impairment charges and increased costs associated with the COVID-19 global pandemic, partially offset by lower overhead, productivity improvements and discretionary spending, including advertising and promotional costs
+T59	Fact 34066 34170	Operating income for 2020 decreased to $362 million as compared to $588 million in the prior year period
+R27	Cause Cause:T58 Effect:T59	
+T60	Fact 34957 35019	Outdoor and Recreation segment net sales for 2020 decreased 9%
+T61	Fact 35037 35195	a shift in consumer purchasing patterns, as a result of the ongoing COVID-19 pandemic, which negatively impacted performance during the first half of the year
+R28	Cause Cause:T61 Effect:T60	
+T62	Remove 34601 34956	Years Ended December 31,(in millions)20202019$ Change% ChangeNet sales$1,292 $1,413 $(121)(8.6)%Operating loss(418)(64)(354)NMOperating margin(32.4)%(4.5)%Notable items impacting operating loss comparability:Impairment of goodwill and other intangible assets (See Footnote 7)$482 $120 $362 Product recall costs (See Footnote 18)2 20 (18)NM — Not meaningfu
+T63	Fact 35472 35564	Operating loss for 2020 was $418 million as compared to $64 million in the prior year period
+T64	Fact 35566 35971	This performance was primarily due to higher non-cash impairment charges of certain indefinite-lived intangibles assets, lower sales volume as noted above, unfavorable product mix, partially offset by lower overhead costs and lower discretionary spending, including advertising and promotional costs, as well as lower costs associated with a product recall in the prior year, and productivity improvements
+R29	Cause Cause:T64 Effect:T63	
+T65	Remove 36019 36735	Years Ended December 31,(in millions, except per share data)20192018$ Change% ChangeNet sales$9,715 $10,154 $(439)(4.3)%Gross profit3,219 3,518 (299)(8.5)%Gross margin33.1 %34.6 %Operating loss(482)(7,554)7,072 93.6%Operating margin(5.0)%(74.4)%Interest expense, net303 446 (143)(32.1)%Loss on extinguishment of debt28 4 24 NMOther (income) expense, net39 (12)51 NMLoss before income taxes(852)(7,992)7,140 89.3%Income tax benefit(1,038)(1,359)321 23.6%Income tax rate121.9 %17.0 %Diluted earnings (loss) per share - continuing operations$0.44 $(14.00)Diluted loss per share - discontinued operations(0.19)(0.65)Diluted earnings (loss) per share - attributable to common shareholders$0.25 $(14.65)NM — Not meaningful
+T66	Fact 37005 37120	Gross profit for 2019 decreased 8% and gross profit margin declined to 33.1% in 2019 as compared with 34.6% in 2018
+T67	Fact 37122 37234	This performance was primarily due to lower net sales, product mix, inflation related to input costs and tariffs
+R30	Cause Cause:T67 Effect:T66	
+T68	Fact 37236 37374	Gross profit and margin in 2019 were also unfavorably impacted by a cumulative catch-up adjustment for depreciation expense of $48 million
+T69	Fact 37386 37442	the Company’s decision to retain the Commercial Business
+R31	Cause Cause:T69 Effect:T68	
+T70	Fact 38836 38901	accelerated depreciation associated with restructuring activities
+T71	Fact 38684 38810	Restructuring-related costs reported in cost of products sold and SG&A for 2019 were $16 million and $39 million, respectively
+R32	Cause Cause:T70 Effect:T71	
+T72	Remove 38296 38577	Years Ended December 31,(in millions)20192018$ ChangeImpairment of intangible assets (See Footnote 7)$1,213 $8,296 $(7,083)Restructuring and restructuring related (See Footnote 4) (a)82 98 (16)Held for sale depreciation and amortization catch-up adjustments (See Footnotes 6 and 7)
+T73	Fact 39799 39916	the now completed ATP, and the lapping of a bad debt write off of $26 million from a large customer in the prior year
+T74	Fact 39635 39777	This performance also included overhead reduction driven by various initiatives, lower restructuring and restructuring-related charges in 2019
+R33	Cause Cause:T73 Effect:T74	
+T75	Fact 40122 40178	the Company’s decision to retain the Commercial Business
+T76	Fact 39918 40106	These decreases in operating loss and operating margin were partially offset by the cumulative catch-up adjustment for depreciation and amortization expense of $57 million recorded in 2019
+R34	Cause Cause:T75 Effect:T76	
+T77	Fact 40585 40625	Interest expense, net for 2019 decreased
+T78	Fact 40643 40660	lower debt levels
+R35	Cause Cause:T78 Effect:T77	
+T79	Fact 40763 40863	The loss on the extinguishment of debt of $28 million and $4 million for 2019 and 2018, respectively
+T80	Fact 40881 40959	the Company’s tender offer of certain of its senior notes and debt redemptions
+R36	Cause Cause:T80 Effect:T79	
+T81	Remove 41129 41373	Years Ended December 31,(in millions)20192018Foreign exchange losses, net (See Footnote 10)$13 $8 Fair value equity adjustments (See Footnote 16)21 1 Pension-related non-service costs, net (See Footnote 11)1 (6)Gain on legacy Jarden investment—
+T82	Fact 42068 42192	the pre-tax net loss for the year, partially offset by the impact of goodwill impairment charges which were not tax effected
+T83	Fact 42015 42046	The income tax benefit for 2018
+R37	Cause Cause:T82 Effect:T83	
+T84	Fact 42567 42622	Appliances and Cookware net sales for 2019 decreased 7%
+T85	Fact 42640 42782	a loss in domestic market share in North America for certain appliance categories driven by the success of newly launched competitive products
+R38	Cause Cause:T85 Effect:T84	
+T86	Remove 42193 42567	Business Segment Operating Results 2019 vs. 2018Appliances and Cookware Years Ended December 31,(in millions)20192018$ Change% ChangeNet sales$1,692 $1,819 $(127)(7.0)%Operating loss(535)(1,596)1,061 66.5%Operating margin(31.6)%(87.7)%Notable items impacting operating loss comparability:Impairment of goodwill and other intangible assets (See Footnote 7)600 1,712 (1,112)35
+T87	Fact 42784 42876	The net sales decline in North America was partially offset by sales growth in Latin America
+T88	Fact 42894 42907	higher volume
+R39	Cause Cause:T88 Effect:T87	
+T89	Fact 43946 43998	Commercial Solutions net sales for 2019 decreased 6%
+T90	Fact 44016 44249	lower sales in the Commercial business unit, in part due to volume declines at certain major retailers, and softness in the cleaning and outdoor organization categories, partially offset by effective net pricing in certain categories
+R40	Cause Cause:T90 Effect:T89	
+T91	Remove 43558 43945	Years Ended December 31,(in millions)20192018$ Change% ChangeNet sales$1,779 $1,900 $(121)(6.4)%Operating loss(136)(134)(2)(1.5)%Operating margin(7.6)%(7.1)%Notable items impacting operating loss comparability:Impairment of goodwill and other intangible assets (See Footnote 7)$310 $410 $(100)Held for sale depreciation and amortization catch-up adjustment (See Footnotes 6 and 7)57 — 57
+T92	Fact 44705 44903	This decrease in operating loss and operating margin also reflected productivity improvement in 2019 from various initiatives, partially offset by the unfavorable impact of lower sales and inflation
+T93	Fact 44425 44703	Operating loss included non-cash impairment charges of goodwill and certain indefinite-lived intangible assets of $310 million recorded in 2019 as compared to $410 million of non-cash impairment charges of goodwill and certain indefinite-lived intangible assets recorded in 2018
+R41	Cause Cause:T92 Effect:T93	
+T94	Fact 45085 45141	the Company’s decision to retain the Commercial Business
+T95	Fact 44905 45069	In addition, operating loss was unfavorably impacted by the cumulative catch-up adjustment for depreciation and amortization expense of $57 million recorded in 2019
+R42	Cause Cause:T94 Effect:T95	
+T96	Fact 45788 45834	Home Solutions net sales for 2019 decreased 3%
+T97	Fact 45852 46068	decline in the Food business unit, in part due to volume declines at certain major retailers and softness in the fresh preserving and food storage categories, partially offset by growth in sales from Sistema products
+R43	Cause Cause:T97 Effect:T96	
+T98	Remove 45487 45779	Years Ended December 31,(in millions)20192018$ Change% ChangeNet sales$1,875 $1,935 $(60)(3.1)%Operating loss(17)(4,270)4,253 99.6%Operating margin(0.9)%(220.7)%Notable items impacting operating loss comparability:Impairment of goodwill and other intangible assets (See Footnote 7)$158 $4,406
+T99	Fact 46070 46124	Net sales declined in the Home Fragrance business unit
+T100	Fact 46132 46230	the exit of 75 underperforming Yankee Candle 36retail stores, partially offset by growth in Europe
+R44	Cause Cause:T100 Effect:T99	
+T101	Fact 46329 46404	Operating loss for 2019 was $17 million as compared to $4.3 billion in 2018
+T102	Fact 46551 46677	This decrease in operating loss and operating margin was also impacted by lower overhead and advertising and promotional costs
+R45	Cause Cause:T102 Effect:T101	
+T103	Fact 47114 47170	Learning and Development net sales for 2019 decreased 1%
+T104	Fact 47172 47266	Changes in foreign currency exchange rates unfavorably impacted net sales by $43 million or 1%
+T105	Fact 47268 47481	The decrease in net sales was also driven by softening trends in the Writing business related to sales of slime-related adhesive products, partially offset by international net sales growth in the Writing business
+R46	Cause Cause:T104 Effect:T103	
+R47	Cause Cause:T105 Effect:T103	
+T106	Remove 46678 47114	Learning and Development Years Ended December 31,(in millions)20192018$ Change% ChangeNet sales$2,956 $2,982 $(26)(0.9)%Operating income588 238 350 NMOperating margin19.9 %8.0 %Notable items impacting operating income comparability:Impairment of goodwill and other intangible assets (See Footnote 7)$25 $351 $(326)Fire-related losses, net of insurance recoveries— (11)11 Bad debt write off for large customer— 26 (26)NM — Not meaningful
+T107	Fact 47482 47568	Operating income increased to $588 million in 2019 as compared to $238 million in 2018
+T108	Fact 47883 48230	The increase in operating income also included overhead reduction driven by various initiatives in the current year and the lapping of a bad debt write off from a large customer in the prior year, partially offset by higher advertising and promotion costs in the current year and net insurance recoveries from a fire-related loss in the prior year
+T109	Fact 47570 47617	Operating income and operating margins improved
+T110	Fact 47635 47881	lower non-cash impairment charges of certain indefinite-lived intangible assets of $25 million recorded in 2019 as compared to $351 million of non-cash impairment charges of goodwill and certain indefinite-lived intangible assets recorded in 2018
+R48	Cause Cause:T110 Effect:T109	
+R49	Cause Cause:T108 Effect:T107	
+T111	Fact 48604 48666	Outdoor and Recreation segment net sales for 2019 decreased 7%
+T112	Fact 48678 48870	lost distribution in certain product categories and unfavorable weather conditions affecting the Coleman business, partially offset by increased sales in airbeds and outdoor cooking categories
+R50	Cause Cause:T112 Effect:T111	
+T113	Remove 48254 48603	Years Ended December 31,(in millions)20192018$ Change% ChangeNet sales$1,413 $1,515 $(102)(6.7)%Operating loss(64)(1,293)1,229 95.1%Operating margin(4.5)%(85.3)%Notable items impacting operating loss comparability:Impairment of goodwill and other intangible assets (See Footnote 7)$120 $1,417 $(1,297)Product recall costs (See Footnote 18)$20 $— $20
+T114	Fact 49321 49416	The decrease in operating loss was also due to overhead reduction driven by various initiatives
+T115	Fact 48969 49052	Operating loss decreased to $64 million in 2019 as compared to $1.3 billion in 2018
+R51	Cause Cause:T114 Effect:T115	
+T116	Fact 53637 53801	the debt ratings downgrades by Moody’s Corporation ("Moody’s") and S&P Global Inc. ("S&P") described in Footnote 9 of the Notes to Consolidated Financial Statements
+T117	Fact 53803 53924	the Company’s ability to borrow from the commercial paper market on terms it deems acceptable or favorable was eliminated
+R52	Cause Cause:T116 Effect:T117	
+T118	Fact 53305 53415	The Company tends to generate the majority of its operating cash flow in third and fourth quarters of the year
+T119	Fact 53423 53594	seasonal variations in operating results, the timing of annual performance-based compensation payments, working capital requirements and credit terms provided to customers
+R53	Cause Cause:T119 Effect:T118	
+T120	Remove 52468 53298	Increase (Decrease)Continuing Operations20202019201820202019Cash provided by operating activities$1,432 $1,090 $557 $342 $533 Cash used in investing activities(228)(242)(208)14 (34)Cash used in financing activities(559)(972)(321)413 (651)Discontinued OperationsCash provided by (used in) operating activities$— $(46)$123 $46 $(169)Cash provided by investing activities— 978 5,015 (978)(4,037)Cash used in financing activities— (932)(5,133)932 4,201 Total CompanyCash provided by operating activities$1,432 $1,044 $680 $388 $364 Cash provided by (used in) investing activities(228)736 4,807 (964)(4,071)Cash used in financing activities(559)(1,904)(5,454)1,345 3,550 Exchange rate effect on cash, cash equivalents and restricted cash5 (1)(23)6 22 Increase (decrease) in cash, cash equivalents and restricted cash$650 $(125)$10 $775
+T121	Fact 55158 55225	the downgrades from S&P and Moody's, for a total of 50 basis points
+T122	Fact 54956 55142	In addition, certain of the Company’s Senior Notes aggregating to approximately $4.3 billion in principal amount outstanding are subject to an interest rate adjustment of 25 basis points
+R54	Cause Cause:T121 Effect:T122	
+T123	Fact 55796 55851	The change in net cash provided by operating activities
+T124	Fact 55872 56118	successful working capital initiatives, which included: the extension of payment terms for goods and services with vendors, enhanced customer credit review and collections processes and evaluating supply purchases and focused inventory management
+R55	Cause Cause:T124 Effect:T123	
+T125	Fact 56120 56306	In addition, net cash from operating activities benefited from higher accounts receivable sold under the Customer Receivables Purchase Agreement and a timing benefit from higher payables
+T126	Fact 56314 56395	inventory build to support demand, which is expected to partially reverse in 2021
+R56	Cause Cause:T126 Effect:T125	
+T127	Fact 56510 56601	The change in net cash provided by operating activities from continuing operations for 2019
+T128	Fact 56622 56736	favorable working capital management as a result of the Company’s continued focus on improving its working capital
+R57	Cause Cause:T128 Effect:T127	
+T129	Fact 56738 56775	Accounts receivable decreased in 2019
+T130	Fact 56783 56957	better terms compliance as a result of improvements in the Company’s dispute resolution process and accounts receivable sold under the Customer Receivables Purchase Agreement
+R58	Cause Cause:T130 Effect:T129	
+T131	Fact 57198 57254	The change in cash used in investing activities for 2020
+T132	Fact 57276 57394	higher proceeds from the sale of divested businesses in the prior year, partially offset by lower capital expenditures
+R59	Cause Cause:T132 Effect:T131	
+T133	Fact 57396 57452	The change in cash used in investing activities for 2019
+T134	Fact 57474 57763	higher proceeds from the sale of divested businesses in 2018, cash received by the Company in 2018 for insurance claims, which include a claim from fire-related losses and settlement of a note receivable related to a legacy Jarden investment, partially offset by lower capital expenditures
+R60	Cause Cause:T134 Effect:T133	
+T135	Fact 57800 57851	The change in net cash used in financing activities
+T136	Fact 57873 58015	higher payments of long-term debt in the prior year, as well as current-year proceeds from the issuance of the June 2025 Notes (defined below)
+R61	Cause Cause:T136 Effect:T135	
+T137	Fact 58107 58150	The change in financing activities for 2019
+T138	Fact 58172 58436	the year-over-year change in debt (approximately $2.2 billion) and a decrease in shares repurchased (approximately $1.5 billion), partially offset by payments to dissenting shareholders in 2019 (approximately $171 million) in connection with the Jarden acquisition
+R62	Cause Cause:T138 Effect:T137	
+T139	Fact 58761 58792	the partial debt extinguishment
+T140	Fact 58794 58833	the Company recorded an immaterial loss
+R63	Cause Cause:T139 Effect:T140	
+T141	Fact 60441 60509	The Company recorded a loss on extinguishment of debt of $20 million
+T142	Fact 60525 60967	the partial debt repayment.On January 25, 2021, the Company delivered a notice of redemption to the holders of the 3.150% senior notes that will mature in April 2021 (the “April 2021 Notes”) that the Company will redeem the April 2021 Notes on March 1, 2021 (the “Redemption Date”) for a redemption price equal to 100% of the current outstanding aggregate principal amount of the notes, plus accrued and unpaid interest to the Redemption Date
+T143	Fact 61283 61313	the S&P and Moody's downgrades
+T144	Fact 61315 61424	the Company could no longer borrow from the commercial paper market on terms it deems acceptable or favorable
+R64	Cause Cause:T143 Effect:T144	
+R65	Cause Cause:T142 Effect:T141	
+T145	Remove 68948 69227	Asset(Liability)Derivatives designated as effective hedges:Cash flow hedges:Foreign currency contracts$(18)Fair value hedges:Interest rate swaps7 Net investment hedges:Cross-currency swaps(92)Derivatives not designated as effective hedges:Foreign currency contracts(7)Total$(110)
+T146	Remove 70182 70478	(in millions)Total1 year2-3 years4-5 yearsAfter 5 yearsDebt (1)$5,633 $465 $1,348 $748 $3,072 Interest on debt (2)2,216 270 470 353 1,123 Lease obligations (3)709 159 241 141 168 Purchase obligations (4)347 248 74 21 4 Tax obligations (5)107 11 33 63 — Total (6)$9,012 $1,153 $2,166 $1,326 $4,367
+T147	Fact 73239 73331	At December 31, 2020, the Company had approximately $51 million in standby letters of credit
+T148	Fact 73353 73454	the Company’s self-insurance programs, including workers’ compensation, product liability and medical
+R66	Cause Cause:T148 Effect:T147	
+T149	Fact 84099 84165	The impairment reflected a downward revision of forecasted results
+T150	Fact 84173 84373	the impact of the delayed and limited re-opening of schools and offices as a result of the COVID-19 global pandemic, as well as the continued deterioration in sales for slime-related adhesive products
+R67	Cause Cause:T150 Effect:T149	
+T151	Verified 0 6	ITEM 7
+R19	Cause Cause:T41 Effect:T39	
