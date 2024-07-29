@@ -12,3 +12,5 @@ The difference between the two datasets:
 `data.ipynb`: annotation errors due to quotes
 
 `exp1.ipyb`: sentiment analysis
+
+`exp2.ipyb`: test data augmentation on classification task 
