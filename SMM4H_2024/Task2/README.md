@@ -7,3 +7,4 @@ Yseop participated in
 ## Training Data
 
 * `data-check.ipynb`: check for annotation errors
+* `tokenize.ipynb`: error introduced by the tokenizer
